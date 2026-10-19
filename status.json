@@ -1,0 +1,175 @@
+{
+  "country": "de",
+  "identifier": "GenG",
+  "title": "Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften",
+  "stage": "drafted_technical_validation",
+  "authoring_started_at": "2026-10-19T15:07:18+00:00",
+  "completed_at": "2026-10-19T15:37:23.456730+00:00",
+  "decisive_date": "2026-10-19",
+  "work": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GENG-1889",
+  "output": "/Volumes/LaCie/open-commentary/de/Komentar-DE-GENG-1889",
+  "source_checks": {
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verification": "sources/verification.json",
+    "raw_xml": "sources/geng.xml",
+    "raw_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "http_results": [
+      {
+        "url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+        "http_status": 200,
+        "file": "geng-xml.zip"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/geng/",
+        "http_status": 200,
+        "file": "geng-index.html"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+        "http_status": 200,
+        "file": "geng-full.html"
+      },
+      {
+        "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+        "http_status": 200,
+        "file": "beg4.pdf"
+      },
+      {
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301052018.zip",
+        "http_status": 200,
+        "file": "case-KORE301052018.zip"
+      },
+      {
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE707802024.zip",
+        "http_status": 200,
+        "file": "case-KORE707802024.zip"
+      },
+      {
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE315172013.zip",
+        "http_status": 200,
+        "file": "case-KORE315172013.zip"
+      },
+      {
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE100071345.zip",
+        "http_status": 200,
+        "file": "case-JURE100071345.zip"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+        "http_status": 200,
+        "file": "external/bgb.zip"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+        "http_status": 200,
+        "file": "external/hgb.zip"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/inso/xml.zip",
+        "http_status": 200,
+        "file": "external/inso.zip"
+      },
+      {
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/ii_zr_119-24.pdf",
+        "http_status": 200,
+        "file": "case-II-ZR-119-24.pdf"
+      },
+      {
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE728222025.zip",
+        "http_status": 200,
+        "file": "case-KORE728222025.zip"
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+        "http_status": 200,
+        "file": "urhg-5.html"
+      },
+      {
+        "url": "https://infocuria.curia.europa.eu/tabs/affair?lang=EN&searchTerm=%22C-776%2F25%22&publishedId=C-776%2F25&logicDocId=",
+        "http_status": 200,
+        "file": "research/curia-c776-25.json"
+      },
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CN0776",
+        "http_status": 200,
+        "file": "research/eurlex-c776-25.json"
+      }
+    ],
+    "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+    "last_amendment_effective_from": "2025-01-01",
+    "commencement_verified_in": "BGBl. 2024 I Nr. 323, Art. 74 Abs. 1; Seiten 34–35",
+    "intake_comparison": "sources/change-map.json",
+    "changed_units_since_intake": 0
+  },
+  "total_units": 199,
+  "completed_units": 199,
+  "individual_statutory_slots": 252,
+  "chapters": 11,
+  "commentary_batches": 14,
+  "commentary_chars": 211782,
+  "case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "20180515",
+      "docket": "II ZR 2/16",
+      "doknr": "KORE301052018",
+      "full_text_read": true
+    },
+    {
+      "court": "BGH",
+      "date": "20241015",
+      "docket": "XI ZR 50/23",
+      "doknr": "KORE707802024",
+      "full_text_read": true
+    },
+    {
+      "court": "BGH",
+      "date": "20100920",
+      "docket": "II ZR 17/09",
+      "doknr": "JURE100071345",
+      "full_text_read": true
+    },
+    {
+      "court": "BGH",
+      "date": "20251021",
+      "docket": "II ZR 119/24",
+      "doknr": "KORE728222025",
+      "full_text_read": true
+    }
+  ],
+  "case_law_search_log": "sources/search-log.json",
+  "pending_preliminary_reference": {
+    "case": "C-776/25",
+    "verified_status": "Pending",
+    "source": "sources/research/curia-c776-25.json"
+  },
+  "validation": {
+    "repo": "Komentar-DE-GENG-1889",
+    "units": 199,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 211782,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "technical_checks": {
+    "ok": true,
+    "local_links_checked": 80,
+    "broken_links": [],
+    "official_xml_vs_html_mismatches": [],
+    "repeated_long_paragraphs": 0
+  },
+  "completeness": "completeness.json",
+  "independent_second_pass": {
+    "performed": false,
+    "state": "Ausstehende unabhängige Inhaltsprüfung durch einen frischen Prozess."
+  },
+  "unresolved_blockers": [],
+  "remaining_limitations": [
+    "Selektive, nicht erschöpfende Rechtsprechungsrecherche; kein flächendeckender Einzelentscheidungsnachweis für technische Normen.",
+    "C-776/25 war beim amtlichen Stichtagsabruf anhängig; keine abschließende EuGH-Antwort behauptet.",
+    "Kein vollständiger historischer Parallelkommentar zu allen extern verwiesenen Gesetzesfassungen.",
+    "Entwurf ohne unabhängige Zweitprüfung oder externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt."
+  ],
+  "publication_or_external_writes": false
+}
