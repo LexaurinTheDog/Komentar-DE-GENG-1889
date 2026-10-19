@@ -1,0 +1,1403 @@
+{
+  "intake_path": "sources/intake-20261001.md",
+  "intake_sha256": "ff080cf25f275ee79900005196c46be80bc7f8b242001863db0bdddeef86bf3b",
+  "official_xml": "sources/geng.xml",
+  "authoring_date": "2026-10-19",
+  "comparison": "Unit text comparison; whitespace normalized; official notes separately preserved in XML and units.jsonl.",
+  "units": [
+    {
+      "id": "p1",
+      "official_label": "§ 1",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "78af02103bdd725cc08339f349bf545beac7d075f2295ac28b9448d1b8cef8ea",
+      "current_text_sha256": "78af02103bdd725cc08339f349bf545beac7d075f2295ac28b9448d1b8cef8ea"
+    },
+    {
+      "id": "p2",
+      "official_label": "§ 2",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "260565db6e43924eb87eb3342093031d0cefdde5180405635aadf8330ae94d19",
+      "current_text_sha256": "260565db6e43924eb87eb3342093031d0cefdde5180405635aadf8330ae94d19"
+    },
+    {
+      "id": "p3",
+      "official_label": "§ 3",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8e13483113c9cdf598ea39a485dd5024cdd675b0c7bfb4f6512094a57f1723e3",
+      "current_text_sha256": "8e13483113c9cdf598ea39a485dd5024cdd675b0c7bfb4f6512094a57f1723e3"
+    },
+    {
+      "id": "p4",
+      "official_label": "§ 4",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "345afde321d20aff95a89afdb1d20bd8f09c8b0c26933e17c24a92b19202057f",
+      "current_text_sha256": "345afde321d20aff95a89afdb1d20bd8f09c8b0c26933e17c24a92b19202057f"
+    },
+    {
+      "id": "p5",
+      "official_label": "§ 5",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "88241a77c9c9fc21c4213a6b5678743e2bbbf70e3e7929845dd7f91a6b18f329",
+      "current_text_sha256": "88241a77c9c9fc21c4213a6b5678743e2bbbf70e3e7929845dd7f91a6b18f329"
+    },
+    {
+      "id": "p6",
+      "official_label": "§ 6",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f184677c558b1f4a1a38bababab79b4aa55184172b139d5025d133fa802553ee",
+      "current_text_sha256": "f184677c558b1f4a1a38bababab79b4aa55184172b139d5025d133fa802553ee"
+    },
+    {
+      "id": "p7",
+      "official_label": "§ 7",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "e4a5c88dc27ad4ad67c6dc9a3e543ff3ce68887da399dda6a1dc396cbd75a701",
+      "current_text_sha256": "e4a5c88dc27ad4ad67c6dc9a3e543ff3ce68887da399dda6a1dc396cbd75a701"
+    },
+    {
+      "id": "p7a",
+      "official_label": "§ 7a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "71afc3764887f11af2c684672a1d6e45b197a86ba23aa275da320e5740641efa",
+      "current_text_sha256": "71afc3764887f11af2c684672a1d6e45b197a86ba23aa275da320e5740641efa"
+    },
+    {
+      "id": "p8",
+      "official_label": "§ 8",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "5234c2d1beaea9c9d4beaa3e74d880e0421c62e4d52e93dda1b30e5f0b0f29a4",
+      "current_text_sha256": "5234c2d1beaea9c9d4beaa3e74d880e0421c62e4d52e93dda1b30e5f0b0f29a4"
+    },
+    {
+      "id": "p8a",
+      "official_label": "§ 8a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "e32f6a747f4f926c0c141d5e0406b7dd7013f3ec98284bfe85fbe6fa01ddea0d",
+      "current_text_sha256": "e32f6a747f4f926c0c141d5e0406b7dd7013f3ec98284bfe85fbe6fa01ddea0d"
+    },
+    {
+      "id": "p9",
+      "official_label": "§ 9",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c9e7a3b1897da3d111d0381cd342cd9a0c621204514004d462a058035305459d",
+      "current_text_sha256": "c9e7a3b1897da3d111d0381cd342cd9a0c621204514004d462a058035305459d"
+    },
+    {
+      "id": "p10",
+      "official_label": "§ 10",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ed8f9a80a6d26809e0fdaf04c9a3cb2d30f0ec3be889ded759590401d56cb9dc",
+      "current_text_sha256": "ed8f9a80a6d26809e0fdaf04c9a3cb2d30f0ec3be889ded759590401d56cb9dc"
+    },
+    {
+      "id": "p11",
+      "official_label": "§ 11",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ccb8dad599c9ac262635a8d8abea6562db5ef3c17e3b5e5027a82c4cef687d0a",
+      "current_text_sha256": "ccb8dad599c9ac262635a8d8abea6562db5ef3c17e3b5e5027a82c4cef687d0a"
+    },
+    {
+      "id": "p11a",
+      "official_label": "§ 11a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "25c3e7b33c51fd256885faf56fbeb400762555fc860edcdec44f0d973e1bb584",
+      "current_text_sha256": "25c3e7b33c51fd256885faf56fbeb400762555fc860edcdec44f0d973e1bb584"
+    },
+    {
+      "id": "p12",
+      "official_label": "§ 12",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f4fe687d62508ffbe422c8eb362c6747ebe44806164dca65141512faae539cc9",
+      "current_text_sha256": "f4fe687d62508ffbe422c8eb362c6747ebe44806164dca65141512faae539cc9"
+    },
+    {
+      "id": "p13",
+      "official_label": "§ 13",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "125c49ddd267475d250ce178865bdd294478a8bada3c6b335420da3b86cec3bc",
+      "current_text_sha256": "125c49ddd267475d250ce178865bdd294478a8bada3c6b335420da3b86cec3bc"
+    },
+    {
+      "id": "p14",
+      "official_label": "§ 14",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8a3cc44abe499a8f71af85c4c95d3237017535fe5e510964c84149ccbff24438",
+      "current_text_sha256": "8a3cc44abe499a8f71af85c4c95d3237017535fe5e510964c84149ccbff24438"
+    },
+    {
+      "id": "p14a",
+      "official_label": "§ 14a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p15",
+      "official_label": "§ 15",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "141ce17255e9cf9ea1d9cfa4b0e59ef6118ec2edad5cb691027815ec52fbb5bf",
+      "current_text_sha256": "141ce17255e9cf9ea1d9cfa4b0e59ef6118ec2edad5cb691027815ec52fbb5bf"
+    },
+    {
+      "id": "p15a",
+      "official_label": "§ 15a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "a0a4c2c617ea9a45dfbced17cf8216a39eb86d7c1c15710e8d20e25487832f72",
+      "current_text_sha256": "a0a4c2c617ea9a45dfbced17cf8216a39eb86d7c1c15710e8d20e25487832f72"
+    },
+    {
+      "id": "p15b",
+      "official_label": "§ 15b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "89cede0cc5b93085c6d631f1d9aeeda1f7a91927acf216c68a333d4a2a309a57",
+      "current_text_sha256": "89cede0cc5b93085c6d631f1d9aeeda1f7a91927acf216c68a333d4a2a309a57"
+    },
+    {
+      "id": "p16",
+      "official_label": "§ 16",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "38aa1ab1990dd8577fd713e9d5e51cfbe71136a83fa2ab3405bc1ecf86517efb",
+      "current_text_sha256": "38aa1ab1990dd8577fd713e9d5e51cfbe71136a83fa2ab3405bc1ecf86517efb"
+    },
+    {
+      "id": "p17",
+      "official_label": "§ 17",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f06aff2f14a4bb2ba9ef9f4ec13d562b9e0f5d96f816e5f4b44315218b260688",
+      "current_text_sha256": "f06aff2f14a4bb2ba9ef9f4ec13d562b9e0f5d96f816e5f4b44315218b260688"
+    },
+    {
+      "id": "p18",
+      "official_label": "§ 18",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "5bf77003aed85f0a2b4464e1ac7370558c27b97d6020c5edc3288da3ed91337b",
+      "current_text_sha256": "5bf77003aed85f0a2b4464e1ac7370558c27b97d6020c5edc3288da3ed91337b"
+    },
+    {
+      "id": "p19",
+      "official_label": "§ 19",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7c5a1cfd306816f37cfd979167ef8f2ed45ba5fd1d4189fba610569ef693226c",
+      "current_text_sha256": "7c5a1cfd306816f37cfd979167ef8f2ed45ba5fd1d4189fba610569ef693226c"
+    },
+    {
+      "id": "p20",
+      "official_label": "§ 20",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "82c95766ce7b2b73e61c1d93e554c5e56a62bce01c4b69dfe8144ee9ff007658",
+      "current_text_sha256": "82c95766ce7b2b73e61c1d93e554c5e56a62bce01c4b69dfe8144ee9ff007658"
+    },
+    {
+      "id": "p21",
+      "official_label": "§ 21",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "4043303e13c34f75a37013853445bcb37796511fbc41db7c5c0d11281f799c89",
+      "current_text_sha256": "4043303e13c34f75a37013853445bcb37796511fbc41db7c5c0d11281f799c89"
+    },
+    {
+      "id": "p21a",
+      "official_label": "§ 21a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "cb1e960538b653408efeea2a6b4e2e094935923fc2638dbea9d0e120f88d5305",
+      "current_text_sha256": "cb1e960538b653408efeea2a6b4e2e094935923fc2638dbea9d0e120f88d5305"
+    },
+    {
+      "id": "p21b",
+      "official_label": "§ 21b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7337f180a8e83ff6c420ac1fd4c357c6fb048870e866063ea64b17add3643992",
+      "current_text_sha256": "7337f180a8e83ff6c420ac1fd4c357c6fb048870e866063ea64b17add3643992"
+    },
+    {
+      "id": "p22",
+      "official_label": "§ 22",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "0d7a28640649f22c5ff8918edf364c5449f972de9f759e65885f3600477016c3",
+      "current_text_sha256": "0d7a28640649f22c5ff8918edf364c5449f972de9f759e65885f3600477016c3"
+    },
+    {
+      "id": "p22a",
+      "official_label": "§ 22a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "b6e75320ad3511c3817de521288a7126e9c9af4e8d371b2eae56b2347ec2e9b5",
+      "current_text_sha256": "b6e75320ad3511c3817de521288a7126e9c9af4e8d371b2eae56b2347ec2e9b5"
+    },
+    {
+      "id": "p22b",
+      "official_label": "§ 22b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "516b7b84d61515e5b3a7cfe82be4bba59db2139f66a301639f4400f4fa3aeb50",
+      "current_text_sha256": "516b7b84d61515e5b3a7cfe82be4bba59db2139f66a301639f4400f4fa3aeb50"
+    },
+    {
+      "id": "p23",
+      "official_label": "§ 23",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "17bc7bd70aad345b872859db5ba6509f0af91fb423b655ad547d85125abf6449",
+      "current_text_sha256": "17bc7bd70aad345b872859db5ba6509f0af91fb423b655ad547d85125abf6449"
+    },
+    {
+      "id": "p24",
+      "official_label": "§ 24",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "e9eeb796623a45c1080c3b142b8dfc1dbdd320911fd919f15686af07c656f993",
+      "current_text_sha256": "e9eeb796623a45c1080c3b142b8dfc1dbdd320911fd919f15686af07c656f993"
+    },
+    {
+      "id": "p25",
+      "official_label": "§ 25",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "707a36c6c122d87c5eeb4b451e5287488d617d9a81937ec759c332b9522ef9fc",
+      "current_text_sha256": "707a36c6c122d87c5eeb4b451e5287488d617d9a81937ec759c332b9522ef9fc"
+    },
+    {
+      "id": "p25a",
+      "official_label": "§ 25a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "45e7e6dc744e4a3c714a141d70ac656e7ae74ee96154d0c51b2a51c7945a7ca2",
+      "current_text_sha256": "45e7e6dc744e4a3c714a141d70ac656e7ae74ee96154d0c51b2a51c7945a7ca2"
+    },
+    {
+      "id": "p26",
+      "official_label": "§ 26",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c0299136488ab7b852bb69c5ff2394995ed2aecf4b4c94469e21133b2202eeb8",
+      "current_text_sha256": "c0299136488ab7b852bb69c5ff2394995ed2aecf4b4c94469e21133b2202eeb8"
+    },
+    {
+      "id": "p27",
+      "official_label": "§ 27",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "0e6fa980706f4a7f07951b2a96844fd2b920aaeb03f9fb11b1bba38b97d54911",
+      "current_text_sha256": "0e6fa980706f4a7f07951b2a96844fd2b920aaeb03f9fb11b1bba38b97d54911"
+    },
+    {
+      "id": "p28",
+      "official_label": "§ 28",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "89ec1681d2e4dd1df7cf3b7bb3653d089d45acb9ac7a6fd93a261576b8bce20d",
+      "current_text_sha256": "89ec1681d2e4dd1df7cf3b7bb3653d089d45acb9ac7a6fd93a261576b8bce20d"
+    },
+    {
+      "id": "p29",
+      "official_label": "§ 29",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c3924b0e316016326938418a4b5a8b26215f59e48f84f32f6cee8758ab6b63ce",
+      "current_text_sha256": "c3924b0e316016326938418a4b5a8b26215f59e48f84f32f6cee8758ab6b63ce"
+    },
+    {
+      "id": "p30",
+      "official_label": "§ 30",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "6da6c35fdf96765bb9de5036f356bc77429af8ad39863ee2b0615322dd1c96d7",
+      "current_text_sha256": "6da6c35fdf96765bb9de5036f356bc77429af8ad39863ee2b0615322dd1c96d7"
+    },
+    {
+      "id": "p31",
+      "official_label": "§ 31",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "2b461d7b79972fa5ba6c50531e73b1e039d1a5f12ebf1ff8b130ffc6d4f59155",
+      "current_text_sha256": "2b461d7b79972fa5ba6c50531e73b1e039d1a5f12ebf1ff8b130ffc6d4f59155"
+    },
+    {
+      "id": "p32",
+      "official_label": "§ 32",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "bcdefe8a21a7a9abdfde5671e22c63e113c0ec62b09821d931905c06c5cb7bf1",
+      "current_text_sha256": "bcdefe8a21a7a9abdfde5671e22c63e113c0ec62b09821d931905c06c5cb7bf1"
+    },
+    {
+      "id": "p33",
+      "official_label": "§ 33",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c6f5a4ce012d9a65ad634f38756257251133251a5cee2849dfe338849c8a61d7",
+      "current_text_sha256": "c6f5a4ce012d9a65ad634f38756257251133251a5cee2849dfe338849c8a61d7"
+    },
+    {
+      "id": "p33a-33i",
+      "official_label": "§§ 33a bis 33i",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p34",
+      "official_label": "§ 34",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "5dc8469b2558ad6d0d5dff1de2f5d00227b3a3a48b0be051de662e6eef96f99f",
+      "current_text_sha256": "5dc8469b2558ad6d0d5dff1de2f5d00227b3a3a48b0be051de662e6eef96f99f"
+    },
+    {
+      "id": "p35",
+      "official_label": "§ 35",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7531a862860890edffc55f74455f5bd7b7035089ca2e14c7280a8a1fc5dbf02a",
+      "current_text_sha256": "7531a862860890edffc55f74455f5bd7b7035089ca2e14c7280a8a1fc5dbf02a"
+    },
+    {
+      "id": "p36",
+      "official_label": "§ 36",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "aa800b307989f58947834043960b5b95551fd628f05fcbd185aa604f6a72ed9b",
+      "current_text_sha256": "aa800b307989f58947834043960b5b95551fd628f05fcbd185aa604f6a72ed9b"
+    },
+    {
+      "id": "p37",
+      "official_label": "§ 37",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "02675719d80ecc2ab6ba66b93f432d989f03dc73f6edefb8bf6fcbb841d7a8e8",
+      "current_text_sha256": "02675719d80ecc2ab6ba66b93f432d989f03dc73f6edefb8bf6fcbb841d7a8e8"
+    },
+    {
+      "id": "p38",
+      "official_label": "§ 38",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "45e543f8ad4c4a3af787fa92c8297fc215b89188b1474f9b8c4d026a1989e89b",
+      "current_text_sha256": "45e543f8ad4c4a3af787fa92c8297fc215b89188b1474f9b8c4d026a1989e89b"
+    },
+    {
+      "id": "p39",
+      "official_label": "§ 39",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fbe6102325c054c26cf6cebb3796169d5dc9f50931cf5d912cd27b8d64a28eca",
+      "current_text_sha256": "fbe6102325c054c26cf6cebb3796169d5dc9f50931cf5d912cd27b8d64a28eca"
+    },
+    {
+      "id": "p40",
+      "official_label": "§ 40",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "76d3b01ce5ce3d6e3f5dd1d4a921b31786d2fba9b949adaa4aec1727b66333b7",
+      "current_text_sha256": "76d3b01ce5ce3d6e3f5dd1d4a921b31786d2fba9b949adaa4aec1727b66333b7"
+    },
+    {
+      "id": "p41",
+      "official_label": "§ 41",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "88ad2f8cc067715616c9575bc31cc5a5746e4a4f267b49508c46e4d20a9c1fca",
+      "current_text_sha256": "88ad2f8cc067715616c9575bc31cc5a5746e4a4f267b49508c46e4d20a9c1fca"
+    },
+    {
+      "id": "p42",
+      "official_label": "§ 42",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "a8e9e9572e12377fddbde9a645004baf9cd11967bb9869dadbeee364b7df3d66",
+      "current_text_sha256": "a8e9e9572e12377fddbde9a645004baf9cd11967bb9869dadbeee364b7df3d66"
+    },
+    {
+      "id": "p43",
+      "official_label": "§ 43",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "1ce30879e074f647877d8926395f2af32b60e3996da1bc6d14192af791197127",
+      "current_text_sha256": "1ce30879e074f647877d8926395f2af32b60e3996da1bc6d14192af791197127"
+    },
+    {
+      "id": "p43a",
+      "official_label": "§ 43a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f0f1a34b2f79a1ef017cdb56213729a5ba698f3bc2779c16118dac981896129a",
+      "current_text_sha256": "f0f1a34b2f79a1ef017cdb56213729a5ba698f3bc2779c16118dac981896129a"
+    },
+    {
+      "id": "p43b",
+      "official_label": "§ 43b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "37ff8045b5573846d21087761e11e63d3a186972dea5e1c793e7371b264b612f",
+      "current_text_sha256": "37ff8045b5573846d21087761e11e63d3a186972dea5e1c793e7371b264b612f"
+    },
+    {
+      "id": "p44",
+      "official_label": "§ 44",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "289fd76324f95bf953e4961cc892f1231305a0a8c9ff0996c8d08b595f04c480",
+      "current_text_sha256": "289fd76324f95bf953e4961cc892f1231305a0a8c9ff0996c8d08b595f04c480"
+    },
+    {
+      "id": "p45",
+      "official_label": "§ 45",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7a712e6fc9924e6fc7b7ad8fececa45196c9acb320cd9a48c8c39c8b1ac795fc",
+      "current_text_sha256": "7a712e6fc9924e6fc7b7ad8fececa45196c9acb320cd9a48c8c39c8b1ac795fc"
+    },
+    {
+      "id": "p46",
+      "official_label": "§ 46",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f449c0b1e07563f9a793e31af96676cd6e5be969755a30f7e4088388137cc634",
+      "current_text_sha256": "f449c0b1e07563f9a793e31af96676cd6e5be969755a30f7e4088388137cc634"
+    },
+    {
+      "id": "p47",
+      "official_label": "§ 47",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7fd24cbf7fcb0912200786e28e7e6b8a273b1cc74f350af8743936ecfd152840",
+      "current_text_sha256": "7fd24cbf7fcb0912200786e28e7e6b8a273b1cc74f350af8743936ecfd152840"
+    },
+    {
+      "id": "p48",
+      "official_label": "§ 48",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "9e75b77e6001ab585a2065f00ccad18aeeb63313f7df388481dafec9de372ef5",
+      "current_text_sha256": "9e75b77e6001ab585a2065f00ccad18aeeb63313f7df388481dafec9de372ef5"
+    },
+    {
+      "id": "p49",
+      "official_label": "§ 49",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fb2ab2ec29c8f0520c50ea2a99084410f52f0a4eb793d91326e1f9c5ab956029",
+      "current_text_sha256": "fb2ab2ec29c8f0520c50ea2a99084410f52f0a4eb793d91326e1f9c5ab956029"
+    },
+    {
+      "id": "p50",
+      "official_label": "§ 50",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8a149de854ef04de2b6fae889674b91e5b50d43eb7fcd6469d56895300680c62",
+      "current_text_sha256": "8a149de854ef04de2b6fae889674b91e5b50d43eb7fcd6469d56895300680c62"
+    },
+    {
+      "id": "p51",
+      "official_label": "§ 51",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "4cf2be84adfdf10e9b7945ac6c70871394f8e4a2e4bd720f62e703fcc8587fa8",
+      "current_text_sha256": "4cf2be84adfdf10e9b7945ac6c70871394f8e4a2e4bd720f62e703fcc8587fa8"
+    },
+    {
+      "id": "p52",
+      "official_label": "§ 52",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p53",
+      "official_label": "§ 53",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "81477d6210c8e67adf9f2cae800fde5ee1bf2a6249fb3dcffdefdbe5408c780d",
+      "current_text_sha256": "81477d6210c8e67adf9f2cae800fde5ee1bf2a6249fb3dcffdefdbe5408c780d"
+    },
+    {
+      "id": "p53a",
+      "official_label": "§ 53a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "9b2c2a19e40e939eeac1cd95208d6fa9797e112bde79255bddc714127780b7a9",
+      "current_text_sha256": "9b2c2a19e40e939eeac1cd95208d6fa9797e112bde79255bddc714127780b7a9"
+    },
+    {
+      "id": "p54",
+      "official_label": "§ 54",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "b70239ad99f2fb5d145dfda990dc60b4d36ad396a29cabeb88b4ab607f34171c",
+      "current_text_sha256": "b70239ad99f2fb5d145dfda990dc60b4d36ad396a29cabeb88b4ab607f34171c"
+    },
+    {
+      "id": "p54a",
+      "official_label": "§ 54a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "24b7eca841f64fde7633b7a03a263ba1a24d3fe961f7592bf1672d90ad588922",
+      "current_text_sha256": "24b7eca841f64fde7633b7a03a263ba1a24d3fe961f7592bf1672d90ad588922"
+    },
+    {
+      "id": "p55",
+      "official_label": "§ 55",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "50757273421e7406cd10680e45b5222d1e11f91a07986e8a58efc7e0ff235dad",
+      "current_text_sha256": "50757273421e7406cd10680e45b5222d1e11f91a07986e8a58efc7e0ff235dad"
+    },
+    {
+      "id": "p56",
+      "official_label": "§ 56",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8db764be7c756e2c4f345c99fe4395201f24c321374f8007a5091e43a1a1c3a9",
+      "current_text_sha256": "8db764be7c756e2c4f345c99fe4395201f24c321374f8007a5091e43a1a1c3a9"
+    },
+    {
+      "id": "p57",
+      "official_label": "§ 57",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "55b9eaa9cec854da06d5de6ea73ad81712b3a9dc69a38b3cc9a7fb5a1d9cd129",
+      "current_text_sha256": "55b9eaa9cec854da06d5de6ea73ad81712b3a9dc69a38b3cc9a7fb5a1d9cd129"
+    },
+    {
+      "id": "p57a",
+      "official_label": "§ 57a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "dd6a4443f5964adf4949a6abe457d92a4444779327de6d34cd883007bcaa140f",
+      "current_text_sha256": "dd6a4443f5964adf4949a6abe457d92a4444779327de6d34cd883007bcaa140f"
+    },
+    {
+      "id": "p58",
+      "official_label": "§ 58",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "bebc40985cfb5c0e610729eb0e88987a544062e63842fd2e66381facfdee8956",
+      "current_text_sha256": "bebc40985cfb5c0e610729eb0e88987a544062e63842fd2e66381facfdee8956"
+    },
+    {
+      "id": "p59",
+      "official_label": "§ 59",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8686b4f6292164f8ad301f9d774c7c8315542d31a4d658fb3ae97b169f5f7b86",
+      "current_text_sha256": "8686b4f6292164f8ad301f9d774c7c8315542d31a4d658fb3ae97b169f5f7b86"
+    },
+    {
+      "id": "p60",
+      "official_label": "§ 60",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fff41a414530670a0971bcaa65fb2540fc7ff0957aaa5c9640a7609f66f4790e",
+      "current_text_sha256": "fff41a414530670a0971bcaa65fb2540fc7ff0957aaa5c9640a7609f66f4790e"
+    },
+    {
+      "id": "p61",
+      "official_label": "§ 61",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7e41a40f89622ad6e238740fe2a21d7e0314943b194f9c8a9a4f1c168723e446",
+      "current_text_sha256": "7e41a40f89622ad6e238740fe2a21d7e0314943b194f9c8a9a4f1c168723e446"
+    },
+    {
+      "id": "p62",
+      "official_label": "§ 62",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fc2db5bf3ff9a396f5c90e37d9a9f0fe4f6f1b272137440b46416097818c608f",
+      "current_text_sha256": "fc2db5bf3ff9a396f5c90e37d9a9f0fe4f6f1b272137440b46416097818c608f"
+    },
+    {
+      "id": "p63",
+      "official_label": "§ 63",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "1b6756f1cbe4d8e33b8a8a0f4398e626d4b888de51543db1582b970241396a2a",
+      "current_text_sha256": "1b6756f1cbe4d8e33b8a8a0f4398e626d4b888de51543db1582b970241396a2a"
+    },
+    {
+      "id": "p63a",
+      "official_label": "§ 63a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "e05ca951906befd5dc45e02919c769104dc9e72b628cd2b6fa2c1c09bd1e6066",
+      "current_text_sha256": "e05ca951906befd5dc45e02919c769104dc9e72b628cd2b6fa2c1c09bd1e6066"
+    },
+    {
+      "id": "p63b",
+      "official_label": "§ 63b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "56a3c1862972938bca25c19acad4c3a5df133a29723d6a27239894e60ec965c4",
+      "current_text_sha256": "56a3c1862972938bca25c19acad4c3a5df133a29723d6a27239894e60ec965c4"
+    },
+    {
+      "id": "p63c",
+      "official_label": "§ 63c",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "5c59cb038effb813744058934f32439577bd2573c210bf4b7208f474800824f0",
+      "current_text_sha256": "5c59cb038effb813744058934f32439577bd2573c210bf4b7208f474800824f0"
+    },
+    {
+      "id": "p63d",
+      "official_label": "§ 63d",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "cf63be6b59b3db99a10c252de8543e24df3ef890e61ba06d26eff87610b80d7a",
+      "current_text_sha256": "cf63be6b59b3db99a10c252de8543e24df3ef890e61ba06d26eff87610b80d7a"
+    },
+    {
+      "id": "p63e",
+      "official_label": "§ 63e",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ff2630293b30703e31a418e01579739dfa80a961f4a316a475ebf01fec14d48d",
+      "current_text_sha256": "ff2630293b30703e31a418e01579739dfa80a961f4a316a475ebf01fec14d48d"
+    },
+    {
+      "id": "p63f",
+      "official_label": "§ 63f",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c7f24021e4aeef0d24c09eabfa3da27cc97639929bc3d9355ce068720f73ff20",
+      "current_text_sha256": "c7f24021e4aeef0d24c09eabfa3da27cc97639929bc3d9355ce068720f73ff20"
+    },
+    {
+      "id": "p63g",
+      "official_label": "§ 63g",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "6788cd4d81fcc940291199de7256634b76d23944bc8ed6f2ba725648f6e70faa",
+      "current_text_sha256": "6788cd4d81fcc940291199de7256634b76d23944bc8ed6f2ba725648f6e70faa"
+    },
+    {
+      "id": "p63h",
+      "official_label": "§ 63h",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c65cd598b57e4a3d4f759dbbac49a468a7fd9d358ea94023f9d6e96f0e53d850",
+      "current_text_sha256": "c65cd598b57e4a3d4f759dbbac49a468a7fd9d358ea94023f9d6e96f0e53d850"
+    },
+    {
+      "id": "p64",
+      "official_label": "§ 64",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "88c36792c31f8d535e218ebf4e08b5a49f7acf0a903777cd96d1bb72e6cf045a",
+      "current_text_sha256": "88c36792c31f8d535e218ebf4e08b5a49f7acf0a903777cd96d1bb72e6cf045a"
+    },
+    {
+      "id": "p64a",
+      "official_label": "§ 64a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "33448c180e6f7ba525a2fcfd02160710df3429d2c621a324d675a42df4931d21",
+      "current_text_sha256": "33448c180e6f7ba525a2fcfd02160710df3429d2c621a324d675a42df4931d21"
+    },
+    {
+      "id": "p64b",
+      "official_label": "§ 64b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "31affa7e1b44d2779ca0f5c498e97280f0ad1b9be639aca56846f8e1acca8c62",
+      "current_text_sha256": "31affa7e1b44d2779ca0f5c498e97280f0ad1b9be639aca56846f8e1acca8c62"
+    },
+    {
+      "id": "p64c",
+      "official_label": "§ 64c",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "a8e4620a5533c2d7115ff984074cd27b623ac1fadc333abf69d683f62501bef1",
+      "current_text_sha256": "a8e4620a5533c2d7115ff984074cd27b623ac1fadc333abf69d683f62501bef1"
+    },
+    {
+      "id": "p65",
+      "official_label": "§ 65",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c2e0b4783e4c49505b6f1fe152ea0b49423bdac508951f2ca20c8b182b79ffa2",
+      "current_text_sha256": "c2e0b4783e4c49505b6f1fe152ea0b49423bdac508951f2ca20c8b182b79ffa2"
+    },
+    {
+      "id": "p66",
+      "official_label": "§ 66",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "b86495cce918651e9cdda83d8c88aac564242745970d529546ad4caeb9d2df7b",
+      "current_text_sha256": "b86495cce918651e9cdda83d8c88aac564242745970d529546ad4caeb9d2df7b"
+    },
+    {
+      "id": "p66a",
+      "official_label": "§ 66a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c74218c938943eee6347c46bfd337cf342f810e11e3f41f2d8af313887d7bad7",
+      "current_text_sha256": "c74218c938943eee6347c46bfd337cf342f810e11e3f41f2d8af313887d7bad7"
+    },
+    {
+      "id": "p67",
+      "official_label": "§ 67",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "46c511b4d3575ff4cc99ec126d3a9212e8ae33e9c531e17f78f4033f034c2212",
+      "current_text_sha256": "46c511b4d3575ff4cc99ec126d3a9212e8ae33e9c531e17f78f4033f034c2212"
+    },
+    {
+      "id": "p67a",
+      "official_label": "§ 67a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "49f0bd122cebf0ad0452ad6a5c70ef069ef6ec43512431e4b7c070844ee48010",
+      "current_text_sha256": "49f0bd122cebf0ad0452ad6a5c70ef069ef6ec43512431e4b7c070844ee48010"
+    },
+    {
+      "id": "p67b",
+      "official_label": "§ 67b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "9f26321e054fea17ac45115eb2aaa0a37c6873321b36226353b8c6de5bff493e",
+      "current_text_sha256": "9f26321e054fea17ac45115eb2aaa0a37c6873321b36226353b8c6de5bff493e"
+    },
+    {
+      "id": "p67c",
+      "official_label": "§ 67c",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "406fd8a6769d93392cc460ca74b3a17d8ccdf49c466ce3f146dfc1542ea778d1",
+      "current_text_sha256": "406fd8a6769d93392cc460ca74b3a17d8ccdf49c466ce3f146dfc1542ea778d1"
+    },
+    {
+      "id": "p68",
+      "official_label": "§ 68",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "47ab23ca34da8e7f7d4af469a4d3d6dfa7338ca40880d3d3ad5f1a121399c3e9",
+      "current_text_sha256": "47ab23ca34da8e7f7d4af469a4d3d6dfa7338ca40880d3d3ad5f1a121399c3e9"
+    },
+    {
+      "id": "p69",
+      "official_label": "§ 69",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3c662d7f607b51709aac154e5c13293756cacc6278909b7e33b61b62efca016c",
+      "current_text_sha256": "3c662d7f607b51709aac154e5c13293756cacc6278909b7e33b61b62efca016c"
+    },
+    {
+      "id": "p70-72",
+      "official_label": "§§ 70 bis 72",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p73",
+      "official_label": "§ 73",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "584e43a2ab8bdbd310fa8422471097be4e280705f503620b96f300be96c11c9f",
+      "current_text_sha256": "584e43a2ab8bdbd310fa8422471097be4e280705f503620b96f300be96c11c9f"
+    },
+    {
+      "id": "p74",
+      "official_label": "§ 74",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p75",
+      "official_label": "§ 75",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ed54fc0e4b2bafcd688e45acab80be0a13e70df51a7620356a99f86e427acb4a",
+      "current_text_sha256": "ed54fc0e4b2bafcd688e45acab80be0a13e70df51a7620356a99f86e427acb4a"
+    },
+    {
+      "id": "p76",
+      "official_label": "§ 76",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "07ae8100385b591170194b052f44b2372d4842f63a79d56b18e51f64a9c71090",
+      "current_text_sha256": "07ae8100385b591170194b052f44b2372d4842f63a79d56b18e51f64a9c71090"
+    },
+    {
+      "id": "p77",
+      "official_label": "§ 77",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "0b27c1941c9a9693ce894b722b1ab86f2fd129c57517bd57dc3895dba9fca6ef",
+      "current_text_sha256": "0b27c1941c9a9693ce894b722b1ab86f2fd129c57517bd57dc3895dba9fca6ef"
+    },
+    {
+      "id": "p77a",
+      "official_label": "§ 77a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "23fe88027a9e424ef930a9d3a7fa775e708258147d49412c4a69aaab70daaec9",
+      "current_text_sha256": "23fe88027a9e424ef930a9d3a7fa775e708258147d49412c4a69aaab70daaec9"
+    },
+    {
+      "id": "p78",
+      "official_label": "§ 78",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "1b41709fffb40887b63c14accd9b7acd48e5e0a1ca102edbac0802bad94fafe0",
+      "current_text_sha256": "1b41709fffb40887b63c14accd9b7acd48e5e0a1ca102edbac0802bad94fafe0"
+    },
+    {
+      "id": "p78a-78b",
+      "official_label": "§§ 78a und 78b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p79",
+      "official_label": "§ 79",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "6429f92ddd98bb44dec12a9e27a4be21e4ea0b80134a0cf967e822bd867f6c2c",
+      "current_text_sha256": "6429f92ddd98bb44dec12a9e27a4be21e4ea0b80134a0cf967e822bd867f6c2c"
+    },
+    {
+      "id": "p79a",
+      "official_label": "§ 79a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "895d219920e11434c08ee7834aec468ecb867353ee84cf397800a6d87625fa0c",
+      "current_text_sha256": "895d219920e11434c08ee7834aec468ecb867353ee84cf397800a6d87625fa0c"
+    },
+    {
+      "id": "p80",
+      "official_label": "§ 80",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "51111d78a1c2abc6a9964e69253419b5a64f24b51a940c5b999d3c4671b46355",
+      "current_text_sha256": "51111d78a1c2abc6a9964e69253419b5a64f24b51a940c5b999d3c4671b46355"
+    },
+    {
+      "id": "p81",
+      "official_label": "§ 81",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fbc553429be59275ebc272d06278a121f19a3b40e6edd3db1367515a2140835d",
+      "current_text_sha256": "fbc553429be59275ebc272d06278a121f19a3b40e6edd3db1367515a2140835d"
+    },
+    {
+      "id": "p81a",
+      "official_label": "§ 81a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "7c7c6d124012c1a14ec290233c56e5dc37fe147f61010ef5ac290db20e1b30bd",
+      "current_text_sha256": "7c7c6d124012c1a14ec290233c56e5dc37fe147f61010ef5ac290db20e1b30bd"
+    },
+    {
+      "id": "p82",
+      "official_label": "§ 82",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ee23720bb032171ec14ac444efdaf2cc0783c672f88d7a33c536c44d47f76696",
+      "current_text_sha256": "ee23720bb032171ec14ac444efdaf2cc0783c672f88d7a33c536c44d47f76696"
+    },
+    {
+      "id": "p83",
+      "official_label": "§ 83",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "1c5b157d09187883dce4d13c38efb5cb4150126729adc4e889eccfe4c71aaa73",
+      "current_text_sha256": "1c5b157d09187883dce4d13c38efb5cb4150126729adc4e889eccfe4c71aaa73"
+    },
+    {
+      "id": "p84",
+      "official_label": "§ 84",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "272867008aeb3b9fe44c2e93f9a0c169d9821da5d8510769b4e483049b9b71f5",
+      "current_text_sha256": "272867008aeb3b9fe44c2e93f9a0c169d9821da5d8510769b4e483049b9b71f5"
+    },
+    {
+      "id": "p85",
+      "official_label": "§ 85",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "200941448800ad9db3bef8470694ff2143ced3ecb3a1f48e523f56a46284f783",
+      "current_text_sha256": "200941448800ad9db3bef8470694ff2143ced3ecb3a1f48e523f56a46284f783"
+    },
+    {
+      "id": "p86",
+      "official_label": "§ 86",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c0e7ef0ef28a7e565b7d4c15c735c6ade51bfad350876ac0d835487c7bff39c5",
+      "current_text_sha256": "c0e7ef0ef28a7e565b7d4c15c735c6ade51bfad350876ac0d835487c7bff39c5"
+    },
+    {
+      "id": "p87",
+      "official_label": "§ 87",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f01222c968852ffcde8c107193006f4398d90e8cd5de4753f195c7011da8f4c0",
+      "current_text_sha256": "f01222c968852ffcde8c107193006f4398d90e8cd5de4753f195c7011da8f4c0"
+    },
+    {
+      "id": "p87a",
+      "official_label": "§ 87a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "b619eb4f84232ec1772b2531e0fdeae78e3777a386d82f559c12fb15094aabda",
+      "current_text_sha256": "b619eb4f84232ec1772b2531e0fdeae78e3777a386d82f559c12fb15094aabda"
+    },
+    {
+      "id": "p87b",
+      "official_label": "§ 87b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "a6f5f92b695d5263127d9d37ef143ffb91691a7d0d168035621c746fb74e69f4",
+      "current_text_sha256": "a6f5f92b695d5263127d9d37ef143ffb91691a7d0d168035621c746fb74e69f4"
+    },
+    {
+      "id": "p88",
+      "official_label": "§ 88",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "69f9baa2b631b49141076f05458fea530600d4e4a18b5ec8f1e73977258f8e89",
+      "current_text_sha256": "69f9baa2b631b49141076f05458fea530600d4e4a18b5ec8f1e73977258f8e89"
+    },
+    {
+      "id": "p88a",
+      "official_label": "§ 88a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fe9bb508ee6bb83fdb3e0e5cb1d7a45c69e657fa717e91f0fea565b4464e3f27",
+      "current_text_sha256": "fe9bb508ee6bb83fdb3e0e5cb1d7a45c69e657fa717e91f0fea565b4464e3f27"
+    },
+    {
+      "id": "p89",
+      "official_label": "§ 89",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "6d567ca14de36338eab52f6f17ea542a6e61d207db6ed5433fa3a64cfbc550a5",
+      "current_text_sha256": "6d567ca14de36338eab52f6f17ea542a6e61d207db6ed5433fa3a64cfbc550a5"
+    },
+    {
+      "id": "p90",
+      "official_label": "§ 90",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "39f25a4928a382f621ed71553f45d7f590676c7614ce9505c4a779e00577ac43",
+      "current_text_sha256": "39f25a4928a382f621ed71553f45d7f590676c7614ce9505c4a779e00577ac43"
+    },
+    {
+      "id": "p91",
+      "official_label": "§ 91",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "29e9fac952757d96d53b2eb1d3ee4c25f73e0f4be409dcb5282c47dd08d679ea",
+      "current_text_sha256": "29e9fac952757d96d53b2eb1d3ee4c25f73e0f4be409dcb5282c47dd08d679ea"
+    },
+    {
+      "id": "p92",
+      "official_label": "§ 92",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "42af80a10f11e41a7d9329eb6892668264277c2bf246b49d879645fc055ce163",
+      "current_text_sha256": "42af80a10f11e41a7d9329eb6892668264277c2bf246b49d879645fc055ce163"
+    },
+    {
+      "id": "p93",
+      "official_label": "§ 93",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "87d8e0238ab756ce3a58572fb060990f64b008abfffdf8cef3af50f31355e56b",
+      "current_text_sha256": "87d8e0238ab756ce3a58572fb060990f64b008abfffdf8cef3af50f31355e56b"
+    },
+    {
+      "id": "p93a-93s",
+      "official_label": "§§ 93a bis 93s",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p94",
+      "official_label": "§ 94",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "a4aba1bd20c930d123adcf0c6e3aa12c0e2ca91274f474506afbdfda2b7ef524",
+      "current_text_sha256": "a4aba1bd20c930d123adcf0c6e3aa12c0e2ca91274f474506afbdfda2b7ef524"
+    },
+    {
+      "id": "p95",
+      "official_label": "§ 95",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "89e3233c0688f452daadd828fe4516949b7294eae007f90165db6aed6eacd31b",
+      "current_text_sha256": "89e3233c0688f452daadd828fe4516949b7294eae007f90165db6aed6eacd31b"
+    },
+    {
+      "id": "p96",
+      "official_label": "§ 96",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "be28ff21bdaddd0b15cf43c0511487ad6e385a90e3a7476325d54cf10af6dbf9",
+      "current_text_sha256": "be28ff21bdaddd0b15cf43c0511487ad6e385a90e3a7476325d54cf10af6dbf9"
+    },
+    {
+      "id": "p97",
+      "official_label": "§ 97",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "02f0509d8718f2aaff2022c4a1dd57620481f746420f6b8c4bcd1bb0c5e60849",
+      "current_text_sha256": "02f0509d8718f2aaff2022c4a1dd57620481f746420f6b8c4bcd1bb0c5e60849"
+    },
+    {
+      "id": "p98",
+      "official_label": "§ 98",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3f25f583d59209b36fb6b6d5318b20c0952d1a3ed76dde954d36fe78eb5fef52",
+      "current_text_sha256": "3f25f583d59209b36fb6b6d5318b20c0952d1a3ed76dde954d36fe78eb5fef52"
+    },
+    {
+      "id": "p99",
+      "official_label": "§ 99",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p100",
+      "official_label": "§ 100",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p101",
+      "official_label": "§ 101",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "2c8b23b81d53e7e714abf17641ece53ef01ac86564ddb3cc9b114247f0ea8148",
+      "current_text_sha256": "2c8b23b81d53e7e714abf17641ece53ef01ac86564ddb3cc9b114247f0ea8148"
+    },
+    {
+      "id": "p102",
+      "official_label": "§ 102",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "71e4b7bd2826630517c9958d6b9dfdeaee0025253417a9ae63492b7b3cf4c7d6",
+      "current_text_sha256": "71e4b7bd2826630517c9958d6b9dfdeaee0025253417a9ae63492b7b3cf4c7d6"
+    },
+    {
+      "id": "p103-104",
+      "official_label": "§§ 103 und 104",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p105",
+      "official_label": "§ 105",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8b6adf6ab21e93e379f4e573542764cf3b81c25688cbd26473e314e46ec429b5",
+      "current_text_sha256": "8b6adf6ab21e93e379f4e573542764cf3b81c25688cbd26473e314e46ec429b5"
+    },
+    {
+      "id": "p106",
+      "official_label": "§ 106",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "0e5e730c306d47844fd32865d446eed621d10bac123ff90a55ec906877079ef1",
+      "current_text_sha256": "0e5e730c306d47844fd32865d446eed621d10bac123ff90a55ec906877079ef1"
+    },
+    {
+      "id": "p107",
+      "official_label": "§ 107",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "0057ae5164e84d1bc86f28db5344c86cebd73c27ff42788a43e2134c4078e5eb",
+      "current_text_sha256": "0057ae5164e84d1bc86f28db5344c86cebd73c27ff42788a43e2134c4078e5eb"
+    },
+    {
+      "id": "p108",
+      "official_label": "§ 108",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f935a0753609d0353d830d452bab13fa9e112047799fb104ddccf28b865ce3fe",
+      "current_text_sha256": "f935a0753609d0353d830d452bab13fa9e112047799fb104ddccf28b865ce3fe"
+    },
+    {
+      "id": "p108a",
+      "official_label": "§ 108a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "9b494d3e30862ffcf1347bfe7b683ef98f31f590815f39b56e5626bf16e91a78",
+      "current_text_sha256": "9b494d3e30862ffcf1347bfe7b683ef98f31f590815f39b56e5626bf16e91a78"
+    },
+    {
+      "id": "p109",
+      "official_label": "§ 109",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "94e49e9abd7d992378ad32861a95cd970ce8efe228da8e5376464d6f2dba004e",
+      "current_text_sha256": "94e49e9abd7d992378ad32861a95cd970ce8efe228da8e5376464d6f2dba004e"
+    },
+    {
+      "id": "p110",
+      "official_label": "§ 110",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c64e3eae8c5ffbc557176b7d3855672fe44b754d64abdc7b3d3e8783b4023004",
+      "current_text_sha256": "c64e3eae8c5ffbc557176b7d3855672fe44b754d64abdc7b3d3e8783b4023004"
+    },
+    {
+      "id": "p111",
+      "official_label": "§ 111",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8c93c9043003bcae8e91f30fa15e7067b58ea8cc8ef610dfa8daf176d1690aa2",
+      "current_text_sha256": "8c93c9043003bcae8e91f30fa15e7067b58ea8cc8ef610dfa8daf176d1690aa2"
+    },
+    {
+      "id": "p112",
+      "official_label": "§ 112",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "1957542dd681164db749a28506d989713ca34d561ef710cd05be704728f377f2",
+      "current_text_sha256": "1957542dd681164db749a28506d989713ca34d561ef710cd05be704728f377f2"
+    },
+    {
+      "id": "p112a",
+      "official_label": "§ 112a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ab79db3c7997cacf3003c68ee368123ee25a5446f126b4d1217902eaf7ed5a8a",
+      "current_text_sha256": "ab79db3c7997cacf3003c68ee368123ee25a5446f126b4d1217902eaf7ed5a8a"
+    },
+    {
+      "id": "p113",
+      "official_label": "§ 113",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "16c791eb78002e53ac826deb14c82ff0dbf468718b78a044b39b670ba5259522",
+      "current_text_sha256": "16c791eb78002e53ac826deb14c82ff0dbf468718b78a044b39b670ba5259522"
+    },
+    {
+      "id": "p114",
+      "official_label": "§ 114",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f1f6207f7fdc13be51f1ff79f79a9dd5d79f546fc0b0fe5b5b49915a9aa48f79",
+      "current_text_sha256": "f1f6207f7fdc13be51f1ff79f79a9dd5d79f546fc0b0fe5b5b49915a9aa48f79"
+    },
+    {
+      "id": "p115",
+      "official_label": "§ 115",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "5e98371f9e20c37fdb16fee7655c61ef4aec6325677e3ff87aabb374b100909d",
+      "current_text_sha256": "5e98371f9e20c37fdb16fee7655c61ef4aec6325677e3ff87aabb374b100909d"
+    },
+    {
+      "id": "p115a",
+      "official_label": "§ 115a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "b8e099a7308dd886e138b55dc9f0e0cd8d8e6e44035e057d7db2084d9c4e7221",
+      "current_text_sha256": "b8e099a7308dd886e138b55dc9f0e0cd8d8e6e44035e057d7db2084d9c4e7221"
+    },
+    {
+      "id": "p115b",
+      "official_label": "§ 115b",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "cb3596c5cce9957c4bbd4f414bab1a8905013a7b5aec4e5233d6a0217ed009af",
+      "current_text_sha256": "cb3596c5cce9957c4bbd4f414bab1a8905013a7b5aec4e5233d6a0217ed009af"
+    },
+    {
+      "id": "p115c",
+      "official_label": "§ 115c",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "e48bed4cca525de1a917230193c50dc28a73478ca449ddad5f5b8645828f5ae3",
+      "current_text_sha256": "e48bed4cca525de1a917230193c50dc28a73478ca449ddad5f5b8645828f5ae3"
+    },
+    {
+      "id": "p115d",
+      "official_label": "§ 115d",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "9e2b1d5aeab13af48ee988acdf67a319e344ce835a83d69c6192251322158798",
+      "current_text_sha256": "9e2b1d5aeab13af48ee988acdf67a319e344ce835a83d69c6192251322158798"
+    },
+    {
+      "id": "p115e",
+      "official_label": "§ 115e",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "4d61c56889d78c15e04f03ffac237fce7afd06863f72f3cab98a1124ad763cf9",
+      "current_text_sha256": "4d61c56889d78c15e04f03ffac237fce7afd06863f72f3cab98a1124ad763cf9"
+    },
+    {
+      "id": "p116",
+      "official_label": "§ 116",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "8849888703b291f8455bf076af0ee39022f951f50a82ec4359f54de0a1c16193",
+      "current_text_sha256": "8849888703b291f8455bf076af0ee39022f951f50a82ec4359f54de0a1c16193"
+    },
+    {
+      "id": "p117",
+      "official_label": "§ 117",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "78e781ef77e81ec30665cc31da4585e9e698bcc6f3723231384d89da2b72cddb",
+      "current_text_sha256": "78e781ef77e81ec30665cc31da4585e9e698bcc6f3723231384d89da2b72cddb"
+    },
+    {
+      "id": "p118",
+      "official_label": "§ 118",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "44e294c093cc098d84aa02425fca85b4a2d5765949bf886130a0c7055e9b9735",
+      "current_text_sha256": "44e294c093cc098d84aa02425fca85b4a2d5765949bf886130a0c7055e9b9735"
+    },
+    {
+      "id": "p119",
+      "official_label": "§ 119",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ce886931fc966fe5483f5d19f070784029abed5337e7d73051a2c24edd602696",
+      "current_text_sha256": "ce886931fc966fe5483f5d19f070784029abed5337e7d73051a2c24edd602696"
+    },
+    {
+      "id": "p120",
+      "official_label": "§ 120",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "c83ac088563a30d1fd935bfc8af566fe0c294ac12db4c83b840aa4aea5c2b146",
+      "current_text_sha256": "c83ac088563a30d1fd935bfc8af566fe0c294ac12db4c83b840aa4aea5c2b146"
+    },
+    {
+      "id": "p121",
+      "official_label": "§ 121",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "26a02d5cb3f28757074f45f10a27eff9922be629205d80d95bdf7f93c23c44ef",
+      "current_text_sha256": "26a02d5cb3f28757074f45f10a27eff9922be629205d80d95bdf7f93c23c44ef"
+    },
+    {
+      "id": "p122-145",
+      "official_label": "§§ 122 bis 145",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p146",
+      "official_label": "§ 146",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p147",
+      "official_label": "§ 147",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3586b0c33dcd1d5a3cf9e673996d274f69d5d1deaa87a96dca8d0a33d3b97cf6",
+      "current_text_sha256": "3586b0c33dcd1d5a3cf9e673996d274f69d5d1deaa87a96dca8d0a33d3b97cf6"
+    },
+    {
+      "id": "p148",
+      "official_label": "§ 148",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "6fa4b55e745870d7c1744fa2c917b2ff06fe32279cc4c6dd9325f64368e5d585",
+      "current_text_sha256": "6fa4b55e745870d7c1744fa2c917b2ff06fe32279cc4c6dd9325f64368e5d585"
+    },
+    {
+      "id": "p149",
+      "official_label": "§ 149",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p150",
+      "official_label": "§ 150",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "4340b92b6d6e505f17920a29b4e333f9f9557b554a8e01a8ff8809dcec65bd53",
+      "current_text_sha256": "4340b92b6d6e505f17920a29b4e333f9f9557b554a8e01a8ff8809dcec65bd53"
+    },
+    {
+      "id": "p151",
+      "official_label": "§ 151",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "30decdf16e70d6dcce90ed2c34ecbb315cda1e82e248f0814fda7a31ef0d2069",
+      "current_text_sha256": "30decdf16e70d6dcce90ed2c34ecbb315cda1e82e248f0814fda7a31ef0d2069"
+    },
+    {
+      "id": "p151a",
+      "official_label": "§ 151a",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "0dda7f7c3d23768791090620453df02d7e825b0f888b7db62ffb1641a6c42a8b",
+      "current_text_sha256": "0dda7f7c3d23768791090620453df02d7e825b0f888b7db62ffb1641a6c42a8b"
+    },
+    {
+      "id": "p152",
+      "official_label": "§ 152",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "61746112f054774130439a2f8ff3d388213f4947929379121be9223039c85034",
+      "current_text_sha256": "61746112f054774130439a2f8ff3d388213f4947929379121be9223039c85034"
+    },
+    {
+      "id": "p153",
+      "official_label": "§ 153",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "f9c35ff32a95b467aa15fb94b038fd896e3afb6f98db0bb85c77a19266be6d74",
+      "current_text_sha256": "f9c35ff32a95b467aa15fb94b038fd896e3afb6f98db0bb85c77a19266be6d74"
+    },
+    {
+      "id": "p154",
+      "official_label": "§ 154",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p155",
+      "official_label": "§ 155",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "aded85607c238b465b3bea6eabbd5c2c2d54a89a2d4395e0a3e63d57cb0d8f91",
+      "current_text_sha256": "aded85607c238b465b3bea6eabbd5c2c2d54a89a2d4395e0a3e63d57cb0d8f91"
+    },
+    {
+      "id": "p156",
+      "official_label": "§ 156",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "da30847629ce60c7c0ffcdbb35dffaafdbaea16537405d20c7e579b76acffa87",
+      "current_text_sha256": "da30847629ce60c7c0ffcdbb35dffaafdbaea16537405d20c7e579b76acffa87"
+    },
+    {
+      "id": "p157",
+      "official_label": "§ 157",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "b97553d60509e51505668bbb30fa866da38a376235828fbab245f1bdd18551fa",
+      "current_text_sha256": "b97553d60509e51505668bbb30fa866da38a376235828fbab245f1bdd18551fa"
+    },
+    {
+      "id": "p158",
+      "official_label": "§ 158",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "afe5be837caeb169366bf400f18a1ad95bc9033a996581f33a21b2228e9c30fc",
+      "current_text_sha256": "afe5be837caeb169366bf400f18a1ad95bc9033a996581f33a21b2228e9c30fc"
+    },
+    {
+      "id": "p159",
+      "official_label": "§ 159",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p160",
+      "official_label": "§ 160",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "625fb675a02ff1296f48d5edb7178fd2f1de347ebfc535e271504a9134f651e3",
+      "current_text_sha256": "625fb675a02ff1296f48d5edb7178fd2f1de347ebfc535e271504a9134f651e3"
+    },
+    {
+      "id": "p161",
+      "official_label": "§ 161",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p162",
+      "official_label": "§ 162",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "2756c89145399f7e11205c971a0273169d36262c8b3424002390ddc1d46e1acb",
+      "current_text_sha256": "2756c89145399f7e11205c971a0273169d36262c8b3424002390ddc1d46e1acb"
+    },
+    {
+      "id": "p163",
+      "official_label": "§ 163",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "current_text_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    },
+    {
+      "id": "p164",
+      "official_label": "§ 164",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "030cbeab716fa1bed968c7727f1218ad6266762192875a9d159d1a0a47f01afc",
+      "current_text_sha256": "030cbeab716fa1bed968c7727f1218ad6266762192875a9d159d1a0a47f01afc"
+    },
+    {
+      "id": "p165",
+      "official_label": "§ 165",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0",
+      "current_text_sha256": "766cab28eb7582f35619b67a1f50e763c5303a04d6c557b60a0a52cd7ae416a0"
+    },
+    {
+      "id": "p166",
+      "official_label": "§ 166",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "dd7c40ee093848f3c62717fb6341ad3d182e676135e9ec56ddbee3d829dec206",
+      "current_text_sha256": "dd7c40ee093848f3c62717fb6341ad3d182e676135e9ec56ddbee3d829dec206"
+    },
+    {
+      "id": "p167",
+      "official_label": "§ 167",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "42468f2e131fbabd612e86d3e881764872251e71bc9fe000ab94d5647a407a1e",
+      "current_text_sha256": "42468f2e131fbabd612e86d3e881764872251e71bc9fe000ab94d5647a407a1e"
+    },
+    {
+      "id": "p168",
+      "official_label": "§ 168",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "ee4a3e2741ebbca23742de04c132639743b8ec7dc0391ac4201e88d3ac328629",
+      "current_text_sha256": "ee4a3e2741ebbca23742de04c132639743b8ec7dc0391ac4201e88d3ac328629"
+    },
+    {
+      "id": "p169",
+      "official_label": "§ 169",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "680f4b08d8f7bc95f54558f279f30a01be38bc0c201e6066ca1666b27b75d7d4",
+      "current_text_sha256": "680f4b08d8f7bc95f54558f279f30a01be38bc0c201e6066ca1666b27b75d7d4"
+    },
+    {
+      "id": "p170",
+      "official_label": "§ 170",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "fedaf157c38698409be9d7599d46601277c127d34fb786231b18e3139c7fd394",
+      "current_text_sha256": "fedaf157c38698409be9d7599d46601277c127d34fb786231b18e3139c7fd394"
+    },
+    {
+      "id": "p171",
+      "official_label": "§ 171",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "bf2bb6a7edf76fa988c675ef63bbcaf286329a3f4a1911f479f62f68d55fe1b3",
+      "current_text_sha256": "bf2bb6a7edf76fa988c675ef63bbcaf286329a3f4a1911f479f62f68d55fe1b3"
+    },
+    {
+      "id": "p172",
+      "official_label": "§ 172",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "3ee2b5bce0c149c091e4ccb808ab912f3d7f3d9d8155431631c4df0f7d74d007",
+      "current_text_sha256": "3ee2b5bce0c149c091e4ccb808ab912f3d7f3d9d8155431631c4df0f7d74d007"
+    },
+    {
+      "id": "p173",
+      "official_label": "§ 173",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "068e6ae9472d78064bb7228e0a3427650819457afa584b0560f04a40d5cf820d",
+      "current_text_sha256": "068e6ae9472d78064bb7228e0a3427650819457afa584b0560f04a40d5cf820d"
+    },
+    {
+      "id": "p174",
+      "official_label": "§ 174",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "cad8e32d530b1d75eb4f3ece1566b4dd718fa2e9d8addd3a3569d34a67ee22f1",
+      "current_text_sha256": "cad8e32d530b1d75eb4f3ece1566b4dd718fa2e9d8addd3a3569d34a67ee22f1"
+    },
+    {
+      "id": "p175",
+      "official_label": "§ 175",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "220a0a96d7fdf212da92737ac8d887b5e4467c9fd1dbfe42c1e7feff3ebe6bac",
+      "current_text_sha256": "220a0a96d7fdf212da92737ac8d887b5e4467c9fd1dbfe42c1e7feff3ebe6bac"
+    },
+    {
+      "id": "p176",
+      "official_label": "§ 176",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "d91f4598845b769442c36f37510c253594de1351e7f67966ba6e090fa31f1941",
+      "current_text_sha256": "d91f4598845b769442c36f37510c253594de1351e7f67966ba6e090fa31f1941"
+    },
+    {
+      "id": "p177",
+      "official_label": "§ 177",
+      "unchanged_after_whitespace_normalization": true,
+      "intake_text_sha256": "6eb14bbe6daa3dfc44ff9164483e49930558d90fc6cd37761408a40298c01209",
+      "current_text_sha256": "6eb14bbe6daa3dfc44ff9164483e49930558d90fc6cd37761408a40298c01209"
+    }
+  ],
+  "changed_units": 0
+}

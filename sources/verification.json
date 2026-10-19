@@ -1,0 +1,194 @@
+{
+  "authoring_date": "2026-10-19",
+  "fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+      "accessed_at": "2026-10-19T15:07:18.230702+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+      "file": "geng-xml.zip",
+      "xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/",
+      "accessed_at": "2026-10-19T15:07:18.439463+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+      "file": "geng-index.html"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+      "accessed_at": "2026-10-19T15:07:18.874044+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+      "file": "geng-full.html"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-19T15:08:16.824048+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "file": "beg4.pdf"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301052018.zip",
+      "accessed_at": "2026-10-19T15:08:16.961088+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "1a82b0706987ad636f1160e24a9fe62941983bb129bdf644d02164e8728bb59f",
+      "file": "case-KORE301052018.zip"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE707802024.zip",
+      "accessed_at": "2026-10-19T15:08:17.060714+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "7b52b7c3a0c8e4b4a5944c829019d4339c0a12332342c335f47a018eb2425cc1",
+      "file": "case-KORE707802024.zip"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE315172013.zip",
+      "accessed_at": "2026-10-19T15:08:17.176661+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "06daf17f99ad20eebe4ea10e6bbc75072d98ea772aa3d900e3034914db8ac36f",
+      "file": "case-KORE315172013.zip"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE100071345.zip",
+      "accessed_at": "2026-10-19T15:08:17.284186+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "7c2926f295cf8857d663756611e58bf67522cec8531bdceb3b46ce4c7e0754c4",
+      "file": "case-JURE100071345.zip"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+      "accessed_at": "2026-10-19T15:28:31.204992+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "external/bgb.zip",
+      "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+      "xml_file": "external/bgb.xml",
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "use": "Nur bezeichnete externe Querverweise; kein Vollkommentar dieses Gesetzes."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-19T15:28:31.515960+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "external/hgb.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "xml_file": "external/hgb.xml",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "use": "Nur bezeichnete externe Querverweise; kein Vollkommentar dieses Gesetzes."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/xml.zip",
+      "accessed_at": "2026-10-19T15:28:31.802926+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "external/inso.zip",
+      "sha256": "a571214fd5a95139cf671989cdf5e657d7b946c25d56e942ee9956b94c5976d8",
+      "xml_file": "external/inso.xml",
+      "xml_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "use": "Nur bezeichnete externe Querverweise; kein Vollkommentar dieses Gesetzes."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/ii_zr_119-24.pdf",
+      "file": "case-II-ZR-119-24.pdf",
+      "accessed_at": "2026-10-19T15:29:30.006341+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "75f805c6eca19f0da2af50b767e2f2cf57bfbe95371109cb3daafaf39ea3ac90",
+      "use": "BGH-Vorlagebeschluss, vollständig gelesen; keine EuGH-Sachentscheidung."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE728222025.zip",
+      "accessed_at": "2026-10-19T15:29:41.440987+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "case-KORE728222025.zip",
+      "sha256": "cbaeb83f47bf542550441b5b87dd95bf30fa3f401b98c597bcbce77e7d800b78",
+      "xml_file": "case-KORE728222025.xml",
+      "xml_sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+      "accessed_at": "2026-10-19T15:30:38.575564+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "file": "urhg-5.html",
+      "sha256": "0d1230ebb389ebdfdd0cb265ac74ee91345d19787520507c4db51cf85e375524",
+      "use": "Urheberrechtliche Trennung amtlicher Werke und eigener Kommentierung."
+    },
+    {
+      "url": "https://infocuria.curia.europa.eu/tabs/affair?lang=EN&searchTerm=%22C-776%2F25%22&publishedId=C-776%2F25&logicDocId=",
+      "accessed_at": "2026-10-19T15:31:24+00:00",
+      "timestamp_method": "local completion time of Firecrawl extraction",
+      "http_status": 200,
+      "content_type": "text/html",
+      "file": "research/curia-c776-25.json",
+      "sha256": "a5bd53276655c612ca76de63279a79c298002dde92704df892fcc8c7376e8c5e",
+      "method": "Firecrawl webpage extraction; complete extraction response retained",
+      "cache_state": "miss",
+      "content_checked": "C-776/25 and AVG Altersvorsorge; InfoCuria status Pending / EUR-Lex application notice"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62025CN0776",
+      "accessed_at": "2026-10-19T15:31:29+00:00",
+      "timestamp_method": "local completion time of Firecrawl extraction",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "file": "research/eurlex-c776-25.json",
+      "sha256": "9789f77118f652c45dbde5dfd0d8eee468ed2baeb993c8b8c15860c86fa2f518",
+      "method": "Firecrawl webpage extraction; complete extraction response retained",
+      "cache_state": "miss",
+      "content_checked": "C-776/25 and AVG Altersvorsorge; InfoCuria status Pending / EUR-Lex application notice"
+    }
+  ],
+  "jurisdiction": "DE",
+  "identifier": "GenG",
+  "decisive_date": "2026-10-19",
+  "version": {
+    "gii_stand": [
+      "Neugefasst durch Bek. v. 16.10.2006 I 2230",
+      "zuletzt geändert durch Art. 22 G v. 23.10.2024 I Nr. 323"
+    ],
+    "gii_builddate": "20260506174705",
+    "last_amendment_effective_from": "2025-01-01",
+    "commencement_evidence": {
+      "file": "beg4.pdf",
+      "publication_date": "2024-10-29",
+      "article_22_pages": [
+        13,
+        14
+      ],
+      "article_74_pages": [
+        34,
+        35
+      ],
+      "rule": "Art. 74 Abs. 1: erster Tag des auf die Verkündung folgenden Quartals; Art. 22 nicht von Abs. 2–13 ausgenommen. Daraus 1. Januar 2025.",
+      "conclusion_type": "Ableitung aus verkündetem Gesetz, nicht aus Abruf- oder Builddatum."
+    },
+    "changes_since_intake": {
+      "intake_retrieved_at": "2026-10-01T23:43:59Z",
+      "current_accessed_at": "2026-10-19T15:07:18.230702+00:00",
+      "changed_unit_texts": 0,
+      "evidence": "change-map.json",
+      "current_gii_stand_unchanged": true
+    },
+    "limit": "GII ist eine amtlich bereitgestellte, nichtamtliche Konsolidierung. Prüfung am Stichtag anhand aktueller GII-Fassung und letzter Verkündung; keine Zusicherung gegen spätere Berichtigungen oder künftige Änderungen."
+  },
+  "format_validation": {
+    "geng_zip": "ZIP-Zentralverzeichnis geprüft, XML daraus geparst; root dokumente; jurabk/amtabk GenG.",
+    "gazette_pdf": "%PDF-Kennung, pdfinfo: 35 Seiten, pdftotext erfolgreich.",
+    "judicial_zip": "ZIP geöffnet und enthaltene XML-Dokumente erfolgreich geparst.",
+    "external_statutes": "ZIP geöffnet und XML erfolgreich geparst."
+  }
+}

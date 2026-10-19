@@ -1,0 +1,15 @@
+# BGH, Beschluss vom 21. Oktober 2025 – II ZR 119/24
+
+ECLI:DE:BGH:2025:211025BIIZR119.24.0. Amtliche Dokumentnummer KORE728222025. Vorabentscheidungsersuchen, kein abschließendes Sachurteil. Volltext geprüft am 19. Oktober 2026.
+
+[Amtliche BGH-Entscheidung](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE728222025) · [XML-Snapshot](../sources/case-KORE728222025.xml) · [Vom EuGH bereitgestellte PDF](../sources/case-II-ZR-119-24.pdf) · [PDF-Lesefassung](../sources/case-II-ZR-119-24.txt) · [Abrufnachweis](../sources/verification.json).
+
+Ein Verbraucher hatte 2015 nach telefonischer Vermittlung und postalischer Erklärung eine auf Altersvorsorge gerichtete Genossenschaftsbeteiligung erworben. Die eG beschloss 2018 die Liquidation; der Widerruf folgte 2021. Der BGH setzte die Revision aus und legte dem EuGH zwei Fragen zur Richtlinie 2002/65/EG vor. Der gesamte 29-seitige Beschluss wurde gelesen; die zusätzlich heruntergeladene amtliche XML ist byteidentisch mit der lokalen Korpusdatei.
+
+Rn. 13–21 erläutern den Konflikt zwischen mitgliedschaftlicher Liquidationsbindung und fernabsatzrechtlicher Rückgewähr. Rn. 15 grenzt ausdrücklich § 65 Abs. 4 Satz 1 von § 75 ab: Hier lag die Auflösung bereits vor dem Widerruf. Rn. 16–18 erklären die herkömmliche Behandlung des fehlerhaften Beitritts als Beendigung für die Zukunft und die daraus folgende Liquidationsbindung. Rn. 21 und 38 stellen gerade deren unionsrechtliche Tragfähigkeit und hilfsweise die Beschränkung auf das wertabhängige Auseinandersetzungsguthaben zur Klärung.
+
+Rn. 39–51 behandeln die Entscheidungserheblichkeit, das im konkreten historischen Fall bestehende Widerrufsrecht, den fehlenden Fristbeginn bei Belehrungsmängeln und die verneinte Treuwidrigkeit. Die Ausführungen des Berufungsgerichts in Rn. 8–12 sind nicht als abschließender Standpunkt des BGH auszugeben. Ebenso sind dessen eigene Argumente für den Vorrang gesellschaftsrechtlicher Risikoverteilung keine bereits ergangene Antwort des EuGH.
+
+Unterstützte Kommentarstellen: §§ 15, 65, 73, 75, 90 und 91. Der Beschluss betrifft ausdrücklich historische BGB- und EGBGB-Fassungen. Daraus wird weder ein heutiges unbegrenztes Widerrufsrecht jedes Mitglieds noch ein abschließend bestätigter Ausschluss sämtlicher Widerrufe in Liquidation abgeleitet. Die gewöhnliche Kündigung und der fernabsatzrechtliche Widerruf bleiben zu unterscheiden.
+
+Das amtliche Korpus nennt als Folgeverfahren C-776/25, AVG Altersvorsorge. Die Vorlage und ihre Fragestellung sind verifiziert. Die am 19. Oktober 2026 abgerufene amtliche [InfoCuria-Fallübersicht](../sources/research/curia-c776-25.json) weist das Verfahren als „Pending“ aus; die [EUR-Lex-Mitteilung](../sources/research/eurlex-c776-25.json) belegt den Eingang am 3. Dezember 2025 und die Vorlagefragen. Eine abschließende Antwort des EuGH wird in diesem Kommentar nicht behauptet. Der zusätzliche Stichtagsabgleich und seine begrenzte Reichweite sind im [Rechercheprotokoll](../sources/search-log.json) dokumentiert.

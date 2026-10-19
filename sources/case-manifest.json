@@ -1,0 +1,51 @@
+[
+  {
+    "doknr": "KORE301052018",
+    "downloaded_xml": "sources/case-KORE301052018.xml",
+    "sha256": "8e5eda210d50528dcaa58a6f6d3710ea16b7b27171ab0e15b7ce0534c5b132f7",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301052018.xml",
+    "byte_identical_to_local_corpus": true,
+    "court": "BGH",
+    "date": "20180515",
+    "docket": "II ZR 2/16",
+    "ecli": "ECLI:DE:BGH:2018:150518UIIZR2.16.0",
+    "full_text_read": true
+  },
+  {
+    "doknr": "KORE707802024",
+    "downloaded_xml": "sources/case-KORE707802024.xml",
+    "sha256": "b6d024d4dbaaec4b442a7ee2863e5daa91c186e2d1a57977ddeb37ad751e52cb",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore707802024.xml",
+    "byte_identical_to_local_corpus": true,
+    "court": "BGH",
+    "date": "20241015",
+    "docket": "XI ZR 50/23",
+    "ecli": "ECLI:DE:BGH:2024:151024UXIZR50.23.0",
+    "full_text_read": true
+  },
+  {
+    "doknr": "JURE100071345",
+    "downloaded_xml": "sources/case-JURE100071345.xml",
+    "sha256": "1f517a962187627a84ab7a5e90789a30a4a8fbc25ebfec98c26d4ef9c377cf36",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure100071345.xml",
+    "byte_identical_to_local_corpus": true,
+    "court": "BGH",
+    "date": "20100920",
+    "docket": "II ZR 17/09",
+    "ecli": "",
+    "full_text_read": true
+  },
+  {
+    "doknr": "KORE728222025",
+    "court": "BGH",
+    "date": "20251021",
+    "docket": "II ZR 119/24",
+    "ecli": "ECLI:DE:BGH:2025:211025BIIZR119.24.0",
+    "downloaded_xml": "sources/case-KORE728222025.xml",
+    "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+    "byte_identical_to_local_corpus": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+    "full_text_read": true,
+    "decision_type": "Vorlagebeschluss"
+  }
+]

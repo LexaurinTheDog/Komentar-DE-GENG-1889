@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-19T15:35:04.084306+00:00",
+  "units": 199,
+  "commented_units": 199,
+  "individual_slots": 252,
+  "commentary_chars": 210749,
+  "missing_commentary": [],
+  "unknown_commentary": [],
+  "duplicate_commentary_ids": [],
+  "repeated_paragraphs_180plus_chars": [],
+  "xml_vs_independent_official_html_mismatches": [],
+  "local_links_checked": 80,
+  "broken_local_links": [
+    {
+      "from": "README.md",
+      "target": "technical-checks.json"
+    },
+    {
+      "from": "REVIEW.md",
+      "target": "technical-checks.json"
+    },
+    {
+      "from": "REVIEW.md",
+      "target": "validation.json"
+    },
+    {
+      "from": "SOURCES.md",
+      "target": "sources/manifest.json"
+    }
+  ],
+  "completeness_ok": true,
+  "limitations": [
+    "Linkprüfung betrifft lokale Manuskript- und Fallkartenlinks. Externe Quellenlinks wurden durch protokollierte Abrufe geprüft, nicht jede in amtlichen Quellen enthaltene Fremdverweisung.",
+    "Wiederholungsdiagnostik erkennt identische längere Absätze; sie beweist weder Originalität sämtlicher Gedanken noch juristische Qualität.",
+    "Dies ist technische und redaktionelle Eigenkontrolle, keine unabhängige zweite Prüfung."
+  ],
+  "ok": false
+}

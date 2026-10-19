@@ -1,0 +1,72 @@
+[
+  {
+    "act": "bgb",
+    "label": "§ 126b",
+    "doknr": "BJNR001950896BJNE249403360",
+    "stand": [
+      "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+      "zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+    ],
+    "source_url": "https://www.gesetze-im-internet.de/bgb/",
+    "raw_xml": "external/bgb.xml",
+    "text": "Ist durch Gesetz Textform vorgeschrieben, so muss eine lesbare Erklärung, in der die Person des Erklärenden genannt ist, auf einem dauerhaften Datenträger abgegeben werden. Ein dauerhafter Datenträger ist jedes Medium, das 1.es dem Empfänger ermöglicht, eine auf dem Datenträger befindliche, an ihn persönlich gerichtete Erklärung so aufzubewahren oder zu speichern, dass sie ihm während eines für ihren Zweck angemessenen Zeitraums zugänglich ist, und2.geeignet ist, die Erklärung unverändert wiederzugeben.",
+    "verified_at": "2026-10-19",
+    "scope": "Kontrollierter Querverweis; keine Gesamtkommentierung."
+  },
+  {
+    "act": "hgb",
+    "label": "§ 12",
+    "doknr": "BJNR002190897BJNE001604360",
+    "stand": [
+      "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+      "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+    ],
+    "source_url": "https://www.gesetze-im-internet.de/hgb/",
+    "raw_xml": "external/hgb.xml",
+    "text": "(1) Anmeldungen zur Eintragung in das Handelsregister sind elektronisch in öffentlich beglaubigter Form einzureichen. Die öffentliche Beglaubigung mittels Videokommunikation gemäß § 40a des Beurkundungsgesetzes ist zulässig. Die gleiche Form ist für eine Vollmacht zur Anmeldung erforderlich. Anstelle der Vollmacht kann die Bescheinigung eines Notars nach § 21 Absatz 3 der Bundesnotarordnung eingereicht werden. Rechtsnachfolger eines Beteiligten haben die Rechtsnachfolge soweit tunlich durch öffentliche Urkunden nachzuweisen.(2) Dokumente sind elektronisch in einem maschinenlesbaren und durchsuchbaren Datenformat einzureichen. Ist eine Urschrift oder eine einfache Abschrift einzureichen oder ist für das Dokument die Schriftform bestimmt, genügt die Übermittlung einer elektronischen Aufzeichnung; ist ein notariell beurkundetes Dokument oder eine öffentlich beglaubigte Abschrift einzureichen, so ist ein mit einem einfachen elektronischen Zeugnis (§ 39a des Beurkundungsgesetzes) versehenes Dokument zu übermitteln.",
+    "verified_at": "2026-10-19",
+    "scope": "Kontrollierter Querverweis; keine Gesamtkommentierung."
+  },
+  {
+    "act": "hgb",
+    "label": "§ 267a",
+    "doknr": "BJNR002190897BJNE100402360",
+    "stand": [
+      "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+      "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+    ],
+    "source_url": "https://www.gesetze-im-internet.de/hgb/",
+    "raw_xml": "external/hgb.xml",
+    "text": "(1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.450 000 Euro Bilanzsumme;2.900 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;3.im Jahresdurchschnitt zehn Arbeitnehmer.§ 267 Absatz 4 bis 6 gilt entsprechend.(2) Die in diesem Gesetz für kleine Kapitalgesellschaften (§ 267 Absatz 1) vorgesehenen besonderen Regelungen gelten für Kleinstkapitalgesellschaften entsprechend, soweit nichts anderes geregelt ist.(3) Keine Kleinstkapitalgesellschaften sind: 1.Investmentgesellschaften im Sinne des § 1 Absatz 11 des Kapitalanlagegesetzbuchs,2.Unternehmensbeteiligungsgesellschaften im Sinne des § 1a Absatz 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften oder3.Unternehmen, deren einziger Zweck darin besteht, Beteiligungen an anderen Unternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, ohne dass sie unmittelbar oder mittelbar in die Verwaltung dieser Unternehmen eingreifen, wobei die Ausübung der ihnen als Aktionär oder Gesellschafter zustehenden Rechte außer Betracht bleibt.",
+    "verified_at": "2026-10-19",
+    "scope": "Kontrollierter Querverweis; keine Gesamtkommentierung."
+  },
+  {
+    "act": "hgb",
+    "label": "§ 316a",
+    "doknr": "BJNR002190897BJNE113900360",
+    "stand": [
+      "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+      "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+    ],
+    "source_url": "https://www.gesetze-im-internet.de/hgb/",
+    "raw_xml": "external/hgb.xml",
+    "text": "Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse sind, sind die Vorschriften dieses Unterabschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden ist. Unternehmen von öffentlichem Interesse sind Unternehmen, die 1.kapitalmarktorientiert sind im Sinne des § 264d,2.CRR-Kreditinstitute sind im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme derjenigen Institute, die in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes und in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, genannt sind, oder3.Versicherungsunternehmen sind im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG.",
+    "verified_at": "2026-10-19",
+    "scope": "Kontrollierter Querverweis; keine Gesamtkommentierung."
+  },
+  {
+    "act": "inso",
+    "label": "§ 19",
+    "doknr": "BJNR286600994BJNE002109125",
+    "stand": [
+      "Zuletzt geändert durch Art. 6 G v. 15.7.2024 I Nr. 236",
+      "Mittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt"
+    ],
+    "source_url": "https://www.gesetze-im-internet.de/inso/",
+    "raw_xml": "external/inso.xml",
+    "text": "(1) Bei einer juristischen Person ist auch die Überschuldung Eröffnungsgrund.(2) Überschuldung liegt vor, wenn das Vermögen des Schuldners die bestehenden Verbindlichkeiten nicht mehr deckt, es sei denn, die Fortführung des Unternehmens in den nächsten zwölf Monaten ist nach den Umständen überwiegend wahrscheinlich. Forderungen auf Rückgewähr von Gesellschafterdarlehen oder aus Rechtshandlungen, die einem solchen Darlehen wirtschaftlich entsprechen, für die gemäß § 39 Abs. 2 zwischen Gläubiger und Schuldner der Nachrang im Insolvenzverfahren hinter den in § 39 Abs. 1 Nr. 1 bis 5 bezeichneten Forderungen vereinbart worden ist, sind nicht bei den Verbindlichkeiten nach Satz 1 zu berücksichtigen.(3) Ist bei einer rechtsfähigen Personengesellschaft kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist.",
+    "verified_at": "2026-10-19",
+    "scope": "Kontrollierter Querverweis; keine Gesamtkommentierung."
+  }
+]

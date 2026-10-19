@@ -1,0 +1,1255 @@
+{
+  "date": "2026-10-19",
+  "jurisdiction": "DE",
+  "purpose": "Selektive Autoritätenprüfung; keine erschöpfende Rechtsprechungsrecherche.",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_searches": [
+    {
+      "query": "§ 51 GenG | § 73 GenG | § 34 GenG | § 68 GenG",
+      "method": "rg over local official corpus",
+      "result": "Kandidaten u.a. II ZR 2/16, II ZR 17/09, XI ZR 50/23; daneben andere nur mittelbar einschlägige oder historisch überholte Entscheidungen."
+    },
+    {
+      "query": "II ZR 119/24",
+      "method": "manifest docket lookup",
+      "result": "KORE728222025; von ähnlich nummeriertem VII ZR 119/24 unterschieden."
+    }
+  ],
+  "web_queries": [
+    {
+      "evidence": "sources/research/search-amendments-exact.json",
+      "method": "Firecrawl search",
+      "results": [
+        {
+          "url": "https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RegE/RegE_Genossenschaftsrecht.pdf?__blob=publicationFile&v=2",
+          "title": "[PDF] Gesetzentwurf - Bundesministerium der Justiz und für Verbraucherschutz"
+        },
+        {
+          "url": "https://www.bmbfsfj.bund.de/resource/blob/164286/4e4bb20c5fe7a5e3489b663c747a0d6f/referentenentwurf-fuepog-ii-data.pdf",
+          "title": "[PDF] Referentenentwurf - BMBFSFJ"
+        },
+        {
+          "url": "https://dejure.org/",
+          "title": "d e j u r e . o r g - Gesetze und Rechtsprechung"
+        },
+        {
+          "url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_6/BGBLA_2026_I_6.pdf",
+          "title": "[PDF] BGBl. I Nr. 6/2026 - RIS"
+        },
+        {
+          "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_12_12_B_12_R_11_21_R.html",
+          "title": "Bundessozialgericht Urteil vom 12.12.2023, B 12 R 11/21 R"
+        }
+      ]
+    },
+    {
+      "evidence": "sources/research/search-amendments.json",
+      "method": "Firecrawl search",
+      "results": [
+        {
+          "url": "https://www.recht.bund.de/de/home/home_node.html",
+          "title": "Bundesgesetzblatt: Startseite"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/28/VO.html",
+          "title": "Bundesgesetzblatt Teil I - Gesetz zur Änderung des Verbrauchervertrags ..."
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/43/VO.html",
+          "title": "Drittes Gesetz zur Änderung des Gesetzes gegen den unlauteren ..."
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2026/107/VO.html",
+          "title": "Dreizehntes Gesetz zur Änderung des Zweiten Buches Sozialgesetzbuch ..."
+        },
+        {
+          "url": "https://www.recht.bund.de/de/bundesgesetzblatt/bgbl-1/bgbl-1_node.html",
+          "title": "Bundesgesetzblatt Teil I"
+        }
+      ]
+    },
+    {
+      "evidence": "sources/research/search-bgh.json",
+      "method": "Firecrawl search",
+      "results": [
+        {
+          "url": "https://www.bundesgerichtshof.de/",
+          "title": "Der Bundesgerichtshof - Startseite"
+        },
+        {
+          "url": "https://datenbank.nwb.de/Dokument/461100/",
+          "title": "BGH, Urteil v. 15.01.2013 - II ZR 83/11 - NWB Urteile"
+        },
+        {
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/ii_zr_119-24.pdf",
+          "title": "[PDF] BUNDESGERICHTSHOF - curia"
+        },
+        {
+          "url": "https://dejure.org/dienste/lex/GenG/15/1.html",
+          "title": "Rechtsprechung zu § 15 GenG - Seite 1 von 2 - dejure.org"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/geng/",
+          "title": "GenG - nichtamtliches Inhaltsverzeichnis"
+        }
+      ]
+    },
+    {
+      "evidence": "sources/research/search-c776-25.json",
+      "method": "Firecrawl search",
+      "results": [
+        {
+          "url": "https://infocuria.curia.europa.eu/tabs/affair?lang=EN&searchTerm=%22C-776%2F25%22&publishedId=C-776%2F25&logicDocId=",
+          "title": "C-776/25 - AVG Altersvorsorge - InfoCuria"
+        },
+        {
+          "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=31.12.2222&Aktenzeichen=C-776/25",
+          "title": "Rechtsprechung EuGH - C-776/25 - d e j u r e . o r g"
+        },
+        {
+          "url": "https://rdb.manz.at/document/eu.62025CN0776",
+          "title": "Rechtssache C-776/25, AVG Altersvorsorge"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/LV/CASE/?uri=CELEX:62025CN0776",
+          "title": "62025CN0776 - EN - EUR-Lex - European Union"
+        },
+        {
+          "url": "https://www.modro-poslovanje.si/BAZA-ZNANJA/celex62025cn0776-case-c-77625-avg-altersvorsorge-request-for-a-preliminary-ruling-from-the-bundesgerichtshof-germany-lodged-on-3december-2025-avg-altersvorsorge-genossenschaft-eg-il-v-ls",
+          "title": "Case C-776/25, AVG Altersvorsorge: Request for a preliminary ruling ..."
+        }
+      ]
+    },
+    {
+      "evidence": "sources/research/search-geng.json",
+      "method": "Firecrawl search",
+      "results": [
+        {
+          "url": "https://www.gesetze-im-internet.de/geng/",
+          "title": "GenG - nichtamtliches Inhaltsverzeichnis"
+        },
+        {
+          "url": "https://dejure.org/gesetze/GenG",
+          "title": "Genossenschaftsgesetz (GenG) - dejure.org"
+        },
+        {
+          "url": "https://datenbank.nwb.de/Dokument/83056_51/",
+          "title": "51 Anfechtung von Beschlüssen der Generalversammlung [1]"
+        },
+        {
+          "url": "https://www.bmjv.de/SharedDocs/Downloads/DE/Gesetzgebung/RefE/RefE_Genossenschaftsrecht.pdf?__blob=publicationFile&v=2",
+          "title": "[PDF] Entwurf eines Gesetzes zur Stärkung der genossenschaftlichen Rechtsform"
+        },
+        {
+          "url": "https://www.haufe.de/id/beitrag/organe-der-genossenschaft-34-nach-der-versammlung-beschlussanfechtung-HI6629511.html",
+          "title": "Organe der Genossenschaft / 3.4 Nach der Versammlung - Haufe"
+        }
+      ]
+    },
+    {
+      "evidence": "sources/research/search-ii119-status.json",
+      "method": "Firecrawl search",
+      "results": [
+        {
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/ii_zr_119-24.pdf",
+          "title": "[PDF] BUNDESGERICHTSHOF - curia"
+        }
+      ]
+    }
+  ],
+  "used_cases": [
+    {
+      "doknr": "KORE301052018",
+      "downloaded_xml": "sources/case-KORE301052018.xml",
+      "sha256": "8e5eda210d50528dcaa58a6f6d3710ea16b7b27171ab0e15b7ce0534c5b132f7",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301052018.xml",
+      "byte_identical_to_local_corpus": true,
+      "court": "BGH",
+      "date": "20180515",
+      "docket": "II ZR 2/16",
+      "ecli": "ECLI:DE:BGH:2018:150518UIIZR2.16.0",
+      "full_text_read": true
+    },
+    {
+      "doknr": "KORE707802024",
+      "downloaded_xml": "sources/case-KORE707802024.xml",
+      "sha256": "b6d024d4dbaaec4b442a7ee2863e5daa91c186e2d1a57977ddeb37ad751e52cb",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore707802024.xml",
+      "byte_identical_to_local_corpus": true,
+      "court": "BGH",
+      "date": "20241015",
+      "docket": "XI ZR 50/23",
+      "ecli": "ECLI:DE:BGH:2024:151024UXIZR50.23.0",
+      "full_text_read": true
+    },
+    {
+      "doknr": "JURE100071345",
+      "downloaded_xml": "sources/case-JURE100071345.xml",
+      "sha256": "1f517a962187627a84ab7a5e90789a30a4a8fbc25ebfec98c26d4ef9c377cf36",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure100071345.xml",
+      "byte_identical_to_local_corpus": true,
+      "court": "BGH",
+      "date": "20100920",
+      "docket": "II ZR 17/09",
+      "ecli": "",
+      "full_text_read": true
+    },
+    {
+      "doknr": "KORE728222025",
+      "court": "BGH",
+      "date": "20251021",
+      "docket": "II ZR 119/24",
+      "ecli": "ECLI:DE:BGH:2025:211025BIIZR119.24.0",
+      "downloaded_xml": "sources/case-KORE728222025.xml",
+      "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+      "byte_identical_to_local_corpus": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+      "full_text_read": true,
+      "decision_type": "Vorlagebeschluss"
+    }
+  ],
+  "not_used_candidates": [
+    {
+      "doknr": "KORE315172013",
+      "docket": "II ZR 83/11",
+      "reason": "Als Kandidat abgerufen, in dieser Ausgabe nicht vollständig rechtlich ausgewertet und daher nicht als Autorität zitiert."
+    },
+    {
+      "doknr": "KORE314682010",
+      "docket": "IX ZB 120/10",
+      "reason": "Historischer Wohnungsgenossenschaftsfall vor Einführung des heutigen § 67c; nicht als heutige Schutzregel verwendet."
+    },
+    {
+      "doknr": "KORE308412018",
+      "docket": "II ZR 1/16",
+      "reason": "Betrifft Publikumsgesellschaft bürgerlichen Rechts, keine unmittelbare GenG-Autorität für diese Ausgabe."
+    }
+  ],
+  "followup_check": {
+    "case": "C-776/25",
+    "name": "AVG Altersvorsorge",
+    "status_in_official_infocuria_on_access": "Pending",
+    "evidence": "research/curia-c776-25.json",
+    "notice": "research/eurlex-c776-25.json",
+    "limit": "Verifizierter Stand der abgerufenen amtlichen Fallübersicht; kein Anspruch auf Erfassung jeder nachfolgenden oder unveröffentlichten Entwicklung."
+  },
+  "unit_disposition": [
+    {
+      "unit_id": "p1",
+      "verified_case_ids": [
+        "KORE707802024"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p2",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p3",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p4",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p5",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p6",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p7",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p7a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p8",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p8a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p9",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p10",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p11",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p11a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p12",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p13",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p14",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p14a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p15",
+      "verified_case_ids": [
+        "KORE728222025"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p15a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p15b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p16",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p17",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p18",
+      "verified_case_ids": [
+        "KORE301052018"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p19",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p20",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p21",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p21a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p21b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p22",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p22a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p22b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p23",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p24",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p25",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p25a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p26",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p27",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p28",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p29",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p30",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p31",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p32",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p33",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p33a-33i",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p34",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p35",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p36",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p37",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p38",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p39",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p40",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p41",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p42",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p43",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p43a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p43b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p44",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p45",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p46",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p47",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p48",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p49",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p50",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p51",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p52",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p53",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p53a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p54",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p54a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p55",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p56",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p57",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p57a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p58",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p59",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p60",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p61",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p62",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63c",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63d",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63e",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63f",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63g",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p63h",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p64",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p64a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p64b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p64c",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p65",
+      "verified_case_ids": [
+        "KORE301052018",
+        "KORE728222025"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p66",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p66a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p67",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p67a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p67b",
+      "verified_case_ids": [
+        "KORE301052018"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p67c",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p68",
+      "verified_case_ids": [
+        "KORE301052018",
+        "JURE100071345"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p69",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p70-72",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p73",
+      "verified_case_ids": [
+        "KORE728222025"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p74",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p75",
+      "verified_case_ids": [
+        "KORE728222025"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p76",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p77",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p77a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p78",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p78a-78b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p79",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p79a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p80",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p81",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p81a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p82",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p83",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p84",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p85",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p86",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p87",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p87a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p87b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p88",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p88a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p89",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p90",
+      "verified_case_ids": [
+        "KORE728222025"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p91",
+      "verified_case_ids": [
+        "KORE728222025"
+      ],
+      "result": "Verifizierte gezielte Belegstelle zugeordnet."
+    },
+    {
+      "unit_id": "p92",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p93",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p93a-93s",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p94",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p95",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p96",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p97",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p98",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p99",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p100",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p101",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p102",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p103-104",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p105",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p106",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p107",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p108",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p108a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p109",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p110",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p111",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p112",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p112a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p113",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p114",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p115",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p115a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p115b",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p115c",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p115d",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p115e",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p116",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p117",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p118",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p119",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p120",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p121",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p122-145",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p146",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p147",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p148",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p149",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p150",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p151",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p151a",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p152",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p153",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p154",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p155",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p156",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p157",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p158",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p159",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p160",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p161",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p162",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p163",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p164",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p165",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p166",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p167",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p168",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p169",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p170",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p171",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p172",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p173",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p174",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p175",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p176",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    },
+    {
+      "unit_id": "p177",
+      "verified_case_ids": [],
+      "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
+    }
+  ]
+}

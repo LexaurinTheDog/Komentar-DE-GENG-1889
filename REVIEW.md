@@ -1,0 +1,19 @@
+# Bearbeitungs- und Prüfstand
+
+Stand: **19. Oktober 2026**. Dieser Bericht dokumentiert die Eigenkontrolle der Erstausarbeitung. Eine unabhängige zweite Prüfung und externe anwaltliche Freigabe haben nicht stattgefunden.
+
+Die Ausarbeitung deckt alle 199 amtlichen Einheiten ab. Die 252 einzelnen Paragraphenpositionen schließen sämtliche amtlichen Wegfallbereiche ein. Der [Vollständigkeitsbericht](completeness.json) vergleicht die aus der amtlichen Inhaltsübersicht gewonnenen erwarteten Kennungen mit den extrahierten Kennungen und erläutert Anlagenfreiheit, Struktur und Sammelvermerke. Der [Fassungsvergleich](sources/change-map.json) weist gegenüber dem unveränderten Intake keine Textänderung nach reiner Leerraumnormalisierung nach.
+
+Das [technische Prüfprotokoll](technical-checks.json) prüft Kommentarzuordnung, doppelte Kennungen, identische längere Absätze, lokale Manuskriptlinks und die Übereinstimmung des XML-extrahierten Wortlauts mit der gesondert abgerufenen amtlichen HTML-Ausgabe je Dokumentnummer. Die [strenge Build-Validierung](validation.json) misst zusätzlich die vollständige Textübereinstimmung mit dem erhaltenen kanonischen Text, Pflichtdateien, Kommentarabdeckung, Platzhalterfreiheit sowie lokalen Commit und sauberen Ausgabebaum. Weder Mindestlänge noch Skripterfolg beweisen die juristische Richtigkeit jeder Auslegung.
+
+Im Rahmen der laufenden redaktionellen Eigenkontrolle wurden insbesondere folgende Punkte nachgebessert:
+
+- Die ursprüngliche Intake-Zählung wurde erklärt: Inhaltsübersicht und Abschnittsüberschriften zählen nicht als zusätzliche gesetzliche Kommentarbestimmungen. Alle sechs Sammelvermerke sind auf Einzelebene nachgewiesen.
+- Bei § 4 wurde der Ausschluss investierender Mitglieder aus der gerichtlichen Mindestbestandskontrolle nach § 80 ergänzt.
+- Eine sachlich unpassende Verknüpfung von § 120 mit der BilMoG-Übergangsvorschrift § 167 wurde entfernt. Die geltende Herabsetzungsregel und historische Fassungsprüfung werden getrennt.
+- Textform, satzungsmäßiger Schriftformvorbehalt und befristete Übergangsbeschlüsse nach § 177 werden auseinandergehalten; Registeranmeldungen sind weiterhin besonders formgebunden.
+- Die unterschiedlichen Quoren in § 79a wurden ausdrücklich getrennt: abgegebene Stimmen im Regelfall, Mitgliedermehrheit in zwei Versammlungen bei negativem Verbandsgutachten.
+- Die Aussagen der drei zunächst verwendeten BGH-Entscheidungen wurden an den vollständig gelesenen amtlichen Gründen begrenzt. Offengelassene Abmahnungs- und Satzungsfragen wurden nicht als entschieden ausgegeben.
+- Der zusätzliche BGH-Vorlagebeschluss II ZR 119/24 wurde vollständig gelesen und an den einschlägigen Austritts- und Liquidationsstellen ergänzt. Historische Verbraucherregelungen, herkömmliche nationale Lösung und offene EuGH-Fragen sind getrennt; der am Stichtag abgerufene amtliche Folgestatus C-776/25 ist dokumentiert.
+
+Verbleibende Grenzen: Die Rechtsprechungsauswahl ist selektiv. Nicht jede Vorschrift hat eine eigenständig umfassende Rechtsprechungssuche erhalten. Der Kommentar enthält keine vollständige historische Parallelfassung sämtlicher extern verwiesener Gesetzbücher. Satzungen, besondere Branchenaufsicht und fallbezogene Prozessfragen müssen bei Anwendung zusätzlich untersucht werden. Der Rechtsstand ist auf den dokumentierten Stichtag begrenzt. Der nächste vorgesehene Bearbeitungsschritt ist eine unabhängige inhaltliche Zweitprüfung durch einen frischen Prozess; dieser Bericht nimmt deren Ergebnis nicht vorweg.
