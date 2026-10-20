@@ -1,0 +1,14 @@
+{
+  "method": "rg -l literal docket search across local official XML corpus",
+  "query": "II ZR 2/16",
+  "corpus": "/Volumes/LaCie/law-intake/eu/de/rii/_raw",
+  "recorded_after_completion_at": "2026-10-20T08:14:28.424308+00:00",
+  "matched_filenames": [
+    "rii-kore301052018.xml",
+    "rii-kore302382018.xml",
+    "rii-kore303582021.xml",
+    "rii-kore306042018.xml"
+  ],
+  "used_full_text": "rii-kore301052018.xml",
+  "disposition": "Only II ZR 2/16 used; other citing matches not read as new authorities and not cited."
+}

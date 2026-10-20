@@ -1,0 +1,11 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301052018.zip",
+  "accessed_at": "2026-10-20T08:11:23.051306+00:00",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "file": "review-p15b-p29/case-KORE301052018.zip",
+  "sha256": "1a82b0706987ad636f1160e24a9fe62941983bb129bdf644d02164e8728bb59f",
+  "xml_file": "review-p15b-p29/case-KORE301052018.xml",
+  "xml_sha256": "8e5eda210d50528dcaa58a6f6d3710ea16b7b27171ab0e15b7ce0534c5b132f7",
+  "format_validation": "ZIP testzip passed; XML parsed; docket checked; byte equal to preserved canonical case and local official corpus"
+}

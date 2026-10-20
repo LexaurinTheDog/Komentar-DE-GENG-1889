@@ -155,5 +155,66 @@
       "evidence": "review-technical-p1-p15a.json"
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p15b_p29_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T08:13:21.755976+00:00",
+    "scope": [
+      "p15b",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p20",
+      "p21",
+      "p21a",
+      "p21b",
+      "p22",
+      "p22a",
+      "p22b",
+      "p23",
+      "p24",
+      "p25",
+      "p25a",
+      "p26",
+      "p27",
+      "p28",
+      "p29"
+    ],
+    "raw_fetches": "sources/review-p15b-p29/fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "Frisch beschaffter Verkündungstext bytegleich; Art. 22 Nr. 6 (§ 15b), Nr. 7 (§ 21b) S. 14 sowie Art. 74 Abs. 1–13 S. 34–35 gelesen. Verkündet 29.10.2024, Art. 22 nicht ausgenommen. Abrufdatum/XML-Builddatum sind kein Wirksamkeitsbeleg.",
+      "source": "sources/review-p15b-p29/beg4.pdf"
+    },
+    "historical_versions_checked": {
+      "canonical_and_fresh_equal": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "independent_inventory": "coverage-check.json",
+      "selection": "Single current consolidated XML; full inventory, no concatenated historical norm versions. Original intake preserved."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [
+        "§ 110 Hinterlegung oder Anlage der Vorschüsse"
+      ],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "No operative annex or Eingangsformel found in raw nodes or separately captured current contents/full HTML; no new omission to repair."
+    },
+    "unresolved_blockers": []
   }
 }

@@ -1282,5 +1282,39 @@
     "firecrawl_extraction": "research/review-p1-p15a-firecrawl-p6.json",
     "no_new_case_added": true,
     "limits": "Status C-776/25 bleibt ausdrücklich Stand 19.10.2026; kein neuer Folgestatus behauptet."
+  },
+  "bounded_review_p15b_p29": {
+    "reviewed_at": "2026-10-20T08:13:21.755976+00:00",
+    "reviewed_ids": [
+      "p15b",
+      "p16",
+      "p17",
+      "p18",
+      "p19",
+      "p20",
+      "p21",
+      "p21a",
+      "p21b",
+      "p22",
+      "p22a",
+      "p22b",
+      "p23",
+      "p24",
+      "p25",
+      "p25a",
+      "p26",
+      "p27",
+      "p28",
+      "p29"
+    ],
+    "method": "Full reading of cited official BGH XML II ZR 2/16, its case card and relevant current GenG cross-references. Fresh official ZIP/XML fetched and byte-compared with preserved case and local official corpus. Local docket search also recorded separately; unused citing decisions not treated as authority.",
+    "case_evidence": "review-p15b-p29/case-fetch.json",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301052018.xml",
+    "used_case_ids": [
+      "KORE301052018"
+    ],
+    "new_case_added": false,
+    "technical_evidence": "../review-technical-p15b-p29.json",
+    "limits": "Selective authority verification; no claim that each unit received exhaustive new case-law discovery."
   }
 }

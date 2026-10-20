@@ -1,0 +1,319 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "scope_complete": true,
+  "whole_book_review_complete": false,
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T08:05:57.149619+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p7a",
+    "p8",
+    "p8a",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p15a"
+  ],
+  "corrected_ids": [
+    "p1",
+    "p3",
+    "p4",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p11",
+    "p14",
+    "p15"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "p1",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; § 8 Abs. 2; § 15; XI ZR 50/23 Rn. 14, 20–24",
+      "result": "corrected",
+      "finding": "Offener Mitgliederbestand, unmittelbare und mittelbare Förderung sowie untergeordnete gemeinnützige Beteiligung stimmen. Zulassungserfordernis ergänzt; Kundenvertragsfall weder als Aufnahmeanspruch noch als genereller Förderpflichtausschluss behandelt.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000203377",
+      "commentary_sha256": "1d455273589c862af30ffad24f6f60bce237c80bdba8c7bac5c106b47198c25e"
+    },
+    {
+      "unit_id": "p2",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; §§ 7, 13, 15a, 105",
+      "result": "retained_after_review",
+      "finding": "Außenhaftung nur mit dem gesamten eG-Vermögen und interne Einlage-/Nachschusslasten zutreffend getrennt. Insolvenzbeispiel begründet keinen unmittelbaren Gläubigeranspruch gegen Mitglieder. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000303377",
+      "commentary_sha256": "1eeab6b11488b1da67818c156eefbafe9c2eb0df193634c1be93ff42be595a37"
+    },
+    {
+      "unit_id": "p3",
+      "reviewed": true,
+      "source_scope": "Sätze 1–2; § 6; § 25a; HGB §§ 22, 30",
+      "result": "corrected",
+      "finding": "Rechtsformzusatz auch bei Firmenfortführung zutreffend. Örtlicher Maßstab des § 30 HGB und möglicher Zweigniederlassungszusatz ergänzt; keine bundesweite Namensexklusivität unterstellt.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000404377",
+      "commentary_sha256": "5f02ea694f31c9e0f1704f9b4a46384f412d139584d775e1745e794a284a486b"
+    },
+    {
+      "unit_id": "p4",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; § 9; § 11 Abs. 2 Nr. 1; § 80",
+      "result": "corrected",
+      "finding": "Drei Mitglieder statt drei Anteile und Nichtberücksichtigung investierender Mitglieder in § 80 zutreffend. Antrag und amtswegiger Eingriff präzisiert; keine sechsmonatige generelle Befreiung vom Antrag behauptet.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000503377",
+      "commentary_sha256": "83faab53e930c3bc62ea347f881f8fa44d4bf810598a6d489a42ba860400fcd5"
+    },
+    {
+      "unit_id": "p5",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; §§ 6, 7, 11, 157; BGB § 126b; BEG IV Art. 22 Nr. 2, Art. 74",
+      "result": "retained_after_review",
+      "finding": "Textform seit 1.1.2025, dauerhafter Datenträger und besondere Gründungs-/Anmeldenachweise stimmen. Elektronisches Gründungsbeispiel und Warnung vor Rückprojektion auf Altfälle nachvollziehbar. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000604125",
+      "commentary_sha256": "8e3064fd25e14dec64e2653fed87254debca4616ddfdb85d0145cc5e28898995"
+    },
+    {
+      "unit_id": "p6",
+      "reviewed": true,
+      "source_scope": "Nr. 1–5; §§ 1, 43b, 46, 47",
+      "result": "corrected",
+      "finding": "Firma, Sitz, Gegenstand und Nachschusswahl stimmen. Fehlende Erläuterung zu Beschlussbeurkundung, Vorsitz und gerichtlichen Einberufungsausnahmen ergänzt. Elektronische Bekanntmachung nach Nr. 5 von Einladung nach Nr. 4 getrennt.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000705123",
+      "commentary_sha256": "a013de3e8dae477bbef7c16ad687b2edac594413956c7c22394c293ca8f15205"
+    },
+    {
+      "unit_id": "p7",
+      "reviewed": true,
+      "source_scope": "Nr. 1–2; § 50",
+      "result": "corrected",
+      "finding": "Betrag und Zeit für mindestens 1/10, Rücklagenzweck, Zuführungsquote und Mindestbetrag stimmen. Anteilszahl als Ausgangsbegriff durch Betrag des Geschäftsanteils ersetzt; Rechenbeispiel 100 von 1000 Euro zutreffend.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000803377",
+      "commentary_sha256": "732a85526c334980a0f9a3a6f75b069026ad1227744cb24d1727259e54e649ef"
+    },
+    {
+      "unit_id": "p7a",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3; §§ 11a, 15b, 43",
+      "result": "retained_after_review",
+      "finding": "Freiwillige Mehrfachbeteiligung, zulässige Staffelungsmerkmale der Pflichtbeteiligung und Satzungsermächtigung für Sacheinlagen vollständig unterschieden. Keine automatischen Mehrstimmen; Bewertungsbezug zu § 11a stimmt. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE000903377",
+      "commentary_sha256": "e9cb0bdf0614d5abd9e191aa292d26d445ced463f31f6f417800d3df45e39848"
+    },
+    {
+      "unit_id": "p8",
+      "reviewed": true,
+      "source_scope": "Abs. 1 Nr. 1–5; Abs. 2",
+      "result": "corrected",
+      "finding": "Alle fünf Satzungsvorbehalte gegen Wortlaut geprüft und konkretisiert. Investierende Mitglieder definiert, Bezugsgröße abgegebene Stimmen sowie Aufsichtsratsviertel ausgeschrieben; Zustimmung und Schutz gegen Überstimmung/Blockade stimmen.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001004123",
+      "commentary_sha256": "91fdb354f352d7d25fc52d4ff4f42a84725b9198ba9333b48194ff0996dece46"
+    },
+    {
+      "unit_id": "p8a",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; § 16 Abs. 2 Nr. 9; § 67a; § 73",
+      "result": "retained_after_review",
+      "finding": "Fakultatives Mindestkapital und Auszahlungssperre, keine verlustfeste Vermögensgarantie und keine Verschiebung des Mitgliedschaftsendes zutreffend. Mögliches Sonderkündigungsrecht als bedingt dargestellt. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE023301377",
+      "commentary_sha256": "500e90bf6bb32edf430dbd20cd07fcc33425c78e251c6d19ea359fa7d7243220"
+    },
+    {
+      "unit_id": "p9",
+      "reviewed": true,
+      "source_scope": "Abs. 1–4",
+      "result": "corrected",
+      "finding": "Satzungsverzicht bei höchstens 20 Mitgliedern und Zuständigkeiten/Zielgrößen einschließlich Nullbegründung, 30-Prozent-Bestandsschutz und Fünfjahresfrist stimmen. Besondere Berufungsfähigkeit natürlicher Mitglieder einer beteiligten eG gegenüber Vertretern anderer Rechtsträger konkretisiert.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001105360",
+      "commentary_sha256": "fef2bde4988439df8cf0eb30b3290c4ff15d2151ec477ae9a97c1e54bef6a1db"
+    },
+    {
+      "unit_id": "p10",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; §§ 11, 13, 28, 29",
+      "result": "retained_after_review",
+      "finding": "Sitzregister, Satzungs- und Vorstandseintragung sowie Schutz der Bezeichnung Genossenschaftsregister zutreffend. Verweise betreffen tatsächlich Anmeldung, Status, Änderung und Publizität. Verzeichnisbeispiel plausibel. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001205140",
+      "commentary_sha256": "d66be7dd540dd822578bd4e49a8f59686096dacc4a2471dde9e7c932750c3f88"
+    },
+    {
+      "unit_id": "p11",
+      "reviewed": true,
+      "source_scope": "Abs. 1–5; § 11a; § 157; HGB § 12 Abs. 2; BEG IV Art. 22 Nr. 3",
+      "result": "corrected",
+      "finding": "Beide Alternativen des Gründungsnachweises, Organbestellungen, Verbandszulassung/-gutachten und Vertretungsangaben stimmen. Dokumentenformat nach HGB und beglaubigte Anmeldung sämtlicher Vorstandsmitglieder deutlicher getrennt; weggefallener Abs. 5 erfasst.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001307125",
+      "commentary_sha256": "bedeb70e6c4b6759869b38871e6ed6776a95a051baf96ddce5d9929cdba1daed"
+    },
+    {
+      "unit_id": "p11a",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3 Nr. 1–3",
+      "result": "retained_after_review",
+      "finding": "Errichtungs-/Anmeldeprüfung, Gefährdung und Erklärung überbewerteter Sacheinlagen vollständig erfasst. Drei Grenzen der Ablehnung wegen Satzungsmängeln zutreffend beschrieben; Eintragung nicht als materielle Heilung ausgegeben. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001404377",
+      "commentary_sha256": "a8120331cc889235a790f6ea450294c9ddf88c30a0687b46d79215a5c9298a0f"
+    },
+    {
+      "unit_id": "p12",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; § 15 Abs. 1; § 16 Abs. 6",
+      "result": "retained_after_review",
+      "finding": "Gerichtliche Veröffentlichung der eingetragenen Satzung zutreffend. Eintragungswirkung und eigene vorvertragliche Satzungsinformation sauber getrennt; Beispiel enthält keinen falschen Heilungstatbestand. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001504360",
+      "commentary_sha256": "591e5dd964c0931a846c4b116f9de89b28d5380c24420018432edb13400a89b6"
+    },
+    {
+      "unit_id": "p13",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; §§ 2, 11, 11a",
+      "result": "retained_after_review",
+      "finding": "Fehlende Rechte einer eingetragenen eG vor Registereintragung zutreffend. Der knappe Gesetzessatz wird nicht zur pauschalen Unwirksamkeit aller Vorgesellschaftsgeschäfte oder Haftungsfreiheit umgedeutet. Beispiel bewusst ohne ungesicherte Haftungsbehauptung. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001603377",
+      "commentary_sha256": "de9167ebff32811a03ac6cfae38d3a1a30472ea32a3de1bc14a8c684268f2eb2"
+    },
+    {
+      "unit_id": "p14",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3",
+      "result": "corrected",
+      "finding": "Ort, Firmenzusatz, Sitzregisterblatt, Änderungen, offensichtliche Nichterrichtung und entsprechende Aufhebungsanwendung geprüft. Vorstand als Anmeldender ergänzt; keine eigene Rechtspersönlichkeit der Zweigniederlassung behauptet.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001705377",
+      "commentary_sha256": "f30ee0bfb2d986f5e59b6d31c18277b3e88a5100f266ffa327e7c2a8f7745f0a"
+    },
+    {
+      "unit_id": "p14a",
+      "reviewed": true,
+      "source_scope": "Amtlicher Titel (weggefallen), Textkörper -; § 14",
+      "result": "retained_after_review",
+      "finding": "Amtlicher leerer Slot korrekt als Wegfall statt als übersehene Norm behandelt. Keine historische Regelung in Gegenwartsrecht umgeschrieben. Historisches Formularbeispiel und Verweis auf § 14 passen. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001804377",
+      "commentary_sha256": "429e712aeabf8ced13476657f109765d420de0f1a1a6fc16876f46aa1cb97912"
+    },
+    {
+      "unit_id": "p15",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; § 15a; § 177 Abs. 1; II ZR 119/24 Rn. 39–46",
+      "result": "corrected",
+      "finding": "Unbedingtheit, Form, Zulassung, vorheriger Satzungszugang, Vollmacht, Gründeralternative, Liste und Ablehnungsdaten geprüft. Internetalternative präzisiert; Übergangsbeschluss, Enddatum 31.12.2029 und ausdrücklicher Satzungsausschluss ergänzt. Historischer Widerrufsfall bleibt eng begrenzt.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE001906125",
+      "commentary_sha256": "5a34c3ea3766714ac5cf2bea6751f8beff5d55c6a2d9c1abb2b7f9e040c09459"
+    },
+    {
+      "unit_id": "p15a",
+      "reviewed": true,
+      "source_scope": "Sätze 1–4; § 15b Abs. 1; BEG IV Art. 22 Nr. 5",
+      "result": "retained_after_review",
+      "finding": "Einzahlung, nach Satzung unbeschränkte/beschränkte Nachschüsse, weitere Zahlungen und Kündigungsfrist über einem Jahr vollständig erfasst. Elektronische optische Hervorhebung betrifft zutreffend Sätze 2 und 3, nicht pauschal alle Formularinhalte. Anwendung auf weitere Anteile stimmt. Beibehalten.",
+      "resolved": true,
+      "statutory_source": "sources/geng.xml",
+      "official_doknr": "BJNR000550889BJNE002005125",
+      "commentary_sha256": "6c3507eefc3f3ab48113a433110857c994623e8548ae30fe355b99bc6bf89477"
+    }
+  ],
+  "limitations": [
+    "Genau 20 zugewiesene Einheiten inhaltlich geprüft; die übrigen 179 Einheiten sind nicht Gegenstand dieses Reviews.",
+    "Selektive Autoritätenprüfung: die beiden bereits zitierten amtlichen BGH-Volltexte erneut vollständig gelesen; keine neue erschöpfende Rechtsprechungssuche.",
+    "Historische BGB-/EGBGB-Regeln des Vorlagefalls werden nur als historische Entscheidungsgrundlage behandelt, nicht als aktuelles allgemeines Widerrufsrecht.",
+    "Keine externe anwaltliche Freigabe; technischer Skripterfolg ist kein Ersatz für juristische Einzelfallprüfung.",
+    "Keine vollständige historische Rekonstruktion aller Änderungsgesetze oder externen Gesetzbücher."
+  ],
+  "source_checks": {
+    "fresh_fetches": "sources/review-p1-p15a/fetches.json",
+    "verification": "sources/verification.json",
+    "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "fresh_equals_canonical": true,
+    "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+    "effective_from": "2025-01-01",
+    "commencement_basis": "BGBl. 2024 I Nr. 323, Art. 22 (S. 13–14) und Art. 74 (S. 34–35), verkündet 29.10.2024",
+    "technical_evidence": "review-technical-p1-p15a.json"
+  },
+  "authorities": [
+    {
+      "case": "BGH XI ZR 50/23, 15.10.2024",
+      "full_text_read": true,
+      "supported_ids": [
+        "p1"
+      ],
+      "precise_paragraphs": [
+        "14",
+        "20–24"
+      ],
+      "snapshot": "sources/case-KORE707802024.xml",
+      "case_card": "cases/bgh-xi-zr-50-23.md"
+    },
+    {
+      "case": "BGH II ZR 119/24, 21.10.2025",
+      "full_text_read": true,
+      "supported_ids": [
+        "p15"
+      ],
+      "precise_paragraphs": [
+        "13–21",
+        "38–51"
+      ],
+      "snapshot": "sources/case-KORE728222025.xml",
+      "case_card": "cases/bgh-ii-zr-119-24.md",
+      "limit": "Vorlagebeschluss zu historischem Fernabsatzbeitritt; kein abschließendes EuGH-Sachurteil."
+    }
+  ],
+  "technical_validation_report": "review-validation.json",
+  "preservation": {
+    "base_work_commit": "b0d3422",
+    "nonassigned_commentary_blocks_unchanged": 179,
+    "original_intake_modified": false
+  },
+  "publication_or_external_writes": false
+}
