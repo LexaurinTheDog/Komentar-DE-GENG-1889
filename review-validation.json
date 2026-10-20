@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-20T08:06:39.572230+00:00",
+  "scope": "Technical checkpoint for bounded substantive review of 20 units; whole-book substantive review not asserted.",
+  "strict": {
+    "repo": "Komentar-DE-GENG-1889",
+    "units": 199,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 214330,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "complete": true,
+  "output_content_commit": "8807a4ff71e0ac435f737f9fb02a4686f31d5f69",
+  "technical_checks": {
+    "ok": true,
+    "local_links_checked": 99,
+    "broken_local_links": [],
+    "commented_units": 199,
+    "repeated_long_paragraphs": 0,
+    "xml_html_mismatches": []
+  },
+  "coverage": {
+    "ok": true,
+    "statutory_units": 199,
+    "individual_slots": 252,
+    "evidence": "coverage-check.json"
+  },
+  "scope_reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p7a",
+    "p8",
+    "p8a",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p15a"
+  ]
+}

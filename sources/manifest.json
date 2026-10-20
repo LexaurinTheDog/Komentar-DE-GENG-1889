@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T08:05:58.629092+00:00",
+  "created_at": "2026-10-20T08:07:04.298265+00:00",
   "files": [
     {
       "path": "sources/beg4.pdf",
@@ -293,8 +293,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "sha256": "faa5b5cf58fab371afb1657f3587b68a90103011a08cf8e0bc45c63caa119c67",
-      "bytes": 69840
+      "sha256": "417c051ff6cae948b5ce38939dd03e6fb671491d9ba242682e53182efb4ec2c1",
+      "bytes": 70794
     },
     {
       "path": "sources/statute-metadata.json",

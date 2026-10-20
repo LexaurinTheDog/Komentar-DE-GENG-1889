@@ -1251,5 +1251,36 @@
       "verified_case_ids": [],
       "result": "Keine hinreichend spezifisch verifizierte Entscheidung in dieser selektiven Recherche zugeordnet; keine Negativbehauptung zum gesamten Entscheidungsbestand. Keine flächendeckende Einzelrecherche je technischem Paragraphen."
     }
-  ]
+  ],
+  "bounded_review_p1_p15a": {
+    "reviewed_at": "2026-10-20T08:07:04.078518+00:00",
+    "reviewed_ids": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p7a",
+      "p8",
+      "p8a",
+      "p9",
+      "p10",
+      "p11",
+      "p11a",
+      "p12",
+      "p13",
+      "p14",
+      "p14a",
+      "p15",
+      "p15a"
+    ],
+    "method": "Erneute vollständige Lektüre der bereits gesicherten amtlichen BGH-Volltexte XI ZR 50/23 und II ZR 119/24, Abgleich der Fallkarten und bytegleicher örtlicher amtlicher XML-Korpusdateien; keine neue erschöpfende Entscheidungssuche.",
+    "case_evidence": "../review-technical-p1-p15a.json",
+    "fresh_statutory_fetch_log": "review-p1-p15a/fetches.json",
+    "firecrawl_extraction": "research/review-p1-p15a-firecrawl-p6.json",
+    "no_new_case_added": true,
+    "limits": "Status C-776/25 bleibt ausdrücklich Stand 19.10.2026; kein neuer Folgestatus behauptet."
+  }
 }
