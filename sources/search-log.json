@@ -1594,5 +1594,58 @@
       "Selektive Volltextsuche im lokalen amtlichen Korpus und zwei ergänzende Online-Entdeckungssuchen. Nur II ZB 12/10 als neuer, vollständig gelesener amtlicher Volltext für den engen Zweck eingesetzt. Keine erschöpfende Rechtsprechungsabdeckung und kein spezifischer Fall für jede technische Einheit behauptet.",
       "Andere Treffer wurden nur zur Kandidatenauswahl betrachtet; insbesondere markenrechtliche und BetrAVG-Treffer sind keine GenG-Nachschussautoritäten. Keine Aussage, es existiere keine weitere einschlägige Rechtsprechung."
     ]
+  },
+  "bounded_review_p117_p158": {
+    "reviewed_at": "2026-10-20T09:22:21.269598+00:00",
+    "reviewed_ids": [
+      "p117",
+      "p118",
+      "p119",
+      "p120",
+      "p121",
+      "p122-145",
+      "p146",
+      "p147",
+      "p148",
+      "p149",
+      "p150",
+      "p151",
+      "p151a",
+      "p152",
+      "p153",
+      "p154",
+      "p155",
+      "p156",
+      "p157",
+      "p158"
+    ],
+    "local_search_log": "review-p117-p158/local-case-search.json",
+    "online_discovery": [
+      "research/review-p117-p158-search.json",
+      "research/review-p117-p158-bgh-search.json",
+      "research/review-p117-p158-haftsumme-search.json",
+      "research/review-p117-p158-official-bgh-search.json"
+    ],
+    "method": "Gezielter Scan aller 84424 lokalen amtlichen XML-Dateien mit Kontextprüfung. Zwei anfangs ungenau formulierte Online-Suchen ohne site:-Operator lieferten unspezifische Treffer; sie blieben erhalten und wurden durch zwei korrekt auf amtliche Domains beschränkte Firecrawl-Suchen ergänzt. Haftsummensuche ohne Treffer, BGH-Suche ohne neue spezifische Sachautorität. Zwei lokale Kandidaten vollständig gelesen und frisch online bytegleich beschafft; keine Suchbeschreibung als Autorität verwendet.",
+    "used_case_ids": [],
+    "full_text_read_but_not_cited": [
+      "KORE313782011",
+      "KORE634382019"
+    ],
+    "candidate_cards": [
+      "review-p117-p158/candidate-ii-zb-12-10.md",
+      "review-p117-p158/candidate-5-str-76-19.md"
+    ],
+    "reason_no_new_case": "Beide Treffer tragen keine neue konkrete GenG-Sachentscheidung für die zugewiesenen Einheiten. Technische und weggefallene Einheiten erhalten keinen erfundenen Einzelbeleg.",
+    "limits": [
+      "Selektive Suche über 84424 XML-Dateien des lokalen amtlichen Korpus und zwei Online-Entdeckungssuchen. Zwei amtliche Kandidaten vollständig gelesen, frisch beschafft und bytegleich abgeglichen; keine neue konkrete Sachautorität für diese 20 Einheiten eingesetzt. Keine erschöpfende Rechtsprechungsabdeckung oder Nichtexistenz weiterer Entscheidungen behauptet.",
+      "II ZB 12/10 betrifft historischen Gesamtvollstreckungsfall mit Betriebseinstellung und entscheidet in Rn. 13 gerade nicht generell über fortsetzungsgerichtete Fortführung. 5 StR 76/19 betrifft HGB/Kreditbetrug; Rn. 12 nennt § 147 GenG nur zur Abgrenzung der Deliktsbezeichnung. Weder alte Prüfungsschwellen noch HGB-Konkurrenzlösung als heutige GenG-Sachentscheidung übernommen."
+    ],
+    "queries": [
+      "site.rechtsprechung-im-internet.de GenG \"§ 117\" OR \"§ 118\" OR \"§ 147\" OR \"§ 151\"",
+      "site.bundesgerichtshof.de \"GenG\" \"147\" \"151\"",
+      "site:rechtsprechung-im-internet.de \"GenG\" \"Haftsumme\"",
+      "site:bundesgerichtshof.de \"GenG\" \"147\""
+    ]
   }
 }

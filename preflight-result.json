@@ -715,5 +715,71 @@
       "nonassigned_commentary_changes": [],
       "does_not_certify_legal_quality": true
     }
+  },
+  "bounded_review_p117_p158_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T09:22:21.269598+00:00",
+    "scope": [
+      "p117",
+      "p118",
+      "p119",
+      "p120",
+      "p121",
+      "p122-145",
+      "p146",
+      "p147",
+      "p148",
+      "p149",
+      "p150",
+      "p151",
+      "p151a",
+      "p152",
+      "p153",
+      "p154",
+      "p155",
+      "p156",
+      "p157",
+      "p158"
+    ],
+    "raw_fetches": "sources/review-p117-p158/fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "BEG IV verkündet 29.10.2024; Art. 22 S. 13–14, insbesondere Nr. 15 (§ 118), und Art. 74 Abs. 1–13 S. 34–35 gelesen. Art. 22 nicht ausgenommen von allgemeiner Quartalsregel.",
+      "source": "sources/review-p117-p158/beg4.pdf",
+      "since_intake": "Frisches GenG-XML und beide HTML-Körper bytegleich mit Ausgangsbelegen; Originalintake und Änderungskarte erhalten. Keine Änderung seit Intake festgestellt.",
+      "external_HGB": "BGBl. 2026 I Nr. 33, Art. 3–4 S. 4–5, Art. 59 S. 62 sowie Art. 64 Abs. 1–8 S. 64–65 gelesen. Art. 4 erst am 10.1.2030, Teile des Art. 3 erst 2028; andere Teile seit 10.7.2026. Keine Änderung der gezielt erläuterten §§ 8 Abs. 1, 8a–11, 316a, 325 Abs. 2a, 331, 333, 340m; Metadatenstand nicht unbesehen als Gegenwartsfassung übernommen.",
+      "external_BeurkG": "BGBl. 2025 I Nr. 320, ausgegeben 12.12.2025, Art. 3 S. 2–5 und Art. 12 S. 9 gelesen. Wirksamkeit Art. 3 am 29.12.2025; § 40a nicht geändert, neuer § 40b nicht als freier Videoersatz behandelt.",
+      "external_evidence": [
+        "sources/review-p117-p158/hgb-amendment33.pdf",
+        "sources/review-p117-p158/beurkg-amendment320.pdf"
+      ]
+    },
+    "historical_versions_checked": {
+      "fresh_equals_canonical": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "inventory": "coverage-check.json",
+      "selection": "Single current consolidated GenG XML; all raw nodes classified, no historical versions concatenated, grouped repeal and empty slots preserved. Intake hash/wording checked by independent coverage script."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "Alle 211 Rohknoten sowie Inhaltsübersicht und Gesamtausgabe kontrolliert. Keine operative Anlage oder Eingangsformel vorhanden, daher keine echte Auslassung zu reparieren. Anlage der Vorschüsse (§ 110) ist Geldanlage."
+    },
+    "unresolved_blockers": []
   }
 }

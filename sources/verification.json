@@ -1283,5 +1283,218 @@
       "tool": "firecrawl search",
       "role": "discovery only; not legal authority"
     }
+  ],
+  "bounded_review_p117_p158_fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+      "accessed_at": "2026-10-20T09:15:55.786494+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p117-p158/geng.zip",
+      "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+      "format_validation": {
+        "xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+        "stand": [
+          "Neugefasst durch Bek. v. 16.10.2006 I 2230;",
+          "zuletzt geändert durch Art. 22 G v. 23.10.2024 I Nr. 323"
+        ],
+        "same_as_canonical_xml": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/",
+      "final_url": "https://www.gesetze-im-internet.de/geng/",
+      "accessed_at": "2026-10-20T09:15:55.978909+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "file": "review-p117-p158/index.html",
+      "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+      "format_validation": {
+        "statute_identity": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+      "final_url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+      "accessed_at": "2026-10-20T09:15:56.106739+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "file": "review-p117-p158/full.html",
+      "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+      "format_validation": {
+        "statute_identity": true
+      }
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:15:56.361430+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "file": "review-p117-p158/beg4.pdf",
+      "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "format_validation": {
+        "pdf_magic": true,
+        "same_as_authoring": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-20T09:15:56.691737+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p117-p158/hgb.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_validation": {
+        "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+        "stand": [
+          "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+          "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+        ]
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/beurkg/xml.zip",
+      "accessed_at": "2026-10-20T09:15:56.938590+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p117-p158/beurkg.zip",
+      "sha256": "f8b0d085e25d1192e7fed75339e28278e80a5108bece4483266b1afbca676dc9",
+      "format_validation": {
+        "xml_sha256": "6fee8e9bb8bc08018ccc483986f3ab260a28357e7dfe7d0aa5a8c3bf559ba874",
+        "stand": [
+          "Zuletzt geändert durch Art. 3 G v. 10.12.2025 I Nr. 320"
+        ]
+      }
+    }
+  ],
+  "bounded_review_p117_p158_supplemental": [
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2025/320/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:16:57.782156+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "file": "review-p117-p158/beurkg-amendment320.pdf",
+      "sha256": "5c9690d0507017ed8cef78d95402772b680f4308b2856fdf913a9affc0785d59",
+      "format_validation": "PDF magic"
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T09:16:58.059923+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "file": "review-p117-p158/hgb-amendment33.pdf",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "format_validation": "PDF magic"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313782011.zip",
+      "accessed_at": "2026-10-20T09:16:58.469083+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p117-p158/case-KORE313782011.zip",
+      "sha256": "93b041719e2489e7839c3d190ff124a4f4327d638b2fc81f84cf409560ebd0e6",
+      "format_validation": {
+        "xml_sha256": "6a58039fe5266712ee1d205bff9e92baa27fa7d1fabebacf0ab9f11bd1e98bac",
+        "local_corpus_byte_equal": true,
+        "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313782011.xml"
+      }
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE634382019.zip",
+      "accessed_at": "2026-10-20T09:16:58.692690+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p117-p158/case-KORE634382019.zip",
+      "sha256": "6b443644b1fe1ee841225d0077dedc603ae992f415d12634b15db8499ceea429",
+      "format_validation": {
+        "xml_sha256": "d0ed8fe8f0dd18d6c5c4922faa9690cc87e4a6f139ccf4b0218019b874d1df46",
+        "local_corpus_byte_equal": true,
+        "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore634382019.xml"
+      }
+    }
+  ],
+  "bounded_review_p117_p158_version_evidence": {
+    "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "canonical_byte_equal": true,
+    "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+    "effective_from": "2025-01-01",
+    "commencement_basis": "BEG IV verkündet 29.10.2024; Art. 22 S. 13–14, insbesondere Nr. 15 (§ 118), und Art. 74 Abs. 1–13 S. 34–35 gelesen. Art. 22 nicht ausgenommen von allgemeiner Quartalsregel.",
+    "source": "sources/review-p117-p158/beg4.pdf",
+    "since_intake": "Frisches GenG-XML und beide HTML-Körper bytegleich mit Ausgangsbelegen; Originalintake und Änderungskarte erhalten. Keine Änderung seit Intake festgestellt.",
+    "external_HGB": "BGBl. 2026 I Nr. 33, Art. 3–4 S. 4–5, Art. 59 S. 62 sowie Art. 64 Abs. 1–8 S. 64–65 gelesen. Art. 4 erst am 10.1.2030, Teile des Art. 3 erst 2028; andere Teile seit 10.7.2026. Keine Änderung der gezielt erläuterten §§ 8 Abs. 1, 8a–11, 316a, 325 Abs. 2a, 331, 333, 340m; Metadatenstand nicht unbesehen als Gegenwartsfassung übernommen.",
+    "external_BeurkG": "BGBl. 2025 I Nr. 320, ausgegeben 12.12.2025, Art. 3 S. 2–5 und Art. 12 S. 9 gelesen. Wirksamkeit Art. 3 am 29.12.2025; § 40a nicht geändert, neuer § 40b nicht als freier Videoersatz behandelt.",
+    "external_evidence": [
+      "sources/review-p117-p158/hgb-amendment33.pdf",
+      "sources/review-p117-p158/beurkg-amendment320.pdf"
+    ]
+  },
+  "bounded_review_p117_p158_research": [
+    {
+      "file": "research/review-p117-p158-search.json",
+      "sha256": "1dd9f52dd3d24baec1b53b47be3b52bc402577bb9988e5c768b1fd20569fc94f",
+      "tool": "firecrawl search",
+      "role": "discovery only; not legal authority"
+    },
+    {
+      "file": "research/review-p117-p158-bgh-search.json",
+      "sha256": "1b2b40e834e1896f48905093278ac58c5536d10e57ad1f33a9494cbb67099267",
+      "tool": "firecrawl search",
+      "role": "discovery only; not legal authority"
+    },
+    {
+      "file": "research/review-p117-p158-haftsumme-search.json",
+      "sha256": "8c674ca63cbdd6922fd6e41c65617fd2a331ceac9e06cd7489c4f925b75cb232",
+      "tool": "firecrawl search",
+      "role": "discovery only; not legal authority"
+    },
+    {
+      "file": "research/review-p117-p158-official-bgh-search.json",
+      "sha256": "071084a9268abfeb0fa8226f302d9828bc03dec1ec91c5f95160bda1e81cc70e",
+      "tool": "firecrawl search",
+      "role": "discovery only; not legal authority"
+    }
+  ],
+  "bounded_review_p117_p158_pdf_body_checks": [
+    {
+      "pdf": "beg4.pdf",
+      "pdf_sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "extracted_text": "beg4.txt",
+      "text_sha256": "106489ec0c0e9306341b9af856bd2d3f32fc341d90390f013851472ab66df257",
+      "publication_identity_and_expected_articles_checked": [
+        "Artikel 22",
+        "Artikel 74",
+        "am 29. Oktober 2024"
+      ],
+      "read_articles": "Art. 22 S. 13–14; Art. 74 Abs. 1–13 S. 34–35"
+    },
+    {
+      "pdf": "hgb-amendment33.pdf",
+      "pdf_sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "extracted_text": "hgb-amendment33.txt",
+      "text_sha256": "083969daa812de40a9c7ff2ee93674875e701fe194d7a291d4c1f69928252a36",
+      "publication_identity_and_expected_articles_checked": [
+        "Artikel 3",
+        "Artikel 4",
+        "Artikel 64",
+        "am 9. Februar 2026"
+      ],
+      "read_articles": "Art. 3–4 S. 4–5; Art. 59 S. 62; Art. 64 Abs. 1–8 S. 64–65"
+    },
+    {
+      "pdf": "beurkg-amendment320.pdf",
+      "pdf_sha256": "5c9690d0507017ed8cef78d95402772b680f4308b2856fdf913a9affc0785d59",
+      "extracted_text": "beurkg-amendment320.txt",
+      "text_sha256": "a9569392647079466f415bcc7bd5ded99297ba3a218c4f698639eb7cae552c3f",
+      "publication_identity_and_expected_articles_checked": [
+        "Artikel 3",
+        "Artikel 12",
+        "29. Dezember 2025"
+      ],
+      "read_articles": "Art. 3 S. 2–5; Art. 12 S. 9"
+    }
   ]
 }

@@ -1,0 +1,39 @@
+[
+  {
+    "pdf": "beg4.pdf",
+    "pdf_sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+    "extracted_text": "beg4.txt",
+    "text_sha256": "106489ec0c0e9306341b9af856bd2d3f32fc341d90390f013851472ab66df257",
+    "publication_identity_and_expected_articles_checked": [
+      "Artikel 22",
+      "Artikel 74",
+      "am 29. Oktober 2024"
+    ],
+    "read_articles": "Art. 22 S. 13–14; Art. 74 Abs. 1–13 S. 34–35"
+  },
+  {
+    "pdf": "hgb-amendment33.pdf",
+    "pdf_sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+    "extracted_text": "hgb-amendment33.txt",
+    "text_sha256": "083969daa812de40a9c7ff2ee93674875e701fe194d7a291d4c1f69928252a36",
+    "publication_identity_and_expected_articles_checked": [
+      "Artikel 3",
+      "Artikel 4",
+      "Artikel 64",
+      "am 9. Februar 2026"
+    ],
+    "read_articles": "Art. 3–4 S. 4–5; Art. 59 S. 62; Art. 64 Abs. 1–8 S. 64–65"
+  },
+  {
+    "pdf": "beurkg-amendment320.pdf",
+    "pdf_sha256": "5c9690d0507017ed8cef78d95402772b680f4308b2856fdf913a9affc0785d59",
+    "extracted_text": "beurkg-amendment320.txt",
+    "text_sha256": "a9569392647079466f415bcc7bd5ded99297ba3a218c4f698639eb7cae552c3f",
+    "publication_identity_and_expected_articles_checked": [
+      "Artikel 3",
+      "Artikel 12",
+      "29. Dezember 2025"
+    ],
+    "read_articles": "Art. 3 S. 2–5; Art. 12 S. 9"
+  }
+]

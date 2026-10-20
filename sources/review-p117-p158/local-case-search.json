@@ -1,0 +1,41 @@
+{
+  "at": "2026-10-20T09:16:39.982614+00:00",
+  "corpus": "/Volumes/LaCie/law-intake/eu/de/rii/_raw",
+  "files_scanned": 84424,
+  "regex": "(?:§{1,2}\\s*(?:117|118|119|120|121|147|148|150|151a?|152|153|155|156|157|158)\\b.{0,65}GenG|GenG.{0,50}§{1,2}\\s*(?:117|118|119|120|121|147|148|150|151a?|152|153|155|156|157|158)\\b)",
+  "hits": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313782011.xml",
+      "court": null,
+      "date": "20110621",
+      "docket": "II ZB 12/10",
+      "doknr": "kore313782011",
+      "contexts": [
+        " KORE313782011 BGH 2. Zivilsenat 20110621 II ZB 12/10 Beschluss § 53 Abs 2 GenG, § 54 GenG, § 55 GenG, § 64c GenG, § 101 GenG, § 155 Abs 3 S 1 InsO vorgehend Brandenburgisches Oberlandesgericht, 22. März 2010, Az: 7 Wx 6/09 vorgehend LG Frankfurt (Oder), 6. April 2009, Az: 31 T 2/09, Beschluss vorgehend AG Frankfurt (Oder), 7. Januar 2009, Az: GnR 89, Beschluss DEU Bundesrepublik Deutschla",
+        " Geschäftsbetrieb der Genossenschaft eingestellt worden ist . 2. Sind in diesem Fall die Voraussetzungen für die Prüfung des Jahresabschlusses nach § 53 Abs. 2 GenG erfüllt, ist gemäß § 155 Abs. 3 Satz 1 InsO auf Antrag des Insolvenzverwalters ein Abschlussprüfer durch das Registergericht zu bestellen. Der Insolvenzverwalter kann dem Registergericht den Prüfungsverband als Abschlussprüfer vorschlagen. Er kann aber auch eine andere Person vorschl",
+        "rage. Die Konsumgenossenschaft Be. wird von dem Antragsteller nicht fortgeführt - gegebenenfalls mit dem Ziel, eine Fortsetzung als werbende Gesellschaft gemäß § 117 GenG zu erreichen. Sie hat vielmehr schon im Jahr 1997 ihre Geschäftstätigkeit eingestellt. Jedenfalls in einem solchen Fall scheidet eine Pflichtprüfung durch den zuständigen Prüfungsverband aus, soweit das dem Verfügungsrecht des Verwalters unterliegende Vermöge"
+      ]
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore634382019.xml",
+      "court": null,
+      "date": "20191114",
+      "docket": "5 StR 76/19",
+      "doknr": "kore634382019",
+      "contexts": [
+        "tateinheitlichen Fällen verwirklichte Delikt konkretisiert, um auf diese Weise eine Unterscheidung von identisch bezeichneten Straftaten (vgl. etwa § 400 AktG, § 147 Abs. 2 GenG, § 313 UmwG, § 17 PublG) zu ermöglichen. Mutzbauer Sander Schneider Berger Mosbacher http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE634382019&amp;psml=bsjrsprod.psml&amp;max=true Deutschland deutsch BMJV public "
+      ]
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201110185.xml",
+      "court": null,
+      "date": "20110517",
+      "docket": "VII R 47/10",
+      "doknr": "stre201110185",
+      "contexts": [
+        " 47/10 Urteil § 33 Abs 1 Nr 3 FGO, Art 12 GG, § 40 Abs 3 Nr 2 StBerG, § 48 Abs 2 StBerG, § 57 Abs 4 Nr 1 StBerG, § 57 Abs 4 Nr 2 StBerG, § 58 S 2 Nr 5a StBerG, § 120 Abs 1 S 1 FGO, § 76 Abs 1 StBerG, § 17 Abs 2 GenG, § 24 GenG, § 25 GenG vorgehend Niedersächsisches Finanzgericht, 24. Juni 2010, Az: 6 K 349/09, Urteil DEU Bundesrepublik Deutschland (Unvereinbarkeit der Tätigkeit als Vorstandsmitglied einer Genossenschaftsbank mit dem Beruf des Steuerberaters - Gewerbliche Tätigkeit "
+      ]
+    }
+  ],
+  "limits": "Selective provision-oriented full-text search. Context matches are discovery only, not holdings; no exhaustive jurisprudence coverage."
+}

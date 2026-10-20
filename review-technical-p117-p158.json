@@ -1,0 +1,399 @@
+{
+  "checked_at": "2026-10-20T09:24:01.907812+00:00",
+  "scope": [
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122-145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p151a",
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158"
+  ],
+  "base_work_commit": "d59e41583479f1709405efbc8767da7085d9befe",
+  "raw_evidence": "sources/review-p117-p158/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p117",
+      "official_doknr": "BJNR000550889BJNE018804377",
+      "official_label": "§ 117",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2041,
+      "changed": true,
+      "original_commentary_sha256": "0163c6956cd87076ecf04ed793c0a5f120855dd83c0c09f9d48fb2624195a6a1",
+      "reviewed_commentary_sha256": "38bc8a50d0cc196bcf25f9dd4dabfeb8495174411ce0eb7d46e7e7f2d6844b3d"
+    },
+    {
+      "id": "p118",
+      "official_doknr": "BJNR000550889BJNE018906125",
+      "official_label": "§ 118",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2765,
+      "changed": true,
+      "original_commentary_sha256": "ae563b4a70c1a8ea72a85cf6442f0217311efd53f3a6d65af9b61f9fbce461a4",
+      "reviewed_commentary_sha256": "173e8e70ba232ea639b7fd4a29d890cc20f4d8bc059792f649e6aef4d9740ede"
+    },
+    {
+      "id": "p119",
+      "official_doknr": "BJNR000550889BJNE019104377",
+      "official_label": "§ 119",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 998,
+      "changed": false,
+      "original_commentary_sha256": "65df6f18cd113a9bd4776f8f2d40fae0f135a26977a17980b05664452db4ef99",
+      "reviewed_commentary_sha256": "65df6f18cd113a9bd4776f8f2d40fae0f135a26977a17980b05664452db4ef99"
+    },
+    {
+      "id": "p120",
+      "official_doknr": "BJNR000550889BJNE019204360",
+      "official_label": "§ 120",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2061,
+      "changed": true,
+      "original_commentary_sha256": "e79011f207a13280350f50b76c7dad89961b175cc0f3de2d6ab1456aa53b3e29",
+      "reviewed_commentary_sha256": "11063fb79098aba16c3c090cc1e0fab6752814c0d943a23b0d242dabee8eae2a"
+    },
+    {
+      "id": "p121",
+      "official_doknr": "BJNR000550889BJNE019303377",
+      "official_label": "§ 121",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1615,
+      "changed": true,
+      "original_commentary_sha256": "e7b50882c362eab6f4723b72ea5f0450feb8e1bbde6223e9536869566f8e1065",
+      "reviewed_commentary_sha256": "b8f02e96d2e305c499efcb95cf8afc1d0386791aca156fd73bf0ab22bf99e6d3"
+    },
+    {
+      "id": "p122-145",
+      "official_doknr": "BJNR000550889BJNE019402377",
+      "official_label": "(XXXX) §§ 122 bis 145",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 849,
+      "changed": false,
+      "original_commentary_sha256": "cc17b699aab45aa044c6d5064a7a18b4c3d1c31e03945634b68122bb32b6db60",
+      "reviewed_commentary_sha256": "cc17b699aab45aa044c6d5064a7a18b4c3d1c31e03945634b68122bb32b6db60"
+    },
+    {
+      "id": "p146",
+      "official_doknr": "BJNR000550889BJNE019702377",
+      "official_label": "§ 146",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 423,
+      "changed": false,
+      "original_commentary_sha256": "3ba2453e7fdd3b0116a4a59ce97bcf2d23b968a5838ed626218e9431609a77fa",
+      "reviewed_commentary_sha256": "3ba2453e7fdd3b0116a4a59ce97bcf2d23b968a5838ed626218e9431609a77fa"
+    },
+    {
+      "id": "p147",
+      "official_doknr": "BJNR000550889BJNE019806377",
+      "official_label": "§ 147",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2007,
+      "changed": true,
+      "original_commentary_sha256": "8cae213d99218671508ac64b3fbe10be125b8417c9b20ecae9d878eff9933200",
+      "reviewed_commentary_sha256": "64ad3f74a6b6a9e06227c2cb1dd5f6e759c7a655401a941b5e5302602cf6aaeb"
+    },
+    {
+      "id": "p148",
+      "official_doknr": "BJNR000550889BJNE019905140",
+      "official_label": "§ 148",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1806,
+      "changed": true,
+      "original_commentary_sha256": "16128fe2b721ba998a8888325e43573bf30e3eb381269f44ec1b635c87d535f9",
+      "reviewed_commentary_sha256": "fdc3a768e32067d8b63e3ac438f946b9251fe168b03e1c33b79d2de4d088d63d"
+    },
+    {
+      "id": "p149",
+      "official_doknr": "BJNR000550889BJNE020002377",
+      "official_label": "§ 149",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 475,
+      "changed": false,
+      "original_commentary_sha256": "16794773eda1ae756bb45bce5622997fd8ac3e01e0256bbb6d8c5705e20a3310",
+      "reviewed_commentary_sha256": "16794773eda1ae756bb45bce5622997fd8ac3e01e0256bbb6d8c5705e20a3310"
+    },
+    {
+      "id": "p150",
+      "official_doknr": "BJNR000550889BJNE020104360",
+      "official_label": "§ 150",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1977,
+      "changed": true,
+      "original_commentary_sha256": "8f1ac01b7af07ae5b07a93cdd9df395b311eab95b704f348efdfedb6dee550e5",
+      "reviewed_commentary_sha256": "30974c22446070cb3c8aced1498c986053242df2e86c9fe432da96db1e9f5bfe"
+    },
+    {
+      "id": "p151",
+      "official_doknr": "BJNR000550889BJNE020204377",
+      "official_label": "§ 151",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1928,
+      "changed": true,
+      "original_commentary_sha256": "57f9451a2c1c6542740e5153e1d919708c6d3d7606762fa783e57d903bb7e6e1",
+      "reviewed_commentary_sha256": "4c04c11694695132025e86dd54dc695778d9651f551eb684e967617678858418"
+    },
+    {
+      "id": "p151a",
+      "official_doknr": "BJNR000550889BJNE024301360",
+      "official_label": "§ 151a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1756,
+      "changed": true,
+      "original_commentary_sha256": "630f90421207c699e04e5e4ea454b5017068774b7520ff0d6a0c5598957d340b",
+      "reviewed_commentary_sha256": "d1e7f6dea7493208e12c775de8b3f28f281b9708eb6deefde38842852c5d8027"
+    },
+    {
+      "id": "p152",
+      "official_doknr": "BJNR000550889BJNE020306360",
+      "official_label": "§ 152",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2079,
+      "changed": true,
+      "original_commentary_sha256": "18113c8612801b5e666176d795685a44e49b37be6ec70e269b3c8724778f7e60",
+      "reviewed_commentary_sha256": "ca79dc13af5d98cfd090d02706a30fe597394bba31eda70d8ce6e17c74593aa0"
+    },
+    {
+      "id": "p153",
+      "official_doknr": "BJNR000550889BJNE020403123",
+      "official_label": "§ 153",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 977,
+      "changed": false,
+      "original_commentary_sha256": "4c66794253b09ab91c0293be4b16fa2d218720fe5b889f859733d92dd89b3ea1",
+      "reviewed_commentary_sha256": "4c66794253b09ab91c0293be4b16fa2d218720fe5b889f859733d92dd89b3ea1"
+    },
+    {
+      "id": "p154",
+      "official_doknr": "BJNR000550889BJNE024400123",
+      "official_label": "§ 154",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 680,
+      "changed": false,
+      "original_commentary_sha256": "93de45b84e0ecfc90484ef1d954138b361b804c46f85424f2df4b3686a63da28",
+      "reviewed_commentary_sha256": "93de45b84e0ecfc90484ef1d954138b361b804c46f85424f2df4b3686a63da28"
+    },
+    {
+      "id": "p155",
+      "official_doknr": "BJNR000550889BJNE020705140",
+      "official_label": "§ 155",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1574,
+      "changed": true,
+      "original_commentary_sha256": "efa12b8991eb04abf2ebb4e66a67c75f4eeb09958b82c85e7a7c144867103aa0",
+      "reviewed_commentary_sha256": "5567e807403f86dcec8e019f2fb236d7a78ae199b6608a281a82880fe428c0f8"
+    },
+    {
+      "id": "p156",
+      "official_doknr": "BJNR000550889BJNE020808360",
+      "official_label": "§ 156",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1812,
+      "changed": true,
+      "original_commentary_sha256": "a66412d68b5e189d08eac4fc40dcbf7006c7dc2e377226869066214577848465",
+      "reviewed_commentary_sha256": "8b65a31a48a451ac0718b340371274a70aa1d860d593bada31c551464a6dd77f"
+    },
+    {
+      "id": "p157",
+      "official_doknr": "BJNR000550889BJNE020905360",
+      "official_label": "§ 157",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1915,
+      "changed": true,
+      "original_commentary_sha256": "1721824c4a7fac4dfb60af669e4b5db9ee5d3a72f5fa71a6290e1fcb8e005c71",
+      "reviewed_commentary_sha256": "4c3f6855d8ec6dec52723d81929e81d59c96cc00255a561843b2e5e3b60f8e0c"
+    },
+    {
+      "id": "p158",
+      "official_doknr": "BJNR000550889BJNE023402123",
+      "official_label": "§ 158",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 975,
+      "changed": false,
+      "original_commentary_sha256": "9f01efe81e8cc539552993b33ae75e83ba58f5be5c2043530e197ee20f0617c7",
+      "reviewed_commentary_sha256": "9f01efe81e8cc539552993b33ae75e83ba58f5be5c2043530e197ee20f0617c7"
+    }
+  ],
+  "changed_ids": [
+    "p117",
+    "p118",
+    "p120",
+    "p121",
+    "p147",
+    "p148",
+    "p150",
+    "p151",
+    "p151a",
+    "p152",
+    "p155",
+    "p156",
+    "p157"
+  ],
+  "nonassigned_commentaries_preserved": 179,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [],
+  "annex_check_method": "Inventory of all raw nodes and anchored official labels; § 110 title Anlage der Vorschüsse describes investment, not an annex.",
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "hgb",
+      "label": "§ 8",
+      "official_doknr": "BJNR002190897BJNE001201377",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Das Handelsregister wird von den Gerichten elektronisch geführt.(2) Andere Datensammlungen dürfen nicht unter Verwendung oder Beifügung der Bezeichnung \"Handelsregister\" in den Verkehr gebracht werden."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 8a",
+      "official_doknr": "BJNR002190897BJNE079507360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Eine Eintragung in das Handelsregister wird wirksam, sobald sie in den für die Handelsregistereintragungen bestimmten Datenspeicher aufgenommen ist und auf Dauer inhaltlich unverändert in lesbarer Form wiedergegeben werden kann.(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über die elektronische Führung des Handelsregisters, die elektronische Anmeldung, die elektronische Einreichung von Dokumenten sowie deren Aufbewahrung zu treffen, soweit nicht durch das Bundesministerium der Justiz nach § 387 Abs. 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende Vorschriften erlassen werden. Dabei können sie auch Einzelheiten der Datenübermittlung regeln sowie die Form zu übermittelnder elektronischer Dokumente festlegen, um die Eignung für die Bearbeitung durch das Gericht sicherzustellen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 9",
+      "official_doknr": "BJNR002190897BJNE001307360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Einsichtnahme in das Handelsregister sowie in die zum Handelsregister eingereichten Dokumente ist jedem zu Informationszwecken durch einzelne Abrufe gestattet. Die Landesjustizverwaltungen bestimmen das elektronische Informations- und Kommunikationssystem, über das die Daten aus den Handelsregistern abrufbar sind, und sind für die Abwicklung des elektronischen Abrufverfahrens zuständig. Die Landesregierung kann die Zuständigkeit durch Rechtsverordnung abweichend regeln; sie kann diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Die Länder können ein länderübergreifendes, zentrales elektronisches Informations- und Kommunikationssystem bestimmen. Sie können auch eine Übertragung der Abwicklungsaufgaben auf die zuständige Stelle eines anderen Landes sowie mit dem Betreiber des Unternehmensregisters eine Übertragung der Abwicklungsaufgaben auf das Unternehmensregister vereinbaren.(2) Sind Dokumente nur in Papierform vorhanden, kann die elektronische Übermittlung nur für solche Schriftstücke verlangt werden, die weniger als zehn Jahre vor dem Zeitpunkt der Antragstellung zum Handelsregister eingereicht wurden.(3) Die Übereinstimmung der übermittelten Daten mit dem Inhalt des Handelsregisters und den zum Handelsregister eingereichten Dokumenten wird auf Antrag durch das Gericht beglaubigt. Dafür hat eine Authentifizierung durch einen Vertrauensdienst nach der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) zu erfolgen.(4) Von den Eintragungen und den eingereichten Dokumenten kann ein Ausdruck verlangt werden. Von den zum Handelsregister eingereichten Schriftstücken, die nur in Papierform vorliegen, kann eine Abschrift gefordert werden. Die Abschrift ist von der Geschäftsstelle zu beglaubigen und der Ausdruck als amtlicher Ausdruck zu fertigen, wenn nicht auf die Beglaubigung verzichtet wird.(5) Das Gericht hat auf Verlangen eine Bescheinigung darüber zu erteilen, dass bezüglich des Gegenstandes einer Eintragung weitere Eintragungen nicht vorhanden sind oder dass eine bestimmte Eintragung nicht erfolgt ist.(6) Für die Einsichtnahme in das Unternehmensregister gilt Absatz 1 Satz 1 entsprechend. Anträge nach den Absätzen 2 bis 5 können auch über das Unternehmensregister an das Gericht vermittelt werden. Die Einsichtnahme in die beim Unternehmensregister zur dauerhaften Hinterlegung eingestellten Daten erfolgt nur auf Antrag durch Übermittlung einer Kopie."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 10",
+      "official_doknr": "BJNR002190897BJNE001402360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Eintragungen in das Handelsregister sowie Registerbekanntmachungen nach Absatz 3 werden durch ihre erstmalige Abrufbarkeit über das nach § 9 Absatz 1 bestimmte elektronische Informations- und Kommunikationssystem bekannt gemacht. § 9 Absatz 1 Satz 4 und 5 gilt entsprechend.(2) Die Eintragungen in das Handelsregister und die eingereichten Dokumente, die gemäß § 9 der unbeschränkten Einsichtnahme unterliegen, sind unverzüglich nach der Eintragung in das Handelsregister zum Abruf über das nach § 9 Absatz 1 bestimmte elektronische Informations- und Kommunikationssystem bereitzustellen.(3) Das Registergericht kann in den gesetzlich bestimmten Fällen in dem nach § 9 Absatz 1 bestimmten elektronischen Informations- und Kommunikationssystem sonstige oder zusätzliche Tatsachen bekannt machen (Registerbekanntmachungen).(4) Eine Eintragung gilt mit dem Ablauf des Tages der Eintragung und eine Registerbekanntmachung gilt mit dem Ablauf des Tages der Registerbekanntmachung als bekannt gemacht. Dies gilt nicht, wenn der Nachweis erbracht wird, dass der Abruf der Eintragung oder der Registerbekanntmachung 1.bereits zu einem früheren Zeitpunkt möglich war oder2.erstmalig erst zu einem späteren Zeitpunkt möglich war."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 10a",
+      "official_doknr": "BJNR002190897BJNE113801360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) wird dadurch erfüllt, dass die betroffene Person Einsicht in das Handelsregister und in die zum Handelsregister eingereichten Dokumente nehmen kann. Eine Information der betroffenen Person über konkrete Empfänger, gegenüber denen die im Register, in Registerbekanntmachungen oder in zum Register einzureichenden Dokumenten enthaltenen personenbezogenen Daten offengelegt werden, erfolgt nicht.(2) Hinsichtlich der im Handelsregister, in Registerbekanntmachungen oder in zum Handelsregister einzureichenden Dokumenten enthaltenen personenbezogenen Daten kann das Recht auf Berichtigung nach Artikel 16 der Verordnung (EU) 2016/679 nur unter den Voraussetzungen ausgeübt werden, die in den §§ 393 bis 395 und §§ 397 bis 399 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der Freiwilligen Gerichtsbarkeit sowie der Rechtsverordnung nach § 387 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der Freiwilligen Gerichtsbarkeit für eine Löschung oder Berichtigung vorgesehen sind.(3) Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU) 2016/679 findet in Bezug auf die im Handelsregister, in Registerbekanntmachungen oder in zum Handelsregister einzureichenden Dokumenten enthaltenen personenbezogenen Daten keine Anwendung."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 11",
+      "official_doknr": "BJNR002190897BJNE001501377",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die zum Handelsregister einzureichenden Dokumente sowie der Inhalt einer Eintragung können zusätzlich in jeder Amtssprache eines Mitgliedstaats der Europäischen Union übermittelt werden. Auf die Übersetzungen ist in geeigneter Weise hinzuweisen. § 9 ist entsprechend anwendbar.(2) Im Fall der Abweichung der Originalfassung von einer eingereichten Übersetzung kann letztere einem Dritten nicht entgegengehalten werden; dieser kann sich jedoch auf die eingereichte Übersetzung berufen, es sei denn, der Eingetragene weist nach, dass dem Dritten die Originalfassung bekannt war."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 316a",
+      "official_doknr": "BJNR002190897BJNE113900360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse sind, sind die Vorschriften dieses Unterabschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden ist. Unternehmen von öffentlichem Interesse sind Unternehmen, die 1.kapitalmarktorientiert sind im Sinne des § 264d,2.CRR-Kreditinstitute sind im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme derjenigen Institute, die in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes und in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, genannt sind, oder3.Versicherungsunternehmen sind im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 325",
+      "official_doknr": "BJNR002190897BJNE012017129",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft haben für die Gesellschaft folgende Unterlagen, sofern sie aufzustellen oder zu erstellen sind, in deutscher Sprache offenzulegen: 1.den festgestellten Jahresabschluss, den Lagebericht, den Bestätigungsvermerk oder den Vermerk über dessen Versagung und die Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 sowie2.den Bericht des Aufsichtsrats und die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung.Die Unterlagen sind der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Bei einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, sind die Unterlagen der das Unternehmensregister führenden Stelle mit der Übermittlung nach Satz 2 auch zur Weiterleitung an das zentrale europäische Zugangsportal zu übermitteln.(1a) Die Unterlagen nach Absatz 1 Satz 1 sind spätestens ein Jahr nach dem Abschlussstichtag des Geschäftsjahrs zu übermitteln, auf das sie sich beziehen. Liegen die Unterlagen nach Absatz 1 Satz 1 Nummer 2 nicht innerhalb der Frist vor, sind sie unverzüglich nach ihrem Vorliegen nach Absatz 1 offenzulegen.(1b) Wird der Jahresabschluss oder der Lagebericht geändert, so ist auch die Änderung nach Absatz 1 Satz 1 offenzulegen. Ist im Jahresabschluss nur der Vorschlag für die Ergebnisverwendung enthalten, ist der Beschluss über die Ergebnisverwendung nach seinem Vorliegen nach Absatz 1 Satz 1 offenzulegen.(2) (weggefallen)(2a) Bei der Offenlegung nach Absatz 1 in Verbindung mit § 8b Absatz 2 Nummer 4 kann bei großen Kapitalgesellschaften (§ 267 Absatz 3) an die Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315e Absatz 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244, 245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Absatz 1 und 3 anzuwenden. Die Verpflichtung, einen Lagebericht offenzulegen, bleibt unberührt; der Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den Einzelabschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das Wahlrecht nach Satz 1.(2b) Die befreiende Wirkung der Offenlegung des Einzelabschlusses nach Absatz 2a tritt ein, wenn 1.statt des vom Abschlussprüfer zum Jahresabschluss erteilten Bestätigungsvermerks oder des Vermerks über dessen Versagung der entsprechende Vermerk zum Abschluss nach Absatz 2a in die Offenlegung nach Absatz 1 einbezogen wird,2.der Vorschlag für die Verwendung des Ergebnisses und gegebenenfalls der Beschluss über seine Verwendung unter Angabe des Jahresüberschusses oder Jahresfehlbetrags in die Offenlegung nach Absatz 1 einbezogen werden und3.der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung in deutscher Sprache nach Maßgabe des Absatzes 1a Satz 1 und des Absatzes 4 der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister durch dauerhafte Hinterlegung übermittelt wird.(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 gelten entsprechend für die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.(3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des Mutterunternehmens oder mit einem von diesem aufgestellten Einzelabschluss nach Absatz 2a offengelegt, können die Vermerke des Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst werden; in diesem Fall können auch die jeweiligen Prüfungsberichte zusammengefasst werden.(4) Bei einer Kapitalgesellschaft im Sinn des § 264d beträgt die Frist nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der Übermittlung der Unterlagen maßgebend. Eine Kapitalgesellschaft im Sinne des § 264d hat die Unterlagen nach Absatz 1 Satz 1 gleichzeitig mit ihrer öffentlichen Zugänglichmachung im Internet im Sinne des § 114 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes nach Absatz 1 Satz 2 zu übermitteln.(5) Auf Gesetz, Gesellschaftsvertrag oder Satzung beruhende Pflichten der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz 2a, den Lagebericht, den Konzernabschluss oder den Konzernlagebericht in anderer Weise bekannt zu machen, einzureichen oder Personen zugänglich zu machen, bleiben unberührt.(6) Die §§ 11 und 12 Absatz 2 gelten entsprechend für die Unterlagen, die an die das Unternehmensregister führende Stelle zur Einstellung in das Unternehmensregister zu übermitteln sind; § 325a Absatz 1 Satz 5 und § 340l Absatz 2 Satz 6 bleiben unberührt."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 331",
+      "official_doknr": "BJNR002190897BJNE012707360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer 1.als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse der Kapitalgesellschaft in der Eröffnungsbilanz, im Jahresabschluß, im Lagebericht einschließlich der nichtfinanziellen Erklärung, im gesonderten nichtfinanziellen Bericht oder im Zwischenabschluß nach § 340a Abs. 3 unrichtig wiedergibt oder verschleiert,1a.als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 325 Abs. 2a Satz 1, Abs. 2b einen Einzelabschluss nach den in § 315e Absatz 1 genannten internationalen Rechnungslegungsstandards, in dem die Verhältnisse der Kapitalgesellschaft unrichtig wiedergegeben oder verschleiert worden sind, offen legt,2.als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Kapitalgesellschaft die Verhältnisse des Konzerns im Konzernabschluß, im Konzernlagebericht einschließlich der nichtfinanziellen Konzernerklärung, im gesonderten nichtfinanziellen Konzernbericht oder im Konzernzwischenabschluß nach § 340i Abs. 4 unrichtig wiedergibt oder verschleiert,3.als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft zum Zwecke der Befreiung nach § 291 Abs. 1 und 2 oder nach § 292 einen Konzernabschluß oder Konzernlagebericht, in dem die Verhältnisse des Konzerns unrichtig wiedergegeben oder verschleiert worden sind, offenlegt oder3a.(weggefallen)4.als Mitglied des vertretungsberechtigten Organs einer Kapitalgesellschaft oder als Mitglied des vertretungsberechtigten Organs oder als vertretungsberechtigter Gesellschafter eines ihrer Tochterunternehmen (§ 290 Abs. 1, 2) in Aufklärungen oder Nachweisen, die nach § 320 einem Abschlußprüfer der Kapitalgesellschaft, eines verbundenen Unternehmens oder des Konzerns zu geben sind, unrichtige Angaben macht oder die Verhältnisse der Kapitalgesellschaft, eines Tochterunternehmens oder des Konzerns unrichtig wiedergibt oder verschleiert.(2) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1a oder 3 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 333",
+      "official_doknr": "BJNR002190897BJNE012903360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein Geheimnis der Kapitalgesellschaft, eines Tochterunternehmens (§ 290 Abs. 1, 2), eines gemeinsam geführten Unternehmens (§ 310) oder eines assoziierten Unternehmens (§ 311), namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als Abschlußprüfer oder Gehilfe eines Abschlußprüfers bei Prüfung des Jahresabschlusses, eines Einzelabschlusses nach § 325 Abs. 2a oder des Konzernabschlusses bekannt geworden ist, unbefugt offenbart.(2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Ebenso wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten Art, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter den Voraussetzungen des Absatzes 1 bekannt geworden ist, unbefugt verwertet.(3) Die Tat wird nur auf Antrag der Kapitalgesellschaft verfolgt."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 340m",
+      "official_doknr": "BJNR002190897BJNE084106360",
+      "evidence": "sources/review-p117-p158/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Strafvorschriften der §§ 331 bis 333 sind auch auf nicht in der Rechtsform einer Kapitalgesellschaft betriebene Kreditinstitute, auf Finanzdienstleistungsinstitute im Sinne des § 340 Absatz 4, auf Wertpapierinstitute im Sinne des § 340 Absatz 4a Satz 1 sowie auf Institute im Sinne des § 340 Absatz 5 anzuwenden. § 331 ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch 1.den Geschäftsleiter (§ 1 Absatz 2 des Kreditwesengesetzes) eines nicht in der Rechtsform der Kapitalgesellschaft betriebenen Kreditinstituts oder Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1,1a.den Geschäftsleiter (§ 2 Absatz 36 des Wertpapierinstitutsgesetzes) eines nicht in der Rechtsform der Kapitalgesellschaft betriebenen Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1,2.den Geschäftsleiter (§ 1 Absatz 8 Satz 1 und 2 des Zahlungsdiensteaufsichtsgesetzes) eines nicht in der Rechtsform der Kapitalgesellschaft betriebenen Instituts im Sinne des § 340 Absatz 5,3.den Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1 oder Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1 und4.den Geschäftsleiter im Sinne des § 53 Absatz 2 Nummer 1 des Kreditwesengesetzes.(2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied eines nach § 340k Absatz 5 Satz 1 in Verbindung mit § 324 Absatz 1 Satz 1 eingerichteten Prüfungsausschusses eines Kreditinstituts im Sinne des § 340 Absatz 1 Satz 1, eines Finanzdienstleistungsinstituts im Sinne des § 340 Absatz 4 Satz 1, eines Wertpapierinstituts im Sinne des § 340 Absatz 4a Satz 1 oder eines Instituts im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes 1.eine in § 340n Absatz 2a bezeichnete Handlung begeht und dafür einen Vermögensvorteil erhält oder sich versprechen lässt oder2.eine in § 340n Absatz 2a bezeichnete Handlung beharrlich wiederholt.(3) § 335c Absatz 2 gilt in den Fällen des Absatzes 1 Satz 1 in Verbindung mit § 332 oder § 333 und des Absatzes 2 entsprechend."
+    },
+    {
+      "act": "beurkg",
+      "label": "§ 40a",
+      "official_doknr": "BJNR015130969BJNE011601125",
+      "evidence": "sources/review-p117-p158/beurkg.xml",
+      "source_sha256": "6fee8e9bb8bc08018ccc483986f3ab260a28357e7dfe7d0aa5a8c3bf559ba874",
+      "text": "(1) Eine qualifizierte elektronische Signatur soll nur beglaubigt werden, wenn sie in Gegenwart des Notars oder mittels des von der Bundesnotarkammer nach § 78p der Bundesnotarordnung betriebenen Videokommunikationssystems anerkannt worden ist. Die Beglaubigung kann mittels Videokommunikation nur erfolgen, soweit dies durch Gesetz zugelassen ist.(2) Der Beglaubigungsvermerk muss die Person bezeichnen, welche die qualifizierte elektronische Signatur anerkannt hat. In dem Vermerk soll angegeben werden, ob die qualifizierte elektronische Signatur in Gegenwart des Notars oder mittels Videokommunikation anerkannt worden ist.(3) Bei der Beglaubigung einer qualifizierten elektronischen Signatur mittels Videokommunikation ist eine Signaturprüfung nach § 39a Absatz 3 nicht erforderlich.(4) § 10 Absatz 1, 2 und 3 Satz 1 und § 40 Absatz 2 und 5 gelten entsprechend. Im Falle der Beglaubigung mittels Videokommunikation gilt § 16c entsprechend.(5) Der Notar soll die Beglaubigung einer mittels Videokommunikation anerkannten qualifizierten elektronischen Signatur ablehnen, wenn er die Erfüllung seiner Amtspflichten auf diese Weise nicht gewährleisten kann, insbesondere wenn er sich auf diese Weise keine Gewissheit über die Person verschaffen kann, welche die qualifizierte elektronische Signatur anerkannt hat."
+    }
+  ],
+  "read_but_not_cited_candidate_checks": [
+    {
+      "official_doknr": "KORE313782011",
+      "snapshot": "sources/review-p117-p158/case-KORE313782011.xml",
+      "sha256": "6a58039fe5266712ee1d205bff9e92baa27fa7d1fabebacf0ab9f11bd1e98bac",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313782011.xml",
+      "byte_identical": true
+    },
+    {
+      "official_doknr": "KORE634382019",
+      "snapshot": "sources/review-p117-p158/case-KORE634382019.xml",
+      "sha256": "d0ed8fe8f0dd18d6c5c4922faa9690cc87e4a6f139ccf4b0218019b874d1df46",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore634382019.xml",
+      "byte_identical": true
+    }
+  ],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 20 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

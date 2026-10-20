@@ -1,0 +1,33 @@
+{
+  "reviewed_at": "2026-10-20T09:22:21.269598+00:00",
+  "candidates": [
+    {
+      "doknr": "KORE313782011",
+      "full_text_read": true,
+      "card": "sources/review-p117-p158/candidate-ii-zb-12-10.md",
+      "source": "sources/review-p117-p158/case-KORE313782011.xml",
+      "sha256": "6a58039fe5266712ee1d205bff9e92baa27fa7d1fabebacf0ab9f11bd1e98bac",
+      "candidate_units": [
+        "p117"
+      ],
+      "supported_units_in_this_batch": [],
+      "disposition": "not_cited",
+      "reason": "Rn. 13 leaves general continuation question open; historical closure case."
+    },
+    {
+      "doknr": "KORE634382019",
+      "full_text_read": true,
+      "card": "sources/review-p117-p158/candidate-5-str-76-19.md",
+      "source": "sources/review-p117-p158/case-KORE634382019.xml",
+      "sha256": "d0ed8fe8f0dd18d6c5c4922faa9690cc87e4a6f139ccf4b0218019b874d1df46",
+      "candidate_units": [
+        "p147"
+      ],
+      "supported_units_in_this_batch": [],
+      "disposition": "not_cited",
+      "reason": "Rn. 12 names GenG only to distinguish offence names, not to interpret current elements."
+    }
+  ],
+  "new_cases_cited": [],
+  "limits": "Selective research, no exhaustive coverage; candidates read but not cited as positive GenG holdings in assigned units."
+}
