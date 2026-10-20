@@ -152,14 +152,14 @@
     "repo": "Komentar-DE-GENG-1889",
     "units": 199,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 214330,
+    "commentary_chars": 220376,
     "errors": [],
     "warnings": [],
     "ok": true
   },
   "technical_checks": {
     "ok": true,
-    "local_links_checked": 116,
+    "local_links_checked": 118,
     "broken_links": [],
     "official_xml_vs_html_mismatches": [],
     "repeated_long_paragraphs": 0
@@ -281,5 +281,7 @@
     "independent_content_review_performed": false
   },
   "last_bounded_review_at": "2026-10-20T08:13:21.755976+00:00",
-  "bounded_review_validation": "review-validation-p15b-p29.json"
+  "bounded_review_validation": "review-validation-p15b-p29.json",
+  "last_bounded_review_complete": true,
+  "whole_book_review_complete": false
 }

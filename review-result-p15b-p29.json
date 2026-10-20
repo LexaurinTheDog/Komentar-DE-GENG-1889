@@ -292,5 +292,21 @@
     "Keine umfassende historische Parallelrekonstruktion sämtlicher Gesetze; die frühere Formlage des BGH-Falls wurde nicht als heutige Formvorgabe verwendet.",
     "Technische Checks beweisen keine juristische Qualität. Keine externe anwaltliche Freigabe."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 220376,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py .",
+    "validated_output_commit": "f3f0b33",
+    "technical_checks": "technical-checks.json",
+    "completeness": "coverage-check.json",
+    "result_file": "review-validation-p15b-p29.json"
+  }
 }
