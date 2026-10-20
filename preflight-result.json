@@ -79,7 +79,31 @@
     "Independent substantive second pass remains outstanding."
   ],
   "validation": {
-    "state": "pending_rebuild_validation"
+    "state": "passed",
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 211782,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "official_production_coverage": {
+      "ok": true,
+      "official_xml": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GENG-1889/sources/geng.xml",
+      "expected_units": 199,
+      "parsed_units": 199,
+      "missing": [],
+      "extra": []
+    },
+    "technical_report": "technical-checks.json",
+    "html_wording_agreement": true,
+    "local_links_checked": 88,
+    "broken_links": [],
+    "commentary_files_retained_unchanged": 14,
+    "independent_content_review_performed": false
   },
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "completed_at": "2026-10-20T07:59:42.285927+00:00"
 }

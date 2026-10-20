@@ -157,7 +157,7 @@
   },
   "technical_checks": {
     "ok": true,
-    "local_links_checked": 80,
+    "local_links_checked": 88,
     "broken_links": [],
     "official_xml_vs_html_mismatches": [],
     "repeated_long_paragraphs": 0
@@ -178,5 +178,31 @@
   "publication_or_external_writes": false,
   "previous_stage": "drafted_technical_validation",
   "preflight_completed_at": "2026-10-20T07:58:15.432200+00:00",
-  "preflight_result": "preflight-result.json"
+  "preflight_result": "preflight-result.json",
+  "preflight_validation": {
+    "state": "passed",
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 211782,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "official_production_coverage": {
+      "ok": true,
+      "official_xml": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GENG-1889/sources/geng.xml",
+      "expected_units": 199,
+      "parsed_units": 199,
+      "missing": [],
+      "extra": []
+    },
+    "technical_report": "technical-checks.json",
+    "html_wording_agreement": true,
+    "local_links_checked": 88,
+    "broken_links": [],
+    "commentary_files_retained_unchanged": 14,
+    "independent_content_review_performed": false
+  }
 }
