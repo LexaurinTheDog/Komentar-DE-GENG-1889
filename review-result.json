@@ -2831,5 +2831,15 @@
     "Zusammenführung bestehender Teilreviews; in diesem Finalisierungsprozess keine neue unabhängige Inhaltsprüfung und keine externe anwaltliche Freigabe.",
     "Technische Prüfungen und Mindestlängen beweisen keine juristische Fehlerfreiheit; Ausgabe bleibt Arbeitsentwurf ohne Buchgesamtfreigabe."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "validation": {
+    "repo": "Komentar-DE-GENG-1889",
+    "units": 199,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 295360,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "finalization_validated_at": "2026-10-20T09:41:58.112691+00:00"
 }

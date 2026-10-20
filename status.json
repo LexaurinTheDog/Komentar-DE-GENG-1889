@@ -1010,6 +1010,8 @@
     "units_reviewed_this_process": 0,
     "evidence": "finalization-checks.json",
     "whole_book_release_approved": false,
-    "technical_checks": "technical-checks.json"
-  }
+    "technical_checks": "technical-checks.json",
+    "validation": "finalization-validation.json"
+  },
+  "finalization_validated_at": "2026-10-20T09:41:58.112691+00:00"
 }
