@@ -1,0 +1,15 @@
+# BGH, Beschluss vom 18. März 2025 – II ZB 7/24
+
+ECLI:DE:BGH:2025:180325BIIZB7.24.0. Amtliche Dokumentnummer KORE710002025. Gesamter amtlicher Volltext einschließlich Sachverhalt, Tenor und Gründen Rn. 1–36 am **20. Oktober 2026** gelesen.
+
+[Amtlicher Volltext](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE710002025) · [XML-Snapshot](../sources/review-p69-p86/case-KORE710002025.xml) · [ZIP-/HTTP-/Hashnachweis](../sources/review-p69-p86/supplemental-fetches.json) · [Rechercheprotokoll](../sources/review-p69-p86/local-case-search.json).
+
+Ein Mitglied einer übertragenden Bankgenossenschaft hatte zwei voll eingezahlte Anteile von zusammen 250 Euro. Nach einer Verschmelzung von 2021 erhielt es zehn Anteile zu je 25 Euro und verlangte wegen eines behaupteten inneren Wertverlusts zusätzlich 1.063 Euro im Spruchverfahren. Der BGH wies seine Rechtsbeschwerde zurück. Die Behauptung eines Wertverlusts ist zunächst sein Vorbringen, keine gerichtliche Feststellung einer ausgleichspflichtigen Schädigung.
+
+Rn. 9–11 legen für die rein genossenschaftliche Verschmelzung den gesetzlichen Ausgleich auf der Grundlage des bilanziellen Geschäftsguthabens aus: maßgeblich sind Einzahlungen mit den entsprechenden Ergebnisveränderungen, nicht ein Anteil am Verkehrswert sämtlicher Vermögenswerte. Rn. 13–16 behandeln die Gesetzgebungsgeschichte; die frühere Absatznummer von § 85 UmwG wird ausdrücklich von der seit 2023 verwendeten Nummerierung unterschieden. Daraus darf keine Vermischung der früheren GenG-Verschmelzungsregeln mit dem heutigen Bestand entstehen.
+
+**Die im Kommentar zu § 73 verwendete Stelle ist Rn. 17, zusammen mit Rn. 11 und 18.** Der Senat führt den Ausschluss allgemeiner Rücklagen- und Vermögensbeteiligung ausdrücklich auf § 73 Abs. 2 Satz 3 GenG zurück und behält die besondere Ergebnisrücklage nach Absatz 3 vor. Rn. 18 trennt die substanzerhaltende Verschmelzung von einer auf Verteilung zielenden Liquidation. Rn. 22–29 behandeln den Eigentumsschutz und die Sicherung des Förderkapitalstocks; Rn. 30–35 die Gleichheits- und Verfahrensfragen. Die in Rn. 18 referierte abweichende Literaturmeinung ist nicht das Ergebnis des Gerichts.
+
+Unterstützte Kommentarstelle: **§ 73**. Die Verwendung beschränkt sich auf die Unterscheidung zwischen bilanziell verändertem Geschäftsguthaben und allgemeiner Beteiligung an Reserven. Der entschiedene Fall ist ein Verschmelzungs- und Spruchverfahrensfall. Er entscheidet weder sämtliche Satzungsklauseln über Austrittszahlungen nach § 73 Abs. 4 noch den Verbraucherwiderruf des Falles II ZR 119/24. Auch eine Garantie der vollen ursprünglichen Einzahlung oder eine feste Fälligkeit folgt daraus nicht. Der aktuelle GenG-Text und sein Vorbehalt für die Ergebnisrücklage wurden gesondert am amtlichen XML kontrolliert.
+
+Die heruntergeladene XML ist bytegleich mit `/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore710002025.xml`. Ausgewertet wurden ausschließlich der amtliche Entscheidungstext und die eigene Analyse; private Leitsätze oder Anmerkungen wurden nicht übernommen. Keine erschöpfende Rechtsprechungsrecherche behauptet.

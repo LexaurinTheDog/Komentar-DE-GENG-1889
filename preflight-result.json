@@ -456,5 +456,70 @@
       "nonassigned_commentary_changes": [],
       "does_not_certify_legal_quality": true
     }
+  },
+  "bounded_review_p69_p86_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T08:54:41.367355+00:00",
+    "scope": [
+      "p69",
+      "p70-72",
+      "p73",
+      "p74",
+      "p75",
+      "p76",
+      "p77",
+      "p77a",
+      "p78",
+      "p78a-78b",
+      "p79",
+      "p79a",
+      "p80",
+      "p81",
+      "p81a",
+      "p82",
+      "p83",
+      "p84",
+      "p85",
+      "p86"
+    ],
+    "raw_fetches": "sources/review-p69-p86/fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "BEG IV ausgegeben am 29.10.2024; Art. 22 S. 13–14 einschließlich Nr. 14 (§ 76) und Nr. 16 (§ 177), Art. 74 Abs. 1–13 S. 34–35 tatsächlich gelesen. Art. 22 unterliegt allgemeiner Quartalsregel, nicht bloßer Abruf-/Builddatumsschluss.",
+      "source": "sources/review-p69-p86/beg4.pdf",
+      "since_intake": "Frisches GenG-XML und beide HTML-Körper bytegleich mit Ausgangsquellen; ursprünglicher Intake samt Änderungskarte erhalten. Kein Textwechsel seit Intake festgestellt.",
+      "external_FamFG": "§ 394 im frischen XML gelesen. BGBl. 2026 I Nr. 192 Art. 4 betrifft §§ 41a, 46 und 113, seit 1.10.2026 nach Art. 20; Nr. 198 Art. 4 betrifft Gewaltschutz-/Kindschaftsregeln, überwiegend ab 1.7.2027, nur Nr. 8 schon nach Verkündung gemäß Art. 10. Weder Gesetz ändert § 394. Textnachweis einer späteren Änderung wurde nicht als Wirksamkeitsbeleg übernommen.",
+      "external_evidence": [
+        "sources/review-p69-p86/famfg-amendment192.pdf",
+        "sources/review-p69-p86/famfg-amendment198.pdf"
+      ]
+    },
+    "historical_versions_checked": {
+      "fresh_equals_canonical": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "inventory": "coverage-check.json",
+      "selection": "Single current GenG XML; all raw nodes inventoried, no historical parallel versions concatenated. All repeal positions preserved."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "Alle 211 Rohknoten, amtliche Inhaltsübersicht und Gesamtausgabe geprüft. Keine operative Anlage und keine Eingangsformel im amtlichen Bestand, keine echte Auslassung zu reparieren. § 110 Anlage der Vorschüsse betrifft Geldanlage."
+    },
+    "unresolved_blockers": []
   }
 }

@@ -1,0 +1,309 @@
+{
+  "searched_at": "2026-10-20T08:52:06.809813+00:00",
+  "method": "Python UTF-8 scan of local official XML corpus for GenG plus any of specified literal strings; metadata and candidate excerpts inspected, not full reading of every match.",
+  "terms": [
+    "§ 73",
+    "§ 76",
+    "§ 77",
+    "§ 79a",
+    "§ 81",
+    "§ 85",
+    "Auseinandersetzungsguthaben"
+  ],
+  "candidates": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110007611.xml",
+      "sha256": "2226e57402d5c7df0add1babc38851bffcecad92f239cbaaa69f7be0bf40a900",
+      "docket": "II ZR 298/08",
+      "date": "20110301",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110011168.xml",
+      "sha256": "d76b4ebd255ddac578cc2e3c6371b4b40e8c1a192ee4f9bb171c3a1182d381a2",
+      "docket": "II ZR 263/10",
+      "date": "20110419",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300112012.xml",
+      "sha256": "5d12459c4fed6c0656741fdea67149771c45679813a745b70afc26172119353f",
+      "docket": "IX ZR 33/11",
+      "date": "20111208",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300562019.xml",
+      "sha256": "64bf111b87076307d142551931707af4e1c803a433ceca6a16f3d8d51f3c6c5c",
+      "docket": "II ZR 364/18",
+      "date": "20190108",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300582011.xml",
+      "sha256": "5776bbdc995ace863e00e49045579d3deaa769cc766fb4a4b6a86b13b782d044",
+      "docket": "II ZR 297/08",
+      "date": "20110301",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300672012.xml",
+      "sha256": "aca359f97c6dd4c5a447948d5813d5e4d4b97fff671c4b169bc12243b1d0863c",
+      "docket": "II ZR 230/09",
+      "date": "20120207",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300832020.xml",
+      "sha256": "a58504ac691cad3bb7e9070fea416e3613ed590e433404eebfce7b80b601d77c",
+      "docket": "IX ZR 125/17",
+      "date": "20200312",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301002018.xml",
+      "sha256": "79846e4c698c333518426d0c5471cdb9eadb68f1c1d40391b0ca7323df7260b1",
+      "docket": "IX ZR 56/17",
+      "date": "20180426",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301392018.xml",
+      "sha256": "e5c8ecc420a7e242202d959011ef33cb81a2cd5800cad68c4098c038ad3bc53c",
+      "docket": "IX ZR 232/17",
+      "date": "20180614",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore303162017.xml",
+      "sha256": "051aebab840551115282f0bbbc2cedb9a2c61adec9d685e0440ff13c3c864833",
+      "docket": "XI ZR 442/16",
+      "date": "20170314",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore303912022.xml",
+      "sha256": "8d078f5b9b20d59e0388e96f8853941a2ded67e7dfd641986bd3e49c6ff2050a",
+      "docket": "II ZR 235/20",
+      "date": "20220215",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore304172014.xml",
+      "sha256": "9d4fab1651cd55e6c9017f1ba2cb4abea7f90ad638874c99b3bf263c857dfe04",
+      "docket": "IX ZR 276/13",
+      "date": "20140918",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore308412018.xml",
+      "sha256": "3c04fe5806518f5d7059febbe4e2e188bd5ae57cd494ddfde68a97f4193deb3b",
+      "docket": "II ZR 1/16",
+      "date": "20180206",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore311202021.xml",
+      "sha256": "2ea361108e0bcf6b9701c09e92429149db3fbe6e5c3d67aaed63cb34bd564ad9",
+      "docket": "III ZR 139/20",
+      "date": "20210415",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore311372012.xml",
+      "sha256": "c68b6a8173d1af270a059967a839b7ef23216d54bb879fd64d1462fd0d2d2d04",
+      "docket": "II ZR 117/10",
+      "date": "20120724",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore312792022.xml",
+      "sha256": "02ee1da8daf1672b3dcd7cc6dd4832a84507520630ad35d1285d940beceeff9f",
+      "docket": "VII ZB 18/18",
+      "date": "20220504",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore314202012.xml",
+      "sha256": "0d160d6158ecca967f9008763d72a69bd51501823be94f358b5e130619618a95",
+      "docket": "II ZR 241/10",
+      "date": "20120619",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore314682010.xml",
+      "sha256": "2704cba1a44c630338608d75c32a7d4f8e6fe586344165efc02317dd211e785d",
+      "docket": "IX ZB 120/10",
+      "date": "20101202",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore615302021.xml",
+      "sha256": "24c009848ea5dd18203640f1d0efc338d6e248882a2157d2f36e07a9f44d237a",
+      "docket": "AnwZ (Brfg) 19/19",
+      "date": "20201207",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore619162019.xml",
+      "sha256": "6da34252fed3a23f61cd41b61115f8f1d854ecca31340c60c53ad545b1ada22d",
+      "docket": "AnwZ (Brfg) 25/18",
+      "date": "20190114",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore621152020.xml",
+      "sha256": "e97a8b71f83bec286f5c54e236e0b250a201ad0afbac37cbe4f8948323101d24",
+      "docket": "II ZR 56/18",
+      "date": "20200421",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore663602024.xml",
+      "sha256": "8eef80234d67d6dba50f031ee07d873a6a417f47189fae0ac34a3db06f79b6c1",
+      "docket": "4 StR 173/23",
+      "date": "20240312",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore703382024.xml",
+      "sha256": "2bccf25f10c005148197f274c568279c10cde4dbd6825711f39ec4de56423fb2",
+      "docket": "II ZB 10/23",
+      "date": "20240604",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore710002025.xml",
+      "sha256": "b5a785748220d1b55830468be2b5098af5d8d98f01711bbd83179390d85b4e0b",
+      "docket": "II ZB 7/24",
+      "date": "20250318",
+      "court": "BGH",
+      "selection": "full_text_read"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore712442024.xml",
+      "sha256": "af081d5ab7e11220b5745f4d5b65d833a7bc382db8a9664d2f6d87fd23483b38",
+      "docket": "II ZR 37/23",
+      "date": "20241210",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore722082025.xml",
+      "sha256": "cc21390c11ac6fbd54ed48e8c4cadb4f03cd31cb122bfa95d8e9a746cb8ca892",
+      "docket": "II ZR 137/23",
+      "date": "20250708",
+      "court": "BGH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+      "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+      "docket": "II ZR 119/24",
+      "date": "20251021",
+      "court": "BGH",
+      "selection": "full_text_read"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre139961517.xml",
+      "sha256": "d8270c9504e3f779e418d4a487d7e2a963bc60f8431cab0becd16eb92707552c",
+      "docket": "B 6 KA 36/13 R",
+      "date": "20141022",
+      "court": "BSG",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre176210206.xml",
+      "sha256": "cccd16475d332ad65df3abed21f378b9dbe2a51555f7433fb936ec9b9471c026",
+      "docket": "B 5 R 16/16 R",
+      "date": "20170817",
+      "court": "BSG",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre176250206.xml",
+      "sha256": "285836a95f05023f05b13e6a0425650474c6c0368bfb049d00a5977d77560787",
+      "docket": "B 5 R 8/16 R",
+      "date": "20170817",
+      "court": "BSG",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre177830206.xml",
+      "sha256": "fff4172c2424c3a431460693b4d0bbed04c534d14bf1c7e90c29f38ba4fb802b",
+      "docket": "B 5 R 25/17 R",
+      "date": "20180628",
+      "court": "BSG",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre182510206.xml",
+      "sha256": "665292aa92fc59adc78a10a0284074816e48bd04a6b7d264d19db74c993cf25b",
+      "docket": "B 13 R 23/18 R",
+      "date": "20200520",
+      "court": "BSG",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre451342301.xml",
+      "sha256": "440c16a967ee3c49d15fa0b5203a5bc6e4b4d2082901fc94b7db8687c060ea5c",
+      "docket": "2 BvR 988/16",
+      "date": "20221207",
+      "court": "BVerfG",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201110185.xml",
+      "sha256": "ae88edbe0ace6cd89b9546c2c9fea4f003a6ba1c6ffd8d9dd01f0f1f0ae7c9c4",
+      "docket": "VII R 47/10",
+      "date": "20110517",
+      "court": "BFH",
+      "selection": "candidate_only_not_cited"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre202010114.xml",
+      "sha256": "20166366611332d47dcc025bf0992fde098fc00a0910c2ad036c9d8afb75361d",
+      "docket": "IX R 5/18",
+      "date": "20200114",
+      "court": "BFH",
+      "selection": "candidate_only_not_cited"
+    }
+  ],
+  "full_text_cases": [
+    "KORE710002025",
+    "KORE728222025"
+  ],
+  "first_firecrawl_query": {
+    "query": "site:rechtsprechung-im-internet.de GenG \"73\" \"Auseinandersetzung\"",
+    "result": "CLI returned No results found and did not create output file; no authorities inferred."
+  },
+  "second_firecrawl_query": {
+    "query": "BGH II ZB 7/24 Geschäftsguthaben 18 März 2025",
+    "result_file": "../research/review-p69-p86-search.json",
+    "use": "discovery only; all actual support comes from freshly downloaded primary official XML"
+  },
+  "limits": "Selective research only. No newly verified specific case used for the other assigned technical or repealed units; this is not a finding that no such cases exist."
+}

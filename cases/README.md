@@ -16,3 +16,7 @@ Das [Rechercheprotokoll](../sources/search-log.json) dokumentiert Suchwege, nich
 - [BGH, 18. September 2014 – IX ZR 276/13](bgh-ix-zr-276-13.md): keine Rückwirkung des später eingeführten § 67c auf eine Kündigung aus dem Jahr 2012; als heutiges freies Kündigungsrecht ungeeignet.
 
 Im begrenzten Teilauftrag §§ 63a–68 wurden II ZR 2/16, II ZR 17/09 und II ZR 119/24 am 20. Oktober 2026 erneut vollständig gelesen. IX ZR 276/13 wurde im selben Durchgang neu aufgenommen und vollständig geprüft. Die Quellenkörper und der lokale Korpus wurden bytegenau abgeglichen.
+
+- [BGH, 18. März 2025 – II ZB 7/24](bgh-ii-zb-7-24.md): bilanzielles Guthaben und Förderkapitalstock; Verschmelzungskontext und Grenzen der Verwendung zu § 73.
+
+Im Teilauftrag §§ 69–86 wurde dieser achte Volltext neu vollständig gelesen und II ZR 119/24 erneut vollständig geprüft; beide frisch online beschafften XML-Körper sind bytegleich zum lokalen amtlichen Korpus.

@@ -1481,5 +1481,39 @@
       "p64c"
     ],
     "limits": "Keine erschöpfende Recherche, keine Nutzung privater Leitsätze oder Suchbeschreibungen als Autorität."
+  },
+  "bounded_review_p69_p86": {
+    "reviewed_at": "2026-10-20T08:54:41.367355+00:00",
+    "reviewed_ids": [
+      "p69",
+      "p70-72",
+      "p73",
+      "p74",
+      "p75",
+      "p76",
+      "p77",
+      "p77a",
+      "p78",
+      "p78a-78b",
+      "p79",
+      "p79a",
+      "p80",
+      "p81",
+      "p81a",
+      "p82",
+      "p83",
+      "p84",
+      "p85",
+      "p86"
+    ],
+    "local_search_log": "review-p69-p86/local-case-search.json",
+    "online_search_evidence": "research/review-p69-p86-search.json",
+    "method": "Gezielter Python-Scan des lokalen amtlichen XML-Korpus und Auswahlexzerpte; ergänzende Firecrawl-Suche zur Entdeckung. Autoritäten nur aus frisch beschafften, vollständig gelesenen amtlichen Volltexten.",
+    "used_case_ids": [
+      "KORE710002025",
+      "KORE728222025"
+    ],
+    "other_candidates": "Nur Metadaten und selektive Auswahlstellen gesichtet; nicht als vollständig gelesen oder unterstützend zitiert.",
+    "limits": "Selektive lokale und ergänzende Online-Recherche; zwei amtliche Volltexte vollständig gelesen, keine Behauptung erschöpfender Rechtsprechungsabdeckung. Für die anderen technischen/Wegfalleinheiten kein neuer spezifischer Entscheidungsbeleg verifiziert; daraus folgt kein Fehlen einschlägiger Rechtsprechung."
   }
 }

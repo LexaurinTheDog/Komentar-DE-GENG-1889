@@ -1,0 +1,39 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE710002025.zip",
+    "accessed_at": "2026-10-20T08:48:01.093200+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p69-p86/case-KORE710002025.zip",
+    "sha256": "3fac2a35bdb58292793edbe052155e91c32bbdfb75a03d17e5c1c1ec30f635a4",
+    "format_validation": {
+      "xml_sha256": "b5a785748220d1b55830468be2b5098af5d8d98f01711bbd83179390d85b4e0b",
+      "local_corpus_byte_equal": true,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore710002025.xml",
+      "docket": "II ZB 7/24",
+      "ecli": "ECLI:DE:BGH:2025:180325BIIZB7.24.0"
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/192/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T08:48:01.353809+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "review-p69-p86/famfg-amendment192.pdf",
+    "sha256": "15fcf268bd8ec91b2c27933d163d5ffbad40ac7dc6af37ba6a70300b112d0ce2",
+    "format_validation": {
+      "pdf_magic": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/198/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T08:48:01.598929+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "file": "review-p69-p86/famfg-amendment198.pdf",
+    "sha256": "566f873ec04357c83d73ca87012b77a7a698f6ce146c38fe6c1ae7b7676583dc",
+    "format_validation": {
+      "pdf_magic": true
+    }
+  }
+]
