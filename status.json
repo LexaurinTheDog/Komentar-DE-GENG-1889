@@ -112,7 +112,7 @@
   "individual_statutory_slots": 252,
   "chapters": 11,
   "commentary_batches": 14,
-  "commentary_chars": 220376,
+  "commentary_chars": 230721,
   "case_law_sources": [
     {
       "court": "BGH",
@@ -165,14 +165,14 @@
     "repo": "Komentar-DE-GENG-1889",
     "units": 199,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 220376,
+    "commentary_chars": 230721,
     "errors": [],
     "warnings": [],
     "ok": true
   },
   "technical_checks": {
     "ok": true,
-    "local_links_checked": 118,
+    "local_links_checked": 142,
     "broken_links": [],
     "official_xml_vs_html_mismatches": [],
     "repeated_long_paragraphs": 0
@@ -334,5 +334,24 @@
       "fresh_fetch": "sources/review-p30-p46/fetches.json",
       "local_corpus_checked": true
     }
-  ]
+  ],
+  "last_bounded_review_validation": {
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 230721,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "technical_report": "technical-checks.json",
+    "completeness_report": "coverage-check.json",
+    "raw_wording_and_preservation_report": "review-technical-p30-p46.json",
+    "all_assigned_units_wording_agrees": true,
+    "local_links_checked": 142,
+    "broken_links": [],
+    "repeated_long_paragraphs": 0,
+    "does_not_certify_legal_quality": true
+  }
 }
