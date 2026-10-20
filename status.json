@@ -101,19 +101,20 @@
     "intake_comparison": "sources/change-map.json",
     "changed_units_since_intake": 0,
     "preflight_verification": "sources/verification.json",
-    "rechecked_at": "2026-10-20T08:32:29.947151+00:00",
+    "rechecked_at": "2026-10-20T08:44:02.057456+00:00",
     "coverage_check": "coverage-check.json",
     "bounded_review_fetches": "sources/review-p15b-p29/fetches.json",
     "bounded_preflight": "preflight-result.json",
     "bounded_review_p30_p46_fetches": "sources/review-p30-p46/fetches.json",
-    "bounded_review_p47_p63_fetches": "sources/review-p47-p63/fetches.json"
+    "bounded_review_p47_p63_fetches": "sources/review-p47-p63/fetches.json",
+    "bounded_review_p63a_p68_fetches": "sources/review-p63a-p68/fetches.json"
   },
   "total_units": 199,
   "completed_units": 199,
   "individual_statutory_slots": 252,
   "chapters": 11,
   "commentary_batches": 14,
-  "commentary_chars": 242950,
+  "commentary_chars": 252766,
   "case_law_sources": [
     {
       "court": "BGH",
@@ -165,6 +166,17 @@
       "supported_units": [
         "p62"
       ]
+    },
+    {
+      "court": "BGH",
+      "date": "20140918",
+      "docket": "IX ZR 276/13",
+      "doknr": "KORE304172014",
+      "full_text_read": true,
+      "read_at": "2026-10-20T08:42:39.519402+00:00",
+      "supported_units": [
+        "p67c"
+      ]
     }
   ],
   "case_law_search_log": "sources/search-log.json",
@@ -192,9 +204,9 @@
   "completeness": "completeness.json",
   "independent_second_pass": {
     "performed": true,
-    "state": "Vier begrenzte Teilaufträge mit 80 verschiedenen Einheiten abgeschlossen; 119 weitere Einheiten ausstehend.",
+    "state": "Fünf getrennte Teilaufträge für 100 verschiedene Einheiten abgeschlossen; 99 weitere Einheiten ausstehend.",
     "complete": false,
-    "reviewed_units": 80,
+    "reviewed_units": 100,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -275,37 +287,58 @@
       "p60",
       "p61",
       "p62",
-      "p63"
+      "p63",
+      "p63a",
+      "p63b",
+      "p63c",
+      "p63d",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p64",
+      "p64a",
+      "p64b",
+      "p64c",
+      "p65",
+      "p66",
+      "p66a",
+      "p67",
+      "p67a",
+      "p67b",
+      "p67c",
+      "p68"
     ],
-    "remaining_units": 119,
+    "remaining_units": 99,
     "result": "review-result.json",
     "batch_results": [
       "review-result-p1-p15a.json",
       "review-result-p15b-p29.json",
       "review-result-p30-p46.json",
-      "review-result-p47-p63.json"
+      "review-result-p47-p63.json",
+      "review-result-p63a-p68.json"
     ],
     "current_batch_reviewed_ids": [
-      "p30",
-      "p31",
-      "p32",
-      "p33",
-      "p33a-33i",
-      "p34",
-      "p35",
-      "p36",
-      "p37",
-      "p38",
-      "p39",
-      "p40",
-      "p41",
-      "p42",
-      "p43",
-      "p43a",
-      "p43b",
-      "p44",
-      "p45",
-      "p46"
+      "p63a",
+      "p63b",
+      "p63c",
+      "p63d",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p64",
+      "p64a",
+      "p64b",
+      "p64c",
+      "p65",
+      "p66",
+      "p66a",
+      "p67",
+      "p67a",
+      "p67b",
+      "p67c",
+      "p68"
     ],
     "current_batch_units_reviewed": 20
   },
@@ -314,7 +347,7 @@
     "Selektive, nicht erschöpfende Rechtsprechungsrecherche; kein flächendeckender Einzelentscheidungsnachweis für technische Normen.",
     "C-776/25 war beim amtlichen Stichtagsabruf anhängig; keine abschließende EuGH-Antwort behauptet.",
     "Kein vollständiger historischer Parallelkommentar zu allen extern verwiesenen Gesetzesfassungen.",
-    "Entwurf mit auf zusammen 80 Einheiten begrenztem zweitem Inhaltsdurchgang, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
+    "Entwurf mit auf zusammen 100 Einheiten begrenztem zweitem Inhaltsdurchgang, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
     "Quellen-/Parser-Preflight vom 20. Oktober 2026 ersetzt keine unabhängige inhaltliche Zweitprüfung; ursprünglicher Bearbeitungsstichtag bleibt 19. Oktober 2026."
   ],
   "publication_or_external_writes": false,
@@ -347,24 +380,72 @@
     "commentary_files_retained_unchanged": 14,
     "independent_content_review_performed": false
   },
-  "last_bounded_review_at": "2026-10-20T08:32:29.947151+00:00",
+  "last_bounded_review_at": "2026-10-20T08:44:02.057456+00:00",
   "bounded_review_validation": "review-validation-p47-p63.json",
   "last_bounded_review_complete": true,
   "whole_book_review_complete": false,
   "bounded_review_case_law_sources": [
     {
       "court": "BGH",
-      "date": "2023-11-30",
-      "docket": "III ZR 41/23",
-      "ECLI": "ECLI:DE:BGH:2023:301123BIIIZR41.23.0",
+      "date": "2018-05-15",
+      "docket": "II ZR 2/16",
+      "doknr": "KORE301052018",
       "full_text_read_in_this_pass": true,
       "supported_units": [
-        "p62"
+        "p65",
+        "p67b",
+        "p68"
       ],
-      "precise_location": "Keine amtlichen Randnummern; zweiter Textabsatz des Tenors, einschließlich dort veröffentlichter Gründe. Gesamter kurzer Volltext gelesen.",
-      "case_card": "cases/bgh-iii-zr-41-23.md",
-      "fresh_fetch": "sources/review-p47-p63/case-fetch.json",
-      "local_corpus_checked": true
+      "precise_location": "Rn. 19–26, 30–43",
+      "case_card": "cases/bgh-ii-zr-2-16.md",
+      "source": "sources/review-p63a-p68/case-KORE301052018.xml",
+      "local_corpus_checked": true,
+      "new_to_book": false
+    },
+    {
+      "court": "BGH",
+      "date": "2010-09-20",
+      "docket": "II ZR 17/09",
+      "doknr": "JURE100071345",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p68"
+      ],
+      "precise_location": "Erster begründender Textabsatz im Tenor; keine amtlichen Randnummern",
+      "case_card": "cases/bgh-ii-zr-17-09.md",
+      "source": "sources/review-p63a-p68/case-JURE100071345.xml",
+      "local_corpus_checked": true,
+      "new_to_book": false
+    },
+    {
+      "court": "BGH",
+      "date": "2025-10-21",
+      "docket": "II ZR 119/24",
+      "doknr": "KORE728222025",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p65"
+      ],
+      "precise_location": "Rn. 13–21 und 38, Kontext einschließlich Rn. 1–51 vollständig gelesen",
+      "case_card": "cases/bgh-ii-zr-119-24.md",
+      "source": "sources/review-p63a-p68/case-KORE728222025.xml",
+      "local_corpus_checked": true,
+      "new_to_book": false
+    },
+    {
+      "court": "BGH",
+      "date": "2014-09-18",
+      "docket": "IX ZR 276/13",
+      "doknr": "KORE304172014",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p67c"
+      ],
+      "precise_location": "Rn. 5–9; gesamter Volltext gelesen",
+      "case_card": "cases/bgh-ix-zr-276-13.md",
+      "source": "sources/review-p63a-p68/case-KORE304172014.xml",
+      "local_corpus_checked": true,
+      "new_to_book": true
     }
   ],
   "last_bounded_review_validation": {
@@ -449,30 +530,73 @@
     },
     "completed_at": "2026-10-20T08:34:12.957302+00:00"
   },
-  "reviewed_unique_units": 80,
-  "remaining_unreviewed_units": 119,
-  "last_bounded_review_report": "review-result-p47-p63.json",
+  "reviewed_unique_units": 100,
+  "remaining_unreviewed_units": 99,
+  "last_bounded_review_report": "review-result-p63a-p68.json",
   "last_bounded_review_ids": [
-    "p47",
-    "p48",
-    "p49",
-    "p50",
-    "p51",
-    "p52",
-    "p53",
-    "p53a",
-    "p54",
-    "p54a",
-    "p55",
-    "p56",
-    "p57",
-    "p57a",
-    "p58",
-    "p59",
-    "p60",
-    "p61",
-    "p62",
-    "p63"
+    "p63a",
+    "p63b",
+    "p63c",
+    "p63d",
+    "p63e",
+    "p63f",
+    "p63g",
+    "p63h",
+    "p64",
+    "p64a",
+    "p64b",
+    "p64c",
+    "p65",
+    "p66",
+    "p66a",
+    "p67",
+    "p67a",
+    "p67b",
+    "p67c",
+    "p68"
   ],
-  "last_bounded_review_units": 20
+  "last_bounded_review_units": 20,
+  "bounded_review_p63a_p68": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p63a",
+      "p63b",
+      "p63c",
+      "p63d",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p64",
+      "p64a",
+      "p64b",
+      "p64c",
+      "p65",
+      "p66",
+      "p66a",
+      "p67",
+      "p67a",
+      "p67b",
+      "p67c",
+      "p68"
+    ],
+    "corrected_ids": [
+      "p63b",
+      "p63c",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p65",
+      "p66",
+      "p67a",
+      "p67b",
+      "p67c",
+      "p68"
+    ],
+    "report": "review-result-p63a-p68.json",
+    "whole_book_review_complete": false,
+    "unresolved_blockers": []
+  }
 }

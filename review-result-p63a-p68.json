@@ -1,0 +1,344 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "scope_complete": true,
+  "whole_book_review_complete": false,
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-20T08:44:02.057456+00:00",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p63a",
+    "p63b",
+    "p63c",
+    "p63d",
+    "p63e",
+    "p63f",
+    "p63g",
+    "p63h",
+    "p64",
+    "p64a",
+    "p64b",
+    "p64c",
+    "p65",
+    "p66",
+    "p66a",
+    "p67",
+    "p67a",
+    "p67b",
+    "p67c",
+    "p68"
+  ],
+  "corrected_ids": [
+    "p63b",
+    "p63c",
+    "p63e",
+    "p63f",
+    "p63g",
+    "p63h",
+    "p65",
+    "p66",
+    "p67a",
+    "p67b",
+    "p67c",
+    "p68"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "p63a",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; §§ 63, 64, 64a",
+      "result": "retained_after_review",
+      "finding": "Institutionelle Aufgabengewähr von bloßer Formalprüfung abgegrenzt; Auflagen, Versicherung oder andere ausreichende Sicherstellung, fehlende gesetzliche feste Mindestversicherungssumme und Folgen späteren Gewährwegfalls geprüft. Beispiel ist fiktiv und trägt den Eignungsmaßstab. Unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE008804140",
+      "commentary_sha256": "be9a15724efdf89291bf811c5f951d80aed586ca00561f819208fb678ea8d800"
+    },
+    {
+      "unit_id": "p63b",
+      "reviewed": true,
+      "source_scope": "Abs. 1–6; § 63a",
+      "result": "corrected",
+      "finding": "Alle Rechtsform-, Mitglieder- und Zweckvorgaben geprüft und konkretisiert. Fremde Prüfungspflichten bleiben bestehen; kein GenG-Prüfungsrecht allein aus Aufnahme nichtgenossenschaftlicher Mitglieder. Grundsätzlich einjährige und engere längerfristige Befreiung sowie Ortsbindung der Mitgliederversammlung erklärt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE008906123",
+      "commentary_sha256": "90d7dc35536d95d3ff87ad7c10c501a927963e038279a5e696815dc6c3cb9dcd"
+    },
+    {
+      "unit_id": "p63c",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3; §§ 63, 63b Abs. 6",
+      "result": "corrected",
+      "finding": "Muss-/Soll-Verkürzung korrigiert: Absatz 2 ist eine Sollvorgabe, ebenso die Unterscheidbarkeit im Namens-Mussinhalt. Spezifische Abschlussprüfungsbezüge, Organregelungen und Anzeige gegenüber allgemeiner Genehmigung unterschieden.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE009005123",
+      "commentary_sha256": "f9ef95ff84df8b3191a7597d29e5b3ebad7942eeba5e820c820e12322b0053f5"
+    },
+    {
+      "unit_id": "p63d",
+      "reviewed": true,
+      "source_scope": "Sätze 1–3; §§ 53 Abs. 1, 54a, 55 Abs. 4",
+      "result": "retained_after_review",
+      "finding": "Adressaten und Gegenstände der Einreichung, Januarverzeichnis, Gründenachweis bei fehlender Pflichtprüfung und Benennung eines anderen prüfenden Verbands geprüft. Anlage zum Verzeichnis ist kein Anhang zum Gesetz. Beispiel und getrennte Pflicht zur Nachholung tragen; unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE009105123",
+      "commentary_sha256": "d413da9425ce66b0250c0e97868ab48458b06f7c4093a26d7d8ae0bb16eddba5"
+    },
+    {
+      "unit_id": "p63e",
+      "reviewed": true,
+      "source_scope": "Abs. 1–4; §§ 53, 63f, 63g, 64 Abs. 2; § 316a HGB",
+      "result": "corrected",
+      "finding": "Sechs-/Dreijahresrhythmus und Erstanwendungsfrist getrennt. Verkürzung ausdrücklich auf HGB-Nummern 1 und 2 begrenzt, nicht sämtliche PIE-Kategorien. Kontrollgegenstand umfasst bei erfassten Genossenschaften § 53 Abs. 1 und 2; Meldepflicht erklärt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE022907360",
+      "commentary_sha256": "124f44cf30f1c31a5146b4803852b4a1a142d103adc1c45d5cbeea23161937ae"
+    },
+    {
+      "unit_id": "p63f",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3; §§ 40a, 57a Abs. 3, 3a Satz 1, 4 WPO",
+      "result": "corrected",
+      "finding": "Drei institutionelle Registrierungsvoraussetzungen und konkrete verantwortliche Besetzung präzisiert: nicht nur persönliche Registrierung, sondern Stellung gemäß Abs. 2 Satz 1 Nr. 2 erforderlich. Fehlende Unabhängigkeit, dreijähriger Rückblick, Verbot wechselseitiger Kontrolle und Widerruf ergänzt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE023003123",
+      "commentary_sha256": "36dba20fee5e51792f31f7b7bccafea08bc231eeb49a7afcf16d3bd7568420d8"
+    },
+    {
+      "unit_id": "p63g",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3; § 56 Abs. 1 Satz 2; §§ 57a–57e, 58 WPO",
+      "result": "corrected",
+      "finding": "Kammerpflicht, selektive Verweisung, Vorschläge vor eigenverantwortlicher Beauftragung, wichtiger Kündigungsgrund, Berichtspflichten und Mängelstreit konkretisiert. Beabsichtigte Löschung von tatsächlichem Eintragungswegfall getrennt; Absatzziel zum Ruhen exakt § 56 Abs. 1 Satz 2.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE023106123",
+      "commentary_sha256": "74a89f50859095769a9dafc1a746f392973982cd73500ff3b63c1d2db0a305cf"
+    },
+    {
+      "unit_id": "p63h",
+      "reviewed": true,
+      "source_scope": "Sätze 1–4; § 63g Abs. 2; § 264d HGB; § 62b WPO",
+      "result": "corrected",
+      "finding": "Kapitalmarktorientierung des geprüften Unternehmens und Antragsalternative erklärt. Schuldverschreibungsbeispiel zeigt Reichweite; anlasslose Stichprobe, Sonderverweisungsregime, Ergebnisweitergabe und ausdrückliche Nichtanwendung Art. 26 im Übrigen getrennt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE023701123",
+      "commentary_sha256": "cd1c3fbe72e0725264181bad4df3f8c2ddbda0ce7d5ca31212130802b80ab536"
+    },
+    {
+      "unit_id": "p64",
+      "reviewed": true,
+      "source_scope": "Abs. 1–3; §§ 53 Abs. 2 Satz 1, 56, 64a",
+      "result": "retained_after_review",
+      "finding": "Zweckgebundene Aufsichtsbefugnisse, Betreten zu Geschäfts-/Arbeitszeiten, mindestens zehnjährige Untersuchung mit Nachweisausnahme und landesrechtliche Gebühren neben gesonderten Untersuchungskosten/Vorschuss geprüft. Keine vollständige Aufsichtsfreiheit kleiner Verbände; unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE009705123",
+      "commentary_sha256": "02ec6064bd796e0fca4936c603a1b8d9f182d18ca57e60a5ec40a247a7b6f52e"
+    },
+    {
+      "unit_id": "p64a",
+      "reviewed": true,
+      "source_scope": "Sätze 1–3; §§ 54, 56, 63a, 63d",
+      "result": "retained_after_review",
+      "finding": "Entziehung bei fehlender fortdauernder Gewähr, Vorstandsanhörung und gerichtliche Mitteilung geprüft. Ermessenswortlaut nicht in automatische Entziehung umgedeutet. Ruhen und Entziehung getrennt, Folgen für Mitglieder nicht auf automatische Vertragsabwicklung erweitert; unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE009804140",
+      "commentary_sha256": "a15ce201843a88f6b603cb4fd9eeeb465835f4e5f33c60cb8bed323b17be6289"
+    },
+    {
+      "unit_id": "p64b",
+      "reviewed": true,
+      "source_scope": "Sätze 1–2; §§ 54, 54a, 56",
+      "result": "retained_after_review",
+      "finding": "Gerichtliche Kannbestellung bei fehlender Verbandszugehörigkeit, fachliche Eigenart und Sitz geprüft. Keine freiwillige Alternative zur Pflichtmitgliedschaft und keine ungesicherte vollständige privatrechtliche Gleichsetzung. Beispiel passt; unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE009904140",
+      "commentary_sha256": "3e38a287e0c9e4534292c69fd2ac830c42835d4369ab4d257280b3435b602408"
+    },
+    {
+      "unit_id": "p64c",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; §§ 53 ff., 83 ff.",
+      "result": "retained_after_review",
+      "finding": "Fortgeltung des gesamten Prüfungsabschnitts bei Auflösung, Liquidationsbezug, Unterschied vollständige Beendigung und bestehende Abwicklung geprüft. Kapitelcheckliste erfasst die wesentlichen Prüfschritte; kein allgemeiner Prüfungswegfall aus Einstellung werbenden Geschäfts abgeleitet; unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010003377",
+      "commentary_sha256": "b4438755cc41dd5d6506f9ea8f3138c16343751eb39a4f3ea62a7b96b066e2a9"
+    },
+    {
+      "unit_id": "p65",
+      "reviewed": true,
+      "source_scope": "Abs. 1–5; § 177 Abs. 1; BGH II ZR 2/16 Rn. 30–43; II ZR 119/24 Rn. 13–21, 38",
+      "result": "corrected",
+      "finding": "Materiell ungenaue bloße Überwiegensangabe durch mehr als drei Viertel ersetzt. Adressaten-/Finanzierungsbindung der Zehnjahresfrist, Härtefall, Zugang und Jahresende, Fortsetzungsanrechnung und Registerjahr präzisiert. Historische Vorlage von gewöhnlicher Kündigung und Aufhebungsvertrag getrennt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010205125",
+      "commentary_sha256": "f6fef1517046e80dd5270f3cf353f7e0f87321e4d99577427ca1da07008e85a2"
+    },
+    {
+      "unit_id": "p66",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; §§ 65, 66a, 67c, 73",
+      "result": "corrected",
+      "finding": "Reihenfolge erfolglose Vorvollstreckung, dann Pfändung/Überweisung sowie Sechsmonatsbezug erklärt. Ausschluss bei nur vorläufigem Titel und genaue beglaubigte Anlagen geprüft. Kein sofortiger Auszahlungsanspruch oder eigener Mitgliedschaftserwerb des Gläubigers behauptet.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010303377",
+      "commentary_sha256": "2239cc453f7b0820b88692bc83762a47eddf46ccedf29b63215908a3b075f5ba"
+    },
+    {
+      "unit_id": "p66a",
+      "reviewed": true,
+      "source_scope": "Einziger Satz; §§ 65, 67c, 73",
+      "result": "retained_after_review",
+      "finding": "Insolvenz des Mitglieds und Bestellung eines Verwalters, Ausübung anstelle des Mitglieds, kein automatisches Ende bei Eröffnung geprüft. Keine Einzelvollstreckungsvoraussetzungen des § 66 zusätzlich erfunden; Form/Fristen, Wohnungsschutz und Auseinandersetzung getrennt. Unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE023900360",
+      "commentary_sha256": "4b48d5ada16f0f87f30e1079f7ddc021178a79e6e2f94cb085df7b947a3044f7"
+    },
+    {
+      "unit_id": "p67",
+      "reviewed": true,
+      "source_scope": "Sätze 1–2; §§ 8 Abs. 1 Nr. 2, 69, 177 Abs. 1",
+      "result": "retained_after_review",
+      "finding": "Satzungsbindung an Bezirkswohnsitz, wirkliche Aufgabe, behördlicher Nachweis, Fristlosigkeit bei fortbestehendem Jahresendtermin geprüft. Kein automatisches Ende durch Umzug und keine Gleichsetzung mit Mietvertragsende. Textform und Satzungs-/Übergangsklauseln korrekt; unverändert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010404125",
+      "commentary_sha256": "7878a35edf908c2243b459c430392e3faa33859cca442a42d5e622906eb04964"
+    },
+    {
+      "unit_id": "p67a",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; § 16 Abs. 2 Nr. 2–5, 9–11, Abs. 3; §§ 51, 177",
+      "result": "corrected",
+      "finding": "Geschützte Satzungsgegenstände einzeln konkretisiert. Widerspruch, Teilnahmefehler und gewöhnliche Mitglieder gegenüber Vertretern getrennt. Monat als Erklärungsfenster gegenüber Austritt zum Jahresende, gesetzliche Beginnvarianten/Beweislast und beidseitige Nichtwirkung der Änderung erklärt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010504125",
+      "commentary_sha256": "80a4a149b41b9cedf3625cce446ff123d4ad3c3a1f454d7ea78e0d1d6c3affc5"
+    },
+    {
+      "unit_id": "p67b",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; §§ 65 Abs. 2–5, 73, 177 Abs. 1 Nr. 3; BGH II ZR 2/16 Rn. 19–26, 31–43",
+      "result": "corrected",
+      "finding": "Bindung weiterer Anteile aus Satzung, Vereinbarung oder genutzter Leistung und Umfang sinngemäßer Fristenverweisung geprüft. Teilkündigung von Nennbetragsauszahlung getrennt. BGH-Aussage zu unwirksamer Gesamtkündigung nicht zu jeder denkbaren Auslegung verallgemeinert.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010605125",
+      "commentary_sha256": "f33cd108761de618b0922e6bdd394527082a58f1b1235305050e2544bf4b5b95"
+    },
+    {
+      "unit_id": "p67c",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; §§ 66, 66a, 67b; BGH IX ZR 276/13 Rn. 5–9",
+      "result": "corrected",
+      "finding": "Geschäftsguthaben von nominalen Anteilen und Fremdkündigung von Eigenkündigung getrennt. Alternative Grenzen mit zwei nachgerechneten Beispielen erklärt; Teilkündigungsfähigkeit konkret zu prüfen. Neuen historischen BGH-Volltext aufgenommen und ausdrücklich nicht als heutiges freies Kündigungsrecht verwendet.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE024000360",
+      "commentary_sha256": "9d53c29b7155d991d6f8d941a4cc206887820838cea674c5639f68e7164a6614"
+    },
+    {
+      "unit_id": "p68",
+      "reviewed": true,
+      "source_scope": "Abs. 1–2; § 73; BGH II ZR 17/09 erster begründender Tenorabsatz; II ZR 2/16 Rn. 38–43",
+      "result": "corrected",
+      "finding": "Satzungsgrund, Jahresende, besondere eingeschriebene Mitteilung und vorgezogene begrenzte Rechtsverluste präzisiert. Keine Übertragung der Textformreform auf Mitteilung. BGH-Abmahnungsfrage und Satzungsmodelle als offengelassen belassen; Mitgliedschaftsbeendigung von Vermögensausgleich getrennt.",
+      "resolved": true,
+      "statutory_source": "sources/review-p63a-p68/geng.xml",
+      "official_doknr": "BJNR000550889BJNE010703377",
+      "commentary_sha256": "f542aed559493956b79d399313f0bb089433aea0ec7baa701e7f46a178d09870"
+    }
+  ],
+  "source_preflight": "preflight-result.json",
+  "technical_evidence": "review-technical-p63a-p68.json",
+  "base_work_commit": "53d92f39eb8007e26a84667a912d67ce5f7d0901",
+  "preserved_nonassigned_units": 179,
+  "case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "2018-05-15",
+      "docket": "II ZR 2/16",
+      "doknr": "KORE301052018",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p65",
+        "p67b",
+        "p68"
+      ],
+      "precise_location": "Rn. 19–26, 30–43",
+      "case_card": "cases/bgh-ii-zr-2-16.md",
+      "source": "sources/review-p63a-p68/case-KORE301052018.xml",
+      "local_corpus_checked": true,
+      "new_to_book": false
+    },
+    {
+      "court": "BGH",
+      "date": "2010-09-20",
+      "docket": "II ZR 17/09",
+      "doknr": "JURE100071345",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p68"
+      ],
+      "precise_location": "Erster begründender Textabsatz im Tenor; keine amtlichen Randnummern",
+      "case_card": "cases/bgh-ii-zr-17-09.md",
+      "source": "sources/review-p63a-p68/case-JURE100071345.xml",
+      "local_corpus_checked": true,
+      "new_to_book": false
+    },
+    {
+      "court": "BGH",
+      "date": "2025-10-21",
+      "docket": "II ZR 119/24",
+      "doknr": "KORE728222025",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p65"
+      ],
+      "precise_location": "Rn. 13–21 und 38, Kontext einschließlich Rn. 1–51 vollständig gelesen",
+      "case_card": "cases/bgh-ii-zr-119-24.md",
+      "source": "sources/review-p63a-p68/case-KORE728222025.xml",
+      "local_corpus_checked": true,
+      "new_to_book": false
+    },
+    {
+      "court": "BGH",
+      "date": "2014-09-18",
+      "docket": "IX ZR 276/13",
+      "doknr": "KORE304172014",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p67c"
+      ],
+      "precise_location": "Rn. 5–9; gesamter Volltext gelesen",
+      "case_card": "cases/bgh-ix-zr-276-13.md",
+      "source": "sources/review-p63a-p68/case-KORE304172014.xml",
+      "local_corpus_checked": true,
+      "new_to_book": true
+    }
+  ],
+  "limitations": [
+    "Genau die 20 zugewiesenen Einheiten inhaltlich geprüft. Die übrigen 179 Kommentarblöcke nur auf unveränderte Erhaltung verglichen. Keine ganze Buchprüfung oder externe anwaltliche Freigabe.",
+    "Selektive Rechtsprechungssuche im amtlichen lokalen Korpus und online. Drei vorhandene Belege erneut vollständig gelesen, ein weiterer vollständig verifiziert; kein spezifischer hinreichend verifizierter neuer Fallnachweis für die technischen Verbandsregeln verwendet. Dies behauptet kein Fehlen einschlägiger Entscheidungen.",
+    "Die Aussage zu C-776/25 bleibt auf den dokumentierten Statusabruf vom 19. Oktober 2026 bezogen; kein neuer Folgestatus und keine abschließende EuGH-Antwort behauptet.",
+    "Keine vollständige historische Parallelrekonstruktion aller externen Vorschriften oder aller EU-Verweisungswerke. Die gelesenen WPO-Ziele sind von der erst 2030 wirksamen Änderung der §§ 37 und 69 durch Art. 33 BGBl. 2026 I Nr. 33 nicht betroffen.",
+    "Mindestlänge, identische-Absatz-Diagnostik und erfolgreiche Skriptvalidierung beweisen keine juristische Qualität."
+  ],
+  "publication_or_external_writes": false
+}

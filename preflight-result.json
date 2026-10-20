@@ -374,5 +374,67 @@
       "repeated_long_paragraphs": 0,
       "does_not_certify_legal_quality": true
     }
+  },
+  "bounded_review_p63a_p68_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T08:44:02.057456+00:00",
+    "scope": [
+      "p63a",
+      "p63b",
+      "p63c",
+      "p63d",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p64",
+      "p64a",
+      "p64b",
+      "p64c",
+      "p65",
+      "p66",
+      "p66a",
+      "p67",
+      "p67a",
+      "p67b",
+      "p67c",
+      "p68"
+    ],
+    "raw_fetches": "sources/review-p63a-p68/fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "Frisch beschafftes BEG IV, ausgegeben am 29.10.2024: Art. 22 S. 13–14, insbesondere Nr. 10–13 und 16, sowie Art. 74 Abs. 1–13 S. 34–35 gelesen. Art. 22 nicht ausgenommen von allgemeiner Quartalsregel.",
+      "source": "sources/review-p63a-p68/beg4.pdf",
+      "since_intake": "Frisches GenG-XML und HTML bytegleich zu Erstausarbeitung; ursprünglicher Intake und Änderungskarte erhalten. Kein Textwechsel seit Intake festgestellt.",
+      "external_WPO": "BGBl. 2026 I Nr. 33, Art. 33 S. 43 betrifft nur §§ 37 und 69; Art. 64 Abs. 8 S. 65 setzt diese Änderung erst am 10.1.2030 in Kraft. Keine Übernahme als gegenwärtige Pflicht; die hier gelesenen §§ 40a, 57a–57e, 58, 62b sind davon unberührt. Gesonderte Rohfassung und Verkündungsbeleg erhalten.",
+      "external_evidence": "sources/review-p63a-p68/modernization2026.pdf"
+    },
+    "historical_versions_checked": {
+      "fresh_equals_canonical": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "inventory": "coverage-check.json",
+      "selection": "Single current GenG consolidated XML; all raw nodes inventoried, no historical versions concatenated."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "Sämtliche 211 Rohknoten samt Inhaltsübersicht/HTML kontrolliert. Keine operative Anlage und keine Eingangsformel vorhanden, keine echte Auslassung. § 63d Anlage zum Verzeichnis ist eine Einreichungspflicht, keine Anlage zum Gesetz; § 110 Anlage der Vorschüsse ist Geldanlage."
+    },
+    "unresolved_blockers": []
   }
 }

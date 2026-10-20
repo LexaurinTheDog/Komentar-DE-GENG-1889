@@ -1430,5 +1430,56 @@
       "p63"
     ],
     "limits": "Keine erschöpfende Recherche; fehlender Einzelnachweis behauptet nicht Nichtexistenz einschlägiger Entscheidungen."
+  },
+  "bounded_review_p63a_p68": {
+    "reviewed_at": "2026-10-20T08:44:02.057456+00:00",
+    "reviewed_ids": [
+      "p63a",
+      "p63b",
+      "p63c",
+      "p63d",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p64",
+      "p64a",
+      "p64b",
+      "p64c",
+      "p65",
+      "p66",
+      "p66a",
+      "p67",
+      "p67a",
+      "p67b",
+      "p67c",
+      "p68"
+    ],
+    "local_search_log": "review-p63a-p68/local-case-search.json",
+    "online_search_evidence": "research/review-p63a-p68-search.json",
+    "method": "Gezielte rg-Suche im lokalen amtlichen XML-Korpus; ergänzende Firecrawl-/Websuche zur Entdeckung. Ausschließlich gelesene und online frisch abgeglichene amtliche Volltexte als Belege verwendet.",
+    "used_case_ids": [
+      "KORE301052018",
+      "JURE100071345",
+      "KORE728222025",
+      "KORE304172014"
+    ],
+    "new_case": "KORE304172014",
+    "candidate_not_cited": "KORE301002018 (IX ZR 56/17), lokal vollständig für Auswahl gelesen, kein neuer Kommentarbeleg.",
+    "technical_units_without_new_verified_case": [
+      "p63a",
+      "p63b",
+      "p63c",
+      "p63d",
+      "p63e",
+      "p63f",
+      "p63g",
+      "p63h",
+      "p64",
+      "p64a",
+      "p64b",
+      "p64c"
+    ],
+    "limits": "Keine erschöpfende Recherche, keine Nutzung privater Leitsätze oder Suchbeschreibungen als Autorität."
   }
 }

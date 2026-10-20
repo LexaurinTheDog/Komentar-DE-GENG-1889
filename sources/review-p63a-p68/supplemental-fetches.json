@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304172014.zip",
+    "accessed_at": "2026-10-20T08:36:41.343876+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p63a-p68/case-KORE304172014.zip",
+    "sha256": "8688cd947c0e6b0ac1e43ab9ef69177a523932508e5dbb9b471a5a12aa10e368",
+    "format_validation": {
+      "xml_sha256": "9d4fab1651cd55e6c9017f1ba2cb4abea7f90ad638874c99b3bf263c857dfe04",
+      "local_corpus_byte_equal": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T08:36:42.762926+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "review-p63a-p68/modernization2026.pdf",
+    "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+    "format_validation": {
+      "pdf_magic": true
+    }
+  }
+]

@@ -1,0 +1,258 @@
+{
+  "searched_at": "2026-10-20T08:40:49.308035+00:00",
+  "searches": [
+    {
+      "query": "§ 63e",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "§ 63e",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre410020237.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre202200095.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre202200094.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre202200093.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre202200040.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre202200039.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore644222021.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre406381401.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre436222001.xml"
+      ],
+      "hit_count": 9
+    },
+    {
+      "query": "§ 63f",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "§ 63f",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure160011866.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore308652016.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore610342017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre126511519.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre157640222.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre158240222.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre158530222.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre167661506.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre188220206.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre192190106.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre001122442.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre391831101.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre393181101.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre398771201.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre398381201.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre399761201.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre402371301.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre403621301.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre406381401.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre406291401.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre409391501.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre413081601.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre414481601.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre416671601.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre422191701.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre422381701.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre420681701.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre428711801.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre429941901.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre431521901.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre441602101.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre447042201.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre461172501.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre466012601.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre466002601.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre465992601.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201410285.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201550173.xml"
+      ],
+      "hit_count": 38
+    },
+    {
+      "query": "§ 63g",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "§ 63g",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre406381401.xml"
+      ],
+      "hit_count": 1
+    },
+    {
+      "query": "§ 63h",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "§ 63h",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 1,
+      "hits": [],
+      "hit_count": 0
+    },
+    {
+      "query": "§ 64a",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "§ 64a",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure100065727.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure109005528.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure109006199.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure109006403.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure140006001.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure140006404.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure159015371.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure159015663.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure169017911.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure169018011.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure169018257.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure179018949.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure179018961.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure199002125.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure209029563.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure209029564.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure219030058.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure219030090.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure229030608.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure229030682.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure239030828.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure239031159.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure259031760.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301062015.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301642014.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore302742021.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore302792016.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore304542015.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore305842010.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore307252022.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore315292014.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore316512014.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore605542022.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore620902023.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre150270208.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre159480108.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-mpre134400964.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-mpre171550964.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-mpre176790964.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-mpre207970964.xml"
+      ],
+      "hit_count": 40
+    },
+    {
+      "query": "§ 67c",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "§ 67c",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110005944.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110008475.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110003762.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure120010387.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure120017848.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure130014091.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure130016209.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure140000284.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure140008724.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure140019148.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure150001569.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure150009329.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure150017527.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure160005438.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300712012.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301002018.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore304172014.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore311942013.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore312852022.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313682017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore600242024.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore600902024.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore602042026.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore603732017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore605992026.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore607832019.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore612952017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre202100707.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore616372026.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore616512021.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore625852020.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore625762020.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore626652017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore629382023.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore644192021.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore645032026.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore701382026.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre130911522.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre141471522.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre188140205.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre393401101.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre398851201.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre399791201.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre402331301.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre406701401.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre450982301.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kvre451402301.xml"
+      ],
+      "hit_count": 47
+    },
+    {
+      "query": "IX ZR 276/13",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "IX ZR 276/13",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301002018.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore304172014.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore312852015.xml"
+      ],
+      "hit_count": 3
+    },
+    {
+      "query": "IX ZR 56/17",
+      "command": [
+        "rg",
+        "-l",
+        "-F",
+        "IX ZR 56/17",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw"
+      ],
+      "exit_status": 0,
+      "hits": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301002018.xml"
+      ],
+      "hit_count": 1
+    }
+  ],
+  "selected": "KORE304172014",
+  "other_candidate": "KORE301002018, IX ZR 56/17: local full text read for selection, not cited as new verified authority. It concerns an old 2011 termination and payout restriction; no current blanket power inferred.",
+  "limits": "Targeted literal searches, not exhaustive. Technical provisions without verified individual precedent retain statutory explanations."
+}

@@ -12,3 +12,7 @@ Die ersten vier amtlichen Volltexte wurden am 19. Oktober 2026 vollständig gele
 Das [Rechercheprotokoll](../sources/search-log.json) dokumentiert Suchwege, nicht verwendete Kandidaten und die Stellen ohne zugeordnete verifizierte Entscheidung. Die [Quellenverifikation](../sources/verification.json) enthält HTTP-Ergebnisse und Hashwerte. Die Apache-2.0-Lizenz erfasst die eigenen Fallkarten; die amtlichen Entscheidungstexte bleiben davon getrennte Quellen.
 
 - [BGH, 30. November 2023 – III ZR 41/23](bgh-iii-zr-41-23.md): konkrete Kausalität des Anlageentschlusses; Frage der Verdrängung deliktischer Mitgliederhaftung ausdrücklich nicht entschieden.
+
+- [BGH, 18. September 2014 – IX ZR 276/13](bgh-ix-zr-276-13.md): keine Rückwirkung des später eingeführten § 67c auf eine Kündigung aus dem Jahr 2012; als heutiges freies Kündigungsrecht ungeeignet.
+
+Im begrenzten Teilauftrag §§ 63a–68 wurden II ZR 2/16, II ZR 17/09 und II ZR 119/24 am 20. Oktober 2026 erneut vollständig gelesen. IX ZR 276/13 wurde im selben Durchgang neu aufgenommen und vollständig geprüft. Die Quellenkörper und der lokale Korpus wurden bytegenau abgeglichen.
