@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2025/319/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T08:57:47.123031+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "sources/review-p87-p102/inso-amendment319.pdf",
+    "sha256": "a8f16ba660bc1a3d3f2c1509dc7be430495dc11849e34f1d44585cc3f1476fef",
+    "format_validation": {
+      "pdf_magic": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/236/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T08:57:47.575307+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "file": "sources/review-p87-p102/inso-amendment236.pdf",
+    "sha256": "a2ebad78f3257000727a0a6ec81064675ab11d93cc0b5910b0d17adb67b21ddd",
+    "format_validation": {
+      "pdf_magic": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T08:57:48.191520+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "sources/review-p87-p102/hgb-amendment33.pdf",
+    "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+    "format_validation": {
+      "pdf_magic": true
+    }
+  }
+]

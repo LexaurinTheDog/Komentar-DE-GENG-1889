@@ -1515,5 +1515,42 @@
     ],
     "other_candidates": "Nur Metadaten und selektive Auswahlstellen gesichtet; nicht als vollständig gelesen oder unterstützend zitiert.",
     "limits": "Selektive lokale und ergänzende Online-Recherche; zwei amtliche Volltexte vollständig gelesen, keine Behauptung erschöpfender Rechtsprechungsabdeckung. Für die anderen technischen/Wegfalleinheiten kein neuer spezifischer Entscheidungsbeleg verifiziert; daraus folgt kein Fehlen einschlägiger Rechtsprechung."
+  },
+  "bounded_review_p87_p102": {
+    "reviewed_at": "2026-10-20T09:02:36.894919+00:00",
+    "reviewed_ids": [
+      "p87",
+      "p87a",
+      "p87b",
+      "p88",
+      "p88a",
+      "p89",
+      "p90",
+      "p91",
+      "p92",
+      "p93",
+      "p93a-93s",
+      "p94",
+      "p95",
+      "p96",
+      "p97",
+      "p98",
+      "p99",
+      "p100",
+      "p101",
+      "p102"
+    ],
+    "local_search_log": "review-p87-p102/local-case-search.json",
+    "supplementary_official_page_extraction": "research/review-p87-p102-firecrawl-p87a.json",
+    "method": "Gezielte Volltextsuche über 84424 lokale amtliche XML-Dateien, Kandidatenauswahl, frischer amtlicher Volltextabruf und gesamter Leseabgleich für II ZR 119/24. Firecrawl extrahiert § 87a ergänzend; keine Suchsnippet-Holdings.",
+    "used_case_ids": [
+      "KORE728222025"
+    ],
+    "other_candidates": "II ZR 209/08: nur Metadaten und Trefferumfeld gesichtet; alte GenG-§-99-Regel und Parteibehauptung im Treffer nicht als aktuelle Gerichtsaussage übernommen.",
+    "limits": [
+      "Selektive lokale Rechtsprechungssuche und ergänzende Firecrawl-Extraktion einer amtlichen Normseite; ein bereits im Buch verwendeter amtlicher BGH-Volltext vollständig neu gelesen und frisch beschafft. Keine neue Entscheidung hinzugefügt und keine erschöpfende Rechtsprechungsabdeckung behauptet.",
+      "Für die technischen/Nichtigkeits-/Wegfalleinheiten keine zusätzlich ausreichend spezifische amtliche Entscheidung als Beleg eingesetzt. Der weitere lokale Treffer wurde nur als Kandidat gesichtet und nicht zur aktuellen Autorität erklärt.",
+      "C-776/25 bleibt auf den dokumentierten amtlichen Statusabruf vom 19. Oktober 2026 bezogen; kein neuer Folgestatus und keine abschließende Antwort behauptet."
+    ]
   }
 }

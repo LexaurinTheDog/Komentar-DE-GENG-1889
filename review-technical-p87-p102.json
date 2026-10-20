@@ -1,0 +1,317 @@
+{
+  "checked_at": "2026-10-20T09:02:36.863347+00:00",
+  "scope": [
+    "p87",
+    "p87a",
+    "p87b",
+    "p88",
+    "p88a",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a-93s",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102"
+  ],
+  "base_work_commit": "142b84c95a188a3e41d54d637b44b9db6855e986",
+  "raw_evidence": "sources/review-p87-p102/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p87",
+      "official_doknr": "BJNR000550889BJNE012903377",
+      "official_label": "§ 87",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1080,
+      "changed": false,
+      "original_commentary_sha256": "40506dcd9980a0e608f35b8b00ab51bed3d674988b0db505630a7957727b8aca",
+      "reviewed_commentary_sha256": "40506dcd9980a0e608f35b8b00ab51bed3d674988b0db505630a7957727b8aca"
+    },
+    {
+      "id": "p87a",
+      "official_doknr": "BJNR000550889BJNE013004377",
+      "official_label": "§ 87a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2483,
+      "changed": true,
+      "original_commentary_sha256": "fc26721c23ca07314539a8e992b1ade67213a8e866fdd31928cef93585444878",
+      "reviewed_commentary_sha256": "4fb494003dd3d5262a19fa224336edf5bf1466b42b21f79e652993a465a5a7d2"
+    },
+    {
+      "id": "p87b",
+      "official_doknr": "BJNR000550889BJNE013103377",
+      "official_label": "§ 87b",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 940,
+      "changed": false,
+      "original_commentary_sha256": "4629d370f03a48ccdaff58091c0f42eee14797c02a2689470b9cbf4d8ad41c53",
+      "reviewed_commentary_sha256": "4629d370f03a48ccdaff58091c0f42eee14797c02a2689470b9cbf4d8ad41c53"
+    },
+    {
+      "id": "p88",
+      "official_doknr": "BJNR000550889BJNE013203377",
+      "official_label": "§ 88",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1511,
+      "changed": true,
+      "original_commentary_sha256": "31657f0efc4e34cb31d657e84ce8b7f0151e53c48af5b08b4b28a185df821aae",
+      "reviewed_commentary_sha256": "e2faa85ffa4d349650d5bf34b9f8c6e0d89735e76089d4998ed279f349af3b10"
+    },
+    {
+      "id": "p88a",
+      "official_doknr": "BJNR000550889BJNE013303377",
+      "official_label": "§ 88a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1733,
+      "changed": true,
+      "original_commentary_sha256": "847038d9f088913dfad60d234f0aaa331a8ac8edb6909feb1e2c30f07940f83c",
+      "reviewed_commentary_sha256": "1e2c58890a34a54170da9eb83b36937c222169b38db7ac5b5a71c71d8c556f4d"
+    },
+    {
+      "id": "p89",
+      "official_doknr": "BJNR000550889BJNE013404360",
+      "official_label": "§ 89",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1955,
+      "changed": true,
+      "original_commentary_sha256": "b308069aba42aa6484a855cf4a84eb08adf6d2b2bc34a8b1a22412b0e8d5a48e",
+      "reviewed_commentary_sha256": "bc22c6132449252fe1f26c4339e9b42ed2f5f18899237ee17433fdea0521398e"
+    },
+    {
+      "id": "p90",
+      "official_doknr": "BJNR000550889BJNE013503377",
+      "official_label": "§ 90",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1353,
+      "changed": false,
+      "original_commentary_sha256": "36403c5b664aeeb89ba98291345c66eaf91afcc24027248a9ffa9492eb9e5df7",
+      "reviewed_commentary_sha256": "36403c5b664aeeb89ba98291345c66eaf91afcc24027248a9ffa9492eb9e5df7"
+    },
+    {
+      "id": "p91",
+      "official_doknr": "BJNR000550889BJNE013603377",
+      "official_label": "§ 91",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2418,
+      "changed": true,
+      "original_commentary_sha256": "65efe45353a0cb4025cc71918dc7cc80497dbccdda729e50efa1c6af2dd8045f",
+      "reviewed_commentary_sha256": "f9fad4b62e3445a3e0b0e67ecd1c27f44513fb566b92a97887e5038590ec4099"
+    },
+    {
+      "id": "p92",
+      "official_doknr": "BJNR000550889BJNE013703377",
+      "official_label": "§ 92",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1053,
+      "changed": false,
+      "original_commentary_sha256": "e40f42e07b1a81c3ee80ee46a6a6711dfb3d4cb23e2690bd63861689a19168c5",
+      "reviewed_commentary_sha256": "e40f42e07b1a81c3ee80ee46a6a6711dfb3d4cb23e2690bd63861689a19168c5"
+    },
+    {
+      "id": "p93",
+      "official_doknr": "BJNR000550889BJNE013804140",
+      "official_label": "§ 93",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1072,
+      "changed": false,
+      "original_commentary_sha256": "3a212696f5558495c45b7ca52f094f547cd559113047250351469bdc1e1e2469",
+      "reviewed_commentary_sha256": "3a212696f5558495c45b7ca52f094f547cd559113047250351469bdc1e1e2469"
+    },
+    {
+      "id": "p93a-93s",
+      "official_doknr": "BJNR000550889BJNE013903377",
+      "official_label": "(XXXX) §§ 93a bis 93s",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 566,
+      "changed": false,
+      "original_commentary_sha256": "17fcf2053c0dfa4308ed04d1c5354b61f921ee77c074275003cc41a98f2212c6",
+      "reviewed_commentary_sha256": "17fcf2053c0dfa4308ed04d1c5354b61f921ee77c074275003cc41a98f2212c6"
+    },
+    {
+      "id": "p94",
+      "official_doknr": "BJNR000550889BJNE015703377",
+      "official_label": "§ 94",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1525,
+      "changed": true,
+      "original_commentary_sha256": "362a18e7e58e367adbd60191a681a1bc645abac9185417e130913a59a7aab4d2",
+      "reviewed_commentary_sha256": "ad7611d6ffb79d4622568cefc3aab6702f3f2c4e2bfaa7584b61d0d33abe5e30"
+    },
+    {
+      "id": "p95",
+      "official_doknr": "BJNR000550889BJNE015805123",
+      "official_label": "§ 95",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1529,
+      "changed": true,
+      "original_commentary_sha256": "4470a6cb4d71ed8edae73b1cf0ae67a0c2a99fbf93d538c332c24ba480aed25a",
+      "reviewed_commentary_sha256": "0071cf641296404741b6e96e7683319816fec77af65bbe18445edf4c7069bcd5"
+    },
+    {
+      "id": "p96",
+      "official_doknr": "BJNR000550889BJNE015903377",
+      "official_label": "§ 96",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1607,
+      "changed": true,
+      "original_commentary_sha256": "cffc00dec30bb93c8d1a0cbfe0627717acc66a6fadc417250594aeb50a0ad14d",
+      "reviewed_commentary_sha256": "8ccecb3f5ce3b0fac5780c8544c4930fbe08a83282a8282ca307541b4cf4d4d5"
+    },
+    {
+      "id": "p97",
+      "official_doknr": "BJNR000550889BJNE016003377",
+      "official_label": "§ 97",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1303,
+      "changed": false,
+      "original_commentary_sha256": "bb179be90a558ca7108c45eafa0d0098fbd566b3d39b19df690d1521d79946b7",
+      "reviewed_commentary_sha256": "bb179be90a558ca7108c45eafa0d0098fbd566b3d39b19df690d1521d79946b7"
+    },
+    {
+      "id": "p98",
+      "official_doknr": "BJNR000550889BJNE016204377",
+      "official_label": "§ 98",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2069,
+      "changed": true,
+      "original_commentary_sha256": "44a28cd51f0cece06a8c00bd1123e7bbb97b57a61a57423d0076f85f3ff6edb0",
+      "reviewed_commentary_sha256": "74ad3ad3a7e18a6f72a11675a535e90195e784793e616cf86373cd24ed6d8785"
+    },
+    {
+      "id": "p99",
+      "official_doknr": "BJNR000550889BJNE016306360",
+      "official_label": "§ 99",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 468,
+      "changed": false,
+      "original_commentary_sha256": "237b36c38f64e73eaaa79ace5a3e0a5c0f2cc1250807bbc2d42c1155916dd118",
+      "reviewed_commentary_sha256": "237b36c38f64e73eaaa79ace5a3e0a5c0f2cc1250807bbc2d42c1155916dd118"
+    },
+    {
+      "id": "p100",
+      "official_doknr": "BJNR000550889BJNE016403377",
+      "official_label": "§ 100",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 409,
+      "changed": false,
+      "original_commentary_sha256": "0947ae015fcf5060a226704ba362b53bd83ac890a837aff904611372a79ef8f2",
+      "reviewed_commentary_sha256": "0947ae015fcf5060a226704ba362b53bd83ac890a837aff904611372a79ef8f2"
+    },
+    {
+      "id": "p101",
+      "official_doknr": "BJNR000550889BJNE016504377",
+      "official_label": "§ 101",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 992,
+      "changed": false,
+      "original_commentary_sha256": "ddf9cd6ce8cbe17c31e8da7355f8b17544dc4f66e3e61ede659711ce8c4ff4de",
+      "reviewed_commentary_sha256": "ddf9cd6ce8cbe17c31e8da7355f8b17544dc4f66e3e61ede659711ce8c4ff4de"
+    },
+    {
+      "id": "p102",
+      "official_doknr": "BJNR000550889BJNE016606360",
+      "official_label": "§ 102",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1819,
+      "changed": true,
+      "original_commentary_sha256": "f6b1719a8f06f0f76728a82f66385e1d4343591b8db2ed42ff10e5879007a46b",
+      "reviewed_commentary_sha256": "7e53ee938ec8a95fd0cd605168840bbb513f8965742f9fb84bee64c52a202a96"
+    }
+  ],
+  "changed_ids": [
+    "p87a",
+    "p88",
+    "p88a",
+    "p89",
+    "p91",
+    "p94",
+    "p95",
+    "p96",
+    "p98",
+    "p102"
+  ],
+  "nonassigned_commentaries_preserved": 179,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [],
+  "annex_check_method": "Inventory of all raw nodes and anchored official labels; § 110 title Anlage der Vorschüsse describes investment, not an annex.",
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "inso",
+      "label": "§ 17",
+      "official_doknr": "BJNR286600994BJNE001900000",
+      "evidence": "sources/review-p87-p102/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Allgemeiner Eröffnungsgrund ist die Zahlungsunfähigkeit.(2) Der Schuldner ist zahlungsunfähig, wenn er nicht in der Lage ist, die fälligen Zahlungspflichten zu erfüllen. Zahlungsunfähigkeit ist in der Regel anzunehmen, wenn der Schuldner seine Zahlungen eingestellt hat."
+    },
+    {
+      "act": "inso",
+      "label": "§ 19",
+      "official_doknr": "BJNR286600994BJNE002109125",
+      "evidence": "sources/review-p87-p102/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Bei einer juristischen Person ist auch die Überschuldung Eröffnungsgrund.(2) Überschuldung liegt vor, wenn das Vermögen des Schuldners die bestehenden Verbindlichkeiten nicht mehr deckt, es sei denn, die Fortführung des Unternehmens in den nächsten zwölf Monaten ist nach den Umständen überwiegend wahrscheinlich. Forderungen auf Rückgewähr von Gesellschafterdarlehen oder aus Rechtshandlungen, die einem solchen Darlehen wirtschaftlich entsprechen, für die gemäß § 39 Abs. 2 zwischen Gläubiger und Schuldner der Nachrang im Insolvenzverfahren hinter den in § 39 Abs. 1 Nr. 1 bis 5 bezeichneten Forderungen vereinbart worden ist, sind nicht bei den Verbindlichkeiten nach Satz 1 zu berücksichtigen.(3) Ist bei einer rechtsfähigen Personengesellschaft kein persönlich haftender Gesellschafter eine natürliche Person, so gelten die Absätze 1 und 2 entsprechend. Dies gilt nicht, wenn zu den persönlich haftenden Gesellschaftern eine andere Gesellschaft gehört, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 339",
+      "official_doknr": "BJNR002190897BJNE013510360",
+      "evidence": "sources/review-p87-p102/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Vorstand hat unverzüglich nach der Generalversammlung über den Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs, den festgestellten Jahresabschluß, den Lagebericht, die Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 und den Bericht des Aufsichtsrats in deutscher Sprache der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Ist die Erteilung eines Bestätigungsvermerks nach § 58 Abs. 2 des Genossenschaftsgesetzes oder nach Artikel 10 Absatz 1 der Verordnung (EU) Nr. 537/2014 vorgeschrieben, so ist dieser mit dem Jahresabschluß zu übermitteln; hat der Prüfungsverband die Bestätigung des Jahresabschlusses versagt, so muß dies auf dem übermittelten Jahresabschluß vermerkt und der Vermerk vom Prüfungsverband unterschrieben sein. Ist die Prüfung des Jahresabschlusses im Zeitpunkt der Übermittlung der Unterlagen nach Satz 1 nicht abgeschlossen, so ist der Bestätigungsvermerk oder der Vermerk über seine Versagung unverzüglich nach Abschluß der Prüfung zu übermitteln. Wird der Jahresabschluß oder der Lagebericht nach der Übermittlung geändert, so ist auch die geänderte Fassung zu übermitteln.(2) § 325 Absatz 2a, 2b, 4 und 6 sowie die §§ 326 bis 329 sind entsprechend anzuwenden.(3) Die §§ 335 und 335a finden mit den Maßgaben entsprechende Anwendung, dass sich das Ordnungsgeldverfahren gegen die Mitglieder des Vorstands der Genossenschaft richtet und nur auf Antrag des Prüfungsverbandes, dem die Genossenschaft angehört, oder eines Mitglieds, Gläubigers oder Arbeitnehmers der Genossenschaft durchzuführen ist. Das Ordnungsgeldverfahren kann auch gegen die Genossenschaft durchgeführt werden, für die die Mitglieder des Vorstands die in Absatz 1 genannten Pflichten zu erfüllen haben."
+    }
+  ],
+  "cited_case_snapshot_checks": [
+    {
+      "official_doknr": "KORE728222025",
+      "snapshot": "sources/review-p87-p102/case-KORE728222025.xml",
+      "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+      "byte_identical": true
+    }
+  ],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 20 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

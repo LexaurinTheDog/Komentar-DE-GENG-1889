@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-20T08:57:21.554113+00:00",
+  "files_scanned": 84424,
+  "patterns": [
+    "§\\s*87a\\s*(?:Abs[^.;]{0,12})?\\s*GenG",
+    "§\\s*90\\s*(?:Abs[^.;]{0,12})?\\s*GenG",
+    "§\\s*91\\s*(?:Abs[^.;]{0,12})?\\s*GenG",
+    "§\\s*98\\s*(?:Abs[^.;]{0,12})?\\s*GenG",
+    "§\\s*94\\s*(?:Abs[^.;]{0,12})?\\s*GenG"
+  ],
+  "hits": [
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore315422010.xml",
+      "court": null,
+      "docket": "II ZR 209/08",
+      "date": "20100201",
+      "doknr": "KORE315422010",
+      "sha256": "d19460d4cdb42975018c7b04dc8311b40906d4b68577acc0ca9f1a7444483ff6",
+      "excerpts": [
+        "         Die Klägerin hat die Beklagten - hinsichtlich der Beklagten zu 1 bis 3 gestützt auf § 823 Abs. 2 BGB, § 99 Abs. 1 GenG a.F. (§ 15 a Abs. 1 InsO n.F.), § 98 GenG - auf Zahlung von Schadensersatz in Höhe von 140.708,19 € mit der Begründung in Anspruch genommen, die Schuldnerin sei spätestens zum 31. Dezember 2002 überschuldet und zahlungsunfähig gewesen; die Beklagten zu 1 bis 3, letzterer als fakti"
+      ]
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+      "court": null,
+      "docket": "II ZR 119/24",
+      "date": "20251021",
+      "doknr": "KORE728222025",
+      "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+      "excerpts": [
+        "URL 83/2011, Art 13 Abs 1 EURL 83/2011, Art 11 EURL 2017/1132, Art 12 EURL 2017/1132, § 65 Abs 4 S 1 GenG, § 75 GenG, § 76 Abs 1 S 1 GenG, § 76 Abs 1 S 2 GenG, § 90 Abs 1 GenG, § 91 Abs 2 GenG \n    vorgehend Brandenburgisches Oberlandesgericht, 25. September 2024, Az: 7 U 198/22, Urteil vorgehend LG Potsdam, 22. November 2022, Az: 12 O 37/22 anhängig EuGH, Az: C-776/25 \n    \n       DEU \n       Bundesrepublik Deu",
+        "13 Abs 1 EURL 83/2011, Art 11 EURL 2017/1132, Art 12 EURL 2017/1132, § 65 Abs 4 S 1 GenG, § 75 GenG, § 76 Abs 1 S 1 GenG, § 76 Abs 1 S 2 GenG, § 90 Abs 1 GenG, § 91 Abs 2 GenG \n    vorgehend Brandenburgisches Oberlandesgericht, 25. September 2024, Az: 7 U 198/22, Urteil vorgehend LG Potsdam, 22. November 2022, Az: 12 O 37/22 anhängig EuGH, Az: C-776/25 \n    \n       DEU \n       Bundesrepublik Deutschland \n    \n  ",
+        "lieds aufgelöst, gilt die Beendigung der Mitgliedschaft als nicht erfolgt. (…) \n             \n          \n          \n             \n             \n                § 90 GenG – Voraussetzungen für die Vermögensverteilung \n             \n          \n          \n             \n             \n                \n                   (1)      Eine Verteilung des Vermögens unter die Mitglieder darf nicht vor Tilgung oder Deck",
+        "        \n          \n          \n             \n             \n                (…) \n             \n          \n          \n             \n             \n                § 91 GenG – Verteilung des Vermögens \n             \n          \n          \n             \n             \n                \n                   (1)      Die Verteilung des Vermögens unter die einzelnen Mitglieder erfolgt bis zum Gesamtbetrag ihrer auf Gru",
+        "en (vgl. BGH, Urteil vom 21. Januar 1965 - II ZR 120/62, BGHZ 43, 51, 60). Die Verteilung des (verbleibenden) Vermögens unter den Mitgliedern richtet sich nach § 91 GenG, wobei die Satzung im vorliegenden Fall abweichend von § 91 Abs. 2 GenG eine Verteilung von Überschüssen nach dem Verhältnis der Geschäftsguthaben vorsieht. \n             \n          \n          \n             \n                19 \n           "
+      ]
+    }
+  ],
+  "limitation": "Gezielte Textsuche im lokalen amtlichen Korpus; Treffer sind nur Kandidaten und kein Volltext-Lesenachweis."
+}
