@@ -1,5 +1,9 @@
 {
-  "ok": false,
-  "state": "awaiting_output_commit_and_strict_validation",
-  "scope": "bounded p47\u2013p63 review checkpoint"
+  "repo": "Komentar-DE-GENG-1889",
+  "units": 199,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 242950,
+  "errors": [],
+  "warnings": [],
+  "ok": true
 }

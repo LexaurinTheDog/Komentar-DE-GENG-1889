@@ -292,5 +292,25 @@
     "Ausgewählte HGB-Normtexte frisch verifiziert und byteinhaltlich mit Erstausarbeitung verglichen; keine umfassende historische Rekonstruktion aller externen Gesetze und EU-Verweisungswerke.",
     "Identische-Absatz-Diagnostik und Mindestlängenchecks beweisen keine juristische Qualität."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 242950,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "technical_report": "technical-checks.json",
+    "completeness_report": "coverage-check.json",
+    "raw_wording_and_preservation_report": "review-technical-p47-p63.json",
+    "all_assigned_units_wording_agrees": true,
+    "local_links_checked": 164,
+    "broken_links": [],
+    "repeated_long_paragraphs": 0,
+    "does_not_certify_legal_quality": true
+  },
+  "completed_at": "2026-10-20T08:34:12.957302+00:00"
 }

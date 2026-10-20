@@ -177,14 +177,14 @@
     "repo": "Komentar-DE-GENG-1889",
     "units": 199,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 230721,
+    "commentary_chars": 242950,
     "errors": [],
     "warnings": [],
     "ok": true
   },
   "technical_checks": {
     "ok": true,
-    "local_links_checked": 142,
+    "local_links_checked": 164,
     "broken_links": [],
     "official_xml_vs_html_mismatches": [],
     "repeated_long_paragraphs": 0
@@ -192,9 +192,9 @@
   "completeness": "completeness.json",
   "independent_second_pass": {
     "performed": true,
-    "state": "Drei begrenzte Teilaufträge mit 60 verschiedenen Einheiten abgeschlossen; 139 weitere Einheiten ausstehend.",
+    "state": "Vier begrenzte Teilaufträge mit 80 verschiedenen Einheiten abgeschlossen; 119 weitere Einheiten ausstehend.",
     "complete": false,
-    "reviewed_units": 60,
+    "reviewed_units": 80,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -255,14 +255,35 @@
       "p43b",
       "p44",
       "p45",
-      "p46"
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53",
+      "p53a",
+      "p54",
+      "p54a",
+      "p55",
+      "p56",
+      "p57",
+      "p57a",
+      "p58",
+      "p59",
+      "p60",
+      "p61",
+      "p62",
+      "p63"
     ],
-    "remaining_units": 139,
+    "remaining_units": 119,
     "result": "review-result.json",
     "batch_results": [
       "review-result-p1-p15a.json",
       "review-result-p15b-p29.json",
-      "review-result-p30-p46.json"
+      "review-result-p30-p46.json",
+      "review-result-p47-p63.json"
     ],
     "current_batch_reviewed_ids": [
       "p30",
@@ -293,7 +314,7 @@
     "Selektive, nicht erschöpfende Rechtsprechungsrecherche; kein flächendeckender Einzelentscheidungsnachweis für technische Normen.",
     "C-776/25 war beim amtlichen Stichtagsabruf anhängig; keine abschließende EuGH-Antwort behauptet.",
     "Kein vollständiger historischer Parallelkommentar zu allen extern verwiesenen Gesetzesfassungen.",
-    "Entwurf mit auf zusammen 60 Einheiten begrenztem zweitem Inhaltsdurchgang, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
+    "Entwurf mit auf zusammen 80 Einheiten begrenztem zweitem Inhaltsdurchgang, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
     "Quellen-/Parser-Preflight vom 20. Oktober 2026 ersetzt keine unabhängige inhaltliche Zweitprüfung; ursprünglicher Bearbeitungsstichtag bleibt 19. Oktober 2026."
   ],
   "publication_or_external_writes": false,
@@ -326,7 +347,7 @@
     "commentary_files_retained_unchanged": 14,
     "independent_content_review_performed": false
   },
-  "last_bounded_review_at": "2026-10-20T08:23:40.721750+00:00",
+  "last_bounded_review_at": "2026-10-20T08:32:29.947151+00:00",
   "bounded_review_validation": "review-validation-p47-p63.json",
   "last_bounded_review_complete": true,
   "whole_book_review_complete": false,
@@ -351,16 +372,16 @@
       "repo": "Komentar-DE-GENG-1889",
       "units": 199,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 230721,
+      "commentary_chars": 242950,
       "errors": [],
       "warnings": [],
       "ok": true
     },
     "technical_report": "technical-checks.json",
     "completeness_report": "coverage-check.json",
-    "raw_wording_and_preservation_report": "review-technical-p30-p46.json",
+    "raw_wording_and_preservation_report": "review-technical-p47-p63.json",
     "all_assigned_units_wording_agrees": true,
-    "local_links_checked": 142,
+    "local_links_checked": 164,
     "broken_links": [],
     "repeated_long_paragraphs": 0,
     "does_not_certify_legal_quality": true
@@ -406,7 +427,27 @@
     ],
     "report": "review-result-p47-p63.json",
     "whole_book_review_complete": false,
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "strict": {
+        "repo": "Komentar-DE-GENG-1889",
+        "units": 199,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 242950,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "technical_report": "technical-checks.json",
+      "completeness_report": "coverage-check.json",
+      "raw_wording_and_preservation_report": "review-technical-p47-p63.json",
+      "all_assigned_units_wording_agrees": true,
+      "local_links_checked": 164,
+      "broken_links": [],
+      "repeated_long_paragraphs": 0,
+      "does_not_certify_legal_quality": true
+    },
+    "completed_at": "2026-10-20T08:34:12.957302+00:00"
   },
   "reviewed_unique_units": 80,
   "remaining_unreviewed_units": 119,
