@@ -1,0 +1,333 @@
+{
+  "checked_at": "2026-10-20T08:03:40.277879+00:00",
+  "scope": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p7a",
+    "p8",
+    "p8a",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p15a"
+  ],
+  "base_work_commit": "b0d3422",
+  "raw_evidence": "sources/review-p1-p15a/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p1",
+      "official_doknr": "BJNR000550889BJNE000203377",
+      "official_label": "§ 1",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1325,
+      "changed": true,
+      "original_commentary_sha256": "eeb177f07af783ea168561632a0540f31092cffb14fac2d36a6d7c19d21fbd5a",
+      "reviewed_commentary_sha256": "1d455273589c862af30ffad24f6f60bce237c80bdba8c7bac5c106b47198c25e"
+    },
+    {
+      "id": "p2",
+      "official_doknr": "BJNR000550889BJNE000303377",
+      "official_label": "§ 2",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 989,
+      "changed": false,
+      "original_commentary_sha256": "1eeab6b11488b1da67818c156eefbafe9c2eb0df193634c1be93ff42be595a37",
+      "reviewed_commentary_sha256": "1eeab6b11488b1da67818c156eefbafe9c2eb0df193634c1be93ff42be595a37"
+    },
+    {
+      "id": "p3",
+      "official_doknr": "BJNR000550889BJNE000404377",
+      "official_label": "§ 3",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1178,
+      "changed": true,
+      "original_commentary_sha256": "39396800326dd31e43ea6c7f0a4741e33c914e7b48ce7e2f9201d3b006de092f",
+      "reviewed_commentary_sha256": "5f02ea694f31c9e0f1704f9b4a46384f412d139584d775e1745e794a284a486b"
+    },
+    {
+      "id": "p4",
+      "official_doknr": "BJNR000550889BJNE000503377",
+      "official_label": "§ 4",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1381,
+      "changed": true,
+      "original_commentary_sha256": "305d6f7d36b0aeaec68dc0c4b59d33a099ba67cabe24f426ea50dea7dc8fb962",
+      "reviewed_commentary_sha256": "83faab53e930c3bc62ea347f881f8fa44d4bf810598a6d489a42ba860400fcd5"
+    },
+    {
+      "id": "p5",
+      "official_doknr": "BJNR000550889BJNE000604125",
+      "official_label": "§ 5",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1257,
+      "changed": false,
+      "original_commentary_sha256": "8e3064fd25e14dec64e2653fed87254debca4616ddfdb85d0145cc5e28898995",
+      "reviewed_commentary_sha256": "8e3064fd25e14dec64e2653fed87254debca4616ddfdb85d0145cc5e28898995"
+    },
+    {
+      "id": "p6",
+      "official_doknr": "BJNR000550889BJNE000705123",
+      "official_label": "§ 6",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1466,
+      "changed": true,
+      "original_commentary_sha256": "67221ae04589c89ad0bc19c97c5a7a9c6ba0bb12367a0460321cbbda54b08a9d",
+      "reviewed_commentary_sha256": "a013de3e8dae477bbef7c16ad687b2edac594413956c7c22394c293ca8f15205"
+    },
+    {
+      "id": "p7",
+      "official_doknr": "BJNR000550889BJNE000803377",
+      "official_label": "§ 7",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1049,
+      "changed": true,
+      "original_commentary_sha256": "d5a08636df8eaf98c723c6b9e5d76e1365ae4bb24731e503a50b4ab18bffc38b",
+      "reviewed_commentary_sha256": "732a85526c334980a0f9a3a6f75b069026ad1227744cb24d1727259e54e649ef"
+    },
+    {
+      "id": "p7a",
+      "official_doknr": "BJNR000550889BJNE000903377",
+      "official_label": "§ 7a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1104,
+      "changed": false,
+      "original_commentary_sha256": "e9cb0bdf0614d5abd9e191aa292d26d445ced463f31f6f417800d3df45e39848",
+      "reviewed_commentary_sha256": "e9cb0bdf0614d5abd9e191aa292d26d445ced463f31f6f417800d3df45e39848"
+    },
+    {
+      "id": "p8",
+      "official_doknr": "BJNR000550889BJNE001004123",
+      "official_label": "§ 8",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1548,
+      "changed": true,
+      "original_commentary_sha256": "6a1e8a0ef98a52bc5e6566a92d34d8a387974e14f6e1deec6608016ae97af393",
+      "reviewed_commentary_sha256": "91fdb354f352d7d25fc52d4ff4f42a84725b9198ba9333b48194ff0996dece46"
+    },
+    {
+      "id": "p8a",
+      "official_doknr": "BJNR000550889BJNE023301377",
+      "official_label": "§ 8a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1037,
+      "changed": false,
+      "original_commentary_sha256": "500e90bf6bb32edf430dbd20cd07fcc33425c78e251c6d19ea359fa7d7243220",
+      "reviewed_commentary_sha256": "500e90bf6bb32edf430dbd20cd07fcc33425c78e251c6d19ea359fa7d7243220"
+    },
+    {
+      "id": "p9",
+      "official_doknr": "BJNR000550889BJNE001105360",
+      "official_label": "§ 9",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1474,
+      "changed": true,
+      "original_commentary_sha256": "2629e9597e9b1e221d3ab6b1abdef6f28e0b8cf627713ee7eeb877026c113921",
+      "reviewed_commentary_sha256": "fef2bde4988439df8cf0eb30b3290c4ff15d2151ec477ae9a97c1e54bef6a1db"
+    },
+    {
+      "id": "p10",
+      "official_doknr": "BJNR000550889BJNE001205140",
+      "official_label": "§ 10",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1021,
+      "changed": false,
+      "original_commentary_sha256": "d66be7dd540dd822578bd4e49a8f59686096dacc4a2471dde9e7c932750c3f88",
+      "reviewed_commentary_sha256": "d66be7dd540dd822578bd4e49a8f59686096dacc4a2471dde9e7c932750c3f88"
+    },
+    {
+      "id": "p11",
+      "official_doknr": "BJNR000550889BJNE001307125",
+      "official_label": "§ 11",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1358,
+      "changed": true,
+      "original_commentary_sha256": "1266244ad358e59de3f7056547d1f005a95a9e2fcf4c23ddbf0acc3d5eb07e3a",
+      "reviewed_commentary_sha256": "bedeb70e6c4b6759869b38871e6ed6776a95a051baf96ddce5d9929cdba1daed"
+    },
+    {
+      "id": "p11a",
+      "official_doknr": "BJNR000550889BJNE001404377",
+      "official_label": "§ 11a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1098,
+      "changed": false,
+      "original_commentary_sha256": "a8120331cc889235a790f6ea450294c9ddf88c30a0687b46d79215a5c9298a0f",
+      "reviewed_commentary_sha256": "a8120331cc889235a790f6ea450294c9ddf88c30a0687b46d79215a5c9298a0f"
+    },
+    {
+      "id": "p12",
+      "official_doknr": "BJNR000550889BJNE001504360",
+      "official_label": "§ 12",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 985,
+      "changed": false,
+      "original_commentary_sha256": "591e5dd964c0931a846c4b116f9de89b28d5380c24420018432edb13400a89b6",
+      "reviewed_commentary_sha256": "591e5dd964c0931a846c4b116f9de89b28d5380c24420018432edb13400a89b6"
+    },
+    {
+      "id": "p13",
+      "official_doknr": "BJNR000550889BJNE001603377",
+      "official_label": "§ 13",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1027,
+      "changed": false,
+      "original_commentary_sha256": "de9167ebff32811a03ac6cfae38d3a1a30472ea32a3de1bc14a8c684268f2eb2",
+      "reviewed_commentary_sha256": "de9167ebff32811a03ac6cfae38d3a1a30472ea32a3de1bc14a8c684268f2eb2"
+    },
+    {
+      "id": "p14",
+      "official_doknr": "BJNR000550889BJNE001705377",
+      "official_label": "§ 14",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1128,
+      "changed": true,
+      "original_commentary_sha256": "eecf602f2dedec248e7c49231459204e87206bdbb27a9b3d3aa713ed8ec54752",
+      "reviewed_commentary_sha256": "f30ee0bfb2d986f5e59b6d31c18277b3e88a5100f266ffa327e7c2a8f7745f0a"
+    },
+    {
+      "id": "p14a",
+      "official_doknr": "BJNR000550889BJNE001804377",
+      "official_label": "§ 14a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 372,
+      "changed": false,
+      "original_commentary_sha256": "429e712aeabf8ced13476657f109765d420de0f1a1a6fc16876f46aa1cb97912",
+      "reviewed_commentary_sha256": "429e712aeabf8ced13476657f109765d420de0f1a1a6fc16876f46aa1cb97912"
+    },
+    {
+      "id": "p15",
+      "official_doknr": "BJNR000550889BJNE001906125",
+      "official_label": "§ 15",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2132,
+      "changed": true,
+      "original_commentary_sha256": "71e446ba6404948182424d7e5466a0195ae32a6098faebc822070afa40732d65",
+      "reviewed_commentary_sha256": "5a34c3ea3766714ac5cf2bea6751f8beff5d55c6a2d9c1abb2b7f9e040c09459"
+    },
+    {
+      "id": "p15a",
+      "official_doknr": "BJNR000550889BJNE002005125",
+      "official_label": "§ 15a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1182,
+      "changed": false,
+      "original_commentary_sha256": "6c3507eefc3f3ab48113a433110857c994623e8548ae30fe355b99bc6bf89477",
+      "reviewed_commentary_sha256": "6c3507eefc3f3ab48113a433110857c994623e8548ae30fe355b99bc6bf89477"
+    }
+  ],
+  "changed_ids": [
+    "p1",
+    "p3",
+    "p4",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p11",
+    "p14",
+    "p15"
+  ],
+  "nonassigned_commentaries_preserved": 179,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [
+    "§ 110 Hinterlegung oder Anlage der Vorschüsse"
+  ],
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "bgb",
+      "label": "§ 126b",
+      "official_doknr": "BJNR001950896BJNE249403360",
+      "evidence": "sources/external/bgb.xml",
+      "source_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "text": "Ist durch Gesetz Textform vorgeschrieben, so muss eine lesbare Erklärung, in der die Person des Erklärenden genannt ist, auf einem dauerhaften Datenträger abgegeben werden. Ein dauerhafter Datenträger ist jedes Medium, das 1.es dem Empfänger ermöglicht, eine auf dem Datenträger befindliche, an ihn persönlich gerichtete Erklärung so aufzubewahren oder zu speichern, dass sie ihm während eines für ihren Zweck angemessenen Zeitraums zugänglich ist, und2.geeignet ist, die Erklärung unverändert wiederzugeben."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 12",
+      "official_doknr": "BJNR002190897BJNE001604360",
+      "evidence": "sources/external/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Anmeldungen zur Eintragung in das Handelsregister sind elektronisch in öffentlich beglaubigter Form einzureichen. Die öffentliche Beglaubigung mittels Videokommunikation gemäß § 40a des Beurkundungsgesetzes ist zulässig. Die gleiche Form ist für eine Vollmacht zur Anmeldung erforderlich. Anstelle der Vollmacht kann die Bescheinigung eines Notars nach § 21 Absatz 3 der Bundesnotarordnung eingereicht werden. Rechtsnachfolger eines Beteiligten haben die Rechtsnachfolge soweit tunlich durch öffentliche Urkunden nachzuweisen.(2) Dokumente sind elektronisch in einem maschinenlesbaren und durchsuchbaren Datenformat einzureichen. Ist eine Urschrift oder eine einfache Abschrift einzureichen oder ist für das Dokument die Schriftform bestimmt, genügt die Übermittlung einer elektronischen Aufzeichnung; ist ein notariell beurkundetes Dokument oder eine öffentlich beglaubigte Abschrift einzureichen, so ist ein mit einem einfachen elektronischen Zeugnis (§ 39a des Beurkundungsgesetzes) versehenes Dokument zu übermitteln."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 22",
+      "official_doknr": "BJNR002190897BJNE002901307",
+      "evidence": "sources/external/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Wer ein bestehendes Handelsgeschäft unter Lebenden oder von Todes wegen erwirbt, darf für das Geschäft die bisherige Firma, auch wenn sie den Namen des bisherigen Geschäftsinhabers enthält, mit oder ohne Beifügung eines das Nachfolgeverhältnis andeutenden Zusatzes fortführen, wenn der bisherige Geschäftsinhaber oder dessen Erben in die Fortführung der Firma ausdrücklich willigen.(2) Wird ein Handelsgeschäft auf Grund eines Nießbrauchs, eines Pachtvertrags oder eines ähnlichen Verhältnisses übernommen, so finden diese Vorschriften entsprechende Anwendung."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 30",
+      "official_doknr": "BJNR002190897BJNE003702360",
+      "evidence": "sources/external/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Jede neue Firma muß sich von allen an demselben Ort oder in derselben Gemeinde bereits bestehenden und in das Handels-,Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister eingetragenen Firmen deutlich unterscheiden.(2) Hat ein Kaufmann mit einem bereits eingetragenen Kaufmanne die gleichen Vornamen und den gleichen Familiennamen und will auch er sich dieser Namen als seiner Firma bedienen, so muß er der Firma einen Zusatz beifügen, durch den sie sich von der bereits eingetragenen Firma deutlich unterscheidet.(3) Besteht an dem Orte oder in der Gemeinde, wo eine Zweigniederlassung errichtet wird, bereits eine gleiche eingetragene Firma, so muß der Firma für die Zweigniederlassung ein der Vorschrift des Absatzes 2 entsprechender Zusatz beigefügt werden.(4) Durch die Landesregierungen kann bestimmt werden, daß benachbarte Orte oder Gemeinden als ein Ort oder als eine Gemeinde im Sinne dieser Vorschriften anzusehen sind."
+    }
+  ],
+  "cited_case_snapshot_checks": [
+    {
+      "official_doknr": "KORE707802024",
+      "snapshot": "sources/case-KORE707802024.xml",
+      "sha256": "b6d024d4dbaaec4b442a7ee2863e5daa91c186e2d1a57977ddeb37ad751e52cb",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore707802024.xml",
+      "byte_identical": true
+    },
+    {
+      "official_doknr": "KORE728222025",
+      "snapshot": "sources/case-KORE728222025.xml",
+      "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+      "byte_identical": true
+    }
+  ],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 20 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

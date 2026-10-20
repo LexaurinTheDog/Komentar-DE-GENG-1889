@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T07:58:33.962191+00:00",
+  "created_at": "2026-10-20T08:05:58.629092+00:00",
   "files": [
     {
       "path": "sources/beg4.pdf",
@@ -227,6 +227,11 @@
       "bytes": 26335
     },
     {
+      "path": "sources/research/review-p1-p15a-firecrawl-p6.json",
+      "sha256": "8853c7d809656394fce8c863d62c630ccb2e0c39564d3209b6cb9402af1a9fbd",
+      "bytes": 3413
+    },
+    {
       "path": "sources/research/search-amendments-exact.json",
       "sha256": "04cbfd622ab68564117abbdf695dd7898c39fb216ade73705759a282d154d95a",
       "bytes": 1848
@@ -257,6 +262,36 @@
       "bytes": 300
     },
     {
+      "path": "sources/review-p1-p15a/beg4.pdf",
+      "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "bytes": 737586
+    },
+    {
+      "path": "sources/review-p1-p15a/fetches.json",
+      "sha256": "7dab33221b8cdbba57526ce9e04d3d1a9585a0c6880f2964c5373137565caaa6",
+      "bytes": 2108
+    },
+    {
+      "path": "sources/review-p1-p15a/full.html",
+      "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+      "bytes": 321390
+    },
+    {
+      "path": "sources/review-p1-p15a/geng.xml",
+      "sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "bytes": 270772
+    },
+    {
+      "path": "sources/review-p1-p15a/geng.zip",
+      "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+      "bytes": 53235
+    },
+    {
+      "path": "sources/review-p1-p15a/index.html",
+      "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+      "bytes": 39912
+    },
+    {
       "path": "sources/search-log.json",
       "sha256": "faa5b5cf58fab371afb1657f3587b68a90103011a08cf8e0bc45c63caa119c67",
       "bytes": 69840
@@ -273,8 +308,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "435f3d0c02804dfea4cb15297d0647e4e126d08241161da0b3c7856848120131",
-      "bytes": 13731
+      "sha256": "bb6dbf46926a0dc498dc5c818a73cb5c4d847b5af5e193bb2c12d452b4675c17",
+      "bytes": 16516
     }
   ]
 }

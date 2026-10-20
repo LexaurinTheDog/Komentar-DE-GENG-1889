@@ -105,5 +105,55 @@
     "independent_content_review_performed": false
   },
   "publication_or_external_writes": false,
-  "completed_at": "2026-10-20T07:59:42.285927+00:00"
+  "completed_at": "2026-10-20T07:59:42.285927+00:00",
+  "bounded_review_recheck": {
+    "complete": true,
+    "verified_at": "2026-10-20T08:05:57.149619+00:00",
+    "scope": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5",
+      "p6",
+      "p7",
+      "p7a",
+      "p8",
+      "p8a",
+      "p9",
+      "p10",
+      "p11",
+      "p11a",
+      "p12",
+      "p13",
+      "p14",
+      "p14a",
+      "p15",
+      "p15a"
+    ],
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "raw_fetches": "sources/review-p1-p15a/fetches.json",
+    "raw_source_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "canonical_byte_equal": true,
+    "version_evidence": {
+      "fresh_fetches": "sources/review-p1-p15a/fetches.json",
+      "verification": "sources/verification.json",
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "fresh_equals_canonical": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "BGBl. 2024 I Nr. 323, Art. 22 (S. 13–14) und Art. 74 (S. 34–35), verkündet 29.10.2024",
+      "technical_evidence": "review-technical-p1-p15a.json"
+    },
+    "historical_versions_checked": "Fresh XML byte-equal to canonical capture; no historical parallel container or duplicate norm identifiers; original intake/change map retained.",
+    "annexes_checked": {
+      "raw_nodes": 211,
+      "statutory_units": 199,
+      "unclassified_nodes": [],
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "evidence": "review-technical-p1-p15a.json"
+    },
+    "unresolved_blockers": []
+  }
 }
