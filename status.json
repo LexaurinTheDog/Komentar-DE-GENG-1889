@@ -201,14 +201,14 @@
     "repo": "Komentar-DE-GENG-1889",
     "units": 199,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 252766,
+    "commentary_chars": 259248,
     "errors": [],
     "warnings": [],
     "ok": true
   },
   "technical_checks": {
     "ok": true,
-    "local_links_checked": 196,
+    "local_links_checked": 224,
     "broken_links": [],
     "official_xml_vs_html_mismatches": [],
     "repeated_long_paragraphs": 0
@@ -414,7 +414,7 @@
     "independent_content_review_performed": false
   },
   "last_bounded_review_at": "2026-10-20T08:54:41.367355+00:00",
-  "bounded_review_validation": "review-validation-p63a-p68.json",
+  "bounded_review_validation": "review-validation-p69-p86.json",
   "last_bounded_review_complete": true,
   "whole_book_review_complete": false,
   "bounded_review_case_law_sources": [
@@ -456,16 +456,16 @@
       "repo": "Komentar-DE-GENG-1889",
       "units": 199,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 252766,
+      "commentary_chars": 259248,
       "errors": [],
       "warnings": [],
       "ok": true
     },
     "technical_report": "technical-checks.json",
     "completeness_report": "coverage-check.json",
-    "raw_wording_and_preservation_report": "review-technical-p63a-p68.json",
+    "raw_wording_and_preservation_report": "review-technical-p69-p86.json",
     "all_assigned_units_wording_agrees": true,
-    "local_links_checked": 196,
+    "local_links_checked": 224,
     "broken_links": [],
     "repeated_long_paragraphs": 0,
     "nonassigned_commentary_changes": [],
@@ -624,7 +624,7 @@
     },
     "completed_at": "2026-10-20T08:45:11.838800+00:00"
   },
-  "last_bounded_review_completed_at": "2026-10-20T08:45:11.838800+00:00",
+  "last_bounded_review_completed_at": "2026-10-20T08:55:08.102520+00:00",
   "bounded_review_p69_p86": {
     "complete": true,
     "units_reviewed": 20,
@@ -661,6 +661,27 @@
     ],
     "report": "review-result-p69-p86.json",
     "whole_book_review_complete": false,
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "strict": {
+        "repo": "Komentar-DE-GENG-1889",
+        "units": 199,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 259248,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "technical_report": "technical-checks.json",
+      "completeness_report": "coverage-check.json",
+      "raw_wording_and_preservation_report": "review-technical-p69-p86.json",
+      "all_assigned_units_wording_agrees": true,
+      "local_links_checked": 224,
+      "broken_links": [],
+      "repeated_long_paragraphs": 0,
+      "nonassigned_commentary_changes": [],
+      "does_not_certify_legal_quality": true
+    },
+    "completed_at": "2026-10-20T08:55:08.102520+00:00"
   }
 }

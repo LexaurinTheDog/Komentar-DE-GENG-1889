@@ -305,5 +305,26 @@
     "Keine vollständige historische Parallelrekonstruktion externer Gesetze. FamFG § 394 gelesen und jüngste dokumentierte Änderungen auf Einfluss kontrolliert; die anderen FamFG-Kapitel sind nicht Gegenstand dieses Auftrags.",
     "Mindestlänge, Wortlautübereinstimmung und Wiederholungsdiagnostik beweisen keine juristische Qualität."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 259248,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "technical_report": "technical-checks.json",
+    "completeness_report": "coverage-check.json",
+    "raw_wording_and_preservation_report": "review-technical-p69-p86.json",
+    "all_assigned_units_wording_agrees": true,
+    "local_links_checked": 224,
+    "broken_links": [],
+    "repeated_long_paragraphs": 0,
+    "nonassigned_commentary_changes": [],
+    "does_not_certify_legal_quality": true
+  },
+  "completed_at": "2026-10-20T08:55:08.102520+00:00"
 }
