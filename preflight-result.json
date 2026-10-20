@@ -216,5 +216,65 @@
       "disposition": "No operative annex or Eingangsformel found in raw nodes or separately captured current contents/full HTML; no new omission to repair."
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p30_p46_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T08:23:40.721750+00:00",
+    "scope": [
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p33a-33i",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p43a",
+      "p43b",
+      "p44",
+      "p45",
+      "p46"
+    ],
+    "raw_fetches": "sources/review-p30-p46/fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "BEG IV, verkündet 29.10.2024, Art. 22 S. 13–14 (insbesondere Nr. 8–9 zu §§ 43, 43b), Art. 74 Abs. 1–13 S. 34–35 vollständig kontrolliert. Art. 22 fällt unter allgemeine Quartalsregel; Abruf-/XML-Builddatum nicht als Wirksamkeitsbeleg benutzt.",
+      "source": "sources/review-p30-p46/beg4.pdf",
+      "since_intake": "Frisches XML bytegleich mit Erstausarbeitung; unveränderter Intake und change-map.json erhalten. Kein Textwechsel seit Intake festgestellt."
+    },
+    "historical_versions_checked": {
+      "canonical_and_fresh_equal": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "independent_inventory": "coverage-check.json",
+      "selection": "Single current consolidated XML; every raw node inventoried, no concatenated historical versions. All grouped repeal positions retained."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "Keine operative Anlage oder Eingangsformel im Rohbestand, in Inhaltsübersicht oder Gesamtausgabe. Der Titel des § 110 (Anlage der Vorschüsse) betrifft Geldanlage und ist keine Anlage zum Gesetz; ein früherer technischer Teilbericht hatte ihn per Teilwortsuche als Kandidaten erfasst. Keine fehlende Norm nachzutragen."
+    },
+    "unresolved_blockers": []
   }
 }

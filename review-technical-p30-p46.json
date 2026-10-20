@@ -1,0 +1,377 @@
+{
+  "checked_at": "2026-10-20T08:21:25.221423+00:00",
+  "scope": [
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p33a-33i",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41",
+    "p42",
+    "p43",
+    "p43a",
+    "p43b",
+    "p44",
+    "p45",
+    "p46"
+  ],
+  "base_work_commit": "e539399c427676458cc3c1ccd62f56c01983006e",
+  "raw_evidence": "sources/review-p30-p46/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p30",
+      "official_doknr": "BJNR000550889BJNE004205123",
+      "official_label": "§ 30",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1118,
+      "changed": false,
+      "original_commentary_sha256": "ecabc2527b47371b45f07bb5e597954705d4ce02e1f26753fb411044d3ca6280",
+      "reviewed_commentary_sha256": "ecabc2527b47371b45f07bb5e597954705d4ce02e1f26753fb411044d3ca6280"
+    },
+    {
+      "id": "p31",
+      "official_doknr": "BJNR000550889BJNE022404123",
+      "official_label": "§ 31",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1087,
+      "changed": false,
+      "original_commentary_sha256": "04b4ff185c67ac7a0b5210777c446fff9558583332bd891264b2a54c51b7f44d",
+      "reviewed_commentary_sha256": "04b4ff185c67ac7a0b5210777c446fff9558583332bd891264b2a54c51b7f44d"
+    },
+    {
+      "id": "p32",
+      "official_doknr": "BJNR000550889BJNE022504140",
+      "official_label": "§ 32",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 911,
+      "changed": false,
+      "original_commentary_sha256": "98d6fcade9f6d11d373d0164e3880af7bc1cb71b1a0c9f7ec0cfb8e5e7418607",
+      "reviewed_commentary_sha256": "98d6fcade9f6d11d373d0164e3880af7bc1cb71b1a0c9f7ec0cfb8e5e7418607"
+    },
+    {
+      "id": "p33",
+      "official_doknr": "BJNR000550889BJNE021503377",
+      "official_label": "§ 33",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1660,
+      "changed": true,
+      "original_commentary_sha256": "48cc60c67dfe4f761818f43d481f2ecceaf671fb45a0b90d0cda3df97e91ac28",
+      "reviewed_commentary_sha256": "af588314b8e5da46a203c08018a61412c67fb6939c124bbd181e132b35925217"
+    },
+    {
+      "id": "p33a-33i",
+      "official_doknr": "BJNR000550889BJNE004602377",
+      "official_label": "(XXXX) §§ 33a bis 33i",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 537,
+      "changed": false,
+      "original_commentary_sha256": "cf5635e11d81d3d52111d3849c19ae463598a714797b03a8b03fbc308e7b86a2",
+      "reviewed_commentary_sha256": "cf5635e11d81d3d52111d3849c19ae463598a714797b03a8b03fbc308e7b86a2"
+    },
+    {
+      "id": "p34",
+      "official_doknr": "BJNR000550889BJNE005505123",
+      "official_label": "§ 34",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2295,
+      "changed": true,
+      "original_commentary_sha256": "06c0ea94695a3cd4b9c98211b04805b4cf0aef40ee596a29058febf9c694ce34",
+      "reviewed_commentary_sha256": "be1bd64e8c3248162329e70cdbfa1a3a3e5f8a52641a566745cb6c5c9ba5c0fd"
+    },
+    {
+      "id": "p35",
+      "official_doknr": "BJNR000550889BJNE005603377",
+      "official_label": "§ 35",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1013,
+      "changed": false,
+      "original_commentary_sha256": "f70bdc9534551fd8f68056b8b6c223892c4d03c99caf7c7c41abb57c7adc5ac6",
+      "reviewed_commentary_sha256": "f70bdc9534551fd8f68056b8b6c223892c4d03c99caf7c7c41abb57c7adc5ac6"
+    },
+    {
+      "id": "p36",
+      "official_doknr": "BJNR000550889BJNE005707360",
+      "official_label": "§ 36",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1143,
+      "changed": false,
+      "original_commentary_sha256": "090c05c33e09ccc302101e8f15ac010ba18f21ff64e0054c8c36242319f90a43",
+      "reviewed_commentary_sha256": "090c05c33e09ccc302101e8f15ac010ba18f21ff64e0054c8c36242319f90a43"
+    },
+    {
+      "id": "p37",
+      "official_doknr": "BJNR000550889BJNE005803377",
+      "official_label": "§ 37",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1085,
+      "changed": true,
+      "original_commentary_sha256": "91825c716d2edf53bda9d0eaba49cc92eb300382aa126d3849e55709db48602c",
+      "reviewed_commentary_sha256": "dc84c2d6b46dcf4f725f0affca7af70c518f85d4c1c56ecbe32262705aa146c8"
+    },
+    {
+      "id": "p38",
+      "official_doknr": "BJNR000550889BJNE005907360",
+      "official_label": "§ 38",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2093,
+      "changed": true,
+      "original_commentary_sha256": "c57b017b7149c5c33b343db5f20723a57990ce91f52fe59b63bea8b888ba2cac",
+      "reviewed_commentary_sha256": "1977181c64a95dd6bb126b8200ef4e2fd7feb7466d0a8fe06bfc7f8d831cfe14"
+    },
+    {
+      "id": "p39",
+      "official_doknr": "BJNR000550889BJNE006003377",
+      "official_label": "§ 39",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1883,
+      "changed": true,
+      "original_commentary_sha256": "4c20a66a13e1a8b05e1f090ad90495c9dcf7b9bd1adeae5cbdeacba7692fc7df",
+      "reviewed_commentary_sha256": "b90f5d5203e69504507c16bbca4e23afd2a550ff883f9ddf08613c2c4a260eb4"
+    },
+    {
+      "id": "p40",
+      "official_doknr": "BJNR000550889BJNE006103377",
+      "official_label": "§ 40",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1585,
+      "changed": true,
+      "original_commentary_sha256": "4f2b4ea2ca6e5703a3fa34c45d978c276c02080bbc10631b923b738ddc7ffa87",
+      "reviewed_commentary_sha256": "026b2df0567fdf3fab023f3d0cefad724213ed9493872a4d4fcb663026e62e5b"
+    },
+    {
+      "id": "p41",
+      "official_doknr": "BJNR000550889BJNE006203377",
+      "official_label": "§ 41",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1563,
+      "changed": true,
+      "original_commentary_sha256": "d40f450daea4484060518c467cce6b8aa6311946cd79ede78c9c627dd727aca1",
+      "reviewed_commentary_sha256": "71729cb1f4b8758b6c17376132d2fbdf665e963d0487b82ff793c98c33f28d08"
+    },
+    {
+      "id": "p42",
+      "official_doknr": "BJNR000550889BJNE006305360",
+      "official_label": "§ 42",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2067,
+      "changed": true,
+      "original_commentary_sha256": "fe3cf16fa996cdac70fdf7fd87fa534002719c1c1020e713b6ffd71e2dd544f7",
+      "reviewed_commentary_sha256": "c95948f8fbcecc383aade895c463caea8a4611233ec5785aec2e052c7ecf714a"
+    },
+    {
+      "id": "p43",
+      "official_doknr": "BJNR000550889BJNE006407125",
+      "official_label": "§ 43",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2599,
+      "changed": true,
+      "original_commentary_sha256": "16f711f9118af0417cd11333881c8a056e45e2e94ffdc55da102c218664c3cec",
+      "reviewed_commentary_sha256": "8054af2074dcea452fd7490b00ed20e657847d9e46c7c120ea600ac6428fd755"
+    },
+    {
+      "id": "p43a",
+      "official_doknr": "BJNR000550889BJNE006505123",
+      "official_label": "§ 43a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 3082,
+      "changed": true,
+      "original_commentary_sha256": "b165f66303a0cb7e996a1c404095d86f1dfc1d6e88e6cc03f94a0fff6bd8821e",
+      "reviewed_commentary_sha256": "f33b72cbcf2ba4a8dc2ab61357bd20c963cc197996f35c634a80bf071bf66533"
+    },
+    {
+      "id": "p43b",
+      "official_doknr": "BJNR000550889BJNE025401125",
+      "official_label": "§ 43b",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2375,
+      "changed": true,
+      "original_commentary_sha256": "53d461da60eee5b0464cfd31c1cd733bbb85e6b4e97f011c8cd31d84dc71e057",
+      "reviewed_commentary_sha256": "441da74bebc527b8164d08e364d7327b077f2ebca9bd4643673f1317561b670a"
+    },
+    {
+      "id": "p44",
+      "official_doknr": "BJNR000550889BJNE006603377",
+      "official_label": "§ 44",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1010,
+      "changed": false,
+      "original_commentary_sha256": "ecd715bc8a63684ffcc21138d74d51d31419dab39131b013af5dfe8939a43967",
+      "reviewed_commentary_sha256": "ecd715bc8a63684ffcc21138d74d51d31419dab39131b013af5dfe8939a43967"
+    },
+    {
+      "id": "p45",
+      "official_doknr": "BJNR000550889BJNE006704140",
+      "official_label": "§ 45",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1662,
+      "changed": true,
+      "original_commentary_sha256": "5dd288e8b50f44e83ceee4f8ed00aea7f133f102bef05bd2ab7ca44d52876924",
+      "reviewed_commentary_sha256": "c6562f3349550ee1965998078e734053a458cb7aeb301cb7d0b229f3f464f37b"
+    },
+    {
+      "id": "p46",
+      "official_doknr": "BJNR000550889BJNE006805125",
+      "official_label": "§ 46",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1825,
+      "changed": true,
+      "original_commentary_sha256": "e746e839d298c165294a48d1bbc9405df24bd460373e7ccc902d109d24de34ef",
+      "reviewed_commentary_sha256": "4c79392bbd4d1e69f39e4010da72f4a888517e4719dd967987c188386065ae36"
+    }
+  ],
+  "changed_ids": [
+    "p33",
+    "p34",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41",
+    "p42",
+    "p43",
+    "p43a",
+    "p43b",
+    "p45",
+    "p46"
+  ],
+  "nonassigned_commentaries_preserved": 179,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [],
+  "annex_check_method": "Inventory of all raw nodes and anchored official labels; § 110 title Anlage der Vorschüsse describes investment, not an annex.",
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "hgb",
+      "label": "§ 48",
+      "official_doknr": "BJNR002190897BJNE005900300",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Prokura kann nur von dem Inhaber des Handelsgeschäfts oder seinem gesetzlichen Vertreter und nur mittels ausdrücklicher Erklärung erteilt werden.(2) Die Erteilung kann an mehrere Personen gemeinschaftlich erfolgen (Gesamtprokura).",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 49",
+      "official_doknr": "BJNR002190897BJNE006000300",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Prokura ermächtigt zu allen Arten von gerichtlichen und außergerichtlichen Geschäften und Rechtshandlungen, die der Betrieb eines Handelsgewerbes mit sich bringt.(2) Zur Veräußerung und Belastung von Grundstücken ist der Prokurist nur ermächtigt, wenn ihm diese Befugnis besonders erteilt ist.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 50",
+      "official_doknr": "BJNR002190897BJNE006100300",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Eine Beschränkung des Umfanges der Prokura ist Dritten gegenüber unwirksam.(2) Dies gilt insbesondere von der Beschränkung, daß die Prokura nur für gewisse Geschäfte oder gewisse Arten von Geschäften oder nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten ausgeübt werden soll.(3) Eine Beschränkung der Prokura auf den Betrieb einer von mehreren Niederlassungen des Geschäftsinhabers ist Dritten gegenüber nur wirksam, wenn die Niederlassungen unter verschiedenen Firmen betrieben werden. Eine Verschiedenheit der Firmen im Sinne dieser Vorschrift wird auch dadurch begründet, daß für eine Zweigniederlassung der Firma ein Zusatz beigefügt wird, der sie als Firma der Zweigniederlassung bezeichnet.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 51",
+      "official_doknr": "BJNR002190897BJNE006200300",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "Der Prokurist hat in der Weise zu zeichnen, daß er der Firma seinen Namen mit einem die Prokura andeutenden Zusatze beifügt.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 52",
+      "official_doknr": "BJNR002190897BJNE006300300",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Prokura ist ohne Rücksicht auf das der Erteilung zugrunde liegende Rechtsverhältnis jederzeit widerruflich, unbeschadet des Anspruchs auf die vertragsmäßige Vergütung.(2) Die Prokura ist nicht übertragbar.(3) Die Prokura erlischt nicht durch den Tod des Inhabers des Handelsgeschäfts.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 53",
+      "official_doknr": "BJNR002190897BJNE006402377",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Erteilung der Prokura ist von dem Inhaber des Handelsgeschäfts zur Eintragung in das Handelsregister anzumelden. Ist die Prokura als Gesamtprokura erteilt, so muß auch dies zur Eintragung angemeldet werden.(2) Das Erlöschen der Prokura ist in gleicher Weise wie die Erteilung zur Eintragung anzumelden.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 54",
+      "official_doknr": "BJNR002190897BJNE006500300",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Ist jemand ohne Erteilung der Prokura zum Betrieb eines Handelsgewerbes oder zur Vornahme einer bestimmten zu einem Handelsgewerbe gehörigen Art von Geschäften oder zur Vornahme einzelner zu einem Handelsgewerbe gehöriger Geschäfte ermächtigt, so erstreckt sich die Vollmacht (Handlungsvollmacht) auf alle Geschäfte und Rechtshandlungen, die der Betrieb eines derartigen Handelsgewerbes oder die Vornahme derartiger Geschäfte gewöhnlich mit sich bringt.(2) Zur Veräußerung oder Belastung von Grundstücken, zur Eingehung von Wechselverbindlichkeiten, zur Aufnahme von Darlehen und zur Prozeßführung ist der Handlungsbevollmächtigte nur ermächtigt, wenn ihm eine solche Befugnis besonders erteilt ist.(3) Sonstige Beschränkungen der Handlungsvollmacht braucht ein Dritter nur dann gegen sich gelten zu lassen, wenn er sie kannte oder kennen mußte.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 257",
+      "official_doknr": "BJNR002190897BJNE005204129",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Jeder Kaufmann ist verpflichtet, die folgenden Unterlagen geordnet aufzubewahren: 1.Handelsbücher, Inventare, Eröffnungsbilanzen, Jahresabschlüsse, Einzelabschlüsse nach § 325 Abs. 2a, Lageberichte, Konzernabschlüsse, Konzernlageberichte sowie die zu ihrem Verständnis erforderlichen Arbeitsanweisungen und sonstigen Organisationsunterlagen,2.die empfangenen Handelsbriefe,3.Wiedergaben der abgesandten Handelsbriefe,4.Belege für Buchungen in den von ihm nach § 238 Abs. 1 zu führenden Büchern (Buchungsbelege).(2) Handelsbriefe sind nur Schriftstücke, die ein Handelsgeschäft betreffen.(3) Mit Ausnahme der Eröffnungsbilanzen und Abschlüsse können die in Absatz 1 aufgeführten Unterlagen auch als Wiedergabe auf einem Bildträger oder auf anderen Datenträgern aufbewahrt werden, wenn dies den Grundsätzen ordnungsmäßiger Buchführung entspricht und sichergestellt ist, daß die Wiedergabe oder die Daten 1.mit den empfangenen Handelsbriefen und den Buchungsbelegen bildlich und mit den anderen Unterlagen inhaltlich übereinstimmen, wenn sie lesbar gemacht werden,2.während der Dauer der Aufbewahrungsfrist verfügbar sind und jederzeit innerhalb angemessener Frist lesbar gemacht werden können.Sind Unterlagen auf Grund des § 239 Abs. 4 Satz 1 auf Datenträgern hergestellt worden, können statt des Datenträgers die Daten auch ausgedruckt aufbewahrt werden; die ausgedruckten Unterlagen können auch nach Satz 1 aufbewahrt werden.(4) Die in Absatz 1 Nummer 1 aufgeführten Unterlagen sind zehn Jahre, die in Absatz 1 Nummer 4 aufgeführten Unterlagen acht Jahre und die sonstigen in Absatz 1 aufgeführten Unterlagen sechs Jahre aufzubewahren. Abweichend von Satz 1 sind bei Personen oder Gesellschaften, die 1.Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sind, einschließlich Zweigstellen nach § 53 des Kreditwesengesetzes,2.der Aufsicht nach § 1 Absatz 1 des Versicherungsaufsichtsgesetzes unterliegen oder3.Wertpapierinstitute im Sinne des § 2 Absatz 1 des Wertpapierinstitutsgesetzes sind,die in Absatz 1 Nummer 4 aufgeführten Unterlagen zehn Jahre aufzubewahren.(5) Die Aufbewahrungsfrist beginnt mit dem Schluß des Kalenderjahrs, in dem die letzte Eintragung in das Handelsbuch gemacht, das Inventar aufgestellt, die Eröffnungsbilanz oder der Jahresabschluß festgestellt, der Einzelabschluss nach § 325 Abs. 2a oder der Konzernabschluß aufgestellt, der Handelsbrief empfangen oder abgesandt worden oder der Buchungsbeleg entstanden ist.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 316a",
+      "official_doknr": "BJNR002190897BJNE113900360",
+      "evidence": "sources/review-p30-p46/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse sind, sind die Vorschriften dieses Unterabschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden ist. Unternehmen von öffentlichem Interesse sind Unternehmen, die 1.kapitalmarktorientiert sind im Sinne des § 264d,2.CRR-Kreditinstitute sind im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme derjenigen Institute, die in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes und in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, genannt sind, oder3.Versicherungsunternehmen sind im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG.",
+      "same_text_as_authoring_capture": true
+    }
+  ],
+  "cited_case_snapshot_checks": [
+    {
+      "official_doknr": "KORE305102019",
+      "snapshot": "sources/review-p30-p46/case-KORE305102019.xml",
+      "sha256": "4d4984416018c5583fc9f3ada043d58714dd6f28d3641eb45dd8cf19c3ed3fee",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore305102019.xml",
+      "byte_identical": true
+    }
+  ],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 20 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

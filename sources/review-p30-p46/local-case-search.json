@@ -1,0 +1,55 @@
+{
+  "searched_at": "2026-10-20T08:21:58.863838+00:00",
+  "method": "ripgrep over local official judicial XML corpus",
+  "searches": [
+    {
+      "query": "§\\s*34(?:\\s+Abs[^<\\n]{0,35})?\\s+GenG",
+      "exit_code": 0,
+      "matching_files": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure150017647.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kare600039744.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300832020.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300872023.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore301392018.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore303002017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore305682010.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore307752010.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore311372012.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore316282014.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore621162020.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore621152020.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre150760114.xml"
+      ],
+      "note": "Discovery only. Matching files other than KORE305102019 were not read in full or used as authorities in this batch."
+    },
+    {
+      "query": "§\\s*39(?:\\s+Abs[^<\\n]{0,35})?\\s+GenG",
+      "exit_code": 0,
+      "matching_files": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kare600059277.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300112012.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore303162017.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore305102019.xml"
+      ],
+      "note": "Discovery only. Matching files other than KORE305102019 were not read in full or used as authorities in this batch."
+    },
+    {
+      "query": "§\\s*41(?:\\s+Abs[^<\\n]{0,35})?\\s+GenG",
+      "exit_code": 1,
+      "matching_files": [],
+      "note": "Discovery only. Matching files other than KORE305102019 were not read in full or used as authorities in this batch."
+    },
+    {
+      "query": "§\\s*43a(?:\\s+Abs[^<\\n]{0,35})?\\s+GenG",
+      "exit_code": 0,
+      "matching_files": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore305102019.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore311892021.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore315172013.xml"
+      ],
+      "note": "Discovery only. Matching files other than KORE305102019 were not read in full or used as authorities in this batch."
+    }
+  ],
+  "selected_full_text": "case-KORE305102019.xml",
+  "limits": "Selective search for organ liability, representation and representative assembly; not exhaustive for every assigned section."
+}

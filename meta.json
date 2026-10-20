@@ -1,0 +1,74 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-GENG-1889",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-GENG-1889",
+  "title": "Kommentar zum Genossenschaftsgesetz (GenG)",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-GENG-1889/sources/canonical.txt",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Stand, Methode und Benutzung",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtlicher Hinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "abschnitt-1",
+      "title": "Errichtung der Genossenschaft"
+    },
+    {
+      "n": 2,
+      "slug": "abschnitt-2",
+      "title": "Rechtsverhältnisse der Genossenschaft und ihrer Mitglieder"
+    },
+    {
+      "n": 3,
+      "slug": "abschnitt-3-organe",
+      "title": "Verfassung der Genossenschaft — Vorstand und Aufsichtsrat"
+    },
+    {
+      "n": 4,
+      "slug": "abschnitt-3-beschluesse",
+      "title": "Verfassung der Genossenschaft — Willensbildung und Beschlüsse"
+    },
+    {
+      "n": 5,
+      "slug": "abschnitt-4",
+      "title": "Prüfung und Prüfungsverbände"
+    },
+    {
+      "n": 6,
+      "slug": "abschnitt-5",
+      "title": "Beendigung der Mitgliedschaft"
+    },
+    {
+      "n": 7,
+      "slug": "abschnitt-6",
+      "title": "Auflösung und Nichtigkeit der Genossenschaft"
+    },
+    {
+      "n": 8,
+      "slug": "abschnitt-7",
+      "title": "Insolvenzverfahren; Nachschusspflicht der Mitglieder"
+    },
+    {
+      "n": 9,
+      "slug": "abschnitt-8",
+      "title": "Haftsumme"
+    },
+    {
+      "n": 10,
+      "slug": "abschnitt-9",
+      "title": "Straf- und Bußgeldvorschriften"
+    },
+    {
+      "n": 11,
+      "slug": "abschnitt-10",
+      "title": "Schlussvorschriften"
+    }
+  ],
+  "authoring_date": "2026-10-19",
+  "source_url": "https://www.gesetze-im-internet.de/geng/"
+}

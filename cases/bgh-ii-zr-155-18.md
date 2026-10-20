@@ -1,0 +1,17 @@
+# BGH, Urteil vom 2. Juli 2019 – II ZR 155/18
+
+ECLI:DE:BGH:2019:020719UIIZR155.18.0. Amtliche Dokumentnummer KORE305102019. Gesamter amtlicher Volltext einschließlich Tatbestand, Tenor und Gründen geprüft am **20. Oktober 2026**.
+
+[Amtliche Entscheidung](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE305102019) · [Amtlicher XML-Snapshot](../sources/review-p30-p46/case-KORE305102019.xml) · [Lesefassung](../sources/review-p30-p46/case-KORE305102019.txt) · [HTTP-, Zeit- und Hashnachweis](../sources/review-p30-p46/fetches.json).
+
+Ein Genossenschaftsvorstand wandte sich gegen seine Abberufung und die fristlose Kündigung seines befristeten Dienstvertrags. Die Vertreterversammlung hatte beides beschlossen; der Aufsichtsrat beschloss später die Umsetzung und vorsorglich ebenfalls die Kündigung. Die Revision des Vorstands blieb erfolglos. Der BGH bestätigte die Kündigung aufgrund der zuständigen Vertreterversammlung. Die zuvor vom Landgericht festgestellte Nichtigkeit des eigenständigen Kündigungsbeschlusses des Aufsichtsrats ist im Tatbestand, Rn. 6, beschrieben; sie ist nicht mit einem erstmals vom BGH ausgesprochenen zusätzlichen Tenor zu verwechseln.
+
+**Tragender Zuständigkeitsgrund:** Rn. 12–24, besonders Rn. 16, 18, 20 und 23, bestätigen die gesetzliche Zuständigkeit der General- oder Vertreterversammlung zur fristlosen Kündigung des Vorstandsdienstvertrags. § 39 Abs. 1 GenG weist dem Aufsichtsrat die Vertretung gegenüber dem Vorstand zu, begründet aber allein keine ausschließliche Kündigungszuständigkeit. Eine zulässige satzungsmäßige Übertragung der Abberufung und damit auch der außerordentlichen Kündigung auf den Aufsichtsrat ist möglich. Rn. 14 schildert die gegenteilige Literaturauffassung; sie ist nicht die eigene Schlussfolgerung des Gerichts.
+
+**Bezug zur Suspendierung:** Rn. 18 erläutert die Beschränkung des § 40 auf von der Generalversammlung abzuberufende Vorstandsmitglieder: Hat der Aufsichtsrat satzungsmäßig bereits die endgültige Abberufungskompetenz, benötigt er die besondere vorläufige Ermächtigung nicht in gleicher Weise. Die konkrete vorläufige Enthebung vom 8. Juni 2015 wird im Tatbestand Rn. 5 berichtet; aus diesem Datum allein folgt kein allgemeiner zulässiger Zeitraum bis zur Versammlung.
+
+**Weitere Gründe und Grenzen:** Rn. 25–27 behandeln den wichtigen Kündigungsgrund anhand nicht dienstlich veranlasster Spesen, Rn. 28–36 die Kenntnis und Einberufung im Zusammenhang mit der Kündigungsfrist. Die in Rn. 35 vorgenommene fallbezogene Würdigung enthält keine pauschale Erlaubnis, die nach § 40 unverzüglich einzuberufende Versammlung zu verzögern. Der Kommentar verwendet diesen Fall nicht als umfassende Darstellung des § 626 BGB und nicht als Beleg für jede Anstellungsvertragsgestaltung.
+
+**Unterstützte Einheiten dieses Auftrags:** §§ 39 und 40 (`p39`, `p40`). Die 2019 ausgelegten Kompetenzregeln wurden gegen den aktuellen GenG-Text abgeglichen: § 39 Abs. 1, § 40 sowie § 24 Abs. 2 enthalten weiterhin die einschlägige Trennung. Die Textformerleichterungen durch das BEG IV betreffen diese Organentscheidungsfrage nicht. Keine Behauptung einer erschöpfenden späteren Rechtsprechungssuche.
+
+Die frisch heruntergeladene amtliche XML wurde geparst und ist bytegleich mit `/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore305102019.xml`. SHA-256 der XML: `4d4984416018c5583fc9f3ada043d58714dd6f28d3641eb45dd8cf19c3ed3fee`. Quelle und eigene Einordnung sind getrennt; kommerzielle redaktionelle Leitsätze wurden nicht verwendet.

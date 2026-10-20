@@ -1316,5 +1316,63 @@
     "new_case_added": false,
     "technical_evidence": "../review-technical-p15b-p29.json",
     "limits": "Selective authority verification; no claim that each unit received exhaustive new case-law discovery."
+  },
+  "bounded_review_p30_p46": {
+    "reviewed_at": "2026-10-20T08:23:40.721750+00:00",
+    "reviewed_ids": [
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p33a-33i",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p43a",
+      "p43b",
+      "p44",
+      "p45",
+      "p46"
+    ],
+    "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/_raw",
+    "search_evidence": "review-p30-p46/local-case-search.json",
+    "method": "Gezielte rg-Suche zu §§ 34, 39, 41, 43a GenG; II ZR 155/18 im vollständigen amtlichen Text gelesen, online frisch aus RII-XML-ZIP beschafft und bytegleich zum lokalen Justizkorpus. Andere Treffer nicht als vollständig ausgewertete Autoritäten verwendet.",
+    "case_fetch_evidence": "review-p30-p46/fetches.json",
+    "used_case_ids": [
+      "KORE305102019"
+    ],
+    "new_case_added": true,
+    "supported_units": [
+      "p39",
+      "p40"
+    ],
+    "units_without_new_individual_case": [
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p33a-33i",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p41",
+      "p42",
+      "p43",
+      "p43a",
+      "p43b",
+      "p44",
+      "p45",
+      "p46"
+    ],
+    "limits": "Keine erschöpfende Recherche jeder technischen Norm; kein Fehlen existierender Entscheidungen behauptet. Vorbestehende vier Fallkarten nicht erneut geprüft."
   }
 }

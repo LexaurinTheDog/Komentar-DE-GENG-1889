@@ -104,7 +104,8 @@
     "rechecked_at": "2026-10-20T08:13:21.755976+00:00",
     "coverage_check": "coverage-check.json",
     "bounded_review_fetches": "sources/review-p15b-p29/fetches.json",
-    "bounded_preflight": "preflight-result.json"
+    "bounded_preflight": "preflight-result.json",
+    "bounded_review_p30_p46_fetches": "sources/review-p30-p46/fetches.json"
   },
   "total_units": 199,
   "completed_units": 199,
@@ -140,6 +141,18 @@
       "docket": "II ZR 119/24",
       "doknr": "KORE728222025",
       "full_text_read": true
+    },
+    {
+      "court": "BGH",
+      "date": "20190702",
+      "docket": "II ZR 155/18",
+      "doknr": "KORE305102019",
+      "full_text_read": true,
+      "read_at": "2026-10-20T08:23:40.721750+00:00",
+      "supported_units": [
+        "p39",
+        "p40"
+      ]
     }
   ],
   "case_law_search_log": "sources/search-log.json",
@@ -167,9 +180,9 @@
   "completeness": "completeness.json",
   "independent_second_pass": {
     "performed": true,
-    "state": "Zwei begrenzte Teilaufträge abgeschlossen; 159 weitere Einheiten ausstehend.",
+    "state": "Drei begrenzte Teilaufträge mit 60 verschiedenen Einheiten abgeschlossen; 139 weitere Einheiten ausstehend.",
     "complete": false,
-    "reviewed_units": 40,
+    "reviewed_units": 60,
     "reviewed_ids": [
       "p1",
       "p2",
@@ -210,35 +223,56 @@
       "p26",
       "p27",
       "p28",
-      "p29"
+      "p29",
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p33a-33i",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p43a",
+      "p43b",
+      "p44",
+      "p45",
+      "p46"
     ],
-    "remaining_units": 159,
+    "remaining_units": 139,
     "result": "review-result.json",
     "batch_results": [
       "review-result-p1-p15a.json",
-      "review-result-p15b-p29.json"
+      "review-result-p15b-p29.json",
+      "review-result-p30-p46.json"
     ],
     "current_batch_reviewed_ids": [
-      "p15b",
-      "p16",
-      "p17",
-      "p18",
-      "p19",
-      "p20",
-      "p21",
-      "p21a",
-      "p21b",
-      "p22",
-      "p22a",
-      "p22b",
-      "p23",
-      "p24",
-      "p25",
-      "p25a",
-      "p26",
-      "p27",
-      "p28",
-      "p29"
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p33a-33i",
+      "p34",
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p43a",
+      "p43b",
+      "p44",
+      "p45",
+      "p46"
     ],
     "current_batch_units_reviewed": 20
   },
@@ -247,7 +281,7 @@
     "Selektive, nicht erschöpfende Rechtsprechungsrecherche; kein flächendeckender Einzelentscheidungsnachweis für technische Normen.",
     "C-776/25 war beim amtlichen Stichtagsabruf anhängig; keine abschließende EuGH-Antwort behauptet.",
     "Kein vollständiger historischer Parallelkommentar zu allen extern verwiesenen Gesetzesfassungen.",
-    "Entwurf mit auf zusammen 40 Einheiten begrenztem zweitem Inhaltsdurchgang, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
+    "Entwurf mit auf zusammen 60 Einheiten begrenztem zweitem Inhaltsdurchgang, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
     "Quellen-/Parser-Preflight vom 20. Oktober 2026 ersetzt keine unabhängige inhaltliche Zweitprüfung; ursprünglicher Bearbeitungsstichtag bleibt 19. Oktober 2026."
   ],
   "publication_or_external_writes": false,
@@ -280,8 +314,25 @@
     "commentary_files_retained_unchanged": 14,
     "independent_content_review_performed": false
   },
-  "last_bounded_review_at": "2026-10-20T08:13:21.755976+00:00",
-  "bounded_review_validation": "review-validation-p15b-p29.json",
+  "last_bounded_review_at": "2026-10-20T08:23:40.721750+00:00",
+  "bounded_review_validation": "review-validation-p30-p46.json",
   "last_bounded_review_complete": true,
-  "whole_book_review_complete": false
+  "whole_book_review_complete": false,
+  "bounded_review_case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "2019-07-02",
+      "docket": "II ZR 155/18",
+      "ECLI": "ECLI:DE:BGH:2019:020719UIIZR155.18.0",
+      "full_text_read_in_this_pass": true,
+      "supported_units": [
+        "p39",
+        "p40"
+      ],
+      "precise_paragraphs": "12–24, insbesondere 18, 20, 23; Kontext und Grenzen auch 25–36",
+      "case_card": "cases/bgh-ii-zr-155-18.md",
+      "fresh_fetch": "sources/review-p30-p46/fetches.json",
+      "local_corpus_checked": true
+    }
+  ]
 }
