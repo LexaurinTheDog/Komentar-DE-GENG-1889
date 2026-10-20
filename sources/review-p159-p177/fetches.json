@@ -1,0 +1,136 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+    "accessed_at": "2026-10-20T09:28:01.699326+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p159-p177/geng.zip",
+    "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+    "format_validation": {
+      "xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "stand": [
+        "Neugefasst durch Bek. v. 16.10.2006 I 2230;",
+        "zuletzt geändert durch Art. 22 G v. 23.10.2024 I Nr. 323"
+      ],
+      "same_as_canonical_xml": true
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geng/",
+    "final_url": "https://www.gesetze-im-internet.de/geng/",
+    "accessed_at": "2026-10-20T09:28:02.333433+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "file": "review-p159-p177/index.html",
+    "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+    "format_validation": {
+      "statute_identity": true
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+    "final_url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+    "accessed_at": "2026-10-20T09:28:02.677583+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "file": "review-p159-p177/full.html",
+    "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+    "format_validation": {
+      "statute_identity": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T09:28:03.083707+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "file": "review-p159-p177/beg4.pdf",
+    "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+    "format_validation": {
+      "pdf_magic": true,
+      "same_as_authoring": true
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "accessed_at": "2026-10-20T09:28:04.385126+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p159-p177/hgb.zip",
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "format_validation": {
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "stand": [
+        "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+        "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+      ]
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/famfg/xml.zip",
+    "accessed_at": "2026-10-20T09:28:05.167919+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p159-p177/famfg.zip",
+    "sha256": "086202586e949a8e383d2494396e4802474bc170f99f23e697f99533029ae4ea",
+    "format_validation": {
+      "xml_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "stand": [
+        "Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192",
+        "Änderung durch Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+        "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war"
+      ]
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T09:28:05.898875+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p159-p177/bgb.zip",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "format_validation": {
+      "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "stand": [
+        "Neugefasst durch Bek. v. 2.1.2002 I 42, 2909; 2003, 738;",
+        "zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226"
+      ]
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgbeg/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/hgbeg/xml.zip",
+    "accessed_at": "2026-10-20T09:28:08.261515+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p159-p177/eghgb.zip",
+    "sha256": "62f7e65747efc0f5b34567a099679da12e153d35458d22be70acb4dd8b1823a2",
+    "format_validation": {
+      "xml_sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
+      "stand": [
+        "Zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 323"
+      ]
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wphg/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/wphg/xml.zip",
+    "accessed_at": "2026-10-20T09:28:08.647276+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "file": "review-p159-p177/wphg.zip",
+    "sha256": "2bba65505e2517d1bd5e11749b4ff1592aa4ece0226797cfa90bdb4f80fb074e",
+    "format_validation": {
+      "xml_sha256": "f8db283a8c6248ed40d4db5681290fdee9cd3048496594dad3bbc488c16e2458",
+      "stand": [
+        "Neugefasst durch Bek. v. 9.9.1998 I 2708;",
+        "zuletzt geändert durch Art. 11 G v. 26.5.2026 I Nr. 156"
+      ]
+    }
+  }
+]

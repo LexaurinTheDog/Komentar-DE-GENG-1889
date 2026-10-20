@@ -1,0 +1,357 @@
+{
+  "checked_at": "2026-10-20T09:32:06.077693+00:00",
+  "scope": [
+    "p159",
+    "p160",
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165",
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177"
+  ],
+  "base_work_commit": "dee148b819651e400170e9cb3f8d894d8fd84951",
+  "raw_evidence": "sources/review-p159-p177/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p159",
+      "official_doknr": "BJNR000550889BJNE021003377",
+      "official_label": "§ 159",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 443,
+      "changed": false,
+      "original_commentary_sha256": "44a2a1068e25b8c382bf1bcb68a2ad54699eff32816dc3be044f3a3f62bb34cf",
+      "reviewed_commentary_sha256": "44a2a1068e25b8c382bf1bcb68a2ad54699eff32816dc3be044f3a3f62bb34cf"
+    },
+    {
+      "id": "p160",
+      "official_doknr": "BJNR000550889BJNE022109123",
+      "official_label": "§ 160",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2778,
+      "changed": true,
+      "original_commentary_sha256": "8af75f9693c5bab6298e42686fedde8eab9a1ffb3617c6758354a1f7f56cd794",
+      "reviewed_commentary_sha256": "1e68305532c868a298e08473ad8303a82354c680f991b6f733347f59aad06eac"
+    },
+    {
+      "id": "p161",
+      "official_doknr": "BJNR000550889BJNE021309123",
+      "official_label": "§ 161",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 434,
+      "changed": false,
+      "original_commentary_sha256": "e1d07d6ba8f93f2833b14928b8737da5934297469b180b7b85a251c31f6fde4d",
+      "reviewed_commentary_sha256": "e1d07d6ba8f93f2833b14928b8737da5934297469b180b7b85a251c31f6fde4d"
+    },
+    {
+      "id": "p162",
+      "official_doknr": "BJNR000550889BJNE022303377",
+      "official_label": "§ 162",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1041,
+      "changed": false,
+      "original_commentary_sha256": "49aa0bd98e302c92a2bf1793e8b527c24f80b465d601f029a5e26604b5391762",
+      "reviewed_commentary_sha256": "49aa0bd98e302c92a2bf1793e8b527c24f80b465d601f029a5e26604b5391762"
+    },
+    {
+      "id": "p163",
+      "official_doknr": "BJNR000550889BJNE022603377",
+      "official_label": "§ 163",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 424,
+      "changed": false,
+      "original_commentary_sha256": "30a58a01ec9bfeed853e79b5e7f00c24b82cf6420ec061f6ab411a220a8f4c7c",
+      "reviewed_commentary_sha256": "30a58a01ec9bfeed853e79b5e7f00c24b82cf6420ec061f6ab411a220a8f4c7c"
+    },
+    {
+      "id": "p164",
+      "official_doknr": "BJNR000550889BJNE022803123",
+      "official_label": "§ 164",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1272,
+      "changed": true,
+      "original_commentary_sha256": "c977165adcdf795ceb009238c89969d010dc9abecc386b0915e48effa720b39b",
+      "reviewed_commentary_sha256": "50335228c49bae2dd9980c5147e221f03ae7c872646ee27e91d49355afe7de99"
+    },
+    {
+      "id": "p165",
+      "official_doknr": "BJNR000550889BJNE023203123",
+      "official_label": "§ 165",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 502,
+      "changed": false,
+      "original_commentary_sha256": "24f4ede37c284edc197850d0f973525bf315dcbcad4123700b8345a30a0cb2fe",
+      "reviewed_commentary_sha256": "24f4ede37c284edc197850d0f973525bf315dcbcad4123700b8345a30a0cb2fe"
+    },
+    {
+      "id": "p166",
+      "official_doknr": "BJNR000550889BJNE023601123",
+      "official_label": "§ 166",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2113,
+      "changed": true,
+      "original_commentary_sha256": "5b8446382a9e13ddc3bbaf1eb72f287418ce233ceabf4e3e7ec5f3cf3734f702",
+      "reviewed_commentary_sha256": "ec212ab60ffe325d274b1b66cf82a2a3e6a6cac3fcc25d3975ccba483d385f1d"
+    },
+    {
+      "id": "p167",
+      "official_doknr": "BJNR000550889BJNE023800140",
+      "official_label": "§ 167",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 993,
+      "changed": false,
+      "original_commentary_sha256": "cdeace5260da5c217148d6b6a769c87885caf7cf324bf82a91bd824fcbb96c8e",
+      "reviewed_commentary_sha256": "cdeace5260da5c217148d6b6a769c87885caf7cf324bf82a91bd824fcbb96c8e"
+    },
+    {
+      "id": "p168",
+      "official_doknr": "BJNR000550889BJNE024101360",
+      "official_label": "§ 168",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 927,
+      "changed": false,
+      "original_commentary_sha256": "e8bd814aefb4b8fb086d42d5aa9c61503e22112208df2a2e8330aaadf5d49f87",
+      "reviewed_commentary_sha256": "e8bd814aefb4b8fb086d42d5aa9c61503e22112208df2a2e8330aaadf5d49f87"
+    },
+    {
+      "id": "p169",
+      "official_doknr": "BJNR000550889BJNE024500123",
+      "official_label": "§ 169",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 992,
+      "changed": false,
+      "original_commentary_sha256": "b3425fd18bf0b637a7fc349b8e30839a90aa45f60e085d0d4b5a7722d27a10c5",
+      "reviewed_commentary_sha256": "b3425fd18bf0b637a7fc349b8e30839a90aa45f60e085d0d4b5a7722d27a10c5"
+    },
+    {
+      "id": "p170",
+      "official_doknr": "BJNR000550889BJNE024600123",
+      "official_label": "§ 170",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 951,
+      "changed": false,
+      "original_commentary_sha256": "f676f7d3c451d50f6c8ef5764a93c4bdae3235434eac2f0b3e95335b923ac91c",
+      "reviewed_commentary_sha256": "f676f7d3c451d50f6c8ef5764a93c4bdae3235434eac2f0b3e95335b923ac91c"
+    },
+    {
+      "id": "p171",
+      "official_doknr": "BJNR000550889BJNE024900123",
+      "official_label": "§ 171",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 909,
+      "changed": false,
+      "original_commentary_sha256": "34ab42b87953174be2f1977525f755cf6b196b62a379338cb652b92eb7471eac",
+      "reviewed_commentary_sha256": "34ab42b87953174be2f1977525f755cf6b196b62a379338cb652b92eb7471eac"
+    },
+    {
+      "id": "p172",
+      "official_doknr": "BJNR000550889BJNE025000360",
+      "official_label": "§ 172",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 883,
+      "changed": false,
+      "original_commentary_sha256": "14c62b14543e39f7f98faae7de854d606f168a0bd5d22a0f87f6cc51ad8ceb66",
+      "reviewed_commentary_sha256": "14c62b14543e39f7f98faae7de854d606f168a0bd5d22a0f87f6cc51ad8ceb66"
+    },
+    {
+      "id": "p173",
+      "official_doknr": "BJNR000550889BJNE025100360",
+      "official_label": "§ 173",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1008,
+      "changed": false,
+      "original_commentary_sha256": "86b453a0e50a5eb7d819c3a5bc9e22a448c1697096ce187ad15ce4697c03d2c0",
+      "reviewed_commentary_sha256": "86b453a0e50a5eb7d819c3a5bc9e22a448c1697096ce187ad15ce4697c03d2c0"
+    },
+    {
+      "id": "p174",
+      "official_doknr": "BJNR000550889BJNE025200360",
+      "official_label": "§ 174",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 896,
+      "changed": false,
+      "original_commentary_sha256": "402aa78fac0bbca35a7636fefe94710dbc363a9e4261a4312f39e677e36c342e",
+      "reviewed_commentary_sha256": "402aa78fac0bbca35a7636fefe94710dbc363a9e4261a4312f39e677e36c342e"
+    },
+    {
+      "id": "p175",
+      "official_doknr": "BJNR000550889BJNE025300360",
+      "official_label": "§ 175",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1652,
+      "changed": true,
+      "original_commentary_sha256": "70a6782987809a920e4a27893f47ad56ba60b2e70820c6726cf2c51f6703c384",
+      "reviewed_commentary_sha256": "b271ebbef167300bfc106f2b3e6b4a6cac216fed372884a186a258ef67246aa7"
+    },
+    {
+      "id": "p176",
+      "official_doknr": "BJNR000550889BJNE025500360",
+      "official_label": "§ 176",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1732,
+      "changed": true,
+      "original_commentary_sha256": "9cf9cbe59b80dbfc68ea2018d9fd988d0b57a38c3b3256cc189153fbab1e85fe",
+      "reviewed_commentary_sha256": "6e78d62eb5bdc0b0056f58f058770a717bf9282c97b3fa5c147b305d70c80f99"
+    },
+    {
+      "id": "p177",
+      "official_doknr": "BJNR000550889BJNE025600125",
+      "official_label": "§ 177",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2897,
+      "changed": true,
+      "original_commentary_sha256": "47b4a4e83a3b787acd1b0c717c6b5ce60fa5e3c6cae0490e3b6fc4b8c748de58",
+      "reviewed_commentary_sha256": "e3b8abb4d175d73cad98b01c454bf696962a854e14a4657ef6936d819f9f704a"
+    }
+  ],
+  "changed_ids": [
+    "p160",
+    "p164",
+    "p166",
+    "p175",
+    "p176",
+    "p177"
+  ],
+  "nonassigned_commentaries_preserved": 180,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [],
+  "annex_check_method": "Inventory of all raw nodes and anchored official labels; § 110 title Anlage der Vorschüsse describes investment, not an annex.",
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "hgb",
+      "label": "§ 53",
+      "official_doknr": "BJNR002190897BJNE006402377",
+      "evidence": "sources/review-p159-p177/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Erteilung der Prokura ist von dem Inhaber des Handelsgeschäfts zur Eintragung in das Handelsregister anzumelden. Ist die Prokura als Gesamtprokura erteilt, so muß auch dies zur Eintragung angemeldet werden.(2) Das Erlöschen der Prokura ist in gleicher Weise wie die Erteilung zur Eintragung anzumelden."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 267",
+      "official_doknr": "BJNR002190897BJNE006210360",
+      "evidence": "sources/review-p159-p177/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Kleine Kapitalgesellschaften sind solche, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.7 500 000 Euro Bilanzsumme.2.15 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.3.Im Jahresdurchschnitt fünfzig Arbeitnehmer.(2) Mittelgroße Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 1 bezeichneten Merkmale überschreiten und jeweils mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.25 000 000 Euro Bilanzsumme.2.50 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.3.Im Jahresdurchschnitt zweihundertfünfzig Arbeitnehmer.(3) Große Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 2 bezeichneten Merkmale überschreiten. Eine Kapitalgesellschaft im Sinn des § 264d gilt stets als große.(4) Die Rechtsfolgen der Merkmale nach den Absätzen 1 bis 3 Satz 1 treten nur ein, wenn sie an den Abschlußstichtagen von zwei aufeinanderfolgenden Geschäftsjahren über- oder unterschritten werden. Im Falle der Umwandlung oder Neugründung treten die Rechtsfolgen schon ein, wenn die Voraussetzungen des Absatzes 1, 2 oder 3 am ersten Abschlußstichtag nach der Umwandlung oder Neugründung vorliegen. Satz 2 findet im Falle des Formwechsels keine Anwendung, sofern der formwechselnde Rechtsträger eine Kapitalgesellschaft oder eine Personenhandelsgesellschaft im Sinne des § 264a Absatz 1 ist.(4a) Die Bilanzsumme setzt sich aus den Posten zusammen, die in den Buchstaben A bis E des § 266 Absatz 2 aufgeführt sind. Ein auf der Aktivseite ausgewiesener Fehlbetrag (§ 268 Absatz 3) wird nicht in die Bilanzsumme einbezogen.(5) Als durchschnittliche Zahl der Arbeitnehmer gilt der vierte Teil der Summe aus den Zahlen der jeweils am 31. März, 30. Juni, 30. September und 31. Dezember beschäftigten Arbeitnehmer einschließlich der im Ausland beschäftigten Arbeitnehmer, jedoch ohne die zu ihrer Berufsausbildung Beschäftigten.(6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen nach anderen Gesetzen bleiben unberührt."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 267a",
+      "official_doknr": "BJNR002190897BJNE100402360",
+      "evidence": "sources/review-p159-p177/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.450 000 Euro Bilanzsumme;2.900 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;3.im Jahresdurchschnitt zehn Arbeitnehmer.§ 267 Absatz 4 bis 6 gilt entsprechend.(2) Die in diesem Gesetz für kleine Kapitalgesellschaften (§ 267 Absatz 1) vorgesehenen besonderen Regelungen gelten für Kleinstkapitalgesellschaften entsprechend, soweit nichts anderes geregelt ist.(3) Keine Kleinstkapitalgesellschaften sind: 1.Investmentgesellschaften im Sinne des § 1 Absatz 11 des Kapitalanlagegesetzbuchs,2.Unternehmensbeteiligungsgesellschaften im Sinne des § 1a Absatz 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften oder3.Unternehmen, deren einziger Zweck darin besteht, Beteiligungen an anderen Unternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, ohne dass sie unmittelbar oder mittelbar in die Verwaltung dieser Unternehmen eingreifen, wobei die Ausübung der ihnen als Aktionär oder Gesellschafter zustehenden Rechte außer Betracht bleibt."
+    },
+    {
+      "act": "hgb",
+      "label": "§ 336",
+      "official_doknr": "BJNR002190897BJNE013209360",
+      "evidence": "sources/review-p159-p177/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Der Jahresabschluß und der Lagebericht sind in den ersten fünf Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Ist die Genossenschaft kapitalmarktorientiert im Sinne des § 264d und begibt sie nicht ausschließlich die von § 327a erfassten Schuldtitel, beträgt die Frist nach Satz 2 vier Monate.(2) Auf den Jahresabschluss und den Lagebericht sind, soweit in diesem Abschnitt nichts anderes bestimmt ist, die folgenden Vorschriften entsprechend anzuwenden: 1.§ 264 Absatz 1 Satz 4 erster Halbsatz und Absatz 1a, 2,2.die §§ 265 bis 289e, mit Ausnahme von § 277 Absatz 3 Satz 1 und § 285 Nummer 17,3.§ 289f Absatz 4 nach Maßgabe des § 9 Absatz 3 und 4 des Genossenschaftsgesetzes.Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt. Genossenschaften, die die Merkmale für Kleinstkapitalgesellschaften nach § 267a Absatz 1 erfüllen (Kleinstgenossenschaften), dürfen auch die Erleichterungen für Kleinstkapitalgesellschaften nach näherer Maßgabe des § 337 Absatz 4 und § 338 Absatz 4 anwenden.(3) § 330 Abs. 1 über den Erlaß von Rechtsverordnungen ist entsprechend anzuwenden."
+    },
+    {
+      "act": "bgb",
+      "label": "§ 126b",
+      "official_doknr": "BJNR001950896BJNE249403360",
+      "evidence": "sources/review-p159-p177/bgb.xml",
+      "source_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57",
+      "text": "Ist durch Gesetz Textform vorgeschrieben, so muss eine lesbare Erklärung, in der die Person des Erklärenden genannt ist, auf einem dauerhaften Datenträger abgegeben werden. Ein dauerhafter Datenträger ist jedes Medium, das 1.es dem Empfänger ermöglicht, eine auf dem Datenträger befindliche, an ihn persönlich gerichtete Erklärung so aufzubewahren oder zu speichern, dass sie ihm während eines für ihren Zweck angemessenen Zeitraums zugänglich ist, und2.geeignet ist, die Erklärung unverändert wiederzugeben."
+    },
+    {
+      "act": "famfg",
+      "label": "§ 388",
+      "official_doknr": "BJNR258700008BJNE039404125",
+      "evidence": "sources/review-p159-p177/famfg.xml",
+      "source_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "text": "(1) Sobald das Registergericht von einem Sachverhalt, der sein Einschreiten nach den §§ 14, 37a Abs. 4 und § 125 Abs. 2 des Handelsgesetzbuchs, auch in Verbindung mit § 707b Nummer 2 des Bürgerlichen Gesetzbuchs, § 5 Absatz 2 des Partnerschaftsgesellschaftsgesetzes oder § 160 Absatz 1 des Genossenschaftsgesetzes, den §§ 407 und 408 des Aktiengesetzes, § 79 Abs. 1 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, § 350 des Umwandlungsgesetzes oder § 12 des EWIV-Ausführungsgesetzes rechtfertigt, glaubhafte Kenntnis erhält, hat es dem Beteiligten unter Androhung eines Zwangsgelds aufzugeben, innerhalb einer bestimmten Frist seiner gesetzlichen Verpflichtung nachzukommen oder die Unterlassung mittels Einspruchs zu rechtfertigen.(2) In gleicher Weise kann das Registergericht gegen die Mitglieder des Vorstands eines Vereins oder dessen Liquidatoren vorgehen, um sie zur Befolgung der in § 78 des Bürgerlichen Gesetzbuchs genannten Vorschriften anzuhalten."
+    },
+    {
+      "act": "famfg",
+      "label": "§ 389",
+      "official_doknr": "BJNR258700008BJNE039500000",
+      "evidence": "sources/review-p159-p177/famfg.xml",
+      "source_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "text": "(1) Wird innerhalb der bestimmten Frist weder der gesetzlichen Verpflichtung genügt noch Einspruch erhoben, ist das angedrohte Zwangsgeld durch Beschluss festzusetzen und zugleich die Aufforderung nach § 388 unter Androhung eines erneuten Zwangsgelds zu wiederholen.(2) Mit der Festsetzung des Zwangsgelds sind dem Beteiligten zugleich die Kosten des Verfahrens aufzuerlegen.(3) In gleicher Weise ist fortzufahren, bis der gesetzlichen Verpflichtung genügt oder Einspruch erhoben wird."
+    },
+    {
+      "act": "famfg",
+      "label": "§ 390",
+      "official_doknr": "BJNR258700008BJNE039600000",
+      "evidence": "sources/review-p159-p177/famfg.xml",
+      "source_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "text": "(1) Wird rechtzeitig Einspruch erhoben, soll das Gericht, wenn sich der Einspruch nicht ohne weiteres als begründet erweist, den Beteiligten zur Erörterung der Sache zu einem Termin laden.(2) Das Gericht kann, auch wenn der Beteiligte zum Termin nicht erscheint, in der Sache entscheiden.(3) Wird der Einspruch für begründet erachtet, ist die getroffene Entscheidung aufzuheben.(4) Andernfalls hat das Gericht den Einspruch durch Beschluss zu verwerfen und das angedrohte Zwangsgeld festzusetzen. Das Gericht kann, wenn die Umstände es rechtfertigen, von der Festsetzung eines Zwangsgelds absehen oder ein geringeres als das angedrohte Zwangsgeld festsetzen.(5) Im Fall der Verwerfung des Einspruchs hat das Gericht zugleich eine erneute Aufforderung nach § 388 zu erlassen. Die in dieser Entscheidung bestimmte Frist beginnt mit dem Eintritt der Rechtskraft der Verwerfung des Einspruchs.(6) Wird im Fall des § 389 gegen die wiederholte Androhung Einspruch erhoben und dieser für begründet erachtet, kann das Gericht, wenn die Umstände es rechtfertigen, zugleich ein früher festgesetztes Zwangsgeld aufheben oder an dessen Stelle ein geringeres Zwangsgeld festsetzen."
+    },
+    {
+      "act": "famfg",
+      "label": "§ 391",
+      "official_doknr": "BJNR258700008BJNE039700000",
+      "evidence": "sources/review-p159-p177/famfg.xml",
+      "source_sha256": "e4b8e0975206c709eb49c6d9b0cfe7efdb735d7443ee3273415cb930e053985f",
+      "text": "(1) Der Beschluss, durch den das Zwangsgeld festgesetzt oder der Einspruch verworfen wird, ist mit der Beschwerde anfechtbar.(2) Ist das Zwangsgeld nach § 389 festgesetzt, kann die Beschwerde nicht darauf gestützt werden, dass die Androhung des Zwangsgelds nicht gerechtfertigt gewesen sei."
+    },
+    {
+      "act": "eghgb",
+      "label": "Art 25",
+      "official_doknr": "BJNR004370897BJNE001707360",
+      "evidence": "sources/review-p159-p177/eghgb.xml",
+      "source_sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
+      "text": "(1) Auf die Prüfung des Jahresabschlusses 1.von Aktiengesellschaften, Gesellschaften mit beschränkter Haftung und Gesellschaften, bei denen kein persönlich haftender Gesellschafter eine natürliche Person ist, wenn die Mehrheit der Anteile und die Mehrheit der Stimmrechte an diesen Gesellschaften Genossenschaften oder zur Prüfung von Genossenschaften zugelassenen Prüfungsverbänden zusteht, oder2.von Unternehmen, die am 31. Dezember 1989 als gemeinnützige Wohnungsunternehmen oder als Organe der staatlichen Wohnungspolitik anerkannt waren und die nicht eingetragene Genossenschaften sind,ist § 319 Abs. 1 des Handelsgesetzbuchs mit der Maßgabe anzuwenden, daß diese Gesellschaften oder Unternehmen sich auch von dem Prüfungsverband prüfen lassen dürfen, dem sie als Mitglied angehören, sofern mehr als die Hälfte der geschäftsführenden Mitglieder des Vorstands dieses Prüfungsverbands Wirtschaftsprüfer sind und dem Prüfungsverband vor dem 29. Mai 2009 das Prüfungsrecht verliehen worden ist. Hat der Prüfungsverband nur zwei Vorstandsmitglieder, so muß einer von ihnen Wirtschaftsprüfer sein. § 319 Absatz 1 Satz 3 des Handelsgesetzbuchs gilt mit der Maßgabe, dass der Prüfungsverband über einen Auszug hinsichtlich seiner Eintragung nach § 40a der Wirtschaftsprüferordnung verfügen muss. § 319 Absatz 2 und 3 des Handelsgesetzbuchs ist auf die gesetzlichen Vertreter des Prüfungsverbandes und auf alle vom Prüfungsverband beschäftigten Personen, die das Ergebnis der Prüfung beeinflussen können, entsprechend anzuwenden; § 319 Abs. 3 Satz 1 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Prüfungsverbandes nicht anzuwenden, wenn sichergestellt ist, dass der Abschlussprüfer die Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan durchführen kann.(2) Bei der Prüfung des Jahresabschlusses der in Absatz 1 bezeichneten Gesellschaften oder Unternehmen durch einen Prüfungsverband darf der gesetzlich vorgeschriebene Bestätigungsvermerk nur von Wirtschaftsprüfern unterzeichnet werden. Die im Prüfungsverband tätigen Wirtschaftsprüfer haben ihre Prüfungstätigkeit unabhängig, gewissenhaft, verschwiegen und eigenverantwortlich auszuüben. Sie haben sich insbesondere bei der Erstattung von Prüfungsberichten unparteiisch zu verhalten. Weisungen dürfen ihnen hinsichtlich ihrer Prüfungstätigkeit von Personen, die nicht Wirtschaftsprüfer sind, nicht erteilt werden. Die Zahl der im Verband tätigen Wirtschaftsprüfer muß so bemessen sein, daß die den Bestätigungsvermerk unterschreibenden Wirtschaftsprüfer die Prüfung verantwortlich durchführen können.(3) Ist ein am 31. Dezember 1989 als gemeinnütziges Wohnungsunternehmen oder als Organ der staatlichen Wohnungspolitik anerkanntes Unternehmen als Aktiengesellschaft, Kommanditgesellschaft auf Aktien oder als Gesellschaft mit beschränkter Haftung zur Aufstellung eines Konzernabschlusses und eines Konzernlageberichts nach dem Zweiten Unterabschnitt des Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs verpflichtet, so ist der Prüfungsverband, dem das Unternehmen angehört, auch Abschlußprüfer des Konzernabschlusses."
+    },
+    {
+      "act": "eghgb",
+      "label": "Art 93",
+      "official_doknr": "BJNR004370897BJNE008600360",
+      "evidence": "sources/review-p159-p177/eghgb.xml",
+      "source_sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
+      "text": "(1) § 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden Fassung sind erstmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das nach dem 31. Dezember 2023 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 genannten Vorschriften in der bis einschließlich 16. April 2024 geltenden Fassung sind letztmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das vor dem 1. Januar 2024 beginnende Geschäftsjahr anzuwenden.(2) § 267 Absatz 1 und 2, § 267a Absatz 1 und § 293 Absatz 1 Satz 1 des Handelsgesetzbuchs in der jeweils ab dem 17. April 2024 geltenden Fassung dürfen bereits auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das nach dem 31. Dezember 2022 beginnende Geschäftsjahr angewendet werden, jedoch nur insgesamt. Wird von dieser Möglichkeit Gebrauch gemacht, sind die in Satz 1 genannten Vorschriften in der bis einschließlich 16. April 2024 geltenden Fassung letztmals auf Jahres- und Konzernabschlüsse, Lageberichte sowie Konzernlageberichte für das vor dem 1. Januar 2023 beginnende Geschäftsjahr anzuwenden."
+    }
+  ],
+  "read_but_not_cited_candidate_checks": [],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 19 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

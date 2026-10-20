@@ -1,0 +1,1 @@
+2026-10-20: firecrawl search, query: site:rechtsprechung-im-internet.de "GenG" "160" Zwangsgeld; --limit 5 --json. CLI exited 0, stdout: No results found. CLI created no JSON file. No result is not evidence of absence of relevant decisions.

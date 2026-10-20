@@ -1647,5 +1647,40 @@
       "site:rechtsprechung-im-internet.de \"GenG\" \"Haftsumme\"",
       "site:bundesgerichtshof.de \"GenG\" \"147\""
     ]
+  },
+  "bounded_review_p159_p177": {
+    "reviewed_at": "2026-10-20T09:34:00.656330+00:00",
+    "reviewed_ids": [
+      "p159",
+      "p160",
+      "p161",
+      "p162",
+      "p163",
+      "p164",
+      "p165",
+      "p166",
+      "p167",
+      "p168",
+      "p169",
+      "p170",
+      "p171",
+      "p172",
+      "p173",
+      "p174",
+      "p175",
+      "p176",
+      "p177"
+    ],
+    "local_search_log": "review-p159-p177/local-case-search.json",
+    "corpus_xml_count": 84424,
+    "online_discovery": [
+      "research/review-p159-p177-official-cases-no-results.txt",
+      "research/review-p159-p177-bgh-cases.json"
+    ],
+    "method": "Initial broad literal hits were read in context: other statutes and substring entgegengestanden, not the assigned GenG provisions. A refined search found no direct assigned GenG citation; reversed-order list hits concerned adjacent InsO provisions. Intersection of Zwangsgeld files with Genossenschaft returned none. BGH website search returned legislative materials, not decisions. No candidate was advanced as legal authority.",
+    "used_case_ids": [],
+    "full_text_cases_read": [],
+    "reason_no_new_case": "No sufficiently relevant verified case found in this selective search; technical and repealed units receive no invented authority.",
+    "limits": "Selektive Recherche im lokalen amtlichen Korpus und zwei amtlich eingegrenzte Firecrawl-Entdeckungssuchen. Keine für diese Einheiten hinreichend spezifisch verifizierte Entscheidung neu zitiert; keine erschöpfende Abdeckung oder Nichtexistenz weiterer Rechtsprechung behauptet."
   }
 }

@@ -1,0 +1,100 @@
+{
+  "searched_at": "2026-10-20T09:28:16.497358+00:00",
+  "corpus": "/Volumes/LaCie/law-intake/eu/de/rii/_raw",
+  "xml_files": 84424,
+  "searches": [
+    {
+      "pattern": "(?:§|§§|Paragraf|Paragrafen)\\s*(?:160|162|166|167|168|169|170|171|172|173|174|175|176|177)\\b.{0,55}GenG",
+      "returncode": 0,
+      "files": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre410016952.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre410016855.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore303762020.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore605062011.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201150600.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201310228.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201410282.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201610030.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201650059.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201650462.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201710302.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre202010114.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre202650036.xml"
+      ],
+      "stderr": ""
+    },
+    {
+      "pattern": "GenG.{0,55}(?:§|§§)\\s*(?:160|162|166|167|168|169|170|171|172|173|174|175|176|177)\\b",
+      "returncode": 0,
+      "files": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110007611.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110011168.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure160015756.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300582011.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore304022021.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre127431618.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre201610231.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre202010237.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-stre202610176.xml"
+      ],
+      "stderr": ""
+    },
+    {
+      "pattern": "Zwangsgeld.{0,80}Genossenschaft",
+      "returncode": 1,
+      "files": [],
+      "stderr": ""
+    },
+    {
+      "pattern": "Genossenschaft.{0,80}Zwangsgeld",
+      "returncode": 1,
+      "files": [],
+      "stderr": ""
+    }
+  ],
+  "limits": "Selective literal context search, not exhaustive case-law coverage; matches require reading before use.",
+  "initial_search_disposition": "Context reading: every initial hit concerned another statute or the substring entgegengestanden; none supports assigned GenG units. Refined below using word boundaries.",
+  "refined_searches": [
+    {
+      "pattern": "(?:§|§§)\\s*(?:160|162|166|167|168|169|170|171|172|173|174|175|176|177)\\b(?:(?!§).){0,70}\\bGenG\\b",
+      "returncode": 2,
+      "files": [],
+      "stderr": "rg: regex parse error:\n    (?:(?:§|§§)\\s*(?:160|162|166|167|168|169|170|171|172|173|174|175|176|177)\\b(?:(?!§).){0,70}\\bGenG\\b)\n                                                                                  ^^^\nerror: look-around, including look-ahead and look-behind, is not supported\n\nConsider enabling PCRE2 with the --pcre2 flag, which can handle backreferences\nand look-around.\n"
+    },
+    {
+      "pattern": "\\bGenG\\b.{0,60}(?:§|§§)\\s*(?:160|162|166|167|168|169|170|171|172|173|174|175|176|177)\\b",
+      "returncode": 0,
+      "files": [
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110007611.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure110011168.xml",
+        "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300582011.xml"
+      ],
+      "stderr": ""
+    },
+    {
+      "pattern": "Zwangsgeld.{0,120}Genossenschaft",
+      "returncode": 1,
+      "files": [],
+      "stderr": ""
+    },
+    {
+      "pattern": "Genossenschaft.{0,120}Zwangsgeld",
+      "returncode": 1,
+      "files": [],
+      "stderr": ""
+    },
+    {
+      "pattern": "(?:§|§§)\\s*(?:160|162|166|167|168|169|170|171|172|173|174|175|176|177)\\b[^§]{0,70}\\bGenG\\b",
+      "returncode": 1,
+      "files": [],
+      "stderr": ""
+    }
+  ],
+  "intersection_search": {
+    "first_term": "Zwangsgeld",
+    "second_term": "Genossenschaft",
+    "first_term_file_count": 344,
+    "files": [],
+    "returncode": 0
+  }
+}

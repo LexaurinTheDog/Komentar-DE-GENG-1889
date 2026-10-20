@@ -801,5 +801,79 @@
       "nonassigned_commentary_changes": [],
       "does_not_certify_legal_quality": true
     }
+  },
+  "last_rechecked_at": "2026-10-20T09:34:00.656330+00:00",
+  "latest_bounded_review": "bounded_review_p159_p177_recheck",
+  "bounded_review_p159_p177_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T09:34:00.656330+00:00",
+    "scope": [
+      "p159",
+      "p160",
+      "p161",
+      "p162",
+      "p163",
+      "p164",
+      "p165",
+      "p166",
+      "p167",
+      "p168",
+      "p169",
+      "p170",
+      "p171",
+      "p172",
+      "p173",
+      "p174",
+      "p175",
+      "p176",
+      "p177"
+    ],
+    "raw_fetches": "sources/review-p159-p177/fetches.json",
+    "supplemental_fetches": "sources/review-p159-p177/supplemental-fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "BEG IV, ausgegeben 29.10.2024: Art. 22 S. 13–14 einschließlich Nr. 16 (§ 177) und Art. 74 Abs. 1–13 S. 34–35 gelesen. Art. 22 fällt unter allgemeine Quartalsregel.",
+      "source": "sources/review-p159-p177/beg4.pdf",
+      "since_intake": "XML bytegleich zur Erstausarbeitung, Index und Gesamtausgabe ebenfalls unverändert; erhaltene Intake-Kopie/Änderungskarte und Rohinventar unabhängig kontrolliert.",
+      "section176": "BGBl. 2024 I Nr. 120, ausgegeben 16.4.2024, Art. 2 Nr. 2 S. 2, Art. 3/4 S. 3 und Art. 5 S. 4 gelesen. HGB-Fassung seit 17.4.2024, besonderer GenG-Prüfungszugang nach Geschäftsjahresende frühestens 31.12.2024; allgemeine EGHGB-Voranwendung nicht auf diesen Zugang übertragen.",
+      "external_HGB": "BGBl. 2026 I Nr. 33 Art. 3/4 S. 4–5, Art. 59 S. 62 und Art. 64 S. 64–65 gezielt gelesen; unterschiedliche Wirksamkeitsdaten, Art. 4 erst 10.1.2030. Hier verwendete §§ 53, 267, 267a, 336 unberührt.",
+      "external_FamFG": "BGBl. 2026 I Nr. 192 Art. 4 S. 6–7, Art. 20 S. 13–14: Änderung §§ 41a, 46, 113 ab 1.10.2026. BGBl. 2026 I Nr. 198 Art. 4 S. 5–8 und Art. 10 S. 10: nur Nr. 8 bereits ab 10.7.2026, übrige Änderungen ab 1.7.2027. Die hier gelesenen §§ 388–391 bleiben durch beide Novellen unberührt.",
+      "external_BGB": "BGBl. 2026 I Nr. 226 Art. 6 S. 51–52 und Art. 9 S. 58–59: Mietrechtsänderungen ab 29.7.2026, kein Eingriff in den hier erläuterten § 126b. Keine pauschale Gegenwartsübernahme aller BGB-XML-Inhalte.",
+      "external_EGHGB": "Art. 25 und 93 im frischen HGBEG-XML gelesen. BEG IV Art. 2 S. 4 ändert Art. 95, nicht diese Ziele. Keine historische Neufassung beider Vorschriften behauptet.",
+      "external_evidence": [
+        "sources/review-p159-p177/dwd2024.pdf",
+        "sources/review-p159-p177/hgb2026.pdf",
+        "sources/review-p159-p177/famfg192.pdf",
+        "sources/review-p159-p177/famfg198.pdf",
+        "sources/review-p159-p177/bgb226.pdf"
+      ]
+    },
+    "historical_versions_checked": {
+      "fresh_equals_canonical": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "inventory": "coverage-check.json",
+      "selection": "Single current consolidated GenG XML, all raw nodes inventoried; no historical versions concatenated, all repeal and empty slots preserved. Original intake unchanged."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "Alle 211 Rohknoten, Inhaltsübersicht und Gesamtausgabe geprüft: keine operative Anlage oder Eingangsformel, keine neue Auslassung zu reparieren. § 110 Anlage der Vorschüsse betrifft Geldanlage."
+    },
+    "unresolved_blockers": []
   }
 }
