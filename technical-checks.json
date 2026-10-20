@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-10-20T09:25:41.505049+00:00",
+  "checked_at": "2026-10-20T09:36:21.221118+00:00",
   "units": 199,
   "commented_units": 199,
   "individual_slots": 252,
-  "commentary_chars": 289560,
+  "commentary_chars": 295360,
   "missing_commentary": [],
   "unknown_commentary": [],
   "duplicate_commentary_ids": [],
   "repeated_paragraphs_180plus_chars": [],
   "xml_vs_independent_official_html_mismatches": [],
-  "local_links_checked": 309,
+  "local_links_checked": 334,
   "broken_local_links": [],
   "completeness_ok": true,
   "limitations": [

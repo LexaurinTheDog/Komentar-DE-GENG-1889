@@ -874,6 +874,26 @@
       "unclassified_nodes": [],
       "disposition": "Alle 211 Rohknoten, Inhaltsübersicht und Gesamtausgabe geprüft: keine operative Anlage oder Eingangsformel, keine neue Auslassung zu reparieren. § 110 Anlage der Vorschüsse betrifft Geldanlage."
     },
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "strict": {
+        "repo": "Komentar-DE-GENG-1889",
+        "units": 199,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 295360,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "technical_report": "technical-checks.json",
+      "completeness_report": "coverage-check.json",
+      "raw_wording_and_preservation_report": "review-technical-p159-p177.json",
+      "all_assigned_units_wording_agrees": true,
+      "local_links_checked": 334,
+      "broken_links": [],
+      "repeated_long_paragraphs": 0,
+      "nonassigned_commentary_changes": [],
+      "does_not_certify_legal_quality": true
+    }
   }
 }
