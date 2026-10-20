@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T09:24:01.907812+00:00",
+  "checked_at": "2026-10-20T09:25:41.011523+00:00",
   "scope": [
     "p117",
     "p118",
@@ -44,10 +44,10 @@
       "official_label": "§ 118",
       "label_agrees": true,
       "statutory_text_agrees": true,
-      "commentary_chars": 2765,
+      "commentary_chars": 2790,
       "changed": true,
       "original_commentary_sha256": "ae563b4a70c1a8ea72a85cf6442f0217311efd53f3a6d65af9b61f9fbce461a4",
-      "reviewed_commentary_sha256": "173e8e70ba232ea639b7fd4a29d890cc20f4d8bc059792f649e6aef4d9740ede"
+      "reviewed_commentary_sha256": "c3fad7fbb3adc529edd6a9058e01f55e1972508242b386267c2cddf424455829"
     },
     {
       "id": "p119",
