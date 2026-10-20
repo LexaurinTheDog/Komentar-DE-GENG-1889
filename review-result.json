@@ -295,5 +295,26 @@
     "Externe HGB-/InsO-Verweisziele gezielt, einschließlich jüngster dokumentierter Änderungen und Wirksamkeitsregeln geprüft; keine vollständige historische Rekonstruktion beider Gesetze.",
     "Mindestlänge, Wortlautübereinstimmung und Wiederholungsdiagnostik beweisen keine juristische Qualität."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 266462,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "technical_report": "technical-checks.json",
+    "completeness_report": "coverage-check.json",
+    "raw_wording_and_preservation_report": "review-technical-p87-p102.json",
+    "all_assigned_units_wording_agrees": true,
+    "local_links_checked": 246,
+    "broken_links": [],
+    "repeated_long_paragraphs": 0,
+    "nonassigned_commentary_changes": [],
+    "does_not_certify_legal_quality": true
+  },
+  "completed_at": "2026-10-20T09:04:16.764466+00:00"
 }
