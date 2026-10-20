@@ -1552,5 +1552,47 @@
       "Für die technischen/Nichtigkeits-/Wegfalleinheiten keine zusätzlich ausreichend spezifische amtliche Entscheidung als Beleg eingesetzt. Der weitere lokale Treffer wurde nur als Kandidat gesichtet und nicht zur aktuellen Autorität erklärt.",
       "C-776/25 bleibt auf den dokumentierten amtlichen Statusabruf vom 19. Oktober 2026 bezogen; kein neuer Folgestatus und keine abschließende Antwort behauptet."
     ]
+  },
+  "bounded_review_p103_p116": {
+    "reviewed_at": "2026-10-20T09:12:19.607311+00:00",
+    "reviewed_ids": [
+      "p103-104",
+      "p105",
+      "p106",
+      "p107",
+      "p108",
+      "p108a",
+      "p109",
+      "p110",
+      "p111",
+      "p112",
+      "p112a",
+      "p113",
+      "p114",
+      "p115",
+      "p115a",
+      "p115b",
+      "p115c",
+      "p115d",
+      "p115e",
+      "p116"
+    ],
+    "local_search_log": "review-p103-p116/local-case-search.json",
+    "online_discovery": [
+      "research/review-p103-p116-search.json",
+      "research/review-p103-p116-bgh-search.json"
+    ],
+    "queries": [
+      "site.rechtsprechung-im-internet.de GenG Nachschussberechnung Insolvenzverwalter",
+      "site.bundesgerichtshof.de \"Genossenschaft\" \"Nachschüsse\" \"Insolvenzverwalter\""
+    ],
+    "method": "Lokale XML-Volltextsuche und ergänzende Firecrawl-Entdeckungssuche. Fundstellen kein Ersatz für Volltext. II ZB 12/10 frisch amtlich als ZIP/XML abgerufen und vollständig Rn. 1–27 gelesen; verwendete Aussage Rn. 21.",
+    "used_case_ids": [
+      "KORE313782011"
+    ],
+    "limits": [
+      "Selektive Volltextsuche im lokalen amtlichen Korpus und zwei ergänzende Online-Entdeckungssuchen. Nur II ZB 12/10 als neuer, vollständig gelesener amtlicher Volltext für den engen Zweck eingesetzt. Keine erschöpfende Rechtsprechungsabdeckung und kein spezifischer Fall für jede technische Einheit behauptet.",
+      "Andere Treffer wurden nur zur Kandidatenauswahl betrachtet; insbesondere markenrechtliche und BetrAVG-Treffer sind keine GenG-Nachschussautoritäten. Keine Aussage, es existiere keine weitere einschlägige Rechtsprechung."
+    ]
   }
 }

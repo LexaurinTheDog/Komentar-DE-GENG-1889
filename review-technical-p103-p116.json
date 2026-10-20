@@ -1,0 +1,465 @@
+{
+  "checked_at": "2026-10-20T09:10:41.762635+00:00",
+  "scope": [
+    "p103-104",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p108a",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p112a",
+    "p113",
+    "p114",
+    "p115",
+    "p115a",
+    "p115b",
+    "p115c",
+    "p115d",
+    "p115e",
+    "p116"
+  ],
+  "base_work_commit": "9b86765c43b7db106e31611b88af32b8c9b25d3b",
+  "raw_evidence": "sources/review-p103-p116/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p103-104",
+      "official_doknr": "BJNR000550889BJNE016703377",
+      "official_label": "(XXXX) §§ 103 und 104",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 438,
+      "changed": false,
+      "original_commentary_sha256": "f5761b5e687297c52409243769eccb1465fe8e0a52122a18cc19278bda134798",
+      "reviewed_commentary_sha256": "f5761b5e687297c52409243769eccb1465fe8e0a52122a18cc19278bda134798"
+    },
+    {
+      "id": "p105",
+      "official_doknr": "BJNR000550889BJNE016904377",
+      "official_label": "§ 105",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2235,
+      "changed": true,
+      "original_commentary_sha256": "e67343768471b05019e96db8369dcf2430acecf92b8474325b95997a284bb734",
+      "reviewed_commentary_sha256": "20838543d31e73445b22c1f2a785c0758066373898c23a655c4dd848614eb30d"
+    },
+    {
+      "id": "p106",
+      "official_doknr": "BJNR000550889BJNE017005377",
+      "official_label": "§ 106",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2110,
+      "changed": true,
+      "original_commentary_sha256": "b945640454b523d585ad75f46564dd7b7bea1277747776527f993297b367de09",
+      "reviewed_commentary_sha256": "6d0ef3b5f072c73c234ee34cc5554462751be08dc338d1b6d71bd3c7a93a4bf1"
+    },
+    {
+      "id": "p107",
+      "official_doknr": "BJNR000550889BJNE017103377",
+      "official_label": "§ 107",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 988,
+      "changed": false,
+      "original_commentary_sha256": "a3e07d34a9c797dca02b7b2517cc2abf69362120183d6037786683f777e0674d",
+      "reviewed_commentary_sha256": "a3e07d34a9c797dca02b7b2517cc2abf69362120183d6037786683f777e0674d"
+    },
+    {
+      "id": "p108",
+      "official_doknr": "BJNR000550889BJNE017204377",
+      "official_label": "§ 108",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1799,
+      "changed": true,
+      "original_commentary_sha256": "55ef543760dc9969339e42898026d56543423e0dad15489d3f0aedc6d53f6198",
+      "reviewed_commentary_sha256": "0ba77a8d4935a43042ece0d08028a79d8c14254e14b8ff720a2af395c669a946"
+    },
+    {
+      "id": "p108a",
+      "official_doknr": "BJNR000550889BJNE017304377",
+      "official_label": "§ 108a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2239,
+      "changed": true,
+      "original_commentary_sha256": "d0666d0e9ff5f21fc4bc2060d1a8bcd3bdf363f978a37d9da63022050833c325",
+      "reviewed_commentary_sha256": "16e771cc6c26e64af4a3a7c068ada3ca27a42f78677ddb021cac7bfc336f16e0"
+    },
+    {
+      "id": "p109",
+      "official_doknr": "BJNR000550889BJNE017404377",
+      "official_label": "§ 109",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1911,
+      "changed": true,
+      "original_commentary_sha256": "324797e9b6892ce184d0ff27215dbeaec15ef23e79f8974592fa5278568c2904",
+      "reviewed_commentary_sha256": "3d0b973183cdc49e34db62da74812b83e6a36d28a39ce9be977517d6359713d9"
+    },
+    {
+      "id": "p110",
+      "official_doknr": "BJNR000550889BJNE017504377",
+      "official_label": "§ 110",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1664,
+      "changed": true,
+      "original_commentary_sha256": "61da125d561dc20629c9cd6578698e9e5cbbbacfd105405cc494cf82bbbcd12a",
+      "reviewed_commentary_sha256": "82323581f95e61fef29159d3ea004a700803b77391c460167c103d3c57fb948c"
+    },
+    {
+      "id": "p111",
+      "official_doknr": "BJNR000550889BJNE017604377",
+      "official_label": "§ 111",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1130,
+      "changed": true,
+      "original_commentary_sha256": "c099709ed67610d2e599e32eaae8e3d3d75c7651c405fffadc30f2bf921a1e0a",
+      "reviewed_commentary_sha256": "37b4a48cb8134acf84abb60652df63fdefc1607360795d9d228723205c2b5c92"
+    },
+    {
+      "id": "p112",
+      "official_doknr": "BJNR000550889BJNE017703377",
+      "official_label": "§ 112",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2128,
+      "changed": true,
+      "original_commentary_sha256": "d41214d0e25f01f4a84fd4b88da7a623032e586beac8f3ee0c999bb9186b59ec",
+      "reviewed_commentary_sha256": "ef217cf367e6fda04193e2127750a8fd2bb3c601f848cac97009b1cfe11c8a57"
+    },
+    {
+      "id": "p112a",
+      "official_doknr": "BJNR000550889BJNE017804377",
+      "official_label": "§ 112a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1865,
+      "changed": true,
+      "original_commentary_sha256": "967db7142a2d9c4a123a5a2227658a2331e1ffd902754c88cd46e284a444a872",
+      "reviewed_commentary_sha256": "6b30dc539ec8d8ed94c22ad7a7c313bcc3d7baae4b14931157b405669a819903"
+    },
+    {
+      "id": "p113",
+      "official_doknr": "BJNR000550889BJNE017904377",
+      "official_label": "§ 113",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1070,
+      "changed": false,
+      "original_commentary_sha256": "2da4aaace8957a14746d54dce9a10ec4d40f25323673dbf1ef176f5ac2eed5d4",
+      "reviewed_commentary_sha256": "2da4aaace8957a14746d54dce9a10ec4d40f25323673dbf1ef176f5ac2eed5d4"
+    },
+    {
+      "id": "p114",
+      "official_doknr": "BJNR000550889BJNE018004377",
+      "official_label": "§ 114",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2062,
+      "changed": true,
+      "original_commentary_sha256": "2e875b046b18fb5653b9618dffcc9e0710a50bb7f80e21beaf8f27da7f0478a1",
+      "reviewed_commentary_sha256": "ad94a05ffdd75d945eda6d4cbb25bc1f9cda58deb4f8f531f3d87a337c838170"
+    },
+    {
+      "id": "p115",
+      "official_doknr": "BJNR000550889BJNE018104377",
+      "official_label": "§ 115",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2148,
+      "changed": true,
+      "original_commentary_sha256": "7b263d447d48e508eecf6547a4f28c00cfe605ee0ba022ccc0d00eb7431d17a1",
+      "reviewed_commentary_sha256": "ace4fbab67a397aea3f9567e0f1e6dee0c48540add81d675b1a4b4c01c05fed6"
+    },
+    {
+      "id": "p115a",
+      "official_doknr": "BJNR000550889BJNE018204377",
+      "official_label": "§ 115a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1028,
+      "changed": false,
+      "original_commentary_sha256": "a76a11db41f16a5374ec5b785ea8da9e5761fc6f695d946f2de6733f9618f3a5",
+      "reviewed_commentary_sha256": "a76a11db41f16a5374ec5b785ea8da9e5761fc6f695d946f2de6733f9618f3a5"
+    },
+    {
+      "id": "p115b",
+      "official_doknr": "BJNR000550889BJNE018305377",
+      "official_label": "§ 115b",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1072,
+      "changed": false,
+      "original_commentary_sha256": "4120f3be8f363b5a0307a82bf09aa82ddaadda088db8b064e0d413b1573c36a9",
+      "reviewed_commentary_sha256": "4120f3be8f363b5a0307a82bf09aa82ddaadda088db8b064e0d413b1573c36a9"
+    },
+    {
+      "id": "p115c",
+      "official_doknr": "BJNR000550889BJNE018404377",
+      "official_label": "§ 115c",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2015,
+      "changed": true,
+      "original_commentary_sha256": "135bb1fa5d12e8c9def022eca3f94ab15652795046a7b4ec73b24922bc5bce3d",
+      "reviewed_commentary_sha256": "180a7c92ba9eb796118237ca920829d80e8c2e86636a42361c1a32b05dbbcb39"
+    },
+    {
+      "id": "p115d",
+      "official_doknr": "BJNR000550889BJNE018504377",
+      "official_label": "§ 115d",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1046,
+      "changed": false,
+      "original_commentary_sha256": "47d2c9f3e5b41034c3608ac29d97f65dbb1b11890eef4a06ffa480af2ee3bce1",
+      "reviewed_commentary_sha256": "47d2c9f3e5b41034c3608ac29d97f65dbb1b11890eef4a06ffa480af2ee3bce1"
+    },
+    {
+      "id": "p115e",
+      "official_doknr": "BJNR000550889BJNE018604377",
+      "official_label": "§ 115e",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1794,
+      "changed": true,
+      "original_commentary_sha256": "431e9b3626cf69dd92359c30ea282ac86a2950b96e587fcec9d54ee1a349f711",
+      "reviewed_commentary_sha256": "9a829b4232fa57e6251f97ddde24dbcf130e95cfc42105b5433151d0816b3dc0"
+    },
+    {
+      "id": "p116",
+      "official_doknr": "BJNR000550889BJNE018704377",
+      "official_label": "§ 116",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2659,
+      "changed": true,
+      "original_commentary_sha256": "fc4916589a95d00b3d13c58c33580b081c9b40b3a206f7da4c96c0efc7efa38f",
+      "reviewed_commentary_sha256": "f0f0545eac4721832ee2fec4b56c85ad7643185380a9e526f66e030f791c56a2"
+    }
+  ],
+  "changed_ids": [
+    "p105",
+    "p106",
+    "p108",
+    "p108a",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p112a",
+    "p114",
+    "p115",
+    "p115c",
+    "p115e",
+    "p116"
+  ],
+  "nonassigned_commentaries_preserved": 179,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [],
+  "annex_check_method": "Inventory of all raw nodes and anchored official labels; § 110 title Anlage der Vorschüsse describes investment, not an annex.",
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "inso",
+      "label": "§ 149",
+      "official_doknr": "BJNR286600994BJNE015701301",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Der Gläubigerausschuß kann bestimmen, bei welcher Stelle und zu welchen Bedingungen Geld, Wertpapiere und Kostbarkeiten hinterlegt oder angelegt werden sollen. Ist kein Gläubigerausschuß bestellt oder hat der Gläubigerausschuß noch keinen Beschluß gefaßt, so kann das Insolvenzgericht entsprechendes anordnen.(2) Die Gläubigerversammlung kann abweichende Regelungen beschließen."
+    },
+    {
+      "act": "inso",
+      "label": "§ 153",
+      "official_doknr": "BJNR286600994BJNE016100000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Der Insolvenzverwalter hat auf den Zeitpunkt der Eröffnung des Insolvenzverfahrens eine geordnete Übersicht aufzustellen, in der die Gegenstände der Insolvenzmasse und die Verbindlichkeiten des Schuldners aufgeführt und einander gegenübergestellt werden. Für die Bewertung der Gegenstände gilt § 151 Abs. 2 entsprechend, für die Gliederung der Verbindlichkeiten § 152 Abs. 2 Satz 1.(2) Nach der Aufstellung der Vermögensübersicht kann das Insolvenzgericht auf Antrag des Verwalters oder eines Gläubigers dem Schuldner aufgeben, die Vollständigkeit der Vermögensübersicht eidesstattlich zu versichern. Die §§ 98, 101 Abs. 1 Satz 1, 2 gelten entsprechend."
+    },
+    {
+      "act": "inso",
+      "label": "§ 187",
+      "official_doknr": "BJNR286600994BJNE019900000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Mit der Befriedigung der Insolvenzgläubiger kann erst nach dem allgemeinen Prüfungstermin begonnen werden.(2) Verteilungen an die Insolvenzgläubiger können stattfinden, sooft hinreichende Barmittel in der Insolvenzmasse vorhanden sind. Nachrangige Insolvenzgläubiger sollen bei Abschlagsverteilungen nicht berücksichtigt werden.(3) Die Verteilungen werden vom Insolvenzverwalter vorgenommen. Vor jeder Verteilung hat er die Zustimmung des Gläubigerausschusses einzuholen, wenn ein solcher bestellt ist."
+    },
+    {
+      "act": "inso",
+      "label": "§ 188",
+      "official_doknr": "BJNR286600994BJNE020001301",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "Vor einer Verteilung hat der Insolvenzverwalter ein Verzeichnis der Forderungen aufzustellen, die bei der Verteilung zu berücksichtigen sind. Das Verzeichnis ist auf der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen. Der Verwalter zeigt dem Gericht die Summe der Forderungen und den für die Verteilung verfügbaren Betrag aus der Insolvenzmasse an; das Gericht hat die angezeigte Summe der Forderungen und den für die Verteilung verfügbaren Betrag öffentlich bekannt zu machen."
+    },
+    {
+      "act": "inso",
+      "label": "§ 189",
+      "official_doknr": "BJNR286600994BJNE020100000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Ein Insolvenzgläubiger, dessen Forderung nicht festgestellt ist und für dessen Forderung ein vollstreckbarer Titel oder ein Endurteil nicht vorliegt, hat spätestens innerhalb einer Ausschlußfrist von zwei Wochen nach der öffentlichen Bekanntmachung dem Insolvenzverwalter nachzuweisen, daß und für welchen Betrag die Feststellungsklage erhoben oder das Verfahren in dem früher anhängigen Rechtsstreit aufgenommen ist.(2) Wird der Nachweis rechtzeitig geführt, so wird der auf die Forderung entfallende Anteil bei der Verteilung zurückbehalten, solange der Rechtsstreit anhängig ist.(3) Wird der Nachweis nicht rechtzeitig geführt, so wird die Forderung bei der Verteilung nicht berücksichtigt."
+    },
+    {
+      "act": "inso",
+      "label": "§ 190",
+      "official_doknr": "BJNR286600994BJNE020200000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Ein Gläubiger, der zur abgesonderten Befriedigung berechtigt ist, hat spätestens innerhalb der in § 189 Abs. 1 vorgesehenen Ausschlußfrist dem Insolvenzverwalter nachzuweisen, daß und für welchen Betrag er auf abgesonderte Befriedigung verzichtet hat oder bei ihr ausgefallen ist. Wird der Nachweis nicht rechtzeitig geführt, so wird die Forderung bei der Verteilung nicht berücksichtigt.(2) Zur Berücksichtigung bei einer Abschlagsverteilung genügt es, wenn der Gläubiger spätestens innerhalb der Ausschlußfrist dem Verwalter nachweist, daß die Verwertung des Gegenstands betrieben wird, an dem das Absonderungsrecht besteht, und den Betrag des mutmaßlichen Ausfalls glaubhaft macht. In diesem Fall wird der auf die Forderung entfallende Anteil bei der Verteilung zurückbehalten. Sind die Voraussetzungen des Absatzes 1 bei der Schlußverteilung nicht erfüllt, so wird der zurückbehaltene Anteil für die Schlußverteilung frei.(3) Ist nur der Verwalter zur Verwertung des Gegenstands berechtigt, an dem das Absonderungsrecht besteht, so sind die Absätze 1 und 2 nicht anzuwenden. Bei einer Abschlagsverteilung hat der Verwalter, wenn er den Gegenstand noch nicht verwertet hat, den Ausfall des Gläubigers zu schätzen und den auf die Forderung entfallenden Anteil zurückzubehalten."
+    },
+    {
+      "act": "inso",
+      "label": "§ 191",
+      "official_doknr": "BJNR286600994BJNE020300000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Eine aufschiebend bedingte Forderung wird bei einer Abschlagsverteilung mit ihrem vollen Betrag berücksichtigt. Der auf die Forderung entfallende Anteil wird bei der Verteilung zurückbehalten.(2) Bei der Schlußverteilung wird eine aufschiebend bedingte Forderung nicht berücksichtigt, wenn die Möglichkeit des Eintritts der Bedingung so fernliegt, daß die Forderung zur Zeit der Verteilung keinen Vermögenswert hat. In diesem Fall wird ein gemäß Absatz 1 Satz 2 zurückbehaltener Anteil für die Schlußverteilung frei."
+    },
+    {
+      "act": "inso",
+      "label": "§ 192",
+      "official_doknr": "BJNR286600994BJNE020400000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "Gläubiger, die bei einer Abschlagsverteilung nicht berücksichtigt worden sind und die Voraussetzungen der §§ 189, 190 nachträglich erfüllen, erhalten bei der folgenden Verteilung aus der restlichen Insolvenzmasse vorab einen Betrag, der sie mit den übrigen Gläubigern gleichstellt."
+    },
+    {
+      "act": "inso",
+      "label": "§ 193",
+      "official_doknr": "BJNR286600994BJNE020500000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "Der Insolvenzverwalter hat die Änderungen des Verzeichnisses, die auf Grund der §§ 189 bis 192 erforderlich werden, binnen drei Tagen nach Ablauf der in § 189 Abs. 1 vorgesehenen Ausschlußfrist vorzunehmen."
+    },
+    {
+      "act": "inso",
+      "label": "§ 194",
+      "official_doknr": "BJNR286600994BJNE020600000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Bei einer Abschlagsverteilung sind Einwendungen eines Gläubigers gegen das Verzeichnis bis zum Ablauf einer Woche nach dem Ende der in § 189 Abs. 1 vorgesehenen Ausschlußfrist bei dem Insolvenzgericht zu erheben.(2) Eine Entscheidung des Gerichts, durch die Einwendungen zurückgewiesen werden, ist dem Gläubiger und dem Insolvenzverwalter zuzustellen. Dem Gläubiger steht gegen den Beschluß die sofortige Beschwerde zu.(3) Eine Entscheidung des Gerichts, durch die eine Berichtigung des Verzeichnisses angeordnet wird, ist dem Gläubiger und dem Verwalter zuzustellen und in der Geschäftsstelle zur Einsicht der Beteiligten niederzulegen. Dem Verwalter und den Insolvenzgläubigern steht gegen den Beschluß die sofortige Beschwerde zu. Die Beschwerdefrist beginnt mit dem Tag, an dem die Entscheidung niedergelegt worden ist."
+    },
+    {
+      "act": "inso",
+      "label": "§ 195",
+      "official_doknr": "BJNR286600994BJNE020700000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Für eine Abschlagsverteilung bestimmt der Gläubigerausschuß auf Vorschlag des Insolvenzverwalters den zu zahlenden Bruchteil. Ist kein Gläubigerausschuß bestellt, so bestimmt der Verwalter den Bruchteil.(2) Der Verwalter hat den Bruchteil den berücksichtigten Gläubigern mitzuteilen."
+    },
+    {
+      "act": "inso",
+      "label": "§ 196",
+      "official_doknr": "BJNR286600994BJNE020801301",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Die Schlußverteilung erfolgt, sobald die Verwertung der Insolvenzmasse mit Ausnahme eines laufenden Einkommens beendet ist.(2) Die Schlußverteilung darf nur mit Zustimmung des Insolvenzgerichts vorgenommen werden."
+    },
+    {
+      "act": "inso",
+      "label": "§ 203",
+      "official_doknr": "BJNR286600994BJNE021500000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Auf Antrag des Insolvenzverwalters oder eines Insolvenzgläubigers oder von Amts wegen ordnet das Insolvenzgericht eine Nachtragsverteilung an, wenn nach dem Schlußtermin 1.zurückbehaltene Beträge für die Verteilung frei werden, 2.Beträge, die aus der Insolvenzmasse gezahlt sind, zurückfließen oder 3.Gegenstände der Masse ermittelt werden.  (2) Die Aufhebung des Verfahrens steht der Anordnung einer Nachtragsverteilung nicht entgegen.(3) Das Gericht kann von der Anordnung absehen und den zur Verfügung stehenden Betrag oder den ermittelten Gegenstand dem Schuldner überlassen, wenn dies mit Rücksicht auf die Geringfügigkeit des Betrags oder den geringen Wert des Gegenstands und die Kosten einer Nachtragsverteilung angemessen erscheint. Es kann die Anordnung davon abhängig machen, daß ein Geldbetrag vorgeschossen wird, der die Kosten der Nachtragsverteilung deckt."
+    },
+    {
+      "act": "inso",
+      "label": "§ 208",
+      "official_doknr": "BJNR286600994BJNE022100000",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Sind die Kosten des Insolvenzverfahrens gedeckt, reicht die Insolvenzmasse jedoch nicht aus, um die fälligen sonstigen Masseverbindlichkeiten zu erfüllen, so hat der Insolvenzverwalter dem Insolvenzgericht anzuzeigen, daß Masseunzulänglichkeit vorliegt. Gleiches gilt, wenn die Masse voraussichtlich nicht ausreichen wird, um die  bestehenden sonstigen Masseverbindlichkeiten im Zeitpunkt der Fälligkeit zu erfüllen.(2) Das Gericht hat die Anzeige der Masseunzulänglichkeit öffentlich bekanntzumachen. Den Massegläubigern ist sie besonders zuzustellen.(3) Die Pflicht des Verwalters zur Verwaltung und zur Verwertung der Masse besteht auch nach der Anzeige der Masseunzulänglichkeit fort."
+    },
+    {
+      "act": "inso",
+      "label": "§ 270",
+      "official_doknr": "BJNR286600994BJNE028603125",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "(1) Der Schuldner ist berechtigt, unter der Aufsicht eines Sachwalters die Insolvenzmasse zu verwalten und über sie zu verfügen, wenn das Insolvenzgericht in dem Beschluss über die Eröffnung des Insolvenzverfahrens die Eigenverwaltung anordnet. Für das Verfahren gelten die allgemeinen Vorschriften, soweit in diesem Teil nichts anderes bestimmt ist.(2) Die Vorschriften dieses Teils sind auf Verbraucherinsolvenzverfahren nach § 304 nicht anzuwenden."
+    },
+    {
+      "act": "inso",
+      "label": "§ 271",
+      "official_doknr": "BJNR286600994BJNE028701308",
+      "evidence": "sources/review-p103-p116/inso.xml",
+      "source_sha256": "a520088e54cfae9fce20d949f835f4b85142698d4b035cb95da0799369637b9a",
+      "text": "Beantragt die Gläubigerversammlung mit der in § 76 Absatz 2 genannten Mehrheit und der Mehrheit der abstimmenden Gläubiger die Eigenverwaltung, so ordnet das Gericht diese an, sofern der Schuldner zustimmt. Zum Sachwalter kann der bisherige Insolvenzverwalter bestellt werden."
+    },
+    {
+      "act": "zpo",
+      "label": "§ 731",
+      "official_doknr": "BJNR005330950BJNE092402301",
+      "evidence": "sources/review-p103-p116/zpo.xml",
+      "source_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "text": "Kann der nach dem § 726 Abs. 1 und den §§ 727 bis 729 erforderliche Nachweis durch öffentliche oder öffentlich beglaubigte Urkunden nicht geführt werden, so hat der Gläubiger bei dem Prozessgericht des ersten Rechtszuges aus dem Urteil auf Erteilung der Vollstreckungsklausel Klage zu erheben."
+    },
+    {
+      "act": "zpo",
+      "label": "§ 767",
+      "official_doknr": "BJNR005330950BJNE096102301",
+      "evidence": "sources/review-p103-p116/zpo.xml",
+      "source_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "text": "(1) Einwendungen, die den durch das Urteil festgestellten Anspruch selbst betreffen, sind von dem Schuldner im Wege der Klage bei dem Prozessgericht des ersten Rechtszuges geltend zu machen.(2) Sie sind nur insoweit zulässig, als die Gründe, auf denen sie beruhen, erst nach dem Schluss der mündlichen Verhandlung, in der Einwendungen nach den Vorschriften dieses Gesetzes spätestens hätten geltend gemacht werden müssen, entstanden sind und durch Einspruch nicht mehr geltend gemacht werden können.(3) Der Schuldner muss in der von ihm zu erhebenden Klage alle Einwendungen geltend machen, die er zur Zeit der Erhebung der Klage geltend zu machen imstande war."
+    },
+    {
+      "act": "zpo",
+      "label": "§ 768",
+      "official_doknr": "BJNR005330950BJNE096202301",
+      "evidence": "sources/review-p103-p116/zpo.xml",
+      "source_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "text": "Die Vorschriften des § 767 Abs. 1, 3 gelten entsprechend, wenn in den Fällen des § 726 Abs. 1, der §§ 727 bis 729, 738, 742, 744, des § 745 Abs. 2 und des § 749 der Schuldner den bei der Erteilung der Vollstreckungsklausel als bewiesen angenommenen Eintritt der Voraussetzung für die Erteilung der Vollstreckungsklausel bestreitet, unbeschadet der Befugnis des Schuldners, in diesen Fällen Einwendungen gegen die Zulässigkeit der Vollstreckungsklausel nach § 732 zu erheben."
+    },
+    {
+      "act": "zpo",
+      "label": "§ 769",
+      "official_doknr": "BJNR005330950BJNE096304160",
+      "evidence": "sources/review-p103-p116/zpo.xml",
+      "source_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "text": "(1) Das Prozessgericht kann auf Antrag anordnen, dass bis zum Erlass des Urteils über die in den §§ 767, 768 bezeichneten Einwendungen die Zwangsvollstreckung gegen oder ohne Sicherheitsleistung eingestellt oder nur gegen Sicherheitsleistung fortgesetzt werde und dass Vollstreckungsmaßregeln gegen Sicherheitsleistung aufzuheben seien. Es setzt eine Sicherheitsleistung für die Einstellung der Zwangsvollstreckung nicht fest, wenn der Schuldner zur Sicherheitsleistung nicht in der Lage ist und die Rechtsverfolgung durch ihn hinreichende Aussicht auf Erfolg bietet. Die tatsächlichen Behauptungen, die den Antrag begründen, sind glaubhaft zu machen.(2) In dringenden Fällen kann das Vollstreckungsgericht eine solche Anordnung erlassen, unter Bestimmung einer Frist, innerhalb der die Entscheidung des Prozessgerichts beizubringen sei. Nach fruchtlosem Ablauf der Frist wird die Zwangsvollstreckung fortgesetzt.(3) Die Entscheidung über diese Anträge ergeht durch Beschluss.(4) Im Fall der Anhängigkeit einer auf Herabsetzung gerichteten Abänderungsklage gelten die Absätze 1 bis 3 entsprechend."
+    },
+    {
+      "act": "zpo",
+      "label": "§ 770",
+      "official_doknr": "BJNR005330950BJNE096402301",
+      "evidence": "sources/review-p103-p116/zpo.xml",
+      "source_sha256": "3bde5966d8fcdc2c736d5b6f2e28c5e99db77b91c55e4f088bd5f31cfa80b3a5",
+      "text": "Das Prozessgericht kann in dem Urteil, durch das über die Einwendungen entschieden wird, die in dem vorstehenden Paragraphen bezeichneten Anordnungen erlassen oder die bereits erlassenen Anordnungen aufheben, abändern oder bestätigen. Für die Anfechtung einer solchen Entscheidung gelten die Vorschriften des § 718 entsprechend."
+    }
+  ],
+  "cited_case_snapshot_checks": [
+    {
+      "official_doknr": "KORE313782011",
+      "snapshot": "sources/review-p103-p116/case-KORE313782011.xml",
+      "sha256": "6a58039fe5266712ee1d205bff9e92baa27fa7d1fabebacf0ab9f11bd1e98bac",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313782011.xml",
+      "byte_identical": true
+    }
+  ],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 20 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

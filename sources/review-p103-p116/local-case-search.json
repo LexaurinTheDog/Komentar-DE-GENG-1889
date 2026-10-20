@@ -1,0 +1,78 @@
+{
+  "searched_at": "2026-10-20T09:07:43.178190+00:00",
+  "files_scanned": 84424,
+  "patterns": [
+    "Vorschussberechnung",
+    "Nachschussberechnung",
+    "115b.{0,60}GenG",
+    "112a.{0,60}GenG",
+    "111.{0,30}GenG",
+    "Nachsch[uü](?:ss|ß).{0,200}Genossenschaft",
+    "Genossenschaft.{0,200}Nachsch[uü](?:ss|ß)"
+  ],
+  "results": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-jure129012849.xml",
+      "court": "BPatG",
+      "docket": "25 W (pat) 511/11",
+      "date": "20120920",
+      "patterns": [
+        "111.{0,30}GenG"
+      ],
+      "snippets": [
+        "ungsreif sei, ist die Markeninhaberin dieser Auffassung mit Schriftsatz vom 12. September 2012 (Bl. 111 ff. d. A.) entgegengetreten und hat in diesem Schriftsatz ausdrücklich beantragt, \n             \n          \n          \n             \n       "
+      ]
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313782011.xml",
+      "court": "BGH",
+      "docket": "II ZB 12/10",
+      "date": "20110621",
+      "patterns": [
+        "Nachsch[uü](?:ss|ß).{0,200}Genossenschaft",
+        "Genossenschaft.{0,200}Nachsch[uü](?:ss|ß)"
+      ],
+      "snippets": [
+        " die Vermögensgegenstände der Genossenschaft zu verwerten, unberechtigte Forderungen abzuwehren und Nachschusspflichten nach §§ 105 ff. GenG geltend zu machen. Soweit dabei genossenschaftlicher Sachverstand im Einzelfall erforderlich ist, sind in § 108a Abs. 2, § 116 Nr. 4 GenG spezielle Anhörungspflichten",
+        " anderen Beurteilung. Wenn die Geschäftstätigkeit der Genossenschaft eingestellt ist, bedarf es des genossenschaftlichen Sachverstands grundsätzlich nicht mehr. Der Insolvenzverwalter hat dann nur noch die Vermögensgegenstände der Genossenschaft zu verwerten, unberechtigte Forderungen abzuwehren und Nachschusspflichten nach §§ 105 ff. GenG geltend zu machen. Soweit dabei genossenschaftlicher Sachverstand im Einzelfall erforderl"
+      ]
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore710002025.xml",
+      "court": "BGH",
+      "docket": "II ZB 7/24",
+      "date": "20250318",
+      "patterns": [
+        "Genossenschaft.{0,200}Nachsch[uü](?:ss|ß)"
+      ],
+      "snippets": [
+        "ingen (§ 7 Nr. 1, § 8a GenG), noch - wie bei Personengesellschaften - für die Verbindlichkeiten der Genossenschaft persönlich haften (vgl. BeckOGK UmwG/Fuchs, Stand 1.1.2025, § 85 Rn. 5). Bei Insolvenz der Genossenschaft unterliegen sie zwar gemäß § 105 Abs. 1 GenG einer Nachschusspflicht, die sie aber in der Satzung nicht nur beschränken, sondern gänzlich ausschließen können (§ 6 Nr. 3 GenG). Vor d"
+      ]
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore728222025.xml",
+      "court": "BGH",
+      "docket": "II ZR 119/24",
+      "date": "20251021",
+      "patterns": [
+        "Nachsch[uü](?:ss|ß).{0,200}Genossenschaft"
+      ],
+      "snippets": [
+        "it Einzahlungen auf den Geschäftsanteil noch nicht in voller Höhe erbracht wurden und schließt eine Nachschusspflicht aus. Im Fall der Liquidation erfolgt die Verteilung des Vermögens der Genossenschaft nach § 36 Abs. 2 Satz 2 der Satzung entsprechend den gesetzlichen Regelungen mit der Maßgabe, dass Überschüsse nach dem"
+      ]
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-wbre201600069.xml",
+      "court": "BVerwG",
+      "docket": "10 C 19/14",
+      "date": "20151202",
+      "patterns": [
+        "Vorschussberechnung"
+      ],
+      "snippets": [
+        "orgungsanwartschaft des Mitarbeiters zu 17 schon in die Festsetzung für 2007 - und nicht nur in die Vorschussberechnung für 2008 - einbezogen wurde. \n             \n          \n          \n             \n                4 \n             \n      "
+      ]
+    }
+  ],
+  "limitations": "Selective keyword discovery; hits are candidates, not verified holdings."
+}

@@ -20,3 +20,8 @@ Im begrenzten Teilauftrag §§ 63a–68 wurden II ZR 2/16, II ZR 17/09 und II ZR
 - [BGH, 18. März 2025 – II ZB 7/24](bgh-ii-zb-7-24.md): bilanzielles Guthaben und Förderkapitalstock; Verschmelzungskontext und Grenzen der Verwendung zu § 73.
 
 Im Teilauftrag §§ 69–86 wurde dieser achte Volltext neu vollständig gelesen und II ZR 119/24 erneut vollständig geprüft; beide frisch online beschafften XML-Körper sind bytegleich zum lokalen amtlichen Korpus.
+
+
+- [BGH, 21. Juni 2011 – II ZB 12/10](bgh-ii-zb-12-10.md): besondere Anhörung nach §§ 108a Abs. 2, 116 Nr. 4 GenG; auf den historischen Fall mit eingestelltem Betrieb begrenzte Verwendung.
+
+Im Teilauftrag §§ 103–116 wurde dieser neunte amtliche Volltext am 20. Oktober 2026 neu vollständig gelesen und frisch online beschafft; der XML-Körper stimmt bytegenau mit dem lokalen Korpus überein. Rn. 21 wird nur zur besonderen fachlichen Anhörung verwendet. Alte Prüfungsschwellen, GesO und FGG werden nicht als aktuelle Regeln übernommen. Das amtlich leere ECLI-Feld wurde nicht durch einen erfundenen Identifikator ersetzt.
