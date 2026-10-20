@@ -541,5 +541,101 @@
     "sha256": "b22740cc5a24b4fb1e7ed7eeb7927bfd8964556c686de0a33330ca83e3ace631",
     "format_validation": "JSON parsed; complete GenG § 43a Abs. 1–7 present; supporting extraction, not canonical source.",
     "effective_version_evidence": "../preflight-result.json"
+  },
+  "bounded_review_p47_p63_fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+      "accessed_at": "2026-10-20T08:27:04.400956+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p47-p63/geng.zip",
+      "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+      "format_validation": {
+        "xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+        "same_as_canonical_xml": true,
+        "stand": [
+          "Neugefasst durch Bek. v. 16.10.2006 I 2230;",
+          "zuletzt geändert durch Art. 22 G v. 23.10.2024 I Nr. 323"
+        ]
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/",
+      "final_url": "https://www.gesetze-im-internet.de/geng/",
+      "accessed_at": "2026-10-20T08:27:05.295571+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "file": "review-p47-p63/index.html",
+      "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+      "format_validation": {
+        "statute_identity": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+      "final_url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+      "accessed_at": "2026-10-20T08:27:06.381016+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "file": "review-p47-p63/full.html",
+      "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+      "format_validation": {
+        "statute_identity": true
+      }
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T08:27:07.238482+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "file": "review-p47-p63/beg4.pdf",
+      "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "format_validation": {
+        "pdf_magic": true,
+        "same_as_authoring": true
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-20T08:27:07.627682+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "file": "review-p47-p63/hgb.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_validation": {
+        "stand": [
+          "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+          "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+        ],
+        "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+      }
+    }
+  ],
+  "bounded_review_p47_p63_case_fetch": {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE202400012.zip",
+    "accessed_at": "2026-10-20T08:28:04.513249+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "844a4ce875303980ccd69ab2b3a1b4faf939493e0dc4a5b7b00753ac02164c3b",
+    "file": "review-p47-p63/case-KORE202400012.zip",
+    "xml_file": "review-p47-p63/case-KORE202400012.xml",
+    "xml_sha256": "05127c0ab0425a19c1f5614bc76844b317263e231feef745e9b127d4b9f65245",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore202400012.xml",
+    "local_corpus_byte_equal": true,
+    "format_validation": "ZIP testzip passed, XML parsed, docket and date 20231130 verified",
+    "ecli": "ECLI:DE:BGH:2023:301123BIIIZR41.23.0"
+  },
+  "bounded_review_p47_p63_firecrawl": {
+    "url": "https://www.gesetze-im-internet.de/geng/__53.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-20T08:27:11+00:00",
+    "timestamp_method": "Local extraction completion time; direct raw HTTP captures establish freshness.",
+    "file": "research/review-p47-p63-firecrawl-p53.json",
+    "sha256": "df64ffa9428785eefb3ffb73407631f3b34587ed6663455930f879d644885d17",
+    "format_validation": "JSON parsed; § 53 Abs. 1–4 present, identity verified. Supplement only.",
+    "effective_version_evidence": "../preflight-result.json"
   }
 }

@@ -1,0 +1,403 @@
+{
+  "checked_at": "2026-10-20T08:33:31.420467+00:00",
+  "scope": [
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53",
+    "p53a",
+    "p54",
+    "p54a",
+    "p55",
+    "p56",
+    "p57",
+    "p57a",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63"
+  ],
+  "base_work_commit": "ecea93adf1324ec04461b64948406a543035f514",
+  "raw_evidence": "sources/review-p47-p63/geng.xml",
+  "raw_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+  "canonical_xml_byte_equal": true,
+  "units_checked": [
+    {
+      "id": "p47",
+      "official_doknr": "BJNR000550889BJNE006906125",
+      "official_label": "§ 47",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1972,
+      "changed": true,
+      "original_commentary_sha256": "019ac70e114c1b0c3b57fc3cefe55985890a2fd93feccc293c7c8ee6503ec4f5",
+      "reviewed_commentary_sha256": "287b9c34ca5c6a8344d78b57561b4ca6c7fe7cedbaf452892104144b819237d2"
+    },
+    {
+      "id": "p48",
+      "official_doknr": "BJNR000550889BJNE021606123",
+      "official_label": "§ 48",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2299,
+      "changed": true,
+      "original_commentary_sha256": "64cdd26cc20d1064a4d8a5e7e0e158022bfa8a92d005cbfd7affe3776a2c7d0c",
+      "reviewed_commentary_sha256": "996becf620f1e02da13e963ddf02e798452a538610f4f1f6ce1a9c2b5baeaeec"
+    },
+    {
+      "id": "p49",
+      "official_doknr": "BJNR000550889BJNE007103377",
+      "official_label": "§ 49",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1018,
+      "changed": false,
+      "original_commentary_sha256": "4b425278d7329e61247d48d78015df202cb1bc1c296ffd7e454f3d4741acb846",
+      "reviewed_commentary_sha256": "4b425278d7329e61247d48d78015df202cb1bc1c296ffd7e454f3d4741acb846"
+    },
+    {
+      "id": "p50",
+      "official_doknr": "BJNR000550889BJNE007203377",
+      "official_label": "§ 50",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1394,
+      "changed": true,
+      "original_commentary_sha256": "158a3b8d788e3a7bb767fd521dd466ba38164b16a2639a66cae3f24ce9391654",
+      "reviewed_commentary_sha256": "6518a05e1e482fc941de0823c2454aa1cb5881ff36e969f623fd1632a2ad1760"
+    },
+    {
+      "id": "p51",
+      "official_doknr": "BJNR000550889BJNE007307125",
+      "official_label": "§ 51",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2827,
+      "changed": true,
+      "original_commentary_sha256": "0cb6f5e751252f6b4c27e95ebc3ababb2dda4e593f82bc8790be7cc3228e1d00",
+      "reviewed_commentary_sha256": "2c174c3cdee94247d1d429fdef4d5b6ba77ba9196eecf208de281e652e3c8a64"
+    },
+    {
+      "id": "p52",
+      "official_doknr": "BJNR000550889BJNE007403377",
+      "official_label": "§ 52",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 753,
+      "changed": false,
+      "original_commentary_sha256": "ec60cc5c5108661ea8ac474d1f53b52b5e59bbee271655e4b53588ae25ec6032",
+      "reviewed_commentary_sha256": "ec60cc5c5108661ea8ac474d1f53b52b5e59bbee271655e4b53588ae25ec6032"
+    },
+    {
+      "id": "p53",
+      "official_doknr": "BJNR000550889BJNE021712360",
+      "official_label": "§ 53",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2514,
+      "changed": true,
+      "original_commentary_sha256": "05a98157904c66ab7fcea144557d84c3b859c2c4b18e9af825bfbfb14faf230c",
+      "reviewed_commentary_sha256": "4b1e094537ad0f5de12c2871b7a05bde839411669bbb72185c1a1af4a9a73a6b"
+    },
+    {
+      "id": "p53a",
+      "official_doknr": "BJNR000550889BJNE024801360",
+      "official_label": "§ 53a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2310,
+      "changed": true,
+      "original_commentary_sha256": "affd2e5306e435a4bf860bb7fb7521628f9c8daa6effadce7c9fe142c948e1fa",
+      "reviewed_commentary_sha256": "6fc755be70ce16a6dca3097c8acf1145a936b83038418fabd7aae93a455640e2"
+    },
+    {
+      "id": "p54",
+      "official_doknr": "BJNR000550889BJNE007704123",
+      "official_label": "§ 54",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1018,
+      "changed": false,
+      "original_commentary_sha256": "c63b1dde0b737c13a44854934847a6063828117f2cc8b2fd43e3a138bfad606f",
+      "reviewed_commentary_sha256": "c63b1dde0b737c13a44854934847a6063828117f2cc8b2fd43e3a138bfad606f"
+    },
+    {
+      "id": "p54a",
+      "official_doknr": "BJNR000550889BJNE007805123",
+      "official_label": "§ 54a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1066,
+      "changed": false,
+      "original_commentary_sha256": "078fe3c0973b5819954b44eb120dcfbd27d26cf26197e9b88ef6fa8d5cbb853f",
+      "reviewed_commentary_sha256": "078fe3c0973b5819954b44eb120dcfbd27d26cf26197e9b88ef6fa8d5cbb853f"
+    },
+    {
+      "id": "p55",
+      "official_doknr": "BJNR000550889BJNE021808360",
+      "official_label": "§ 55",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 3000,
+      "changed": true,
+      "original_commentary_sha256": "0b0cc1225c40f89264cabe60856ef829e86a464bb81469ef06b0abd9deff81ae",
+      "reviewed_commentary_sha256": "fd1913df76b35afd1a89797aa4c3ab49bdaffefc3fddc0a6c1ef4be8f6887176"
+    },
+    {
+      "id": "p56",
+      "official_doknr": "BJNR000550889BJNE021906123",
+      "official_label": "§ 56",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1145,
+      "changed": false,
+      "original_commentary_sha256": "2ead89f0634f7fb643a08c8e8cb09ee970c361f12ffdf05e67e31ad221157d53",
+      "reviewed_commentary_sha256": "2ead89f0634f7fb643a08c8e8cb09ee970c361f12ffdf05e67e31ad221157d53"
+    },
+    {
+      "id": "p57",
+      "official_doknr": "BJNR000550889BJNE008105360",
+      "official_label": "§ 57",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2278,
+      "changed": true,
+      "original_commentary_sha256": "69f9ab7c8798da6bbaea9beddd0d211f181f03531b082556bf6432217718423c",
+      "reviewed_commentary_sha256": "0d0e1e915507c5f62e42c8f0fff828feaca90c41c946ef9f4e8d9c626d9bb2db"
+    },
+    {
+      "id": "p57a",
+      "official_doknr": "BJNR000550889BJNE024200123",
+      "official_label": "§ 57a",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1622,
+      "changed": true,
+      "original_commentary_sha256": "3bc5fe0177fcf385309d065f3a09a29c80567c31ec55670244c28ca677e4d4db",
+      "reviewed_commentary_sha256": "286b53d2a14c2bcfe81eddb20a9ab61c00cf12d762a4fa6428b2201f2ea7a750"
+    },
+    {
+      "id": "p58",
+      "official_doknr": "BJNR000550889BJNE022008360",
+      "official_label": "§ 58",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2247,
+      "changed": true,
+      "original_commentary_sha256": "d87df7fba624ebcf9e31f1f2d5a72cbca5f116eefad5f366e2da75005d7ff09a",
+      "reviewed_commentary_sha256": "bf4fe00abdc2489a1bbbc9527cf4baee410f2e3d64e3ece7656701c0aa9fd3fd"
+    },
+    {
+      "id": "p59",
+      "official_doknr": "BJNR000550889BJNE008304123",
+      "official_label": "§ 59",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1048,
+      "changed": false,
+      "original_commentary_sha256": "cfdb8f8c111df5e79e4d5152d80cae980b62134b4c1214b87f1366725870b615",
+      "reviewed_commentary_sha256": "cfdb8f8c111df5e79e4d5152d80cae980b62134b4c1214b87f1366725870b615"
+    },
+    {
+      "id": "p60",
+      "official_doknr": "BJNR000550889BJNE008404123",
+      "official_label": "§ 60",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1063,
+      "changed": false,
+      "original_commentary_sha256": "e790f4dc976f7f24c945a9e93658e7e7f50e51be534f1e62b2166d85da063646",
+      "reviewed_commentary_sha256": "e790f4dc976f7f24c945a9e93658e7e7f50e51be534f1e62b2166d85da063646"
+    },
+    {
+      "id": "p61",
+      "official_doknr": "BJNR000550889BJNE008503377",
+      "official_label": "§ 61",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1321,
+      "changed": true,
+      "original_commentary_sha256": "59e4f848cb93f515939ec74f1359388f4c93c04d7d2e31ab8dbc19b4505da440",
+      "reviewed_commentary_sha256": "d322d746da8f4811ef3cd3f536687e97bb94d1f86a526e448dc2384ba93daaae"
+    },
+    {
+      "id": "p62",
+      "official_doknr": "BJNR000550889BJNE008607123",
+      "official_label": "§ 62",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 2836,
+      "changed": true,
+      "original_commentary_sha256": "985a517bc18d3e81cedcfc902c0ad76589060fff94df743ce448f03ff5053ce5",
+      "reviewed_commentary_sha256": "217289dcb4360c57c3644fe9ecddaab3dab6f47d4e5bfdbb623766a90ce7093a"
+    },
+    {
+      "id": "p63",
+      "official_doknr": "BJNR000550889BJNE008704140",
+      "official_label": "§ 63",
+      "label_agrees": true,
+      "statutory_text_agrees": true,
+      "commentary_chars": 1014,
+      "changed": false,
+      "original_commentary_sha256": "755d33ccc8d4f0dc320ac959d240b62a1e66cd2e2800136f9f5e845ee4a06bd5",
+      "reviewed_commentary_sha256": "755d33ccc8d4f0dc320ac959d240b62a1e66cd2e2800136f9f5e845ee4a06bd5"
+    }
+  ],
+  "changed_ids": [
+    "p47",
+    "p48",
+    "p50",
+    "p51",
+    "p53",
+    "p53a",
+    "p55",
+    "p57",
+    "p57a",
+    "p58",
+    "p61",
+    "p62"
+  ],
+  "nonassigned_commentaries_preserved": 179,
+  "nonassigned_changes": [],
+  "raw_node_counts": {
+    "metadata": 1,
+    "contents": 1,
+    "structure": 10,
+    "statutory": 199
+  },
+  "unclassified_nodes": [],
+  "missing_doknr": [],
+  "extra_doknr": [],
+  "operative_annexes": [],
+  "annex_check_method": "Inventory of all raw nodes and anchored official labels; § 110 title Anlage der Vorschüsse describes investment, not an annex.",
+  "eingangsformel_nodes": [],
+  "external_cross_reference_evidence": [
+    {
+      "act": "hgb",
+      "label": "§ 264d",
+      "official_doknr": "BJNR002190897BJNE100002123",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "Eine Kapitalgesellschaft ist kapitalmarktorientiert, wenn sie einen organisierten Markt im Sinn des § 2 Absatz 11 des Wertpapierhandelsgesetzes durch von ihr ausgegebene Wertpapiere im Sinn des § 2 Absatz 1 des Wertpapierhandelsgesetzes in Anspruch nimmt oder die Zulassung solcher Wertpapiere zum Handel an einem organisierten Markt beantragt hat.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 267",
+      "official_doknr": "BJNR002190897BJNE006210360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Kleine Kapitalgesellschaften sind solche, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.7 500 000 Euro Bilanzsumme.2.15 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.3.Im Jahresdurchschnitt fünfzig Arbeitnehmer.(2) Mittelgroße Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 1 bezeichneten Merkmale überschreiten und jeweils mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.25 000 000 Euro Bilanzsumme.2.50 000 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlußstichtag.3.Im Jahresdurchschnitt zweihundertfünfzig Arbeitnehmer.(3) Große Kapitalgesellschaften sind solche, die mindestens zwei der drei in Absatz 2 bezeichneten Merkmale überschreiten. Eine Kapitalgesellschaft im Sinn des § 264d gilt stets als große.(4) Die Rechtsfolgen der Merkmale nach den Absätzen 1 bis 3 Satz 1 treten nur ein, wenn sie an den Abschlußstichtagen von zwei aufeinanderfolgenden Geschäftsjahren über- oder unterschritten werden. Im Falle der Umwandlung oder Neugründung treten die Rechtsfolgen schon ein, wenn die Voraussetzungen des Absatzes 1, 2 oder 3 am ersten Abschlußstichtag nach der Umwandlung oder Neugründung vorliegen. Satz 2 findet im Falle des Formwechsels keine Anwendung, sofern der formwechselnde Rechtsträger eine Kapitalgesellschaft oder eine Personenhandelsgesellschaft im Sinne des § 264a Absatz 1 ist.(4a) Die Bilanzsumme setzt sich aus den Posten zusammen, die in den Buchstaben A bis E des § 266 Absatz 2 aufgeführt sind. Ein auf der Aktivseite ausgewiesener Fehlbetrag (§ 268 Absatz 3) wird nicht in die Bilanzsumme einbezogen.(5) Als durchschnittliche Zahl der Arbeitnehmer gilt der vierte Teil der Summe aus den Zahlen der jeweils am 31. März, 30. Juni, 30. September und 31. Dezember beschäftigten Arbeitnehmer einschließlich der im Ausland beschäftigten Arbeitnehmer, jedoch ohne die zu ihrer Berufsausbildung Beschäftigten.(6) Informations- und Auskunftsrechte der Arbeitnehmervertretungen nach anderen Gesetzen bleiben unberührt.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 267a",
+      "official_doknr": "BJNR002190897BJNE100402360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Kleinstkapitalgesellschaften sind kleine Kapitalgesellschaften, die mindestens zwei der drei nachstehenden Merkmale nicht überschreiten: 1.450 000 Euro Bilanzsumme;2.900 000 Euro Umsatzerlöse in den zwölf Monaten vor dem Abschlussstichtag;3.im Jahresdurchschnitt zehn Arbeitnehmer.§ 267 Absatz 4 bis 6 gilt entsprechend.(2) Die in diesem Gesetz für kleine Kapitalgesellschaften (§ 267 Absatz 1) vorgesehenen besonderen Regelungen gelten für Kleinstkapitalgesellschaften entsprechend, soweit nichts anderes geregelt ist.(3) Keine Kleinstkapitalgesellschaften sind: 1.Investmentgesellschaften im Sinne des § 1 Absatz 11 des Kapitalanlagegesetzbuchs,2.Unternehmensbeteiligungsgesellschaften im Sinne des § 1a Absatz 1 des Gesetzes über Unternehmensbeteiligungsgesellschaften oder3.Unternehmen, deren einziger Zweck darin besteht, Beteiligungen an anderen Unternehmen zu erwerben sowie die Verwaltung und Verwertung dieser Beteiligungen wahrzunehmen, ohne dass sie unmittelbar oder mittelbar in die Verwaltung dieser Unternehmen eingreifen, wobei die Ausübung der ihnen als Aktionär oder Gesellschafter zustehenden Rechte außer Betracht bleibt.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 316",
+      "official_doknr": "BJNR002190897BJNE011102360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Jahresabschluß und der Lagebericht von Kapitalgesellschaften, die nicht kleine im Sinne des § 267 Abs. 1 sind, sind durch einen Abschlußprüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann der Jahresabschluß nicht festgestellt werden.(2) Der Konzernabschluß und der Konzernlagebericht von Kapitalgesellschaften sind durch einen Abschlußprüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann der Konzernabschluss nicht gebilligt werden.(3) Werden der Jahresabschluß, der Konzernabschluß, der Lagebericht oder der Konzernlagebericht nach Vorlage des Prüfungsberichts geändert, so hat der Abschlußprüfer diese Unterlagen erneut zu prüfen, soweit es die Änderung erfordert. Über das Ergebnis der Prüfung ist zu berichten; der Bestätigungsvermerk ist entsprechend zu ergänzen. Die Sätze 1 und 2 gelten entsprechend für diejenige Wiedergabe des Jahresabschlusses, des Lageberichts, des Konzernabschlusses und des Konzernlageberichts, welche eine Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, für Zwecke der Offenlegung erstellt hat.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 316a",
+      "official_doknr": "BJNR002190897BJNE113900360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "Auf die Abschlussprüfung bei Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse sind, sind die Vorschriften dieses Unterabschnitts nur insoweit anzuwenden, als nicht die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) anzuwenden ist. Unternehmen von öffentlichem Interesse sind Unternehmen, die 1.kapitalmarktorientiert sind im Sinne des § 264d,2.CRR-Kreditinstitute sind im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme derjenigen Institute, die in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes und in Artikel 2 Absatz 5 Nummer 5 der Richtlinie 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über den Zugang zur Tätigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur Änderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338; L 208 vom 2.8.2013, S. 73; L 20 vom 25.1.2017, S. 1; L 203 vom 26.6.2020, S. 95), die zuletzt durch die Richtlinie (EU) 2019/2034 (ABl. L 314 vom 5.12.2019, S. 64) geändert worden ist, genannt sind, oder3.Versicherungsunternehmen sind im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 317",
+      "official_doknr": "BJNR002190897BJNE011212360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) In die Prüfung des Jahresabschlusses ist die Buchführung einzubeziehen. Die Prüfung des Jahresabschlusses und des Konzernabschlusses hat sich darauf zu erstrecken, ob die gesetzlichen Vorschriften und sie ergänzende Bestimmungen des Gesellschaftsvertrags oder der Satzung beachtet worden sind. Die Prüfung ist so anzulegen, daß Unrichtigkeiten und Verstöße gegen die in Satz 2 aufgeführten Bestimmungen, die sich auf die Darstellung des sich nach § 264 Abs. 2 ergebenden Bildes der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft wesentlich auswirken, bei gewissenhafter Berufsausübung erkannt werden.(2) Der Lagebericht und der Konzernlagebericht sind darauf zu prüfen, ob der Lagebericht mit dem Jahresabschluß, gegebenenfalls auch mit dem Einzelabschluss nach § 325 Abs. 2a, und der Konzernlagebericht mit dem Konzernabschluß sowie mit den bei der Prüfung gewonnenen Erkenntnissen des Abschlußprüfers in Einklang stehen und ob der Lagebericht insgesamt ein zutreffendes Bild von der Lage der Kapitalgesellschaft und der Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage des Konzerns vermittelt. Dabei ist auch zu prüfen, ob die Chancen und Risiken der künftigen Entwicklung zutreffend dargestellt sind. Die Prüfung des Lageberichts und des Konzernlageberichts hat sich auch darauf zu erstrecken, ob die gesetzlichen Vorschriften zur Aufstellung des Lage- oder Konzernlageberichts beachtet worden sind. Im Hinblick auf die Vorgaben nach den §§ 289b bis 289e und den §§ 315b und 315c ist nur zu prüfen, ob die nichtfinanzielle Erklärung oder der gesonderte nichtfinanzielle Bericht, die nichtfinanzielle Konzernerklärung oder der gesonderte nichtfinanzielle Konzernbericht vorgelegt wurde. Im Fall des § 289b Absatz 3 Satz 1 Nummer 2 Buchstabe b ist vier Monate nach dem Abschlussstichtag eine ergänzende Prüfung durch denselben Abschlussprüfer durchzuführen, ob der gesonderte nichtfinanzielle Bericht oder der gesonderte nichtfinanzielle Konzernbericht vorgelegt wurde; § 316 Absatz 3 Satz 2 gilt entsprechend mit der Maßgabe, dass der Bestätigungsvermerk nur dann zu ergänzen ist, wenn der gesonderte nichtfinanzielle Bericht oder der gesonderte nichtfinanzielle Konzernbericht nicht innerhalb von vier Monaten nach dem Abschlussstichtag vorgelegt worden ist. Die Prüfung der Angaben nach § 289f Absatz 2 und 5 sowie § 315d ist darauf zu beschränken, ob die Angaben gemacht wurden.(3) Der Abschlußprüfer des Konzernabschlusses hat auch die im Konzernabschluß zusammengefaßten Jahresabschlüsse, insbesondere die konsolidierungsbedingten Anpassungen, in entsprechender Anwendung des Absatzes 1 zu prüfen. Sind diese Jahresabschlüsse von einem anderen Abschlussprüfer geprüft worden, hat der Konzernabschlussprüfer dessen Arbeit zu überprüfen und dies zu dokumentieren.(3a) Bei einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, hat der Abschlussprüfer im Rahmen der Prüfung auch zu beurteilen, ob die für Zwecke der Offenlegung erstellte Wiedergabe des Jahresabschlusses und die für Zwecke der Offenlegung erstellte Wiedergabe des Lageberichts den Vorgaben des § 328 Absatz 1 entsprechen. Bei einer Kapitalgesellschaft im Sinne des Satzes 1 hat der Abschlussprüfer des Konzernabschlusses im Rahmen der Prüfung auch zu beurteilen, ob die für Zwecke der Offenlegung erstellte Wiedergabe des Konzernabschlusses und die für Zwecke der Offenlegung erstellte Wiedergabe des Konzernlageberichts den Vorgaben des § 328 Absatz 1 entsprechen.(3b) Der Abschlussprüfer des Jahresabschlusses hat im Rahmen der Prüfung auch zu beurteilen, ob die Kapitalgesellschaft 1.für das Geschäftsjahr, das demjenigen Geschäftsjahr vorausging, für dessen Schluss der zu prüfende Jahresabschluss aufgestellt wird, zur Offenlegung eines Ertragsteuerinformationsberichts gemäß § 342m Absatz 1 oder 2 verpflichtet war und2.im Falle der Nummer 1 ihre dort genannte Verpflichtung zur Offenlegung erfüllt hat.(4) Bei einer börsennotierten Aktiengesellschaft ist außerdem im Rahmen der Prüfung zu beurteilen, ob der Vorstand die ihm nach § 91 Abs. 2 des Aktiengesetzes obliegenden Maßnahmen in einer geeigneten Form getroffen hat und ob das danach einzurichtende Überwachungssystem seine Aufgaben erfüllen kann.(4a) Soweit nichts anderes bestimmt ist, hat die Prüfung sich nicht darauf zu erstrecken, ob der Fortbestand der geprüften Kapitalgesellschaft oder die Wirksamkeit und Wirtschaftlichkeit der Geschäftsführung zugesichert werden kann.(5) Bei der Durchführung einer Prüfung hat der Abschlussprüfer die internationalen Prüfungsstandards anzuwenden, die von der Europäischen Kommission in dem Verfahren nach Artikel 26 Absatz 3 der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen, zur Änderung der Richtlinien 78/660/EWG und 83/349/EWG des Rates und zur Aufhebung der Richtlinie 84/253/EWG des Rates (ABl. EU Nr. L 157 S. 87), die zuletzt durch die Richtlinie 2014/56/EU (ABl. L 158 vom 27.5.2014, S. 196) geändert worden ist, angenommen worden sind.(6) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Klimaschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zusätzlich zu den bei der Durchführung der Abschlussprüfung nach Absatz 5 anzuwendenden internationalen Prüfungsstandards weitere Abschlussprüfungsanforderungen vorzuschreiben, wenn dies durch den Umfang der Abschlussprüfung bedingt ist und den in den Absätzen 1 bis 4 genannten Prüfungszielen dient.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 321",
+      "official_doknr": "BJNR002190897BJNE011606360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Abschlußprüfer hat über Art und Umfang sowie über das Ergebnis der Prüfung zu berichten; auf den Bericht sind die Sätze 2 und 3 sowie die Absätze 2 bis 4a anzuwenden. Der Bericht ist schriftlich und mit der gebotenen Klarheit abzufassen; in ihm ist vorweg zu der Beurteilung der Lage der Kapitalgesellschaft oder Konzerns durch die gesetzlichen Vertreter Stellung zu nehmen, wobei insbesondere auf die Beurteilung des Fortbestandes und der künftigen Entwicklung der Kapitalgesellschaft unter Berücksichtigung des Lageberichts und bei der Prüfung des Konzernabschlusses von Mutterunternehmen auch des Konzerns unter Berücksichtigung des Konzernlageberichts einzugehen ist, soweit die geprüften Unterlagen und der Lagebericht oder der Konzernlagebericht eine solche Beurteilung erlauben. Außerdem hat der Abschlussprüfer über bei Durchführung der Prüfung festgestellte Unrichtigkeiten oder Verstöße gegen gesetzliche Vorschriften sowie Tatsachen zu berichten, die den Bestand der geprüften Kapitalgesellschaft oder des Konzerns gefährden oder seine Entwicklung wesentlich beeinträchtigen können oder die schwerwiegende Verstöße der gesetzlichen Vertreter oder von Arbeitnehmern gegen Gesetz, Gesellschaftsvertrag oder die Satzung erkennen lassen.(2) Im Hauptteil des Prüfungsberichts ist festzustellen, ob die Buchführung und die weiteren geprüften Unterlagen, der Jahresabschluss, der Lagebericht, der Konzernabschluss und der Konzernlagebericht den gesetzlichen Vorschriften und den ergänzenden Bestimmungen des Gesellschaftsvertrags oder der Satzung entsprechen. In diesem Rahmen ist auch über Beanstandungen zu berichten, die nicht zur Einschränkung oder Versagung des Bestätigungsvermerks geführt haben, soweit dies für die Überwachung der Geschäftsführung und der geprüften Kapitalgesellschaft von Bedeutung ist. Es ist auch darauf einzugehen, ob der Abschluss insgesamt unter Beachtung der Grundsätze ordnungsmäßiger Buchführung oder sonstiger maßgeblicher Rechnungslegungsgrundsätze ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft oder des Konzerns vermittelt. Dazu ist auch auf wesentliche Bewertungsgrundlagen sowie darauf einzugehen, welchen Einfluss Änderungen in den Bewertungsgrundlagen einschließlich der Ausübung von Bilanzierungs- und Bewertungswahlrechten und der Ausnutzung von Ermessensspielräumen sowie sachverhaltsgestaltende Maßnahmen insgesamt auf die Darstellung der Vermögens-, Finanz- und Ertragslage haben. Hierzu sind die Posten des Jahres- und des Konzernabschlusses aufzugliedern und ausreichend zu erläutern, soweit diese Angaben nicht im Anhang enthalten sind. Es ist darzustellen, ob die gesetzlichen Vertreter die verlangten Aufklärungen und Nachweise erbracht haben.(3) In einem besonderen Abschnitt des Prüfungsberichts sind Gegenstand, Art und Umfang der Prüfung zu erläutern. Dabei ist auch auf die angewandten Rechnungslegungs- und Prüfungsgrundsätze einzugehen.(4) Ist im Rahmen der Prüfung eine Beurteilung nach § 317 Abs. 4 abgegeben worden, so ist deren Ergebnis in einem besonderen Teil des Prüfungsberichts darzustellen. Es ist darauf einzugehen, ob Maßnahmen erforderlich sind, um das interne Überwachungssystem zu verbessern.(4a) Der Abschlussprüfer hat im Prüfungsbericht seine Unabhängigkeit zu bestätigen.(5) Der Abschlußprüfer hat den Bericht unter Angabe des Datums zu unterzeichnen und den gesetzlichen Vertretern vorzulegen; § 322 Absatz 7 Satz 3 und 4 gilt entsprechend. Hat der Aufsichtsrat den Auftrag erteilt, so ist der Bericht ihm und gleichzeitig einem eingerichteten Prüfungsausschuss vorzulegen. Im Fall des Satzes 2 ist der Bericht unverzüglich nach Vorlage dem Geschäftsführungsorgan mit Gelegenheit zur Stellungnahme zuzuleiten.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 322",
+      "official_doknr": "BJNR002190897BJNE011707360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Abschlussprüfer hat das Ergebnis der Prüfung schriftlich in einem Bestätigungsvermerk zum Jahresabschluss oder zum Konzernabschluss zusammenzufassen. Der Bestätigungsvermerk hat Gegenstand, Art und Umfang der Prüfung zu beschreiben und dabei die angewandten Rechnungslegungs- und Prüfungsgrundsätze anzugeben; er hat ferner eine Beurteilung des Prüfungsergebnisses zu enthalten. In einem einleitenden Abschnitt haben zumindest die Beschreibung des Gegenstands der Prüfung und die Angabe zu den angewandten Rechnungslegungsgrundsätzen zu erfolgen. Über das Ergebnis der Prüfungen nach § 317 Absatz 3a und 3b ist jeweils in einem besonderen Abschnitt zu berichten.(1a) Bei der Erstellung des Bestätigungsvermerks hat der Abschlussprüfer die internationalen Prüfungsstandards anzuwenden, die von der Europäischen Kommission in dem Verfahren nach Artikel 26 Absatz 3 der Richtlinie 2006/43/EG angenommen worden sind.(2) Die Beurteilung des Prüfungsergebnisses muss zweifelsfrei ergeben, ob 1.ein uneingeschränkter Bestätigungsvermerk erteilt,2.ein eingeschränkter Bestätigungsvermerk erteilt,3.der Bestätigungsvermerk aufgrund von Einwendungen versagt oder4.der Bestätigungsvermerk deshalb versagt wird, weil der Abschlussprüfer nicht in der Lage ist, ein Prüfungsurteil abzugeben.Die Beurteilung des Prüfungsergebnisses soll allgemein verständlich und problemorientiert unter Berücksichtigung des Umstandes erfolgen, dass die gesetzlichen Vertreter den Abschluss zu verantworten haben. Auf Risiken, die den Fortbestand der Kapitalgesellschaft oder eines Konzernunternehmens gefährden, ist gesondert einzugehen. Auf Risiken, die den Fortbestand eines Tochterunternehmens gefährden, braucht im Bestätigungsvermerk zum Konzernabschluss des Mutterunternehmens nicht eingegangen zu werden, wenn das Tochterunternehmen für die Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens-, Finanz- und Ertragslage des Konzerns nur von untergeordneter Bedeutung ist.(3) In einem uneingeschränkten Bestätigungsvermerk (Absatz 2 Satz 1 Nr. 1) hat der Abschlussprüfer zu erklären, dass die von ihm nach § 317 durchgeführte Prüfung zu keinen Einwendungen geführt hat und dass der von den gesetzlichen Vertretern der Gesellschaft aufgestellte Jahres- oder Konzernabschluss aufgrund der bei der Prüfung gewonnenen Erkenntnisse des Abschlussprüfers nach seiner Beurteilung den gesetzlichen Vorschriften entspricht und unter Beachtung der Grundsätze ordnungsmäßiger Buchführung oder sonstiger maßgeblicher Rechnungslegungsgrundsätze ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Kapitalgesellschaft oder des Konzerns vermittelt. Der Abschlussprüfer kann zusätzlich einen Hinweis auf Umstände aufnehmen, auf die er in besonderer Weise aufmerksam macht, ohne den Bestätigungsvermerk einzuschränken.(4) Sind Einwendungen zu erheben, so hat der Abschlussprüfer seine Erklärung nach Absatz 3 Satz 1 einzuschränken (Absatz 2 Satz 1 Nr. 2) oder zu versagen (Absatz 2 Satz 1 Nr. 3). Die Versagung ist in den Vermerk, der nicht mehr als Bestätigungsvermerk zu bezeichnen ist, aufzunehmen. Die Einschränkung oder Versagung ist zu begründen; Absatz 3 Satz 2 findet Anwendung. Ein eingeschränkter Bestätigungsvermerk darf nur erteilt werden, wenn der geprüfte Abschluss unter Beachtung der vom Abschlussprüfer vorgenommenen, in ihrer Tragweite erkennbaren Einschränkung ein den tatsächlichen Verhältnissen im Wesentlichen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermittelt.(5) Der Bestätigungsvermerk ist auch dann zu versagen, wenn der Abschlussprüfer nach Ausschöpfung aller angemessenen Möglichkeiten zur Klärung des Sachverhalts nicht in der Lage ist, ein Prüfungsurteil abzugeben (Absatz 2 Satz 1 Nr. 4). Absatz 4 Satz 2 und 3 gilt entsprechend.(6) Die Beurteilung des Prüfungsergebnisses hat sich auch darauf zu erstrecken, ob der Lagebericht oder der Konzernlagebericht nach dem Urteil des Abschlussprüfers mit dem Jahresabschluss und gegebenenfalls mit dem Einzelabschluss nach § 325 Abs. 2a oder mit dem Konzernabschluss in Einklang steht, die gesetzlichen Vorschriften zur Aufstellung des Lage- oder Konzernlageberichts beachtet worden sind und der Lage- oder Konzernlagebericht insgesamt ein zutreffendes Bild von der Lage der Kapitalgesellschaft oder des Konzerns vermittelt. Dabei ist auch darauf einzugehen, ob die Chancen und Risiken der zukünftigen Entwicklung zutreffend dargestellt sind.(6a) Wurden mehrere Prüfer oder Prüfungsgesellschaften gemeinsam zum Abschlussprüfer bestellt, soll die Beurteilung des Prüfungsergebnisses einheitlich erfolgen. Ist eine einheitliche Beurteilung ausnahmsweise nicht möglich, sind die Gründe hierfür darzulegen; die Beurteilung ist jeweils in einem gesonderten Absatz vorzunehmen. Die Sätze 1 und 2 gelten im Fall der gemeinsamen Bestellung von 1.Wirtschaftsprüfern oder Wirtschaftsprüfungsgesellschaften,2.vereidigten Buchprüfern oder Buchprüfungsgesellschaften sowie3.Prüfern oder Prüfungsgesellschaften nach den Nummern 1 und 2.(7) Der Abschlussprüfer hat den Bestätigungsvermerk oder den Vermerk über seine Versagung unter Angabe des Ortes der Niederlassung des Abschlussprüfers und des Tages der Unterzeichnung zu unterzeichnen; im Fall des Absatzes 6a hat die Unterzeichnung durch alle bestellten Personen zu erfolgen. Der Bestätigungsvermerk oder der Vermerk über seine Versagung ist auch in den Prüfungsbericht aufzunehmen. Ist der Abschlussprüfer eine Wirtschaftsprüfungsgesellschaft, so hat die Unterzeichnung zumindest durch den Wirtschaftsprüfer zu erfolgen, welcher die Abschlussprüfung für die Prüfungsgesellschaft durchgeführt hat. Satz 3 ist auf Buchprüfungsgesellschaften entsprechend anzuwenden.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 324",
+      "official_doknr": "BJNR002190897BJNE011909360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Kapitalgesellschaften, die Unternehmen von öffentlichem Interesse (§ 316a Satz 2) sind und keinen Aufsichts- oder Verwaltungsrat haben, der die Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes erfüllen muss, sind verpflichtet, einen Prüfungsausschuss nach Absatz 2 einzurichten, der sich insbesondere mit den in § 107 Absatz 3 Satz 2 und 3 des Aktiengesetzes beschriebenen Aufgaben befasst. Dies gilt nicht für Kapitalgesellschaften im Sinne des Satzes 1, 1.deren ausschließlicher Zweck in der Ausgabe von Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes besteht, die durch Vermögensgegenstände besichert sind;2.die Kreditinstitute im Sinne des § 340 Absatz 1 sind und einen organisierten Markt im Sinne des § 2 Absatz 11 des Wertpapierhandelsgesetzes nur durch die Ausgabe von Schuldtiteln im Sinne des § 2 Absatz 1 Nummer 3 Buchstabe a des Wertpapierhandelsgesetzes in Anspruch nehmen, wenn deren Nominalwert 100 Millionen Euro nicht übersteigt und keine Verpflichtung zur Veröffentlichung eines Prospekts nach der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12), die zuletzt durch die Verordnung (EU) 2019/2146 (ABl. L 325 vom 16.12.2019, S. 43) geändert worden ist, besteht;3.die Investmentvermögen im Sinne des § 1 Absatz 1 des Kapitalanlagegesetzbuchs sind.Im Fall des Satzes 2 Nummer 1 ist im Anhang darzulegen, weshalb ein Prüfungsausschuss nicht eingerichtet wird.(2) Die Mitglieder des Prüfungsausschusses sind von den Gesellschaftern zu wählen. Die Mehrheit der Mitglieder, darunter der Vorsitzende, muss unabhängig sein; im Übrigen ist § 100 Absatz 5 des Aktiengesetzes entsprechend anzuwenden. Der Vorsitzende des Prüfungsausschusses darf nicht mit der Geschäftsführung betraut sein. § 107 Absatz 3 Satz 8, § 124 Abs. 3 Satz 2 und § 171 Abs. 1 Satz 2 und 3 des Aktiengesetzes sind entsprechend anzuwenden. Der Prüfungsausschuss hat den Gesellschaftern einen Vorschlag für die Wahl des Abschlussprüfers zu machen, wenn die Kapitalgesellschaft keinen Aufsichts- oder Verwaltungsrat hat oder wenn der Aufsichts- oder Verwaltungsrat für den Vorschlag nicht zuständig ist.(3) Die Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle kann zur Erfüllung ihrer Aufgaben gemäß Artikel 27 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 537/2014 von einer Kapitalgesellschaft, die ein Unternehmen von öffentlichem Interesse (§ 316a Satz 2) ist, eine Darstellung und Erläuterung des Ergebnisses sowie der Durchführung der Tätigkeit seines Prüfungsausschusses verlangen. Die Abschlussprüferaufsichtsstelle soll zunächst auf Informationen aus öffentlich zugänglichen Quellen zurückgreifen.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 325",
+      "official_doknr": "BJNR002190897BJNE012017129",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft haben für die Gesellschaft folgende Unterlagen, sofern sie aufzustellen oder zu erstellen sind, in deutscher Sprache offenzulegen: 1.den festgestellten Jahresabschluss, den Lagebericht, den Bestätigungsvermerk oder den Vermerk über dessen Versagung und die Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 sowie2.den Bericht des Aufsichtsrats und die nach § 161 des Aktiengesetzes vorgeschriebene Erklärung.Die Unterlagen sind der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Bei einer Kapitalgesellschaft, die als Inlandsemittent (§ 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (§ 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt und keine Kapitalgesellschaft im Sinne des § 327a ist, sind die Unterlagen der das Unternehmensregister führenden Stelle mit der Übermittlung nach Satz 2 auch zur Weiterleitung an das zentrale europäische Zugangsportal zu übermitteln.(1a) Die Unterlagen nach Absatz 1 Satz 1 sind spätestens ein Jahr nach dem Abschlussstichtag des Geschäftsjahrs zu übermitteln, auf das sie sich beziehen. Liegen die Unterlagen nach Absatz 1 Satz 1 Nummer 2 nicht innerhalb der Frist vor, sind sie unverzüglich nach ihrem Vorliegen nach Absatz 1 offenzulegen.(1b) Wird der Jahresabschluss oder der Lagebericht geändert, so ist auch die Änderung nach Absatz 1 Satz 1 offenzulegen. Ist im Jahresabschluss nur der Vorschlag für die Ergebnisverwendung enthalten, ist der Beschluss über die Ergebnisverwendung nach seinem Vorliegen nach Absatz 1 Satz 1 offenzulegen.(2) (weggefallen)(2a) Bei der Offenlegung nach Absatz 1 in Verbindung mit § 8b Absatz 2 Nummer 4 kann bei großen Kapitalgesellschaften (§ 267 Absatz 3) an die Stelle des Jahresabschlusses ein Einzelabschluss treten, der nach den in § 315e Absatz 1 bezeichneten internationalen Rechnungslegungsstandards aufgestellt worden ist. Ein Unternehmen, das von diesem Wahlrecht Gebrauch macht, hat die dort genannten Standards vollständig zu befolgen. Auf einen solchen Abschluss sind § 243 Abs. 2, die §§ 244, 245, 257, 264 Absatz 1a, 2 Satz 3, § 285 Nr. 7, 8 Buchstabe b, Nr. 9 bis 11a, 14 bis 17, § 286 Absatz 1 und 3 anzuwenden. Die Verpflichtung, einen Lagebericht offenzulegen, bleibt unberührt; der Lagebericht nach § 289 muss in dem erforderlichen Umfang auch auf den Einzelabschluss nach Satz 1 Bezug nehmen. Die übrigen Vorschriften des Zweiten Unterabschnitts des Ersten Abschnitts und des Ersten Unterabschnitts des Zweiten Abschnitts gelten insoweit nicht. Kann wegen der Anwendung des § 286 Abs. 1 auf den Anhang die in Satz 2 genannte Voraussetzung nicht eingehalten werden, entfällt das Wahlrecht nach Satz 1.(2b) Die befreiende Wirkung der Offenlegung des Einzelabschlusses nach Absatz 2a tritt ein, wenn 1.statt des vom Abschlussprüfer zum Jahresabschluss erteilten Bestätigungsvermerks oder des Vermerks über dessen Versagung der entsprechende Vermerk zum Abschluss nach Absatz 2a in die Offenlegung nach Absatz 1 einbezogen wird,2.der Vorschlag für die Verwendung des Ergebnisses und gegebenenfalls der Beschluss über seine Verwendung unter Angabe des Jahresüberschusses oder Jahresfehlbetrags in die Offenlegung nach Absatz 1 einbezogen werden und3.der Jahresabschluss mit dem Bestätigungsvermerk oder dem Vermerk über dessen Versagung in deutscher Sprache nach Maßgabe des Absatzes 1a Satz 1 und des Absatzes 4 der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister durch dauerhafte Hinterlegung übermittelt wird.(3) Die Absätze 1 bis 1b Satz 1 und Absatz 4 gelten entsprechend für die Mitglieder des vertretungsberechtigten Organs einer Kapitalgesellschaft, die einen Konzernabschluss und einen Konzernlagebericht aufzustellen haben.(3a) Wird der Konzernabschluss zusammen mit dem Jahresabschluss des Mutterunternehmens oder mit einem von diesem aufgestellten Einzelabschluss nach Absatz 2a offengelegt, können die Vermerke des Abschlussprüfers nach § 322 zu beiden Abschlüssen zusammengefasst werden; in diesem Fall können auch die jeweiligen Prüfungsberichte zusammengefasst werden.(4) Bei einer Kapitalgesellschaft im Sinn des § 264d beträgt die Frist nach Absatz 1a Satz 1 längstens vier Monate. Für die Wahrung der Fristen nach Satz 1 und Absatz 1a Satz 1 ist der Zeitpunkt der Übermittlung der Unterlagen maßgebend. Eine Kapitalgesellschaft im Sinne des § 264d hat die Unterlagen nach Absatz 1 Satz 1 gleichzeitig mit ihrer öffentlichen Zugänglichmachung im Internet im Sinne des § 114 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes nach Absatz 1 Satz 2 zu übermitteln.(5) Auf Gesetz, Gesellschaftsvertrag oder Satzung beruhende Pflichten der Gesellschaft, den Jahresabschluss, den Einzelabschluss nach Absatz 2a, den Lagebericht, den Konzernabschluss oder den Konzernlagebericht in anderer Weise bekannt zu machen, einzureichen oder Personen zugänglich zu machen, bleiben unberührt.(6) Die §§ 11 und 12 Absatz 2 gelten entsprechend für die Unterlagen, die an die das Unternehmensregister führende Stelle zur Einstellung in das Unternehmensregister zu übermitteln sind; § 325a Absatz 1 Satz 5 und § 340l Absatz 2 Satz 6 bleiben unberührt.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 336",
+      "official_doknr": "BJNR002190897BJNE013209360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Vorstand einer Genossenschaft hat den Jahresabschluß (§ 242) um einen Anhang zu erweitern, der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit bildet, sowie einen Lagebericht aufzustellen. Der Jahresabschluß und der Lagebericht sind in den ersten fünf Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr aufzustellen. Ist die Genossenschaft kapitalmarktorientiert im Sinne des § 264d und begibt sie nicht ausschließlich die von § 327a erfassten Schuldtitel, beträgt die Frist nach Satz 2 vier Monate.(2) Auf den Jahresabschluss und den Lagebericht sind, soweit in diesem Abschnitt nichts anderes bestimmt ist, die folgenden Vorschriften entsprechend anzuwenden: 1.§ 264 Absatz 1 Satz 4 erster Halbsatz und Absatz 1a, 2,2.die §§ 265 bis 289e, mit Ausnahme von § 277 Absatz 3 Satz 1 und § 285 Nummer 17,3.§ 289f Absatz 4 nach Maßgabe des § 9 Absatz 3 und 4 des Genossenschaftsgesetzes.Sonstige Vorschriften, die durch den Geschäftszweig bedingt sind, bleiben unberührt. Genossenschaften, die die Merkmale für Kleinstkapitalgesellschaften nach § 267a Absatz 1 erfüllen (Kleinstgenossenschaften), dürfen auch die Erleichterungen für Kleinstkapitalgesellschaften nach näherer Maßgabe des § 337 Absatz 4 und § 338 Absatz 4 anwenden.(3) § 330 Abs. 1 über den Erlaß von Rechtsverordnungen ist entsprechend anzuwenden.",
+      "same_text_as_authoring_capture": true
+    },
+    {
+      "act": "hgb",
+      "label": "§ 339",
+      "official_doknr": "BJNR002190897BJNE013510360",
+      "evidence": "sources/review-p47-p63/hgb.xml",
+      "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "text": "(1) Der Vorstand hat unverzüglich nach der Generalversammlung über den Jahresabschluß, jedoch spätestens vor Ablauf des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahrs, den festgestellten Jahresabschluß, den Lagebericht, die Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 und den Bericht des Aufsichtsrats in deutscher Sprache der das Unternehmensregister führenden Stelle elektronisch zur Einstellung in das Unternehmensregister zu übermitteln. Ist die Erteilung eines Bestätigungsvermerks nach § 58 Abs. 2 des Genossenschaftsgesetzes oder nach Artikel 10 Absatz 1 der Verordnung (EU) Nr. 537/2014 vorgeschrieben, so ist dieser mit dem Jahresabschluß zu übermitteln; hat der Prüfungsverband die Bestätigung des Jahresabschlusses versagt, so muß dies auf dem übermittelten Jahresabschluß vermerkt und der Vermerk vom Prüfungsverband unterschrieben sein. Ist die Prüfung des Jahresabschlusses im Zeitpunkt der Übermittlung der Unterlagen nach Satz 1 nicht abgeschlossen, so ist der Bestätigungsvermerk oder der Vermerk über seine Versagung unverzüglich nach Abschluß der Prüfung zu übermitteln. Wird der Jahresabschluß oder der Lagebericht nach der Übermittlung geändert, so ist auch die geänderte Fassung zu übermitteln.(2) § 325 Absatz 2a, 2b, 4 und 6 sowie die §§ 326 bis 329 sind entsprechend anzuwenden.(3) Die §§ 335 und 335a finden mit den Maßgaben entsprechende Anwendung, dass sich das Ordnungsgeldverfahren gegen die Mitglieder des Vorstands der Genossenschaft richtet und nur auf Antrag des Prüfungsverbandes, dem die Genossenschaft angehört, oder eines Mitglieds, Gläubigers oder Arbeitnehmers der Genossenschaft durchzuführen ist. Das Ordnungsgeldverfahren kann auch gegen die Genossenschaft durchgeführt werden, für die die Mitglieder des Vorstands die in Absatz 1 genannten Pflichten zu erfüllen haben.",
+      "same_text_as_authoring_capture": true
+    }
+  ],
+  "cited_case_snapshot_checks": [
+    {
+      "official_doknr": "KORE202400012",
+      "snapshot": "sources/review-p47-p63/case-KORE202400012.xml",
+      "sha256": "05127c0ab0425a19c1f5614bc76844b317263e231feef745e9b127d4b9f65245",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore202400012.xml",
+      "byte_identical": true
+    }
+  ],
+  "complete": true,
+  "limitations": [
+    "Technical evidence supports, but does not substitute for, the recorded substantive reading of exactly 20 units.",
+    "Other units are compared only for preservation, not reviewed for legal meaning."
+  ]
+}

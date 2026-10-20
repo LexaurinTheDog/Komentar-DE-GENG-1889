@@ -1,0 +1,68 @@
+{
+  "pattern": "§\\s*(?:51|53|54|55|61|62)\\s*(?:Abs[^G]{0,25})?GenG|Genossenschaft.{0,20}Prüfungsverband",
+  "results": [
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore202400012.xml",
+      "court": null,
+      "type": "BGH",
+      "date": "20231130",
+      "docket": "III ZR 41/23",
+      "normen": "",
+      "heading": ""
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore307802017.xml",
+      "court": null,
+      "type": "BGH",
+      "date": "20170110",
+      "docket": "II ZR 10/15",
+      "normen": "§ 55 Abs 1 S 1 GenG",
+      "heading": "\n      \n         \n            \n            \n               In der Satzung eines genossenschaftlichen Prüfungsverbandes können das Prüfungsrecht des Verbandes und die ihm entsprechende Duldungspflicht der Genossenschaft in den durch das Vereinsrecht und das Genossenschaftsrecht gezogenen Grenzen näher ausgestaltet werden. Das Prüfungsrecht kann durch eine Verbandssatzung, der sich die Genossenschaft durch ihren freiwilligen Beitritt unterworfen hat, auf Pflichtprüfungen erstreckt werden, die die Genossenschaft auch durch einen anderen Prüfungsverband, dessen Mitglied sie ist, vornehmen lassen könnte.\n            \n         \n      \n   "
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore313782011.xml",
+      "court": null,
+      "type": "BGH",
+      "date": "20110621",
+      "docket": "II ZB 12/10",
+      "normen": "§ 53 Abs 2 GenG, § 54 GenG, § 55 GenG, § 64c GenG, § 101 GenG, § 155 Abs 3 S 1 InsO",
+      "heading": "\n      \n         \n            \n            \n               1. Das Recht und die Pflicht des genossenschaftlichen Prüfungsverbandes, nach §§ 53, 54 GenG die gesetzlichen Pflichtprüfungen durchzuführen, besteht nach der Eröffnung des Insolvenzverfahrens über das Vermögen der Genossenschaft jedenfalls dann nicht mehr, wenn der Geschäftsbetrieb der Genossenschaft eingestellt worden ist .\n            \n         \n         \n            \n            \n               2. Sind in diesem Fall die Voraussetzungen für die Prüfung des Jahresabschlusses nach § 53 Abs. 2 GenG erfüllt, ist gemäß § 155 Abs. 3 Satz 1 InsO auf Antrag des Insolvenzverwalters ein Abs"
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore315172013.xml",
+      "court": null,
+      "type": "BGH",
+      "date": "20130115",
+      "docket": "II ZR 83/11",
+      "normen": "§ 43a Abs 2 S 1 GenG, § 43a Abs 4 S 1 Halbs 1 GenG",
+      "heading": "\n      \n         \n            \n            \n               1. Bestimmt die Wahlordnung für die Wahl zur Vertreterversammlung einer Genossenschaft, dass Kandidaten nicht zugleich Mitglied des Wahlvorstands oder Wahlhelfer sein können, wird dadurch weder das passive Wahlrecht nach § 43a Abs. 2 Satz 1 GenG noch der in § 43a Abs. 4 Satz 1 Halbsatz 1 GenG normierte Grundsatz der allgemeinen Wahl eingeschränkt.\n            \n         \n         \n            \n            \n               2. Sehen Satzung und Wahlordnung zur Vertreterwahl einer Genossenschaft vor, dass Wahlvorschläge eines Mitglieds zu ihrer Wirksamkeit 20 Unterstützungsunterschriften b"
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore615302021.xml",
+      "court": null,
+      "type": "BGH",
+      "date": "20201207",
+      "docket": "AnwZ (Brfg) 19/19",
+      "normen": "§ 112f Abs 1 Nr 1 BRAO",
+      "heading": ""
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore634192017.xml",
+      "court": null,
+      "type": "BGH",
+      "date": "20170731",
+      "docket": "II ZR 10/15",
+      "normen": "§ 39 Abs 2 BGB, Art 9 Abs 1 GG, Art 9 Abs 3 GG",
+      "heading": ""
+    },
+    {
+      "file": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-ksre140181614.xml",
+      "court": null,
+      "type": "BSG",
+      "date": "20180404",
+      "docket": "B 12 KR 51/17 B",
+      "normen": "§ 160 Abs 2 Nr 1 SGG, § 160 Abs 2 Nr 2 SGG, § 160a Abs 2 S 3 SGG, § 27 Abs 1 Nr 5 SGB 3, § 7 Abs 1 SGB 4, § 7a SGB 4, § 1 S 3 SGB 6, § 55 Abs 1 GenG, § 55 Abs 3 GenG, § 63b Abs 1 S 1 GenG, § 63b Abs 5 S 1 GenG, § 27 Abs 1 BGB, § 27 Abs 2 BGB, § 32 BGB",
+      "heading": ""
+    }
+  ]
+}

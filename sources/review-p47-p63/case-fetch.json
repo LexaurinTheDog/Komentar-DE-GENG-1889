@@ -1,0 +1,14 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE202400012.zip",
+  "accessed_at": "2026-10-20T08:28:04.513249+00:00",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "sha256": "844a4ce875303980ccd69ab2b3a1b4faf939493e0dc4a5b7b00753ac02164c3b",
+  "file": "review-p47-p63/case-KORE202400012.zip",
+  "xml_file": "review-p47-p63/case-KORE202400012.xml",
+  "xml_sha256": "05127c0ab0425a19c1f5614bc76844b317263e231feef745e9b127d4b9f65245",
+  "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore202400012.xml",
+  "local_corpus_byte_equal": true,
+  "format_validation": "ZIP testzip passed, XML parsed, docket and date 20231130 verified",
+  "ecli": "ECLI:DE:BGH:2023:301123BIIIZR41.23.0"
+}

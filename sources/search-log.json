@@ -1374,5 +1374,61 @@
       "p46"
     ],
     "limits": "Keine erschöpfende Recherche jeder technischen Norm; kein Fehlen existierender Entscheidungen behauptet. Vorbestehende vier Fallkarten nicht erneut geprüft."
+  },
+  "bounded_review_p47_p63": {
+    "reviewed_at": "2026-10-20T08:32:29.947151+00:00",
+    "reviewed_ids": [
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53",
+      "p53a",
+      "p54",
+      "p54a",
+      "p55",
+      "p56",
+      "p57",
+      "p57a",
+      "p58",
+      "p59",
+      "p60",
+      "p61",
+      "p62",
+      "p63"
+    ],
+    "search_evidence": "review-p47-p63/local-case-search.json",
+    "method": "Gezielte rg-Suche nach §§ 51, 53, 54, 55, 61, 62 GenG und Verbandsprüfungsbezug im lokalen amtlichen XML-Korpus. III ZR 41/23 vollständig gelesen, frisch online beschafft und bytegleich abgeglichen.",
+    "used_case_ids": [
+      "KORE202400012"
+    ],
+    "supported_units": [
+      "p62"
+    ],
+    "other_candidates": "II ZR 10/15 älterer Streit zur Mehrfachmitgliedschaft; nicht als heutiges freies Prüferwahlrecht übernommen. Weitere Treffer keine zusätzlich verifizierten Autoritäten.",
+    "units_without_new_individual_case": [
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53",
+      "p53a",
+      "p54",
+      "p54a",
+      "p55",
+      "p56",
+      "p57",
+      "p57a",
+      "p58",
+      "p59",
+      "p60",
+      "p61",
+      "p63"
+    ],
+    "limits": "Keine erschöpfende Recherche; fehlender Einzelnachweis behauptet nicht Nichtexistenz einschlägiger Entscheidungen."
   }
 }

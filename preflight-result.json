@@ -295,5 +295,65 @@
       "repeated_long_paragraphs": 0,
       "does_not_certify_legal_quality": true
     }
+  },
+  "bounded_review_p47_p63_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/geng/",
+    "verified_at": "2026-10-20T08:32:29.947151+00:00",
+    "scope": [
+      "p47",
+      "p48",
+      "p49",
+      "p50",
+      "p51",
+      "p52",
+      "p53",
+      "p53a",
+      "p54",
+      "p54a",
+      "p55",
+      "p56",
+      "p57",
+      "p57a",
+      "p58",
+      "p59",
+      "p60",
+      "p61",
+      "p62",
+      "p63"
+    ],
+    "raw_fetches": "sources/review-p47-p63/fetches.json",
+    "version_evidence": {
+      "fresh_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "canonical_byte_equal": true,
+      "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+      "effective_from": "2025-01-01",
+      "commencement_basis": "Verkündung am 29.10.2024; Art. 22 S. 13–14 und sämtliche Ausnahmen Art. 74 Abs. 1–13 S. 34–35 im frisch erneut beschafften BEG IV gelesen. Art. 22 unterliegt der allgemeinen Quartalsregel. Abruf-/Builddatum nicht als Inkrafttretensbeleg verwendet.",
+      "source": "sources/review-p47-p63/beg4.pdf",
+      "since_intake": "Keine Textänderung im erhaltenen Intake-Abgleich; frisches XML bytegleich mit Erstfassung."
+    },
+    "historical_versions_checked": {
+      "fresh_equals_canonical": true,
+      "duplicate_doknr": [],
+      "missing_doknr": [],
+      "extra_doknr": [],
+      "intake_change_map": "sources/change-map.json",
+      "inventory": "coverage-check.json",
+      "selection": "Eine aktuelle konsolidierte Fassung, keine historischen Parallelversionen zusammengefügt; sämtliche Wegfallpositionen erhalten."
+    },
+    "annexes_checked": {
+      "raw_node_counts": {
+        "metadata": 1,
+        "contents": 1,
+        "structure": 10,
+        "statutory": 199
+      },
+      "operative_annexes": [],
+      "eingangsformel_nodes": [],
+      "unclassified_nodes": [],
+      "disposition": "Alle 211 Rohknoten, Inhaltsübersicht und Gesamtausgabe kontrolliert. Keine operative Anlage oder Eingangsformel vorhanden; keine echte Auslassung zu reparieren. § 110 Anlage der Vorschüsse ist Geldanlage, kein Gesetzesanhang."
+    },
+    "unresolved_blockers": []
   }
 }

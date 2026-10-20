@@ -1,0 +1,13 @@
+# BGH, Beschluss vom 30. November 2023 – III ZR 41/23
+
+ECLI:DE:BGH:2023:301123BIIIZR41.23.0. Amtlicher Dokumentenschlüssel: KORE202400012. [Amtlicher Volltext](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE202400012&psml=bsjrsprod.psml&max=true). [Gesichertes XML](../sources/review-p47-p63/case-KORE202400012.xml), [ZIP und Abrufnachweis](../sources/review-p47-p63/case-fetch.json).
+
+Am 20. Oktober 2026 vollständig gelesen: Tenor einschließlich aller Gründe, sämtlicher Metadaten und leerer Entscheidungsabschnitte. Der veröffentlichte Beschluss hat keine Randnummern; die maßgebliche Stelle ist der zweite Textabsatz des Tenors, beginnend mit der Frage zur Haftung nach § 62 Abs. 1 Satz 3 GenG. Abruf HTTP 200; ZIP-Integrität, XML-Format, Datum und Aktenzeichen geprüft. Das frische XML ist bytegleich mit `rii-kore202400012.xml` des lokalen amtlichen Rechtsprechungskorpus. SHA-256 und Zugriffszeit stehen im Abrufnachweis.
+
+Die Klägerin griff die Nichtzulassung der Revision gegen einen Beschluss des OLG Stuttgart vom 27. Januar 2023 – 9 U 164/22 an. Der BGH wies ihre Beschwerde zurück. Nach dem veröffentlichten Text war die Frage, ob § 62 Abs. 1 Satz 3 GenG die Haftung des Prüfers aus § 826 BGB gegenüber Mitgliedern verdrängt, nicht entscheidungserheblich. Das Berufungsgericht hatte die Entscheidung selbstständig tragend auch auf fehlende konkrete Ursächlichkeit der Prüfungstätigkeit für die Investitionsentscheidung gestützt. Die dagegen gerichtete Beschwerderüge blieb erfolglos.
+
+Der Nachweis unterstützt ausschließlich die Erläuterung zu **§ 62**: Ein eigener Anlageverlust des Mitglieds, der gesetzliche Anspruch der eG und eine behauptete deliktische Außenhaftung müssen auseinandergehalten werden. Der BGH hat hier weder einen allgemeinen Vorrang des § 62 noch die generelle Zulässigkeit jedes deliktischen Mitgliederanspruchs entschieden. Eine gegenteilige Behauptung würde die ausdrücklich offengelassene Rechtsfrage zum tragenden Urteilssatz umdeuten.
+
+Der Beschluss gibt keine ausführlichen Feststellungen zum Prüfungsfehler oder Investitionsablauf wieder. Die fehlende Ursächlichkeit ist deshalb kein allgemeiner Erfahrungssatz über Prüfungsberichte. Es wird auch keine Aussage über Anwendung der heutigen Haftungsgrenze auf einen bestimmten historischen Schaden abgeleitet. Die gegenwärtige Kommentierung von § 62 stützt ihre gesetzlichen Tatbestände auf das separat verifizierte aktuelle GenG-XML. Die Auswahl dieses Beschlusses ist selektiv; weitere Anspruchsgrundlagen werden nicht abschließend untersucht.
+
+Eigene Fallzusammenfassung: Copyright © 2026 Vojtěch Říha, Apache-2.0. Amtlicher Entscheidungstext ist gesondert zu behandeln; private Leitsätze wurden nicht übernommen.
