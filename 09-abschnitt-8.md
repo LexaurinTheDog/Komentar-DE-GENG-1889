@@ -34,7 +34,7 @@ Mehrere Geschäftsanteile können die Haftsumme erhöhen. Im gesetzlichen Ausgan
 
 Beispiel: Bei einem Anteil von 1.000 Euro und einer bisherigen Haftsumme von 1.000 Euro übernimmt ein Mitglied einen zweiten Anteil. Ohne abweichende zulässige Satzungsregel ist die Mindestanpassung an den Gesamtbetrag zu prüfen. Ein bloßer Hinweis im Beteiligungsformular „Haftung unverändert“ ersetzt eine erforderliche Satzungsbestimmung nicht. Die wirtschaftliche Tragweite zusätzlicher Anteile ist deshalb vor der Erklärung nach § 15b offenzulegen; § 15a gilt entsprechend. Die Regel wirkt auf die Nachschussberechnung, nicht als unmittelbare Außenhaftung gegenüber jedem einzelnen Gläubiger. Bei Anteilszerlegung nach § 22b muss die Gesamtbelastung statt nur die neue Stückzahl betrachtet werden.
 
-### §§ 122 bis 145 — (weggefallen)
+### (XXXX) §§ 122 bis 145 — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T15:36:07.342215+00:00",
+  "checked_at": "2026-10-20T07:58:33.962540+00:00",
   "units": 199,
   "commented_units": 199,
   "individual_slots": 252,
@@ -9,7 +9,7 @@
   "duplicate_commentary_ids": [],
   "repeated_paragraphs_180plus_chars": [],
   "xml_vs_independent_official_html_mismatches": [],
-  "local_links_checked": 80,
+  "local_links_checked": 88,
   "broken_local_links": [],
   "completeness_ok": true,
   "limitations": [

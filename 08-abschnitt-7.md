@@ -64,7 +64,7 @@ Die Registereintragung erfolgt von Amts wegen und bildet nicht nur die Insolvenz
 
 Beispiel: Ein vorläufiger Insolvenzverwalter wird bestellt und zugleich ein allgemeiner Zustimmungsvorbehalt für Verfügungen angeordnet. Die Eintragung betrifft gerade diese Kombination; eine beliebige frühe Verfahrensmaßnahme darf nicht ungeprüft derselben Fallgruppe zugeordnet werden. Später ist auch die Aufhebung der entsprechenden Sicherungsmaßnahme zu erfassen. Die Amtswegigkeit entlastet nicht davon, bei einem Vertragsschluss die tatsächlich bestehenden Verfügungsbefugnisse festzustellen. Die materielle Auflösungswirkung folgt aus § 101, während diese Norm deren Registerdokumentation und weitere Verfahrensdaten regelt.
 
-### §§ 103 und 104 — (weggefallen)
+### (XXXX) §§ 103 und 104 — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 

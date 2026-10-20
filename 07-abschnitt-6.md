@@ -14,7 +14,7 @@ Die Generalversammlung kann die Auflösung jederzeit beschließen. Erforderlich 
 
 Auflösung bedeutet den Übergang in die Abwicklung, nicht das sofortige Verschwinden des Rechtsträgers und seines Vermögens. Beispiel: Die Mitglieder wollen den gemeinsamen Betrieb einstellen und beschließen die Auflösung. Sie können nicht am selben Abend die Kasse nach Belieben verteilen. Bestellung und Tätigkeit der Liquidatoren, Gläubigeraufruf, Sperrjahr und Verteilungsmaßstab folgen aus §§ 82 ff. Eine spätere Fortsetzung kann unter § 79a möglich sein, ist aber an eigene Grenzen gebunden. Für die Abstimmung sind außerdem die Stimmrechtsregeln des § 43 und die ordnungsgemäße Ankündigung nach § 46 zu beachten.
 
-### §§ 78a und 78b — (weggefallen)
+### (XXXX) §§ 78a und 78b — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 
@@ -284,7 +284,7 @@ Die Unterlagen bleiben auch nach beendeter Liquidation zehn Jahre verwahrt. Verw
 
 Das Gericht kann frühere Mitglieder, Rechtsnachfolger und Gläubiger zur Einsicht ermächtigen. Dies ist von einer freien Veröffentlichung des gesamten Archivs zu unterscheiden. Beispiel: Nach Abschluss der Verteilung streitet ein früheres Mitglied über die Berechnung seines Guthabens. Die nachvollziehbar verwahrten Unterlagen ermöglichen eine spätere Aufklärung, ohne dass jeder Interessierte unbeschränkten Datenzugang erhält. Bei der Beendigung sollten Verwahrperson, Bestand, Übergabe und Aufbewahrungszeitraum dokumentiert werden. Die spezielle Frist nach vollständiger Liquidation ist von der laufenden Aufbewahrung einzelner Mitgliedschaftsunterlagen nach § 30 und den sonstigen Rechnungslegungsunterlagen während der Abwicklung zu trennen.
 
-### §§ 93a bis 93s — (weggefallen)
+### (XXXX) §§ 93a bis 93s — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 

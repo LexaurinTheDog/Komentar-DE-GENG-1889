@@ -2,7 +2,7 @@
   "country": "de",
   "identifier": "GenG",
   "title": "Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften",
-  "stage": "drafted_technical_validation",
+  "stage": "preflight_complete",
   "authoring_started_at": "2026-10-19T15:07:18+00:00",
   "completed_at": "2026-10-19T15:37:23.456730+00:00",
   "decisive_date": "2026-10-19",
@@ -99,7 +99,10 @@
     "last_amendment_effective_from": "2025-01-01",
     "commencement_verified_in": "BGBl. 2024 I Nr. 323, Art. 74 Abs. 1; Seiten 34–35",
     "intake_comparison": "sources/change-map.json",
-    "changed_units_since_intake": 0
+    "changed_units_since_intake": 0,
+    "preflight_verification": "sources/verification.json",
+    "rechecked_at": "2026-10-20T07:58:15.432200+00:00",
+    "coverage_check": "coverage-check.json"
   },
   "total_units": 199,
   "completed_units": 199,
@@ -169,7 +172,11 @@
     "Selektive, nicht erschöpfende Rechtsprechungsrecherche; kein flächendeckender Einzelentscheidungsnachweis für technische Normen.",
     "C-776/25 war beim amtlichen Stichtagsabruf anhängig; keine abschließende EuGH-Antwort behauptet.",
     "Kein vollständiger historischer Parallelkommentar zu allen extern verwiesenen Gesetzesfassungen.",
-    "Entwurf ohne unabhängige Zweitprüfung oder externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt."
+    "Entwurf ohne unabhängige Zweitprüfung oder externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
+    "Quellen-/Parser-Preflight vom 20. Oktober 2026 ersetzt keine unabhängige inhaltliche Zweitprüfung; ursprünglicher Bearbeitungsstichtag bleibt 19. Oktober 2026."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "previous_stage": "drafted_technical_validation",
+  "preflight_completed_at": "2026-10-20T07:58:15.432200+00:00",
+  "preflight_result": "preflight-result.json"
 }

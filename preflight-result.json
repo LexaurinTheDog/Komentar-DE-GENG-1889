@@ -1,0 +1,85 @@
+{
+  "kind": "preflight",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/geng/",
+  "verified_at": "2026-10-20T07:58:15.432200+00:00",
+  "version_evidence": {
+    "authoring_started_at": "2026-10-19T15:07:18+00:00",
+    "fresh_recheck_date": "2026-10-20",
+    "official_xml": "sources/geng.xml",
+    "fresh_official_xml": "sources/preflight-20261020/geng.xml",
+    "sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "verification": "sources/verification.json",
+    "last_amendment": "Art. 22 G v. 23.10.2024 I Nr. 323",
+    "effective_from": "2025-01-01",
+    "published_act": "sources/preflight-20261020/beg4.pdf",
+    "commencement_basis": "BGBl. 2024 I Nr. 323, publication 29 October 2024, Art. 22 pp. 13–14 and Art. 74 pp. 34–35. General commencement first day of following quarter; no Art. 22 exception.",
+    "current_xml_and_html_byte_equal_to_authoring_capture": true
+  },
+  "historical_versions_checked": {
+    "intake_original_sha256": "ff080cf25f275ee79900005196c46be80bc7f8b242001863db0bdddeef86bf3b",
+    "intake_copy_sha256": "ff080cf25f275ee79900005196c46be80bc7f8b242001863db0bdddeef86bf3b",
+    "intake_copy_byte_equal": true,
+    "authoring_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "preflight_xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+    "authoring_vs_preflight_byte_equal": true,
+    "nonempty_unit_texts_missing_from_intake": [],
+    "intake_change_map": "sources/change-map.json",
+    "unit_doknr_duplicates": [],
+    "xml_historical_version_container_tags": [],
+    "selection": "Single current consolidated GenG XML. No parallel historical norm versions concatenated. No historical reconstruction of pre-intake law undertaken."
+  },
+  "annexes_checked": {
+    "present": false,
+    "annexes": [],
+    "verification": "All 211 raw norm nodes inventoried, including unnumbered nodes, plus official contents and HTML total edition. No operative annex found; no body excluded merely for lacking a section heading."
+  },
+  "eingangsformel_checked": {
+    "present": false,
+    "disposition": "No Eingangsformel in any official norm metadata or content node. Metadata node has no operative body; law-wide editorial/application notes preserved separately."
+  },
+  "coverage": {
+    "complete": true,
+    "raw_nodes": 211,
+    "statutory_units": 199,
+    "individual_slots": 252,
+    "structural_headings": 10,
+    "table_of_contents_nodes": 1,
+    "metadata_nodes": 1,
+    "report": "coverage-check.json",
+    "toc_comparison": "completeness.json",
+    "missing": [],
+    "extra": [],
+    "duplicates": []
+  },
+  "repairs": [
+    {
+      "issue": "Six official grouped repeal labels lost the literal (XXXX) prefix.",
+      "fix": "Retain exact official labels in units and canonical source; stable commentary IDs and all prose unchanged.",
+      "affected_labels": [
+        "(XXXX) §§ 33a bis 33i",
+        "(XXXX) §§ 70 bis 72",
+        "(XXXX) §§ 78a und 78b",
+        "(XXXX) §§ 93a bis 93s",
+        "(XXXX) §§ 103 und 104",
+        "(XXXX) §§ 122 bis 145"
+      ]
+    },
+    {
+      "issue": "Law-wide editorial/application notes not separately exposed in the previous derived evidence.",
+      "fix": "Preserve metadata and notes in sources/statute-metadata.json; do not misclassify them as an operative Eingangsformel."
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "Only source verification and parser/coverage preflight performed. No independent review of commentary meaning or authorities.",
+    "No new commentary authored. Existing 199 commentary blocks retained.",
+    "No exhaustive historical reconstruction or exhaustive gazette search asserted.",
+    "Independent substantive second pass remains outstanding."
+  ],
+  "validation": {
+    "state": "pending_rebuild_validation"
+  },
+  "publication_or_external_writes": false
+}

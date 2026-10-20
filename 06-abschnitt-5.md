@@ -121,7 +121,7 @@ Die Mitgliederliste muss die rechtlichen Folgen der Beendigungs- und Reduzierung
 
 Beispiel: Ein Mitglied kündigt im Frühjahr wirksam zum Jahresende. Die Liste darf nicht schon mit Bearbeitung des Schreibens einen im Frühjahr vollendeten Austritt ausweisen. Bei einer Teilkündigung darf umgekehrt nicht die gesamte Mitgliedschaft als beendet markiert werden. Der Eintrag dokumentiert den zuvor nach den materiellen Regeln festgestellten Zeitpunkt, ersetzt aber keine wirksame Erklärung und heilt keine versäumte Kündigungsfrist. Die allgemeinen Anforderungen an Listendaten und Unterlagenaufbewahrung aus § 30 gelten daneben. Richtige Zeitpunkte sind unter anderem für Stimmrechte, Mitgliederzahlen und die Auseinandersetzung nach § 73 entscheidend.
 
-### §§ 70 bis 72 — (weggefallen)
+### (XXXX) §§ 70 bis 72 — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 

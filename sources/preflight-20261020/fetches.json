@@ -1,0 +1,88 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/geng/xml.zip",
+    "accessed_at": "2026-10-20T07:56:07.142326+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+    "file": "preflight-20261020/geng-xml.zip",
+    "headers": {
+      "Date": "Tue, 20 Oct 2026 07:56:07 GMT",
+      "Last-Modified": "Wed, 06 May 2026 15:47:05 GMT",
+      "ETag": "\"cff3-65128135b2a07\"",
+      "Content-Length": "53235",
+      "Content-Type": "application/zip"
+    },
+    "format_validation": {
+      "zip_members": [
+        "BJNR000550889.xml"
+      ],
+      "xml_root": "dokumente",
+      "xml_sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "jurabk": "GenG",
+      "amtabk": "GenG",
+      "stand": [
+        "Neugefasst durch Bek. v. 16.10.2006 I 2230;",
+        "zuletzt geändert durch Art. 22 G v. 23.10.2024 I Nr. 323"
+      ],
+      "builddate": "20260506174705"
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geng/",
+    "final_url": "https://www.gesetze-im-internet.de/geng/",
+    "accessed_at": "2026-10-20T07:56:07.400554+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+    "file": "preflight-20261020/geng-index.html",
+    "headers": {
+      "Date": "Tue, 20 Oct 2026 07:56:07 GMT",
+      "Last-Modified": "Tue, 20 Oct 2026 00:14:10 GMT",
+      "ETag": "\"9be8-65e3a827e58d9\"",
+      "Content-Length": "39912",
+      "Content-Type": "text/html"
+    },
+    "format_validation": {
+      "html_statute_identity": true
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+    "final_url": "https://www.gesetze-im-internet.de/geng/BJNR000550889.html",
+    "accessed_at": "2026-10-20T07:56:07.564855+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+    "file": "preflight-20261020/geng-full.html",
+    "headers": {
+      "Date": "Tue, 20 Oct 2026 07:56:07 GMT",
+      "Last-Modified": "Tue, 20 Oct 2026 00:14:09 GMT",
+      "ETag": "\"4e76e-65e3a82689e7c\"",
+      "Content-Length": "321390",
+      "Content-Type": "text/html"
+    },
+    "format_validation": {
+      "html_statute_identity": true
+    }
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T07:56:07.873127+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+    "file": "preflight-20261020/beg4.pdf",
+    "headers": {
+      "Date": "Tue, 20 Oct 2026 07:56:08 GMT",
+      "Last-Modified": "Tue, 10 Jun 2025 11:23:58 GMT",
+      "ETag": "\"715213f009ed8f00f6a95eaa186b2ca0\"",
+      "Content-Type": "application/pdf"
+    },
+    "format_validation": {
+      "pdf_magic": true
+    }
+  }
+]

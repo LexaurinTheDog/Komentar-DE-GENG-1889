@@ -153,7 +153,7 @@ Absatz 1 weist dem Vorstand die Verantwortung für ordnungsgemäße Bücher zu. 
 
 Absatz 2 begrenzt eine Anfechtung wegen bestimmter Gliederungs- oder Formblattfehler, wenn die Klarheit nur unwesentlich beeinträchtigt wird. Er erklärt nicht jeden Rechnungslegungsfehler für unschädlich. Absatz 3 begründet eine besondere Einberufungs- und Anzeigepflicht bei dem dort beschriebenen, durch Hälfte der Geschäftsguthaben und Rücklagen nicht gedeckten Verlust; pflichtgemäße Erkenntnis kann bereits ohne fertigen Jahresabschluss genügen. Beispiel: Eine Zwischenbilanz zeigt erhebliche Verluste. Der Vorstand kann die Mitgliederinformation nicht allein mit dem Argument vertagen, der Abschluss sei erst in Monaten fällig. Die Informationspflicht ist von Insolvenzantragsfragen zu trennen; Verstöße können außerdem nach § 148 strafrechtlich bedeutsam sein.
 
-### §§ 33a bis 33i — (weggefallen)
+### (XXXX) §§ 33a bis 33i — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 
