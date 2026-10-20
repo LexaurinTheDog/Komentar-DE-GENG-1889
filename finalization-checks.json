@@ -1,0 +1,1825 @@
+{
+  "kind": "ledger_assembly_and_preservation",
+  "checked_at": "2026-10-20T09:40:37.820004+00:00",
+  "complete": true,
+  "ledger_sha256": "d1ff35a712790bd589d8382ce03a64572e467ec4ba74c78a180ca45ac79fe132",
+  "expected_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p7a",
+    "p8",
+    "p8a",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p15a",
+    "p15b",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p21a",
+    "p21b",
+    "p22",
+    "p22a",
+    "p22b",
+    "p23",
+    "p24",
+    "p25",
+    "p25a",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p33a-33i",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41",
+    "p42",
+    "p43",
+    "p43a",
+    "p43b",
+    "p44",
+    "p45",
+    "p46",
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53",
+    "p53a",
+    "p54",
+    "p54a",
+    "p55",
+    "p56",
+    "p57",
+    "p57a",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63",
+    "p63a",
+    "p63b",
+    "p63c",
+    "p63d",
+    "p63e",
+    "p63f",
+    "p63g",
+    "p63h",
+    "p64",
+    "p64a",
+    "p64b",
+    "p64c",
+    "p65",
+    "p66",
+    "p66a",
+    "p67",
+    "p67a",
+    "p67b",
+    "p67c",
+    "p68",
+    "p69",
+    "p70-72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p77a",
+    "p78",
+    "p78a-78b",
+    "p79",
+    "p79a",
+    "p80",
+    "p81",
+    "p81a",
+    "p82",
+    "p83",
+    "p84",
+    "p85",
+    "p86",
+    "p87",
+    "p87a",
+    "p87b",
+    "p88",
+    "p88a",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a-93s",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p103-104",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p108a",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p112a",
+    "p113",
+    "p114",
+    "p115",
+    "p115a",
+    "p115b",
+    "p115c",
+    "p115d",
+    "p115e",
+    "p116",
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122-145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p151a",
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165",
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177"
+  ],
+  "ledger_reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p7a",
+    "p8",
+    "p8a",
+    "p9",
+    "p10",
+    "p11",
+    "p11a",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p15a",
+    "p15b",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p21a",
+    "p21b",
+    "p22",
+    "p22a",
+    "p22b",
+    "p23",
+    "p24",
+    "p25",
+    "p25a",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p33a-33i",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p38",
+    "p39",
+    "p40",
+    "p41",
+    "p42",
+    "p43",
+    "p43a",
+    "p43b",
+    "p44",
+    "p45",
+    "p46",
+    "p47",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53",
+    "p53a",
+    "p54",
+    "p54a",
+    "p55",
+    "p56",
+    "p57",
+    "p57a",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63",
+    "p63a",
+    "p63b",
+    "p63c",
+    "p63d",
+    "p63e",
+    "p63f",
+    "p63g",
+    "p63h",
+    "p64",
+    "p64a",
+    "p64b",
+    "p64c",
+    "p65",
+    "p66",
+    "p66a",
+    "p67",
+    "p67a",
+    "p67b",
+    "p67c",
+    "p68",
+    "p69",
+    "p70-72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p77a",
+    "p78",
+    "p78a-78b",
+    "p79",
+    "p79a",
+    "p80",
+    "p81",
+    "p81a",
+    "p82",
+    "p83",
+    "p84",
+    "p85",
+    "p86",
+    "p87",
+    "p87a",
+    "p87b",
+    "p88",
+    "p88a",
+    "p89",
+    "p90",
+    "p91",
+    "p92",
+    "p93",
+    "p93a-93s",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p103-104",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p108a",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p112a",
+    "p113",
+    "p114",
+    "p115",
+    "p115a",
+    "p115b",
+    "p115c",
+    "p115d",
+    "p115e",
+    "p116",
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122-145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p151a",
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165",
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177"
+  ],
+  "missing_ids": [],
+  "duplicate_ids": [],
+  "mismatched_commentary_hashes": [],
+  "unresolved_blockers": [],
+  "commentary_files_sha256": {
+    "commentary/part-01.md": "ea6e90c3deabaf1d746aea35c9411e91ebabaf52c4b085bd8c4a59fbf3ba86b9",
+    "commentary/part-02.md": "5555a295598a06b8d14cfc81519459952ee8920664565b950609ad83119b8203",
+    "commentary/part-03.md": "e71cf64f8afbf2b3f7df4f32886b25fcb2bc76eadd35a0a78e331a933196978b",
+    "commentary/part-04.md": "03d367093f7ea8952c7c276ddbf38fec58c3164ff4f8401d8cee8afaa6b0665d",
+    "commentary/part-05.md": "42cf690a45abcf4b5d2d0c1e3f5b1373b0a630696c90d7e3cfcb51d928c01ad3",
+    "commentary/part-06.md": "688c094c301552b2616c0238c73fa4a5afd64e6131540b104c361aa0ca49faa0",
+    "commentary/part-07.md": "0ef8cae9b4c2eb966b9bddd5a0fd70c1e07fe55554e87550814d084a18e82faf",
+    "commentary/part-08.md": "00ae0b33461dcb7d8b657ee8751fbdae4d824ff89910c01fd66cf89591f6f96a",
+    "commentary/part-09.md": "7f525c50a70ffd588d7ba54ccef2dfb6da863643c2dce78f65d38190f2018c4f",
+    "commentary/part-10.md": "cf4473167bfa508e6c2023edd040fac26272d90b9d7c198dff3d309b88db44ae",
+    "commentary/part-11.md": "580bc8dc5af71b1408be8cdea74479605ecde3fd0ec996870f42aacfd428ebcd",
+    "commentary/part-12.md": "4352c860adfb72c4be958b727a7c7cfd3af1f2c423e7ecd4ded4724f43a225f0",
+    "commentary/part-13.md": "9cb6516a843341690d627a04a94a278453f42744d93f1e0cebbb522560a1561b",
+    "commentary/part-14.md": "9f43d245602948300119641b9121af4d8a6fb5dc13f270a225c189efa06e0b73"
+  },
+  "entries": [
+    {
+      "id": "p1",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "1d455273589c862af30ffad24f6f60bce237c80bdba8c7bac5c106b47198c25e",
+      "current_commentary_sha256": "1d455273589c862af30ffad24f6f60bce237c80bdba8c7bac5c106b47198c25e",
+      "matches": true
+    },
+    {
+      "id": "p2",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "1eeab6b11488b1da67818c156eefbafe9c2eb0df193634c1be93ff42be595a37",
+      "current_commentary_sha256": "1eeab6b11488b1da67818c156eefbafe9c2eb0df193634c1be93ff42be595a37",
+      "matches": true
+    },
+    {
+      "id": "p3",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "5f02ea694f31c9e0f1704f9b4a46384f412d139584d775e1745e794a284a486b",
+      "current_commentary_sha256": "5f02ea694f31c9e0f1704f9b4a46384f412d139584d775e1745e794a284a486b",
+      "matches": true
+    },
+    {
+      "id": "p4",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "83faab53e930c3bc62ea347f881f8fa44d4bf810598a6d489a42ba860400fcd5",
+      "current_commentary_sha256": "83faab53e930c3bc62ea347f881f8fa44d4bf810598a6d489a42ba860400fcd5",
+      "matches": true
+    },
+    {
+      "id": "p5",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "8e3064fd25e14dec64e2653fed87254debca4616ddfdb85d0145cc5e28898995",
+      "current_commentary_sha256": "8e3064fd25e14dec64e2653fed87254debca4616ddfdb85d0145cc5e28898995",
+      "matches": true
+    },
+    {
+      "id": "p6",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "a013de3e8dae477bbef7c16ad687b2edac594413956c7c22394c293ca8f15205",
+      "current_commentary_sha256": "a013de3e8dae477bbef7c16ad687b2edac594413956c7c22394c293ca8f15205",
+      "matches": true
+    },
+    {
+      "id": "p7",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "732a85526c334980a0f9a3a6f75b069026ad1227744cb24d1727259e54e649ef",
+      "current_commentary_sha256": "732a85526c334980a0f9a3a6f75b069026ad1227744cb24d1727259e54e649ef",
+      "matches": true
+    },
+    {
+      "id": "p7a",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "e9cb0bdf0614d5abd9e191aa292d26d445ced463f31f6f417800d3df45e39848",
+      "current_commentary_sha256": "e9cb0bdf0614d5abd9e191aa292d26d445ced463f31f6f417800d3df45e39848",
+      "matches": true
+    },
+    {
+      "id": "p8",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "91fdb354f352d7d25fc52d4ff4f42a84725b9198ba9333b48194ff0996dece46",
+      "current_commentary_sha256": "91fdb354f352d7d25fc52d4ff4f42a84725b9198ba9333b48194ff0996dece46",
+      "matches": true
+    },
+    {
+      "id": "p8a",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "500e90bf6bb32edf430dbd20cd07fcc33425c78e251c6d19ea359fa7d7243220",
+      "current_commentary_sha256": "500e90bf6bb32edf430dbd20cd07fcc33425c78e251c6d19ea359fa7d7243220",
+      "matches": true
+    },
+    {
+      "id": "p9",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "fef2bde4988439df8cf0eb30b3290c4ff15d2151ec477ae9a97c1e54bef6a1db",
+      "current_commentary_sha256": "fef2bde4988439df8cf0eb30b3290c4ff15d2151ec477ae9a97c1e54bef6a1db",
+      "matches": true
+    },
+    {
+      "id": "p10",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "d66be7dd540dd822578bd4e49a8f59686096dacc4a2471dde9e7c932750c3f88",
+      "current_commentary_sha256": "d66be7dd540dd822578bd4e49a8f59686096dacc4a2471dde9e7c932750c3f88",
+      "matches": true
+    },
+    {
+      "id": "p11",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "bedeb70e6c4b6759869b38871e6ed6776a95a051baf96ddce5d9929cdba1daed",
+      "current_commentary_sha256": "bedeb70e6c4b6759869b38871e6ed6776a95a051baf96ddce5d9929cdba1daed",
+      "matches": true
+    },
+    {
+      "id": "p11a",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "a8120331cc889235a790f6ea450294c9ddf88c30a0687b46d79215a5c9298a0f",
+      "current_commentary_sha256": "a8120331cc889235a790f6ea450294c9ddf88c30a0687b46d79215a5c9298a0f",
+      "matches": true
+    },
+    {
+      "id": "p12",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "591e5dd964c0931a846c4b116f9de89b28d5380c24420018432edb13400a89b6",
+      "current_commentary_sha256": "591e5dd964c0931a846c4b116f9de89b28d5380c24420018432edb13400a89b6",
+      "matches": true
+    },
+    {
+      "id": "p13",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "de9167ebff32811a03ac6cfae38d3a1a30472ea32a3de1bc14a8c684268f2eb2",
+      "current_commentary_sha256": "de9167ebff32811a03ac6cfae38d3a1a30472ea32a3de1bc14a8c684268f2eb2",
+      "matches": true
+    },
+    {
+      "id": "p14",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "f30ee0bfb2d986f5e59b6d31c18277b3e88a5100f266ffa327e7c2a8f7745f0a",
+      "current_commentary_sha256": "f30ee0bfb2d986f5e59b6d31c18277b3e88a5100f266ffa327e7c2a8f7745f0a",
+      "matches": true
+    },
+    {
+      "id": "p14a",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "429e712aeabf8ced13476657f109765d420de0f1a1a6fc16876f46aa1cb97912",
+      "current_commentary_sha256": "429e712aeabf8ced13476657f109765d420de0f1a1a6fc16876f46aa1cb97912",
+      "matches": true
+    },
+    {
+      "id": "p15",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "5a34c3ea3766714ac5cf2bea6751f8beff5d55c6a2d9c1abb2b7f9e040c09459",
+      "current_commentary_sha256": "5a34c3ea3766714ac5cf2bea6751f8beff5d55c6a2d9c1abb2b7f9e040c09459",
+      "matches": true
+    },
+    {
+      "id": "p15a",
+      "batch": "af8289b9ccfb96ca36f9d9943174e9f6c4e485c401e6cc9abbce2e0ac6823926",
+      "reviewed_commentary_sha256": "6c3507eefc3f3ab48113a433110857c994623e8548ae30fe355b99bc6bf89477",
+      "current_commentary_sha256": "6c3507eefc3f3ab48113a433110857c994623e8548ae30fe355b99bc6bf89477",
+      "matches": true
+    },
+    {
+      "id": "p15b",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "dd7b31914a39d63724149f60219d199ff8f39b71cdb452dd9368c403c8a892a4",
+      "current_commentary_sha256": "dd7b31914a39d63724149f60219d199ff8f39b71cdb452dd9368c403c8a892a4",
+      "matches": true
+    },
+    {
+      "id": "p16",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "c57fadb0264efb18be15605498b4408c9064d54b46e2e8fdfd4622e115129edb",
+      "current_commentary_sha256": "c57fadb0264efb18be15605498b4408c9064d54b46e2e8fdfd4622e115129edb",
+      "matches": true
+    },
+    {
+      "id": "p17",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "ed731dcabe3fceea1386ef829a08bbd00244a7a7629e3c3fa7fd90694fdd2207",
+      "current_commentary_sha256": "ed731dcabe3fceea1386ef829a08bbd00244a7a7629e3c3fa7fd90694fdd2207",
+      "matches": true
+    },
+    {
+      "id": "p18",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "f161cc0dbb8bf2429767c9b47599a3432b5ded0cf3888c578802936f73e1a296",
+      "current_commentary_sha256": "f161cc0dbb8bf2429767c9b47599a3432b5ded0cf3888c578802936f73e1a296",
+      "matches": true
+    },
+    {
+      "id": "p19",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "c4a9bdff7fc16e8e7f991dae8fab084218b291e20b61ec1ad729275e9d60ba30",
+      "current_commentary_sha256": "c4a9bdff7fc16e8e7f991dae8fab084218b291e20b61ec1ad729275e9d60ba30",
+      "matches": true
+    },
+    {
+      "id": "p20",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "be79efd48de95361c10070fb8d4a39f618f407a0c861218b4513f4179bccd027",
+      "current_commentary_sha256": "be79efd48de95361c10070fb8d4a39f618f407a0c861218b4513f4179bccd027",
+      "matches": true
+    },
+    {
+      "id": "p21",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "88b163e08ef7f5053c467df1cebe4ba75f7df750a03a3b82a976fc83d09875ab",
+      "current_commentary_sha256": "88b163e08ef7f5053c467df1cebe4ba75f7df750a03a3b82a976fc83d09875ab",
+      "matches": true
+    },
+    {
+      "id": "p21a",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "251c6be2794bfa221e6bb57a56d1340a666ed1523e24f021fcf2bcd9fffff945",
+      "current_commentary_sha256": "251c6be2794bfa221e6bb57a56d1340a666ed1523e24f021fcf2bcd9fffff945",
+      "matches": true
+    },
+    {
+      "id": "p21b",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "7dc73244d43c654d5626a9736305f8cd5638d895e43e287aafff9e364b5e7172",
+      "current_commentary_sha256": "7dc73244d43c654d5626a9736305f8cd5638d895e43e287aafff9e364b5e7172",
+      "matches": true
+    },
+    {
+      "id": "p22",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "74c2e36c33041bf3f7ef35ff4a277c5c9968411a8054e758f187b4208af5b272",
+      "current_commentary_sha256": "74c2e36c33041bf3f7ef35ff4a277c5c9968411a8054e758f187b4208af5b272",
+      "matches": true
+    },
+    {
+      "id": "p22a",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "296012f34e7fbfb08aa8b27d50d61a975cdce30f00637ebc73ab0e3a7d757fbc",
+      "current_commentary_sha256": "296012f34e7fbfb08aa8b27d50d61a975cdce30f00637ebc73ab0e3a7d757fbc",
+      "matches": true
+    },
+    {
+      "id": "p22b",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "b9a09f4452de618dc50a10b54e83ce425dd4e1fca0e6506906227a10f3cef70a",
+      "current_commentary_sha256": "b9a09f4452de618dc50a10b54e83ce425dd4e1fca0e6506906227a10f3cef70a",
+      "matches": true
+    },
+    {
+      "id": "p23",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "0ceb3087aaff8cd180a56ce22147f2cb1d8d865cb7eb30a299e818769032d33f",
+      "current_commentary_sha256": "0ceb3087aaff8cd180a56ce22147f2cb1d8d865cb7eb30a299e818769032d33f",
+      "matches": true
+    },
+    {
+      "id": "p24",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "1b75e63644eeda432f6365777221074cef0c293e483b699007ef67e31c23d51b",
+      "current_commentary_sha256": "1b75e63644eeda432f6365777221074cef0c293e483b699007ef67e31c23d51b",
+      "matches": true
+    },
+    {
+      "id": "p25",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "58e30db30bfbb90e0b13662bfaea518b66202bdf2aa47fb3a1726ce98f945e9b",
+      "current_commentary_sha256": "58e30db30bfbb90e0b13662bfaea518b66202bdf2aa47fb3a1726ce98f945e9b",
+      "matches": true
+    },
+    {
+      "id": "p25a",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "fb9100369dbd9b97db258bfd327a889f274c5b188329bd598c2f830eb823724d",
+      "current_commentary_sha256": "fb9100369dbd9b97db258bfd327a889f274c5b188329bd598c2f830eb823724d",
+      "matches": true
+    },
+    {
+      "id": "p26",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "00db29998b31d0047b7f9664c9e3ace1e90a6274b696d4408ac681b256a7152e",
+      "current_commentary_sha256": "00db29998b31d0047b7f9664c9e3ace1e90a6274b696d4408ac681b256a7152e",
+      "matches": true
+    },
+    {
+      "id": "p27",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "b7637fff00ba91ea2c8af5219104b23712b6cdaa238d51e565171a5ee002176e",
+      "current_commentary_sha256": "b7637fff00ba91ea2c8af5219104b23712b6cdaa238d51e565171a5ee002176e",
+      "matches": true
+    },
+    {
+      "id": "p28",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "0ecbd521a20d6bea07e05c8430ddde9830bf848dd8f97482f02b5763475017ba",
+      "current_commentary_sha256": "0ecbd521a20d6bea07e05c8430ddde9830bf848dd8f97482f02b5763475017ba",
+      "matches": true
+    },
+    {
+      "id": "p29",
+      "batch": "99bec3ce07d001b801ad651224bb574b82327f32283efbb108cdf59d4b1eff19",
+      "reviewed_commentary_sha256": "bd810fcd63f5fe798046b49a6b55ffd1ed8cdfcdfb60f4b08930d7aa76634ae2",
+      "current_commentary_sha256": "bd810fcd63f5fe798046b49a6b55ffd1ed8cdfcdfb60f4b08930d7aa76634ae2",
+      "matches": true
+    },
+    {
+      "id": "p30",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "ecabc2527b47371b45f07bb5e597954705d4ce02e1f26753fb411044d3ca6280",
+      "current_commentary_sha256": "ecabc2527b47371b45f07bb5e597954705d4ce02e1f26753fb411044d3ca6280",
+      "matches": true
+    },
+    {
+      "id": "p31",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "04b4ff185c67ac7a0b5210777c446fff9558583332bd891264b2a54c51b7f44d",
+      "current_commentary_sha256": "04b4ff185c67ac7a0b5210777c446fff9558583332bd891264b2a54c51b7f44d",
+      "matches": true
+    },
+    {
+      "id": "p32",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "98d6fcade9f6d11d373d0164e3880af7bc1cb71b1a0c9f7ec0cfb8e5e7418607",
+      "current_commentary_sha256": "98d6fcade9f6d11d373d0164e3880af7bc1cb71b1a0c9f7ec0cfb8e5e7418607",
+      "matches": true
+    },
+    {
+      "id": "p33",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "af588314b8e5da46a203c08018a61412c67fb6939c124bbd181e132b35925217",
+      "current_commentary_sha256": "af588314b8e5da46a203c08018a61412c67fb6939c124bbd181e132b35925217",
+      "matches": true
+    },
+    {
+      "id": "p33a-33i",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "cf5635e11d81d3d52111d3849c19ae463598a714797b03a8b03fbc308e7b86a2",
+      "current_commentary_sha256": "cf5635e11d81d3d52111d3849c19ae463598a714797b03a8b03fbc308e7b86a2",
+      "matches": true
+    },
+    {
+      "id": "p34",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "be1bd64e8c3248162329e70cdbfa1a3a3e5f8a52641a566745cb6c5c9ba5c0fd",
+      "current_commentary_sha256": "be1bd64e8c3248162329e70cdbfa1a3a3e5f8a52641a566745cb6c5c9ba5c0fd",
+      "matches": true
+    },
+    {
+      "id": "p35",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "f70bdc9534551fd8f68056b8b6c223892c4d03c99caf7c7c41abb57c7adc5ac6",
+      "current_commentary_sha256": "f70bdc9534551fd8f68056b8b6c223892c4d03c99caf7c7c41abb57c7adc5ac6",
+      "matches": true
+    },
+    {
+      "id": "p36",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "090c05c33e09ccc302101e8f15ac010ba18f21ff64e0054c8c36242319f90a43",
+      "current_commentary_sha256": "090c05c33e09ccc302101e8f15ac010ba18f21ff64e0054c8c36242319f90a43",
+      "matches": true
+    },
+    {
+      "id": "p37",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "dc84c2d6b46dcf4f725f0affca7af70c518f85d4c1c56ecbe32262705aa146c8",
+      "current_commentary_sha256": "dc84c2d6b46dcf4f725f0affca7af70c518f85d4c1c56ecbe32262705aa146c8",
+      "matches": true
+    },
+    {
+      "id": "p38",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "1977181c64a95dd6bb126b8200ef4e2fd7feb7466d0a8fe06bfc7f8d831cfe14",
+      "current_commentary_sha256": "1977181c64a95dd6bb126b8200ef4e2fd7feb7466d0a8fe06bfc7f8d831cfe14",
+      "matches": true
+    },
+    {
+      "id": "p39",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "b90f5d5203e69504507c16bbca4e23afd2a550ff883f9ddf08613c2c4a260eb4",
+      "current_commentary_sha256": "b90f5d5203e69504507c16bbca4e23afd2a550ff883f9ddf08613c2c4a260eb4",
+      "matches": true
+    },
+    {
+      "id": "p40",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "026b2df0567fdf3fab023f3d0cefad724213ed9493872a4d4fcb663026e62e5b",
+      "current_commentary_sha256": "026b2df0567fdf3fab023f3d0cefad724213ed9493872a4d4fcb663026e62e5b",
+      "matches": true
+    },
+    {
+      "id": "p41",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "71729cb1f4b8758b6c17376132d2fbdf665e963d0487b82ff793c98c33f28d08",
+      "current_commentary_sha256": "71729cb1f4b8758b6c17376132d2fbdf665e963d0487b82ff793c98c33f28d08",
+      "matches": true
+    },
+    {
+      "id": "p42",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "c95948f8fbcecc383aade895c463caea8a4611233ec5785aec2e052c7ecf714a",
+      "current_commentary_sha256": "c95948f8fbcecc383aade895c463caea8a4611233ec5785aec2e052c7ecf714a",
+      "matches": true
+    },
+    {
+      "id": "p43",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "8054af2074dcea452fd7490b00ed20e657847d9e46c7c120ea600ac6428fd755",
+      "current_commentary_sha256": "8054af2074dcea452fd7490b00ed20e657847d9e46c7c120ea600ac6428fd755",
+      "matches": true
+    },
+    {
+      "id": "p43a",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "f33b72cbcf2ba4a8dc2ab61357bd20c963cc197996f35c634a80bf071bf66533",
+      "current_commentary_sha256": "f33b72cbcf2ba4a8dc2ab61357bd20c963cc197996f35c634a80bf071bf66533",
+      "matches": true
+    },
+    {
+      "id": "p43b",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "441da74bebc527b8164d08e364d7327b077f2ebca9bd4643673f1317561b670a",
+      "current_commentary_sha256": "441da74bebc527b8164d08e364d7327b077f2ebca9bd4643673f1317561b670a",
+      "matches": true
+    },
+    {
+      "id": "p44",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "ecd715bc8a63684ffcc21138d74d51d31419dab39131b013af5dfe8939a43967",
+      "current_commentary_sha256": "ecd715bc8a63684ffcc21138d74d51d31419dab39131b013af5dfe8939a43967",
+      "matches": true
+    },
+    {
+      "id": "p45",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "c6562f3349550ee1965998078e734053a458cb7aeb301cb7d0b229f3f464f37b",
+      "current_commentary_sha256": "c6562f3349550ee1965998078e734053a458cb7aeb301cb7d0b229f3f464f37b",
+      "matches": true
+    },
+    {
+      "id": "p46",
+      "batch": "59e06086b4cdbd5ea157e1622a55ab7806b6698454882328e360a7d1bf8e986d",
+      "reviewed_commentary_sha256": "4c79392bbd4d1e69f39e4010da72f4a888517e4719dd967987c188386065ae36",
+      "current_commentary_sha256": "4c79392bbd4d1e69f39e4010da72f4a888517e4719dd967987c188386065ae36",
+      "matches": true
+    },
+    {
+      "id": "p47",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "287b9c34ca5c6a8344d78b57561b4ca6c7fe7cedbaf452892104144b819237d2",
+      "current_commentary_sha256": "287b9c34ca5c6a8344d78b57561b4ca6c7fe7cedbaf452892104144b819237d2",
+      "matches": true
+    },
+    {
+      "id": "p48",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "996becf620f1e02da13e963ddf02e798452a538610f4f1f6ce1a9c2b5baeaeec",
+      "current_commentary_sha256": "996becf620f1e02da13e963ddf02e798452a538610f4f1f6ce1a9c2b5baeaeec",
+      "matches": true
+    },
+    {
+      "id": "p49",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "4b425278d7329e61247d48d78015df202cb1bc1c296ffd7e454f3d4741acb846",
+      "current_commentary_sha256": "4b425278d7329e61247d48d78015df202cb1bc1c296ffd7e454f3d4741acb846",
+      "matches": true
+    },
+    {
+      "id": "p50",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "6518a05e1e482fc941de0823c2454aa1cb5881ff36e969f623fd1632a2ad1760",
+      "current_commentary_sha256": "6518a05e1e482fc941de0823c2454aa1cb5881ff36e969f623fd1632a2ad1760",
+      "matches": true
+    },
+    {
+      "id": "p51",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "2c174c3cdee94247d1d429fdef4d5b6ba77ba9196eecf208de281e652e3c8a64",
+      "current_commentary_sha256": "2c174c3cdee94247d1d429fdef4d5b6ba77ba9196eecf208de281e652e3c8a64",
+      "matches": true
+    },
+    {
+      "id": "p52",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "ec60cc5c5108661ea8ac474d1f53b52b5e59bbee271655e4b53588ae25ec6032",
+      "current_commentary_sha256": "ec60cc5c5108661ea8ac474d1f53b52b5e59bbee271655e4b53588ae25ec6032",
+      "matches": true
+    },
+    {
+      "id": "p53",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "4b1e094537ad0f5de12c2871b7a05bde839411669bbb72185c1a1af4a9a73a6b",
+      "current_commentary_sha256": "4b1e094537ad0f5de12c2871b7a05bde839411669bbb72185c1a1af4a9a73a6b",
+      "matches": true
+    },
+    {
+      "id": "p53a",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "6fc755be70ce16a6dca3097c8acf1145a936b83038418fabd7aae93a455640e2",
+      "current_commentary_sha256": "6fc755be70ce16a6dca3097c8acf1145a936b83038418fabd7aae93a455640e2",
+      "matches": true
+    },
+    {
+      "id": "p54",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "c63b1dde0b737c13a44854934847a6063828117f2cc8b2fd43e3a138bfad606f",
+      "current_commentary_sha256": "c63b1dde0b737c13a44854934847a6063828117f2cc8b2fd43e3a138bfad606f",
+      "matches": true
+    },
+    {
+      "id": "p54a",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "078fe3c0973b5819954b44eb120dcfbd27d26cf26197e9b88ef6fa8d5cbb853f",
+      "current_commentary_sha256": "078fe3c0973b5819954b44eb120dcfbd27d26cf26197e9b88ef6fa8d5cbb853f",
+      "matches": true
+    },
+    {
+      "id": "p55",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "fd1913df76b35afd1a89797aa4c3ab49bdaffefc3fddc0a6c1ef4be8f6887176",
+      "current_commentary_sha256": "fd1913df76b35afd1a89797aa4c3ab49bdaffefc3fddc0a6c1ef4be8f6887176",
+      "matches": true
+    },
+    {
+      "id": "p56",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "2ead89f0634f7fb643a08c8e8cb09ee970c361f12ffdf05e67e31ad221157d53",
+      "current_commentary_sha256": "2ead89f0634f7fb643a08c8e8cb09ee970c361f12ffdf05e67e31ad221157d53",
+      "matches": true
+    },
+    {
+      "id": "p57",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "0d0e1e915507c5f62e42c8f0fff828feaca90c41c946ef9f4e8d9c626d9bb2db",
+      "current_commentary_sha256": "0d0e1e915507c5f62e42c8f0fff828feaca90c41c946ef9f4e8d9c626d9bb2db",
+      "matches": true
+    },
+    {
+      "id": "p57a",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "286b53d2a14c2bcfe81eddb20a9ab61c00cf12d762a4fa6428b2201f2ea7a750",
+      "current_commentary_sha256": "286b53d2a14c2bcfe81eddb20a9ab61c00cf12d762a4fa6428b2201f2ea7a750",
+      "matches": true
+    },
+    {
+      "id": "p58",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "bf4fe00abdc2489a1bbbc9527cf4baee410f2e3d64e3ece7656701c0aa9fd3fd",
+      "current_commentary_sha256": "bf4fe00abdc2489a1bbbc9527cf4baee410f2e3d64e3ece7656701c0aa9fd3fd",
+      "matches": true
+    },
+    {
+      "id": "p59",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "cfdb8f8c111df5e79e4d5152d80cae980b62134b4c1214b87f1366725870b615",
+      "current_commentary_sha256": "cfdb8f8c111df5e79e4d5152d80cae980b62134b4c1214b87f1366725870b615",
+      "matches": true
+    },
+    {
+      "id": "p60",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "e790f4dc976f7f24c945a9e93658e7e7f50e51be534f1e62b2166d85da063646",
+      "current_commentary_sha256": "e790f4dc976f7f24c945a9e93658e7e7f50e51be534f1e62b2166d85da063646",
+      "matches": true
+    },
+    {
+      "id": "p61",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "d322d746da8f4811ef3cd3f536687e97bb94d1f86a526e448dc2384ba93daaae",
+      "current_commentary_sha256": "d322d746da8f4811ef3cd3f536687e97bb94d1f86a526e448dc2384ba93daaae",
+      "matches": true
+    },
+    {
+      "id": "p62",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "217289dcb4360c57c3644fe9ecddaab3dab6f47d4e5bfdbb623766a90ce7093a",
+      "current_commentary_sha256": "217289dcb4360c57c3644fe9ecddaab3dab6f47d4e5bfdbb623766a90ce7093a",
+      "matches": true
+    },
+    {
+      "id": "p63",
+      "batch": "868030d775ebd0c9d32d9b709e4b0fb687243f60ae5bc52c8e59861eac7780bf",
+      "reviewed_commentary_sha256": "755d33ccc8d4f0dc320ac959d240b62a1e66cd2e2800136f9f5e845ee4a06bd5",
+      "current_commentary_sha256": "755d33ccc8d4f0dc320ac959d240b62a1e66cd2e2800136f9f5e845ee4a06bd5",
+      "matches": true
+    },
+    {
+      "id": "p63a",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "be9a15724efdf89291bf811c5f951d80aed586ca00561f819208fb678ea8d800",
+      "current_commentary_sha256": "be9a15724efdf89291bf811c5f951d80aed586ca00561f819208fb678ea8d800",
+      "matches": true
+    },
+    {
+      "id": "p63b",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "90d7dc35536d95d3ff87ad7c10c501a927963e038279a5e696815dc6c3cb9dcd",
+      "current_commentary_sha256": "90d7dc35536d95d3ff87ad7c10c501a927963e038279a5e696815dc6c3cb9dcd",
+      "matches": true
+    },
+    {
+      "id": "p63c",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "f9ef95ff84df8b3191a7597d29e5b3ebad7942eeba5e820c820e12322b0053f5",
+      "current_commentary_sha256": "f9ef95ff84df8b3191a7597d29e5b3ebad7942eeba5e820c820e12322b0053f5",
+      "matches": true
+    },
+    {
+      "id": "p63d",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "d413da9425ce66b0250c0e97868ab48458b06f7c4093a26d7d8ae0bb16eddba5",
+      "current_commentary_sha256": "d413da9425ce66b0250c0e97868ab48458b06f7c4093a26d7d8ae0bb16eddba5",
+      "matches": true
+    },
+    {
+      "id": "p63e",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "124f44cf30f1c31a5146b4803852b4a1a142d103adc1c45d5cbeea23161937ae",
+      "current_commentary_sha256": "124f44cf30f1c31a5146b4803852b4a1a142d103adc1c45d5cbeea23161937ae",
+      "matches": true
+    },
+    {
+      "id": "p63f",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "36dba20fee5e51792f31f7b7bccafea08bc231eeb49a7afcf16d3bd7568420d8",
+      "current_commentary_sha256": "36dba20fee5e51792f31f7b7bccafea08bc231eeb49a7afcf16d3bd7568420d8",
+      "matches": true
+    },
+    {
+      "id": "p63g",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "74a89f50859095769a9dafc1a746f392973982cd73500ff3b63c1d2db0a305cf",
+      "current_commentary_sha256": "74a89f50859095769a9dafc1a746f392973982cd73500ff3b63c1d2db0a305cf",
+      "matches": true
+    },
+    {
+      "id": "p63h",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "cd1c3fbe72e0725264181bad4df3f8c2ddbda0ce7d5ca31212130802b80ab536",
+      "current_commentary_sha256": "cd1c3fbe72e0725264181bad4df3f8c2ddbda0ce7d5ca31212130802b80ab536",
+      "matches": true
+    },
+    {
+      "id": "p64",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "02ec6064bd796e0fca4936c603a1b8d9f182d18ca57e60a5ec40a247a7b6f52e",
+      "current_commentary_sha256": "02ec6064bd796e0fca4936c603a1b8d9f182d18ca57e60a5ec40a247a7b6f52e",
+      "matches": true
+    },
+    {
+      "id": "p64a",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "a15ce201843a88f6b603cb4fd9eeeb465835f4e5f33c60cb8bed323b17be6289",
+      "current_commentary_sha256": "a15ce201843a88f6b603cb4fd9eeeb465835f4e5f33c60cb8bed323b17be6289",
+      "matches": true
+    },
+    {
+      "id": "p64b",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "3e38a287e0c9e4534292c69fd2ac830c42835d4369ab4d257280b3435b602408",
+      "current_commentary_sha256": "3e38a287e0c9e4534292c69fd2ac830c42835d4369ab4d257280b3435b602408",
+      "matches": true
+    },
+    {
+      "id": "p64c",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "b4438755cc41dd5d6506f9ea8f3138c16343751eb39a4f3ea62a7b96b066e2a9",
+      "current_commentary_sha256": "b4438755cc41dd5d6506f9ea8f3138c16343751eb39a4f3ea62a7b96b066e2a9",
+      "matches": true
+    },
+    {
+      "id": "p65",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "f6fef1517046e80dd5270f3cf353f7e0f87321e4d99577427ca1da07008e85a2",
+      "current_commentary_sha256": "f6fef1517046e80dd5270f3cf353f7e0f87321e4d99577427ca1da07008e85a2",
+      "matches": true
+    },
+    {
+      "id": "p66",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "2239cc453f7b0820b88692bc83762a47eddf46ccedf29b63215908a3b075f5ba",
+      "current_commentary_sha256": "2239cc453f7b0820b88692bc83762a47eddf46ccedf29b63215908a3b075f5ba",
+      "matches": true
+    },
+    {
+      "id": "p66a",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "4b48d5ada16f0f87f30e1079f7ddc021178a79e6e2f94cb085df7b947a3044f7",
+      "current_commentary_sha256": "4b48d5ada16f0f87f30e1079f7ddc021178a79e6e2f94cb085df7b947a3044f7",
+      "matches": true
+    },
+    {
+      "id": "p67",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "7878a35edf908c2243b459c430392e3faa33859cca442a42d5e622906eb04964",
+      "current_commentary_sha256": "7878a35edf908c2243b459c430392e3faa33859cca442a42d5e622906eb04964",
+      "matches": true
+    },
+    {
+      "id": "p67a",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "80a4a149b41b9cedf3625cce446ff123d4ad3c3a1f454d7ea78e0d1d6c3affc5",
+      "current_commentary_sha256": "80a4a149b41b9cedf3625cce446ff123d4ad3c3a1f454d7ea78e0d1d6c3affc5",
+      "matches": true
+    },
+    {
+      "id": "p67b",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "f33cd108761de618b0922e6bdd394527082a58f1b1235305050e2544bf4b5b95",
+      "current_commentary_sha256": "f33cd108761de618b0922e6bdd394527082a58f1b1235305050e2544bf4b5b95",
+      "matches": true
+    },
+    {
+      "id": "p67c",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "9d53c29b7155d991d6f8d941a4cc206887820838cea674c5639f68e7164a6614",
+      "current_commentary_sha256": "9d53c29b7155d991d6f8d941a4cc206887820838cea674c5639f68e7164a6614",
+      "matches": true
+    },
+    {
+      "id": "p68",
+      "batch": "3ae3ecf2470544919d3d602661221979a0169b9120eb3d51a8de9ff7038479a9",
+      "reviewed_commentary_sha256": "f542aed559493956b79d399313f0bb089433aea0ec7baa701e7f46a178d09870",
+      "current_commentary_sha256": "f542aed559493956b79d399313f0bb089433aea0ec7baa701e7f46a178d09870",
+      "matches": true
+    },
+    {
+      "id": "p69",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "487b84d4b151a1c760153194aaffc58902993f1d256a1419fe02ad082d0c09b6",
+      "current_commentary_sha256": "487b84d4b151a1c760153194aaffc58902993f1d256a1419fe02ad082d0c09b6",
+      "matches": true
+    },
+    {
+      "id": "p70-72",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "702f60792267e652d642e5f737bda5bd28ca2f53e1882c8b2dc3102b393106ae",
+      "current_commentary_sha256": "702f60792267e652d642e5f737bda5bd28ca2f53e1882c8b2dc3102b393106ae",
+      "matches": true
+    },
+    {
+      "id": "p73",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "155b1ac2879a0040c791cf722c5318484106ff975ae76018493dc7e2be78f504",
+      "current_commentary_sha256": "155b1ac2879a0040c791cf722c5318484106ff975ae76018493dc7e2be78f504",
+      "matches": true
+    },
+    {
+      "id": "p74",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "a11abedbf5c5dd3381e578b4efb88eebd47e92e7a876f1b84fe5c0ad114b9b1d",
+      "current_commentary_sha256": "a11abedbf5c5dd3381e578b4efb88eebd47e92e7a876f1b84fe5c0ad114b9b1d",
+      "matches": true
+    },
+    {
+      "id": "p75",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "b1715c813fc46e0d1d7a22eec41013ec49629030d5094af5dee10aad51301737",
+      "current_commentary_sha256": "b1715c813fc46e0d1d7a22eec41013ec49629030d5094af5dee10aad51301737",
+      "matches": true
+    },
+    {
+      "id": "p76",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "42ea11ec54008c92b0be0e5e4a773db2e575892433ff18d26ed92c1bd56ec486",
+      "current_commentary_sha256": "42ea11ec54008c92b0be0e5e4a773db2e575892433ff18d26ed92c1bd56ec486",
+      "matches": true
+    },
+    {
+      "id": "p77",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "5fdd4afdbea9b177e8753ac283e02a3b44c3b3b709305c7691e17891c2cbb95f",
+      "current_commentary_sha256": "5fdd4afdbea9b177e8753ac283e02a3b44c3b3b709305c7691e17891c2cbb95f",
+      "matches": true
+    },
+    {
+      "id": "p77a",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "09d95f44d6b149215902df013243dc7db149714d4ccdb92fd1233312d79430c2",
+      "current_commentary_sha256": "09d95f44d6b149215902df013243dc7db149714d4ccdb92fd1233312d79430c2",
+      "matches": true
+    },
+    {
+      "id": "p78",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "6ca2f133600a76664e8c0c9aebf978917d75ed418fe3f53f67986192fc27c1d3",
+      "current_commentary_sha256": "6ca2f133600a76664e8c0c9aebf978917d75ed418fe3f53f67986192fc27c1d3",
+      "matches": true
+    },
+    {
+      "id": "p78a-78b",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "1c03dfff677dc0ea7cc0c27234acaf299181d1211997bf548d3b8dc78525a2a1",
+      "current_commentary_sha256": "1c03dfff677dc0ea7cc0c27234acaf299181d1211997bf548d3b8dc78525a2a1",
+      "matches": true
+    },
+    {
+      "id": "p79",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "8172e903b939f0b558a91a667a173eac84f42df0731b2c305ef2802ea0c44f18",
+      "current_commentary_sha256": "8172e903b939f0b558a91a667a173eac84f42df0731b2c305ef2802ea0c44f18",
+      "matches": true
+    },
+    {
+      "id": "p79a",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "2598e0ab3580b14cc6f6d9f1088b618bb084ab5e5dd70061a90b77ac1e2f70b1",
+      "current_commentary_sha256": "2598e0ab3580b14cc6f6d9f1088b618bb084ab5e5dd70061a90b77ac1e2f70b1",
+      "matches": true
+    },
+    {
+      "id": "p80",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "1d754b0049960efbbe0cb1b1e63abf6dc5f116f8b61cdf20798aafb0002520f7",
+      "current_commentary_sha256": "1d754b0049960efbbe0cb1b1e63abf6dc5f116f8b61cdf20798aafb0002520f7",
+      "matches": true
+    },
+    {
+      "id": "p81",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "0e8b07b83709f679ab3fb815d51168ef4247bcc37e9db1ff2fd62220f88b1906",
+      "current_commentary_sha256": "0e8b07b83709f679ab3fb815d51168ef4247bcc37e9db1ff2fd62220f88b1906",
+      "matches": true
+    },
+    {
+      "id": "p81a",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "209cdd140400acd01b20b5ab56d4ed42ef7c9e979d7da9e72a50ed144b4d24fd",
+      "current_commentary_sha256": "209cdd140400acd01b20b5ab56d4ed42ef7c9e979d7da9e72a50ed144b4d24fd",
+      "matches": true
+    },
+    {
+      "id": "p82",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "0a1721e7b01f3563753bc1cc43d6463cf339fd28ec183256e9ca265090c7014b",
+      "current_commentary_sha256": "0a1721e7b01f3563753bc1cc43d6463cf339fd28ec183256e9ca265090c7014b",
+      "matches": true
+    },
+    {
+      "id": "p83",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "760278f75a451ed73e41ef3de9575a52662e91237db486a4f37944016612628f",
+      "current_commentary_sha256": "760278f75a451ed73e41ef3de9575a52662e91237db486a4f37944016612628f",
+      "matches": true
+    },
+    {
+      "id": "p84",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "4beac346432c47a6ea165887cd9a73c9bfff9b4abd6c3dd51fade568c5110adc",
+      "current_commentary_sha256": "4beac346432c47a6ea165887cd9a73c9bfff9b4abd6c3dd51fade568c5110adc",
+      "matches": true
+    },
+    {
+      "id": "p85",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "80f2bc78308d5ca6803acfd9666b24647a4644c3b30f2db7263389655c6abd1f",
+      "current_commentary_sha256": "80f2bc78308d5ca6803acfd9666b24647a4644c3b30f2db7263389655c6abd1f",
+      "matches": true
+    },
+    {
+      "id": "p86",
+      "batch": "201f0aff7e9d9333ce436bb45508e9cdb78b6f57c869233ba01f39a36e5c154f",
+      "reviewed_commentary_sha256": "6ed5e44564219eafbddc3fea49cfdf37ce298196730a22e7cf78fa9f771e23bf",
+      "current_commentary_sha256": "6ed5e44564219eafbddc3fea49cfdf37ce298196730a22e7cf78fa9f771e23bf",
+      "matches": true
+    },
+    {
+      "id": "p87",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "40506dcd9980a0e608f35b8b00ab51bed3d674988b0db505630a7957727b8aca",
+      "current_commentary_sha256": "40506dcd9980a0e608f35b8b00ab51bed3d674988b0db505630a7957727b8aca",
+      "matches": true
+    },
+    {
+      "id": "p87a",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "4fb494003dd3d5262a19fa224336edf5bf1466b42b21f79e652993a465a5a7d2",
+      "current_commentary_sha256": "4fb494003dd3d5262a19fa224336edf5bf1466b42b21f79e652993a465a5a7d2",
+      "matches": true
+    },
+    {
+      "id": "p87b",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "4629d370f03a48ccdaff58091c0f42eee14797c02a2689470b9cbf4d8ad41c53",
+      "current_commentary_sha256": "4629d370f03a48ccdaff58091c0f42eee14797c02a2689470b9cbf4d8ad41c53",
+      "matches": true
+    },
+    {
+      "id": "p88",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "e2faa85ffa4d349650d5bf34b9f8c6e0d89735e76089d4998ed279f349af3b10",
+      "current_commentary_sha256": "e2faa85ffa4d349650d5bf34b9f8c6e0d89735e76089d4998ed279f349af3b10",
+      "matches": true
+    },
+    {
+      "id": "p88a",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "1e2c58890a34a54170da9eb83b36937c222169b38db7ac5b5a71c71d8c556f4d",
+      "current_commentary_sha256": "1e2c58890a34a54170da9eb83b36937c222169b38db7ac5b5a71c71d8c556f4d",
+      "matches": true
+    },
+    {
+      "id": "p89",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "bc22c6132449252fe1f26c4339e9b42ed2f5f18899237ee17433fdea0521398e",
+      "current_commentary_sha256": "bc22c6132449252fe1f26c4339e9b42ed2f5f18899237ee17433fdea0521398e",
+      "matches": true
+    },
+    {
+      "id": "p90",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "36403c5b664aeeb89ba98291345c66eaf91afcc24027248a9ffa9492eb9e5df7",
+      "current_commentary_sha256": "36403c5b664aeeb89ba98291345c66eaf91afcc24027248a9ffa9492eb9e5df7",
+      "matches": true
+    },
+    {
+      "id": "p91",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "f9fad4b62e3445a3e0b0e67ecd1c27f44513fb566b92a97887e5038590ec4099",
+      "current_commentary_sha256": "f9fad4b62e3445a3e0b0e67ecd1c27f44513fb566b92a97887e5038590ec4099",
+      "matches": true
+    },
+    {
+      "id": "p92",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "e40f42e07b1a81c3ee80ee46a6a6711dfb3d4cb23e2690bd63861689a19168c5",
+      "current_commentary_sha256": "e40f42e07b1a81c3ee80ee46a6a6711dfb3d4cb23e2690bd63861689a19168c5",
+      "matches": true
+    },
+    {
+      "id": "p93",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "3a212696f5558495c45b7ca52f094f547cd559113047250351469bdc1e1e2469",
+      "current_commentary_sha256": "3a212696f5558495c45b7ca52f094f547cd559113047250351469bdc1e1e2469",
+      "matches": true
+    },
+    {
+      "id": "p93a-93s",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "17fcf2053c0dfa4308ed04d1c5354b61f921ee77c074275003cc41a98f2212c6",
+      "current_commentary_sha256": "17fcf2053c0dfa4308ed04d1c5354b61f921ee77c074275003cc41a98f2212c6",
+      "matches": true
+    },
+    {
+      "id": "p94",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "ad7611d6ffb79d4622568cefc3aab6702f3f2c4e2bfaa7584b61d0d33abe5e30",
+      "current_commentary_sha256": "ad7611d6ffb79d4622568cefc3aab6702f3f2c4e2bfaa7584b61d0d33abe5e30",
+      "matches": true
+    },
+    {
+      "id": "p95",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "0071cf641296404741b6e96e7683319816fec77af65bbe18445edf4c7069bcd5",
+      "current_commentary_sha256": "0071cf641296404741b6e96e7683319816fec77af65bbe18445edf4c7069bcd5",
+      "matches": true
+    },
+    {
+      "id": "p96",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "8ccecb3f5ce3b0fac5780c8544c4930fbe08a83282a8282ca307541b4cf4d4d5",
+      "current_commentary_sha256": "8ccecb3f5ce3b0fac5780c8544c4930fbe08a83282a8282ca307541b4cf4d4d5",
+      "matches": true
+    },
+    {
+      "id": "p97",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "bb179be90a558ca7108c45eafa0d0098fbd566b3d39b19df690d1521d79946b7",
+      "current_commentary_sha256": "bb179be90a558ca7108c45eafa0d0098fbd566b3d39b19df690d1521d79946b7",
+      "matches": true
+    },
+    {
+      "id": "p98",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "74ad3ad3a7e18a6f72a11675a535e90195e784793e616cf86373cd24ed6d8785",
+      "current_commentary_sha256": "74ad3ad3a7e18a6f72a11675a535e90195e784793e616cf86373cd24ed6d8785",
+      "matches": true
+    },
+    {
+      "id": "p99",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "237b36c38f64e73eaaa79ace5a3e0a5c0f2cc1250807bbc2d42c1155916dd118",
+      "current_commentary_sha256": "237b36c38f64e73eaaa79ace5a3e0a5c0f2cc1250807bbc2d42c1155916dd118",
+      "matches": true
+    },
+    {
+      "id": "p100",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "0947ae015fcf5060a226704ba362b53bd83ac890a837aff904611372a79ef8f2",
+      "current_commentary_sha256": "0947ae015fcf5060a226704ba362b53bd83ac890a837aff904611372a79ef8f2",
+      "matches": true
+    },
+    {
+      "id": "p101",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "ddf9cd6ce8cbe17c31e8da7355f8b17544dc4f66e3e61ede659711ce8c4ff4de",
+      "current_commentary_sha256": "ddf9cd6ce8cbe17c31e8da7355f8b17544dc4f66e3e61ede659711ce8c4ff4de",
+      "matches": true
+    },
+    {
+      "id": "p102",
+      "batch": "e7ca3d214e398a3745fc3e913bc58ddec5cf83aafb5d4898d3beebf0c5f03172",
+      "reviewed_commentary_sha256": "7e53ee938ec8a95fd0cd605168840bbb513f8965742f9fb84bee64c52a202a96",
+      "current_commentary_sha256": "7e53ee938ec8a95fd0cd605168840bbb513f8965742f9fb84bee64c52a202a96",
+      "matches": true
+    },
+    {
+      "id": "p103-104",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "f5761b5e687297c52409243769eccb1465fe8e0a52122a18cc19278bda134798",
+      "current_commentary_sha256": "f5761b5e687297c52409243769eccb1465fe8e0a52122a18cc19278bda134798",
+      "matches": true
+    },
+    {
+      "id": "p105",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "20838543d31e73445b22c1f2a785c0758066373898c23a655c4dd848614eb30d",
+      "current_commentary_sha256": "20838543d31e73445b22c1f2a785c0758066373898c23a655c4dd848614eb30d",
+      "matches": true
+    },
+    {
+      "id": "p106",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "6d0ef3b5f072c73c234ee34cc5554462751be08dc338d1b6d71bd3c7a93a4bf1",
+      "current_commentary_sha256": "6d0ef3b5f072c73c234ee34cc5554462751be08dc338d1b6d71bd3c7a93a4bf1",
+      "matches": true
+    },
+    {
+      "id": "p107",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "a3e07d34a9c797dca02b7b2517cc2abf69362120183d6037786683f777e0674d",
+      "current_commentary_sha256": "a3e07d34a9c797dca02b7b2517cc2abf69362120183d6037786683f777e0674d",
+      "matches": true
+    },
+    {
+      "id": "p108",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "0ba77a8d4935a43042ece0d08028a79d8c14254e14b8ff720a2af395c669a946",
+      "current_commentary_sha256": "0ba77a8d4935a43042ece0d08028a79d8c14254e14b8ff720a2af395c669a946",
+      "matches": true
+    },
+    {
+      "id": "p108a",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "16e771cc6c26e64af4a3a7c068ada3ca27a42f78677ddb021cac7bfc336f16e0",
+      "current_commentary_sha256": "16e771cc6c26e64af4a3a7c068ada3ca27a42f78677ddb021cac7bfc336f16e0",
+      "matches": true
+    },
+    {
+      "id": "p109",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "3d0b973183cdc49e34db62da74812b83e6a36d28a39ce9be977517d6359713d9",
+      "current_commentary_sha256": "3d0b973183cdc49e34db62da74812b83e6a36d28a39ce9be977517d6359713d9",
+      "matches": true
+    },
+    {
+      "id": "p110",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "82323581f95e61fef29159d3ea004a700803b77391c460167c103d3c57fb948c",
+      "current_commentary_sha256": "82323581f95e61fef29159d3ea004a700803b77391c460167c103d3c57fb948c",
+      "matches": true
+    },
+    {
+      "id": "p111",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "37b4a48cb8134acf84abb60652df63fdefc1607360795d9d228723205c2b5c92",
+      "current_commentary_sha256": "37b4a48cb8134acf84abb60652df63fdefc1607360795d9d228723205c2b5c92",
+      "matches": true
+    },
+    {
+      "id": "p112",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "ef217cf367e6fda04193e2127750a8fd2bb3c601f848cac97009b1cfe11c8a57",
+      "current_commentary_sha256": "ef217cf367e6fda04193e2127750a8fd2bb3c601f848cac97009b1cfe11c8a57",
+      "matches": true
+    },
+    {
+      "id": "p112a",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "6b30dc539ec8d8ed94c22ad7a7c313bcc3d7baae4b14931157b405669a819903",
+      "current_commentary_sha256": "6b30dc539ec8d8ed94c22ad7a7c313bcc3d7baae4b14931157b405669a819903",
+      "matches": true
+    },
+    {
+      "id": "p113",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "2da4aaace8957a14746d54dce9a10ec4d40f25323673dbf1ef176f5ac2eed5d4",
+      "current_commentary_sha256": "2da4aaace8957a14746d54dce9a10ec4d40f25323673dbf1ef176f5ac2eed5d4",
+      "matches": true
+    },
+    {
+      "id": "p114",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "ad94a05ffdd75d945eda6d4cbb25bc1f9cda58deb4f8f531f3d87a337c838170",
+      "current_commentary_sha256": "ad94a05ffdd75d945eda6d4cbb25bc1f9cda58deb4f8f531f3d87a337c838170",
+      "matches": true
+    },
+    {
+      "id": "p115",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "ace4fbab67a397aea3f9567e0f1e6dee0c48540add81d675b1a4b4c01c05fed6",
+      "current_commentary_sha256": "ace4fbab67a397aea3f9567e0f1e6dee0c48540add81d675b1a4b4c01c05fed6",
+      "matches": true
+    },
+    {
+      "id": "p115a",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "a76a11db41f16a5374ec5b785ea8da9e5761fc6f695d946f2de6733f9618f3a5",
+      "current_commentary_sha256": "a76a11db41f16a5374ec5b785ea8da9e5761fc6f695d946f2de6733f9618f3a5",
+      "matches": true
+    },
+    {
+      "id": "p115b",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "4120f3be8f363b5a0307a82bf09aa82ddaadda088db8b064e0d413b1573c36a9",
+      "current_commentary_sha256": "4120f3be8f363b5a0307a82bf09aa82ddaadda088db8b064e0d413b1573c36a9",
+      "matches": true
+    },
+    {
+      "id": "p115c",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "180a7c92ba9eb796118237ca920829d80e8c2e86636a42361c1a32b05dbbcb39",
+      "current_commentary_sha256": "180a7c92ba9eb796118237ca920829d80e8c2e86636a42361c1a32b05dbbcb39",
+      "matches": true
+    },
+    {
+      "id": "p115d",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "47d2c9f3e5b41034c3608ac29d97f65dbb1b11890eef4a06ffa480af2ee3bce1",
+      "current_commentary_sha256": "47d2c9f3e5b41034c3608ac29d97f65dbb1b11890eef4a06ffa480af2ee3bce1",
+      "matches": true
+    },
+    {
+      "id": "p115e",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "9a829b4232fa57e6251f97ddde24dbcf130e95cfc42105b5433151d0816b3dc0",
+      "current_commentary_sha256": "9a829b4232fa57e6251f97ddde24dbcf130e95cfc42105b5433151d0816b3dc0",
+      "matches": true
+    },
+    {
+      "id": "p116",
+      "batch": "45335215f1c14eaa1150ce161ab0bc05829f2d003ab0164ddc8df507b853c853",
+      "reviewed_commentary_sha256": "f0f0545eac4721832ee2fec4b56c85ad7643185380a9e526f66e030f791c56a2",
+      "current_commentary_sha256": "f0f0545eac4721832ee2fec4b56c85ad7643185380a9e526f66e030f791c56a2",
+      "matches": true
+    },
+    {
+      "id": "p117",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "38bc8a50d0cc196bcf25f9dd4dabfeb8495174411ce0eb7d46e7e7f2d6844b3d",
+      "current_commentary_sha256": "38bc8a50d0cc196bcf25f9dd4dabfeb8495174411ce0eb7d46e7e7f2d6844b3d",
+      "matches": true
+    },
+    {
+      "id": "p118",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "c3fad7fbb3adc529edd6a9058e01f55e1972508242b386267c2cddf424455829",
+      "current_commentary_sha256": "c3fad7fbb3adc529edd6a9058e01f55e1972508242b386267c2cddf424455829",
+      "matches": true
+    },
+    {
+      "id": "p119",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "65df6f18cd113a9bd4776f8f2d40fae0f135a26977a17980b05664452db4ef99",
+      "current_commentary_sha256": "65df6f18cd113a9bd4776f8f2d40fae0f135a26977a17980b05664452db4ef99",
+      "matches": true
+    },
+    {
+      "id": "p120",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "11063fb79098aba16c3c090cc1e0fab6752814c0d943a23b0d242dabee8eae2a",
+      "current_commentary_sha256": "11063fb79098aba16c3c090cc1e0fab6752814c0d943a23b0d242dabee8eae2a",
+      "matches": true
+    },
+    {
+      "id": "p121",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "b8f02e96d2e305c499efcb95cf8afc1d0386791aca156fd73bf0ab22bf99e6d3",
+      "current_commentary_sha256": "b8f02e96d2e305c499efcb95cf8afc1d0386791aca156fd73bf0ab22bf99e6d3",
+      "matches": true
+    },
+    {
+      "id": "p122-145",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "cc17b699aab45aa044c6d5064a7a18b4c3d1c31e03945634b68122bb32b6db60",
+      "current_commentary_sha256": "cc17b699aab45aa044c6d5064a7a18b4c3d1c31e03945634b68122bb32b6db60",
+      "matches": true
+    },
+    {
+      "id": "p146",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "3ba2453e7fdd3b0116a4a59ce97bcf2d23b968a5838ed626218e9431609a77fa",
+      "current_commentary_sha256": "3ba2453e7fdd3b0116a4a59ce97bcf2d23b968a5838ed626218e9431609a77fa",
+      "matches": true
+    },
+    {
+      "id": "p147",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "64ad3f74a6b6a9e06227c2cb1dd5f6e759c7a655401a941b5e5302602cf6aaeb",
+      "current_commentary_sha256": "64ad3f74a6b6a9e06227c2cb1dd5f6e759c7a655401a941b5e5302602cf6aaeb",
+      "matches": true
+    },
+    {
+      "id": "p148",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "fdc3a768e32067d8b63e3ac438f946b9251fe168b03e1c33b79d2de4d088d63d",
+      "current_commentary_sha256": "fdc3a768e32067d8b63e3ac438f946b9251fe168b03e1c33b79d2de4d088d63d",
+      "matches": true
+    },
+    {
+      "id": "p149",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "16794773eda1ae756bb45bce5622997fd8ac3e01e0256bbb6d8c5705e20a3310",
+      "current_commentary_sha256": "16794773eda1ae756bb45bce5622997fd8ac3e01e0256bbb6d8c5705e20a3310",
+      "matches": true
+    },
+    {
+      "id": "p150",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "30974c22446070cb3c8aced1498c986053242df2e86c9fe432da96db1e9f5bfe",
+      "current_commentary_sha256": "30974c22446070cb3c8aced1498c986053242df2e86c9fe432da96db1e9f5bfe",
+      "matches": true
+    },
+    {
+      "id": "p151",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "4c04c11694695132025e86dd54dc695778d9651f551eb684e967617678858418",
+      "current_commentary_sha256": "4c04c11694695132025e86dd54dc695778d9651f551eb684e967617678858418",
+      "matches": true
+    },
+    {
+      "id": "p151a",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "d1e7f6dea7493208e12c775de8b3f28f281b9708eb6deefde38842852c5d8027",
+      "current_commentary_sha256": "d1e7f6dea7493208e12c775de8b3f28f281b9708eb6deefde38842852c5d8027",
+      "matches": true
+    },
+    {
+      "id": "p152",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "ca79dc13af5d98cfd090d02706a30fe597394bba31eda70d8ce6e17c74593aa0",
+      "current_commentary_sha256": "ca79dc13af5d98cfd090d02706a30fe597394bba31eda70d8ce6e17c74593aa0",
+      "matches": true
+    },
+    {
+      "id": "p153",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "4c66794253b09ab91c0293be4b16fa2d218720fe5b889f859733d92dd89b3ea1",
+      "current_commentary_sha256": "4c66794253b09ab91c0293be4b16fa2d218720fe5b889f859733d92dd89b3ea1",
+      "matches": true
+    },
+    {
+      "id": "p154",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "93de45b84e0ecfc90484ef1d954138b361b804c46f85424f2df4b3686a63da28",
+      "current_commentary_sha256": "93de45b84e0ecfc90484ef1d954138b361b804c46f85424f2df4b3686a63da28",
+      "matches": true
+    },
+    {
+      "id": "p155",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "5567e807403f86dcec8e019f2fb236d7a78ae199b6608a281a82880fe428c0f8",
+      "current_commentary_sha256": "5567e807403f86dcec8e019f2fb236d7a78ae199b6608a281a82880fe428c0f8",
+      "matches": true
+    },
+    {
+      "id": "p156",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "8b65a31a48a451ac0718b340371274a70aa1d860d593bada31c551464a6dd77f",
+      "current_commentary_sha256": "8b65a31a48a451ac0718b340371274a70aa1d860d593bada31c551464a6dd77f",
+      "matches": true
+    },
+    {
+      "id": "p157",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "4c3f6855d8ec6dec52723d81929e81d59c96cc00255a561843b2e5e3b60f8e0c",
+      "current_commentary_sha256": "4c3f6855d8ec6dec52723d81929e81d59c96cc00255a561843b2e5e3b60f8e0c",
+      "matches": true
+    },
+    {
+      "id": "p158",
+      "batch": "abfd98ed56b4890c097b50841304da690ae6fa3bfbc6cec5a68b08688086d321",
+      "reviewed_commentary_sha256": "9f01efe81e8cc539552993b33ae75e83ba58f5be5c2043530e197ee20f0617c7",
+      "current_commentary_sha256": "9f01efe81e8cc539552993b33ae75e83ba58f5be5c2043530e197ee20f0617c7",
+      "matches": true
+    },
+    {
+      "id": "p159",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "44a2a1068e25b8c382bf1bcb68a2ad54699eff32816dc3be044f3a3f62bb34cf",
+      "current_commentary_sha256": "44a2a1068e25b8c382bf1bcb68a2ad54699eff32816dc3be044f3a3f62bb34cf",
+      "matches": true
+    },
+    {
+      "id": "p160",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "1e68305532c868a298e08473ad8303a82354c680f991b6f733347f59aad06eac",
+      "current_commentary_sha256": "1e68305532c868a298e08473ad8303a82354c680f991b6f733347f59aad06eac",
+      "matches": true
+    },
+    {
+      "id": "p161",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "e1d07d6ba8f93f2833b14928b8737da5934297469b180b7b85a251c31f6fde4d",
+      "current_commentary_sha256": "e1d07d6ba8f93f2833b14928b8737da5934297469b180b7b85a251c31f6fde4d",
+      "matches": true
+    },
+    {
+      "id": "p162",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "49aa0bd98e302c92a2bf1793e8b527c24f80b465d601f029a5e26604b5391762",
+      "current_commentary_sha256": "49aa0bd98e302c92a2bf1793e8b527c24f80b465d601f029a5e26604b5391762",
+      "matches": true
+    },
+    {
+      "id": "p163",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "30a58a01ec9bfeed853e79b5e7f00c24b82cf6420ec061f6ab411a220a8f4c7c",
+      "current_commentary_sha256": "30a58a01ec9bfeed853e79b5e7f00c24b82cf6420ec061f6ab411a220a8f4c7c",
+      "matches": true
+    },
+    {
+      "id": "p164",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "50335228c49bae2dd9980c5147e221f03ae7c872646ee27e91d49355afe7de99",
+      "current_commentary_sha256": "50335228c49bae2dd9980c5147e221f03ae7c872646ee27e91d49355afe7de99",
+      "matches": true
+    },
+    {
+      "id": "p165",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "24f4ede37c284edc197850d0f973525bf315dcbcad4123700b8345a30a0cb2fe",
+      "current_commentary_sha256": "24f4ede37c284edc197850d0f973525bf315dcbcad4123700b8345a30a0cb2fe",
+      "matches": true
+    },
+    {
+      "id": "p166",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "ec212ab60ffe325d274b1b66cf82a2a3e6a6cac3fcc25d3975ccba483d385f1d",
+      "current_commentary_sha256": "ec212ab60ffe325d274b1b66cf82a2a3e6a6cac3fcc25d3975ccba483d385f1d",
+      "matches": true
+    },
+    {
+      "id": "p167",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "cdeace5260da5c217148d6b6a769c87885caf7cf324bf82a91bd824fcbb96c8e",
+      "current_commentary_sha256": "cdeace5260da5c217148d6b6a769c87885caf7cf324bf82a91bd824fcbb96c8e",
+      "matches": true
+    },
+    {
+      "id": "p168",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "e8bd814aefb4b8fb086d42d5aa9c61503e22112208df2a2e8330aaadf5d49f87",
+      "current_commentary_sha256": "e8bd814aefb4b8fb086d42d5aa9c61503e22112208df2a2e8330aaadf5d49f87",
+      "matches": true
+    },
+    {
+      "id": "p169",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "b3425fd18bf0b637a7fc349b8e30839a90aa45f60e085d0d4b5a7722d27a10c5",
+      "current_commentary_sha256": "b3425fd18bf0b637a7fc349b8e30839a90aa45f60e085d0d4b5a7722d27a10c5",
+      "matches": true
+    },
+    {
+      "id": "p170",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "f676f7d3c451d50f6c8ef5764a93c4bdae3235434eac2f0b3e95335b923ac91c",
+      "current_commentary_sha256": "f676f7d3c451d50f6c8ef5764a93c4bdae3235434eac2f0b3e95335b923ac91c",
+      "matches": true
+    },
+    {
+      "id": "p171",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "34ab42b87953174be2f1977525f755cf6b196b62a379338cb652b92eb7471eac",
+      "current_commentary_sha256": "34ab42b87953174be2f1977525f755cf6b196b62a379338cb652b92eb7471eac",
+      "matches": true
+    },
+    {
+      "id": "p172",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "14c62b14543e39f7f98faae7de854d606f168a0bd5d22a0f87f6cc51ad8ceb66",
+      "current_commentary_sha256": "14c62b14543e39f7f98faae7de854d606f168a0bd5d22a0f87f6cc51ad8ceb66",
+      "matches": true
+    },
+    {
+      "id": "p173",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "86b453a0e50a5eb7d819c3a5bc9e22a448c1697096ce187ad15ce4697c03d2c0",
+      "current_commentary_sha256": "86b453a0e50a5eb7d819c3a5bc9e22a448c1697096ce187ad15ce4697c03d2c0",
+      "matches": true
+    },
+    {
+      "id": "p174",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "402aa78fac0bbca35a7636fefe94710dbc363a9e4261a4312f39e677e36c342e",
+      "current_commentary_sha256": "402aa78fac0bbca35a7636fefe94710dbc363a9e4261a4312f39e677e36c342e",
+      "matches": true
+    },
+    {
+      "id": "p175",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "b271ebbef167300bfc106f2b3e6b4a6cac216fed372884a186a258ef67246aa7",
+      "current_commentary_sha256": "b271ebbef167300bfc106f2b3e6b4a6cac216fed372884a186a258ef67246aa7",
+      "matches": true
+    },
+    {
+      "id": "p176",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "6e78d62eb5bdc0b0056f58f058770a717bf9282c97b3fa5c147b305d70c80f99",
+      "current_commentary_sha256": "6e78d62eb5bdc0b0056f58f058770a717bf9282c97b3fa5c147b305d70c80f99",
+      "matches": true
+    },
+    {
+      "id": "p177",
+      "batch": "2b7ffefc3aa947bc303fae421e14d542834e0d187c17f6274011b684d6fe3934",
+      "reviewed_commentary_sha256": "e3b8abb4d175d73cad98b01c454bf696962a854e14a4657ef6936d819f9f704a",
+      "current_commentary_sha256": "e3b8abb4d175d73cad98b01c454bf696962a854e14a4657ef6936d819f9f704a",
+      "matches": true
+    }
+  ],
+  "units_substantively_reviewed_this_process": 0,
+  "limitation": "Checks existing recorded reviews and preservation; no new independent substantive review."
+}

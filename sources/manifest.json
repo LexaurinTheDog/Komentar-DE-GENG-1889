@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T09:36:21.220633+00:00",
+  "created_at": "2026-10-20T09:41:03.839674+00:00",
   "files": [
     {
       "path": "sources/beg4.pdf",
@@ -135,6 +135,41 @@
       "path": "sources/external/references.json",
       "sha256": "621e83f95317d0117c63f1c750c9dc83b9bf70c9be714e810d8239832ec624c5",
       "bytes": 7673
+    },
+    {
+      "path": "sources/finalization-20261020/beg4.pdf",
+      "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "bytes": 737586
+    },
+    {
+      "path": "sources/finalization-20261020/fetches.json",
+      "sha256": "37025c8563e1995c374da7b9975436dc96a30e0fec953f5e56bccc1105aae204",
+      "bytes": 2016
+    },
+    {
+      "path": "sources/finalization-20261020/full.html",
+      "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+      "bytes": 321390
+    },
+    {
+      "path": "sources/finalization-20261020/geng.xml",
+      "sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "bytes": 270772
+    },
+    {
+      "path": "sources/finalization-20261020/geng.zip",
+      "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+      "bytes": 53235
+    },
+    {
+      "path": "sources/finalization-20261020/index.html",
+      "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+      "bytes": 39912
+    },
+    {
+      "path": "sources/finalization-20261020-firecrawl.json",
+      "sha256": "c41361ce00d4f9401379200829f4bc95f1116e452c10de1c83eac0115167773c",
+      "bytes": 39729
     },
     {
       "path": "sources/geng-full.html",
@@ -1258,8 +1293,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "bce02aafadbc0f2e6ae7a8b62dd766bb99766186c997442641521e051674c46d",
-      "bytes": 82084
+      "sha256": "dcc59733f385192493a4ca6f933d00921e3f0ca2bf3286acd0b81d93a0062f43",
+      "bytes": 85131
     }
   ]
 }

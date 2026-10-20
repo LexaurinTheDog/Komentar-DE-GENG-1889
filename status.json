@@ -2,7 +2,7 @@
   "country": "de",
   "identifier": "GenG",
   "title": "Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften",
-  "stage": "reviewing",
+  "stage": "drafted_technical_validation",
   "authoring_started_at": "2026-10-19T15:07:18+00:00",
   "completed_at": "2026-10-19T15:37:23.456730+00:00",
   "decisive_date": "2026-10-19",
@@ -101,7 +101,7 @@
     "intake_comparison": "sources/change-map.json",
     "changed_units_since_intake": 0,
     "preflight_verification": "sources/verification.json",
-    "rechecked_at": "2026-10-20T09:34:00.656330+00:00",
+    "rechecked_at": "2026-10-20T09:40:37.820004+00:00",
     "coverage_check": "coverage-check.json",
     "bounded_review_fetches": "sources/review-p15b-p29/fetches.json",
     "bounded_preflight": "preflight-result.json",
@@ -112,7 +112,8 @@
     "bounded_review_p87_p102_fetches": "sources/review-p87-p102/fetches.json",
     "bounded_review_p103_p116_fetches": "sources/review-p103-p116/fetches.json",
     "bounded_review_p117_p158_fetches": "sources/review-p117-p158/fetches.json",
-    "bounded_review_p159_p177_fetches": "sources/review-p159-p177/fetches.json"
+    "bounded_review_p159_p177_fetches": "sources/review-p159-p177/fetches.json",
+    "finalization_fetches": "sources/finalization-20261020/fetches.json"
   },
   "total_units": 199,
   "completed_units": 199,
@@ -225,7 +226,7 @@
   },
   "technical_checks": {
     "ok": true,
-    "local_links_checked": 334,
+    "local_links_checked": 363,
     "broken_links": [],
     "official_xml_vs_html_mismatches": [],
     "repeated_long_paragraphs": 0
@@ -233,8 +234,8 @@
   "completeness": "completeness.json",
   "independent_second_pass": {
     "performed": true,
-    "state": "Zehn dokumentierte Teilaufträge; aktueller Auftrag nur §§ 159–177. Abschließende Zusammenführung und Buchgesamtfreigabe nicht Gegenstand dieses Teilauftrags.",
-    "complete": false,
+    "state": "Zehn vorhandene Teilberichte vollständig zusammengeführt und gegen aktuelle Kommentarhashes geprüft.",
+    "complete": true,
     "reviewed_units": 199,
     "reviewed_ids": [
       "p1",
@@ -473,15 +474,16 @@
       "p177"
     ],
     "current_batch_units_reviewed": 19,
-    "finalization_pending": true
+    "finalization_pending": false,
+    "note": "Completion describes ledger coverage, not new independent review or external approval."
   },
   "unresolved_blockers": [],
   "remaining_limitations": [
-    "Selektive, nicht erschöpfende Rechtsprechungsrecherche; kein flächendeckender Einzelentscheidungsnachweis für technische Normen.",
-    "C-776/25 war beim amtlichen Stichtagsabruf anhängig; keine abschließende EuGH-Antwort behauptet.",
-    "Kein vollständiger historischer Parallelkommentar zu allen extern verwiesenen Gesetzesfassungen.",
-    "Entwurf mit getrennten begrenzten Inhaltsdurchgängen, ausstehender abschließender Zusammenführung und Buchgesamtfreigabe, ohne externe anwaltliche Freigabe; Rechtsstand auf 19. Oktober 2026 begrenzt.",
-    "Quellen-/Parser-Preflight vom 20. Oktober 2026 ersetzt keine unabhängige inhaltliche Zweitprüfung; ursprünglicher Bearbeitungsstichtag bleibt 19. Oktober 2026."
+    "Selektive Rechtsprechungsrecherche; keine erschöpfende Abdeckung aller Normen oder Folgeentscheidungen.",
+    "Rechtsstand 19. Oktober 2026; spätere Änderungen und ein neuer EuGH-Folgestatus werden nicht behauptet.",
+    "Kein vollständiger historischer Parallelkommentar zu extern verwiesenen Gesetzen.",
+    "Zusammenführung bestehender Teilreviews; in diesem Finalisierungsprozess keine neue unabhängige Inhaltsprüfung und keine externe anwaltliche Freigabe.",
+    "Technische Prüfungen und Mindestlängen beweisen keine juristische Fehlerfreiheit; Ausgabe bleibt Arbeitsentwurf ohne Buchgesamtfreigabe."
   ],
   "publication_or_external_writes": false,
   "previous_stage": "drafted_technical_validation",
@@ -999,5 +1001,15 @@
       "does_not_certify_legal_quality": true
     },
     "completed_at": "2026-10-20T09:36:21.226063+00:00"
+  },
+  "finalized_at": "2026-10-20T09:40:37.820004+00:00",
+  "finalization": {
+    "kind": "ledger_assembly",
+    "complete": true,
+    "reviewed_units_in_ledger": 199,
+    "units_reviewed_this_process": 0,
+    "evidence": "finalization-checks.json",
+    "whole_book_release_approved": false,
+    "technical_checks": "technical-checks.json"
   }
 }

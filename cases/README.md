@@ -1,6 +1,6 @@
 # Selektiv ausgewertete Rechtsprechung
 
-Die ersten vier amtlichen Volltexte wurden am 19. Oktober 2026 vollständig gelesen; die zusätzlich aufgenommenen Volltexte II ZR 155/18 und III ZR 41/23 am 20. Oktober 2026. Die online heruntergeladenen XML-Dateien sind byteidentisch mit den entsprechenden Dateien des lokalen deutschen Rechtsprechungskorpus. Die Karten erläutern präzise Fundstellen und Grenzen; es wird keine erschöpfende Fallrechtssammlung behauptet.
+Neun verwendete amtliche BGH-Volltexte wurden in den dokumentierten Autoren- und Teilprüfungsdurchgängen am 19. und 20. Oktober 2026 vollständig gelesen. Die Fallkarten und Teilberichte nennen jeweils Lektüreumfang, genaue Belegstellen, amtliche Herkunft und Grenzen. Die abschließende Zusammenführung hat diese Belege erhalten und keine erneute Volltextlektüre behauptet. Die online heruntergeladenen XML-Dateien wurden in den jeweiligen Durchgängen mit dem lokalen amtlichen Rechtsprechungskorpus abgeglichen. Keine erschöpfende Fallrechtssammlung wird behauptet.
 
 - [BGH, 15. Mai 2018 – II ZR 2/16](bgh-ii-zr-2-16.md): bedingungsabhängige einzelvertragliche Beendigung und freiwillige Anteile.
 - [BGH, 15. Oktober 2024 – XI ZR 50/23](bgh-xi-zr-50-23.md): Kundenvertrag, Förderzweck und Mitgliedschaft.

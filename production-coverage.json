@@ -4,5 +4,7 @@
   "expected_units": 199,
   "parsed_units": 199,
   "missing": [],
-  "extra": []
+  "extra": [],
+  "evidence": "coverage-check.json",
+  "checked_at": "2026-10-20T09:40:37.820004+00:00"
 }
