@@ -217,7 +217,7 @@
     "repo": "Komentar-DE-GENG-1889",
     "units": 199,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 289535,
+    "commentary_chars": 289560,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -502,7 +502,7 @@
       "repo": "Komentar-DE-GENG-1889",
       "units": 199,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 289535,
+      "commentary_chars": 289560,
       "errors": [],
       "warnings": [],
       "ok": true
@@ -670,7 +670,7 @@
     },
     "completed_at": "2026-10-20T08:45:11.838800+00:00"
   },
-  "last_bounded_review_completed_at": "2026-10-20T09:25:12.915442+00:00",
+  "last_bounded_review_completed_at": "2026-10-20T09:25:41.509721+00:00",
   "bounded_review_p69_p86": {
     "complete": true,
     "units_reviewed": 20,
@@ -906,7 +906,7 @@
         "repo": "Komentar-DE-GENG-1889",
         "units": 199,
         "verbatim_ratio": 1.0,
-        "commentary_chars": 289535,
+        "commentary_chars": 289560,
         "errors": [],
         "warnings": [],
         "ok": true
@@ -921,6 +921,6 @@
       "nonassigned_commentary_changes": [],
       "does_not_certify_legal_quality": true
     },
-    "completed_at": "2026-10-20T09:25:12.915442+00:00"
+    "completed_at": "2026-10-20T09:25:41.509721+00:00"
   }
 }
