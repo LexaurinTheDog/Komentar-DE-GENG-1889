@@ -340,5 +340,26 @@
     "Keine vollständige historische Parallelrekonstruktion aller externen Vorschriften oder aller EU-Verweisungswerke. Die gelesenen WPO-Ziele sind von der erst 2030 wirksamen Änderung der §§ 37 und 69 durch Art. 33 BGBl. 2026 I Nr. 33 nicht betroffen.",
     "Mindestlänge, identische-Absatz-Diagnostik und erfolgreiche Skriptvalidierung beweisen keine juristische Qualität."
   ],
-  "publication_or_external_writes": false
+  "publication_or_external_writes": false,
+  "validation": {
+    "strict": {
+      "repo": "Komentar-DE-GENG-1889",
+      "units": 199,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 252766,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "technical_report": "technical-checks.json",
+    "completeness_report": "coverage-check.json",
+    "raw_wording_and_preservation_report": "review-technical-p63a-p68.json",
+    "all_assigned_units_wording_agrees": true,
+    "local_links_checked": 196,
+    "broken_links": [],
+    "repeated_long_paragraphs": 0,
+    "nonassigned_commentary_changes": [],
+    "does_not_certify_legal_quality": true
+  },
+  "completed_at": "2026-10-20T08:45:11.838800+00:00"
 }

@@ -435,6 +435,26 @@
       "unclassified_nodes": [],
       "disposition": "Sämtliche 211 Rohknoten samt Inhaltsübersicht/HTML kontrolliert. Keine operative Anlage und keine Eingangsformel vorhanden, keine echte Auslassung. § 63d Anlage zum Verzeichnis ist eine Einreichungspflicht, keine Anlage zum Gesetz; § 110 Anlage der Vorschüsse ist Geldanlage."
     },
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "validation": {
+      "strict": {
+        "repo": "Komentar-DE-GENG-1889",
+        "units": 199,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 252766,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "technical_report": "technical-checks.json",
+      "completeness_report": "coverage-check.json",
+      "raw_wording_and_preservation_report": "review-technical-p63a-p68.json",
+      "all_assigned_units_wording_agrees": true,
+      "local_links_checked": 196,
+      "broken_links": [],
+      "repeated_long_paragraphs": 0,
+      "nonassigned_commentary_changes": [],
+      "does_not_certify_legal_quality": true
+    }
   }
 }

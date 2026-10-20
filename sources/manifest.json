@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T08:33:31.098965+00:00",
+  "created_at": "2026-10-20T08:45:35.917166+00:00",
   "files": [
     {
       "path": "sources/beg4.pdf",
@@ -247,6 +247,11 @@
       "bytes": 3893
     },
     {
+      "path": "sources/research/review-p63a-p68-search.json",
+      "sha256": "abcb6a782552bd7cf60c1619e8c5a6de482aeb2e623d2896bd81c4f4811d4e9d",
+      "bytes": 1186
+    },
+    {
       "path": "sources/research/search-amendments-exact.json",
       "sha256": "04cbfd622ab68564117abbdf695dd7898c39fb216ade73705759a282d154d95a",
       "bytes": 1848
@@ -477,9 +482,154 @@
       "bytes": 4263
     },
     {
+      "path": "sources/review-p63a-p68/beg4.pdf",
+      "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a",
+      "bytes": 737586
+    },
+    {
+      "path": "sources/review-p63a-p68/beg4.txt",
+      "sha256": "106489ec0c0e9306341b9af856bd2d3f32fc341d90390f013851472ab66df257",
+      "bytes": 134566
+    },
+    {
+      "path": "sources/review-p63a-p68/candidate-KORE301002018.txt",
+      "sha256": "a95c8f7ee4aa4c490d5376bc8ceefaaac99681064b46998a40d432e66c001af7",
+      "bytes": 18180
+    },
+    {
+      "path": "sources/review-p63a-p68/candidate-KORE304172014.txt",
+      "sha256": "a549d73986604f255748bc180f3f094100e4ab1e4965b6bb9455a7c220e198be",
+      "bytes": 10110
+    },
+    {
+      "path": "sources/review-p63a-p68/case-JURE100071345.txt",
+      "sha256": "c0487627e7afa2f273fc8e9f6494404aac7d3fe5cd8d906278155600b79a64b5",
+      "bytes": 1405
+    },
+    {
+      "path": "sources/review-p63a-p68/case-JURE100071345.xml",
+      "sha256": "1f517a962187627a84ab7a5e90789a30a4a8fbc25ebfec98c26d4ef9c377cf36",
+      "bytes": 4520
+    },
+    {
+      "path": "sources/review-p63a-p68/case-JURE100071345.zip",
+      "sha256": "7c2926f295cf8857d663756611e58bf67522cec8531bdceb3b46ce4c7e0754c4",
+      "bytes": 1702
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE301052018.txt",
+      "sha256": "8809b502538d6017b896942ffc93a4e05f387cacc1092236ed5ec55abe23f0ed",
+      "bytes": 24026
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE301052018.xml",
+      "sha256": "8e5eda210d50528dcaa58a6f6d3710ea16b7b27171ab0e15b7ce0534c5b132f7",
+      "bytes": 40759
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE301052018.zip",
+      "sha256": "1a82b0706987ad636f1160e24a9fe62941983bb129bdf644d02164e8728bb59f",
+      "bytes": 9551
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE304172014.txt",
+      "sha256": "a549d73986604f255748bc180f3f094100e4ab1e4965b6bb9455a7c220e198be",
+      "bytes": 10110
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE304172014.xml",
+      "sha256": "9d4fab1651cd55e6c9017f1ba2cb4abea7f90ad638874c99b3bf263c857dfe04",
+      "bytes": 16169
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE304172014.zip",
+      "sha256": "8688cd947c0e6b0ac1e43ab9ef69177a523932508e5dbb9b471a5a12aa10e368",
+      "bytes": 4823
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE728222025.txt",
+      "sha256": "24a52f972df0b281e161e3bf2ee94f0a452e3df044025ee6de5a6f4ad8637b4e",
+      "bytes": 48780
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE728222025.xml",
+      "sha256": "8d4702375cb60ef060a37dce9d55aca2b167524a657958413908041647a75db6",
+      "bytes": 74477
+    },
+    {
+      "path": "sources/review-p63a-p68/case-KORE728222025.zip",
+      "sha256": "cbaeb83f47bf542550441b5b87dd95bf30fa3f401b98c597bcbce77e7d800b78",
+      "bytes": 17973
+    },
+    {
+      "path": "sources/review-p63a-p68/fetches.json",
+      "sha256": "28b0d10717b25b75f78faee4b755cc16ce56a68787bba44def1792e5e13ecfbd",
+      "bytes": 5885
+    },
+    {
+      "path": "sources/review-p63a-p68/full.html",
+      "sha256": "f1d7a70a78641882d02ae8709badf6c4166ae8d1687599934bf55a5dadcdcfda",
+      "bytes": 321390
+    },
+    {
+      "path": "sources/review-p63a-p68/geng.xml",
+      "sha256": "5da78d65b237047a09ffb725ad3eb71be5ce883b254e29fb44fda77c35bfdfbd",
+      "bytes": 270772
+    },
+    {
+      "path": "sources/review-p63a-p68/geng.zip",
+      "sha256": "ae01b5037b4b4ca6611a89ebf0bbd7aebe92bd04533f6772d2bae6a1f8851f61",
+      "bytes": 53235
+    },
+    {
+      "path": "sources/review-p63a-p68/hgb.xml",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "bytes": 1120900
+    },
+    {
+      "path": "sources/review-p63a-p68/hgb.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "bytes": 218961
+    },
+    {
+      "path": "sources/review-p63a-p68/index.html",
+      "sha256": "55cdf6aaaf01364a7a4c4c4d3364869ee699e69e28b86f760c7df807ad90d809",
+      "bytes": 39912
+    },
+    {
+      "path": "sources/review-p63a-p68/local-case-search.json",
+      "sha256": "3888f2952175ed444715b847319a8349e172ba9505a0c0218e2a55417b32224f",
+      "bytes": 12748
+    },
+    {
+      "path": "sources/review-p63a-p68/modernization2026.pdf",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "bytes": 1222431
+    },
+    {
+      "path": "sources/review-p63a-p68/modernization2026.txt",
+      "sha256": "083969daa812de40a9c7ff2ee93674875e701fe194d7a291d4c1f69928252a36",
+      "bytes": 308217
+    },
+    {
+      "path": "sources/review-p63a-p68/supplemental-fetches.json",
+      "sha256": "8e355fbf525feb324c62f6bd6f4a586845d897bd730bc39ab7d4a0157f468002",
+      "bytes": 950
+    },
+    {
+      "path": "sources/review-p63a-p68/wpo.xml",
+      "sha256": "f7777a315802a2496082e1075395b60c0cdbdd623eb0e78ef97f019ee9d11c8a",
+      "bytes": 412417
+    },
+    {
+      "path": "sources/review-p63a-p68/wpo.zip",
+      "sha256": "56a6df6a23be4587754a0fc62c1f37543ed918dc53f2337ac9e93fc7b6f32cca",
+      "bytes": 78581
+    },
+    {
       "path": "sources/search-log.json",
-      "sha256": "30eff4dbf22d786673af062970cf16dcd67a885d5e54c150e67dc4f8643cf676",
-      "bytes": 74749
+      "sha256": "bf570522122af5634728f167f35edd069c7fdc7b7ce5588ccc60b2609b8b9487",
+      "bytes": 76118
     },
     {
       "path": "sources/statute-metadata.json",
@@ -493,8 +643,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "62fe396a8891afb302382baece3488f5e55e59bdc3be268a879b1476bc1a83f9",
-      "bytes": 28853
+      "sha256": "fd8d806f1a1f46921b73776775c5f8f920765a0d5d205b3cdc6f1229e6a62182",
+      "bytes": 37749
     }
   ]
 }
